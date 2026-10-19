@@ -1,0 +1,172 @@
+{
+  "created_at": "2026-10-19T17:28:21.593876+00:00",
+  "verification": "sources/verification.json",
+  "files": [
+    {
+      "path": "sources/BJNR002450869.xml",
+      "bytes": 442893,
+      "sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561"
+    },
+    {
+      "path": "sources/amendment-139.headers",
+      "bytes": 1003,
+      "sha256": "d07d7cde37de8b71af8c7fb9c581c240adfd2593d80fc55fc0472f9d62d03131"
+    },
+    {
+      "path": "sources/amendment-139.pdf",
+      "bytes": 921242,
+      "sha256": "498ddd09c3dbaf9d91824601b61ab5e8a91167a5d5e58322a94f5858c4eab36b"
+    },
+    {
+      "path": "sources/amendment-139.txt",
+      "bytes": 220402,
+      "sha256": "7e87c09f41a560c925c757d74bb9b8e34a3c2f574dde495ac5023a6f168981f4"
+    },
+    {
+      "path": "sources/amendment-183.headers",
+      "bytes": 1003,
+      "sha256": "0aba795fe8a54ee761de120b5170e79d184705570ed37188700743309d209c21"
+    },
+    {
+      "path": "sources/amendment-183.pdf",
+      "bytes": 297268,
+      "sha256": "9409bcf42628489544edadc4a6366a91806e48c33a64dfecd7943ddd0bacf721"
+    },
+    {
+      "path": "sources/amendment-183.txt",
+      "bytes": 28156,
+      "sha256": "91223529bfefec11fba96196df3743beaa656c2c4383888a695caca003c1ecd3"
+    },
+    {
+      "path": "sources/amendment-215.headers",
+      "bytes": 1099,
+      "sha256": "f4e6c781d091f847a38209ec4bd139195503196cd1973b5a0d26d4acb6966efc"
+    },
+    {
+      "path": "sources/amendment-215.pdf",
+      "bytes": 289435,
+      "sha256": "2e01df7450d95485dab09281aa4e834031932db790c89b502130f4b7d1fc441b"
+    },
+    {
+      "path": "sources/amendment-215.txt",
+      "bytes": 21993,
+      "sha256": "e330d6a97506e5c062484100712b1d5ec598645c85066c965eca5549d6078983"
+    },
+    {
+      "path": "sources/case-bag-10azr330-16.html",
+      "bytes": 196705,
+      "sha256": "c4cbbc3b5b5690c03d20705b1c4784e9d5201e6af358932ed99555926eb4c6eb"
+    },
+    {
+      "path": "sources/case-bag-10azr330-16.md",
+      "bytes": 105771,
+      "sha256": "fd8ee969b74383a71d4f2a6211df6031824e5e2c049ba1f82b21137dce41b36f"
+    },
+    {
+      "path": "sources/case-bverwg-8c6-14.html",
+      "bytes": 67405,
+      "sha256": "0e9d71bdfe50da11c9defdfcd1f0b4c7d248061f206451fd0b8574614dbdaa0a"
+    },
+    {
+      "path": "sources/case-bverwg-8c6-14.md",
+      "bytes": 48819,
+      "sha256": "077d4c219bdff1339228620454f61aadfa5deed7b03d29caf9810463bf45e7e6"
+    },
+    {
+      "path": "sources/case-coverage.json",
+      "bytes": 47767,
+      "sha256": "9de0c3c84c585e27d6e6a329118d922204e3f4ef548a08c5eb9d530c560f774d"
+    },
+    {
+      "path": "sources/change-map.json",
+      "bytes": 58471,
+      "sha256": "88bb5d853cac8bfdec50e703735366c8f44b777267192020df63282aa49b3675"
+    },
+    {
+      "path": "sources/gewo-canonical.md",
+      "bytes": 315011,
+      "sha256": "4b59b541c40ba919e13657c2adf97993baae572f3b99fef6d2e08a0d095c34f8"
+    },
+    {
+      "path": "sources/gewo-full.html",
+      "bytes": 537501,
+      "sha256": "b8db41db679b301143c45c54a2832ff614f298c976b307ee4a337f48703085e2"
+    },
+    {
+      "path": "sources/gewo-index-response.json",
+      "bytes": 661,
+      "sha256": "8fc914b6d43cbf30cae940be97de579f1dd5860b57a9b1a888490ef782d85746"
+    },
+    {
+      "path": "sources/gewo-index.html",
+      "bytes": 37698,
+      "sha256": "692b5fe3e44ea3f7afa3014d7d0492e502f4aa9db38944f13a5c76b59b56cb7e"
+    },
+    {
+      "path": "sources/gewo-zip.headers",
+      "bytes": 314,
+      "sha256": "fb4005a627ea18ffb09922518359c95a77376e1174126c71039e95696b9c3a5b"
+    },
+    {
+      "path": "sources/gewo.zip",
+      "bytes": 87856,
+      "sha256": "300e2939e5dcd9a83b047303c70dc473e59eb923995aeb50d41e35adaa947b52"
+    },
+    {
+      "path": "sources/intake-20261001.md",
+      "bytes": 329769,
+      "sha256": "635d97b6c4cb30b7cae7145c45b6a67e22532ab45c6d3b40bbba434292f6101c"
+    },
+    {
+      "path": "sources/rii-kare600053741.md",
+      "bytes": 78520,
+      "sha256": "d4fea4423c2267e4ae11a4befc8ad07741502ddafbda2858fd0998763d0fc4c9"
+    },
+    {
+      "path": "sources/rii-wbre201500245.md",
+      "bytes": 29127,
+      "sha256": "ceb6412dce9c4c886b85ef8dd7c020a1c97d4e4a60018f1c232335ceeff83ba4"
+    },
+    {
+      "path": "sources/search-log.json",
+      "bytes": 7531,
+      "sha256": "1f0257d93b1b1deb385999331630b3c902341c8c7658877adfaa60b196e22375"
+    },
+    {
+      "path": "sources/search-results/cases-bag.json",
+      "bytes": 10832,
+      "sha256": "0983493932be2416b92d7dc80c9d967f88e4a3e402f87cf01ce14ae39fd48cb4"
+    },
+    {
+      "path": "sources/search-results/cases-gewo.json",
+      "bytes": 885,
+      "sha256": "e63cdc283a91cdac98a03366ac9357232edaf061869a3f26918bd681e8fe64e5"
+    },
+    {
+      "path": "sources/search-results/changes-broad.json",
+      "bytes": 2556,
+      "sha256": "51629bccc0241064b6d90a86da2ad3eb13b3bec8882f40b5bc8a73c427154969"
+    },
+    {
+      "path": "sources/search-results/changes-october.json",
+      "bytes": 1687,
+      "sha256": "3cba704a9cf29b3d3d81eb371773fd82bad18b61c834c87b3aff5feb2d142cad"
+    },
+    {
+      "path": "sources/search-results/changes.json",
+      "bytes": 1933,
+      "sha256": "473af99eda2421812925e9c8830a493f02123aef4132ae3a8ecf47b3758448b5"
+    },
+    {
+      "path": "sources/search-results/section161.json",
+      "bytes": 1258,
+      "sha256": "9ef02dc65ad223b91365bd3d9705e82d44480d158bcb37d9b38d94559bfd3f59"
+    },
+    {
+      "path": "sources/verification.json",
+      "bytes": 9430,
+      "sha256": "3b8b0805259177d57490d8c82872cb0b5c0c329e76fa49156decf7bcaf63c5d0"
+    }
+  ],
+  "note": "Manifest itself excluded to avoid recursive hash. Sources include official raw responses, local intake preservation, corpus snapshots and reproducible derivatives."
+}

@@ -1,0 +1,16 @@
+{
+  "stage": "authoring",
+  "decisive_date": "2026-10-19",
+  "total_units": 171,
+  "completed_units": 97,
+  "source_checks": {
+    "official_xml": "downloaded, format validated",
+    "commencement": "BGBl. 2026 I Nr. 215 read; § 14 future amendment excluded"
+  },
+  "validation_result": null,
+  "remaining_limitations": [
+    "Authoring in progress",
+    "Selective case-law research in progress",
+    "Independent second pass pending"
+  ]
+}

@@ -1,0 +1,13 @@
+# Fallkarte: BVerwG, 15. April 2015 – 8 C 6.14
+
+Gericht: Bundesverwaltungsgericht, 8. Senat. Urteil. ECLI:DE:BVerwG:2015:150415U8C6.14.0.
+
+Amtlicher [Volltext des Gerichts](https://www.bverwg.de/150415U8C6.14.0), überprüft am 19. Oktober 2026, HTTP 200. Gesicherte [HTML-Antwort](../sources/case-bverwg-8c6-14.html), [lesbare Extraktion](../sources/case-bverwg-8c6-14.md) und [amtlicher lokaler Korpus](../sources/rii-wbre201500245.md). Hashes und Abrufzeiten: [verification.json](../sources/verification.json), ergänzendes [Manifest](../sources/manifest.json).
+
+Ein Gewerbe war wegen wirtschaftlicher Unzuverlässigkeit untersagt worden. Erst nach Wirksamwerden der behördlichen Entscheidung wurden insolvenzgerichtliche Sicherungsmaßnahmen angeordnet und später das Insolvenzverfahren eröffnet. Der Kläger meinte, § 12 mache die fortbestehende Untersagung rechtswidrig. Dies ist seine Rechtsauffassung, nicht der Schluss des Gerichts.
+
+Das BVerwG weist die Revision zurück. Rn. 12 behandelt die fehlende Unterbrechung des verwaltungsgerichtlichen Verfahrens, weil das persönliche Gewerbeausübungsrecht nicht zur Insolvenzmasse gehört. Rn. 14–16 erläutern die wirtschaftliche Unzuverlässigkeit, den Gesamtverhaltensmaßstab und den maßgeblichen Zeitpunkt der letzten Behördenentscheidung. Rn. 17–18 betreffen die zusätzliche Prüfung gewerbeübergreifender Unzuverlässigkeit, Erforderlichkeit und Ermessen bei der erweiterten Untersagung. Rn. 19 stellt klar, dass eine Auslauffrist den Wirksamkeitszeitpunkt nicht verschiebt.
+
+Rn. 20–23 verneinen eine nachträgliche Rechtswidrigkeit durch die spätere Insolvenz und stellen die gesetzliche Trennung von Untersagung und Wiedergestattung heraus. Rn. 24–25 erklären Sanierungszweck und fehlendes pauschales Vollstreckungsverbot. Rn. 26–27 zeigen den Weg über die Wiedergestattung bei tragfähiger Sanierungsaussicht, gegebenenfalls mit Nebenbestimmungen; eine mögliche Sanierung kann besondere Gründe für die frühere Entscheidung innerhalb des ersten Jahres liefern.
+
+Unterstützte Einheiten: § 12 und § 35. Die Entscheidung belegt keine feste Mindestschuld und keinen Automatismus „Insolvenz gleich dauerhafte Unzuverlässigkeit“. Sie betrifft den damaligen Normstand und den Fall einer erst nach abgeschlossener Verwaltungsentscheidung einsetzenden Insolvenzsituation. Die heute zusätzlichen Restrukturierungstatbestände und die Freigabeklausel des § 12 sind nicht Gegenstand des damaligen Urteils und werden im Kommentar unmittelbar aus dem heutigen Wortlaut erläutert. Im Urteil erwähnte Literatur und weitere Entscheidungen wurden nicht als eigenständig geprüfte Autoritäten übernommen.

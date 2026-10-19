@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-19",
+  "scope": "targeted, selective; no exhaustive statutory-amendment or judicial survey claimed",
+  "searches": [
+    {
+      "query": "site.recht.bund.de 2026 \"Gewerbeordnung\" \"215\"",
+      "tool": "Firecrawl CLI search",
+      "completed_at": "2026-10-19T17:04:57+00:00",
+      "snapshot": "sources/search-results/changes.json",
+      "results": [
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/215/VO.html",
+          "title": "BGBl. 2026 I Nr. 215 vom 23.07.2026"
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/215/regelungstext.pdf?__blob=publicationFile",
+          "title": "[PDF] Teil I 2026 - Bundesgesetzblatt"
+        },
+        {
+          "url": "https://www.recht.bund.de/de/bundesgesetzblatt/bgbl-1/bgbl-1_node.html?gts=211318_Dokumente%253DdateOfIssue_dt%252Bdesc&gtp=211318_Dokumente%253D9&cms_gts=58342_Dokumente%253DdateOfIssue_dt%252Bdesc&cms_gtp=58342_dokumente%253D2%252658342_Dokumente%253D55",
+          "title": "Bundesgesetzblatt Teil I - Bundesgesetzblatt"
+        },
+        {
+          "url": "https://www.recht.bund.de/de/bundesgesetzblatt/bgbl-1/bgbl-1_node.html?gtp=211318_Dokumente%253D8&cms_gts=58342_Dokumente%253DdateOfIssue_dt%252Basc&cms_gtp=58342_dokumente%253D3%252658342_Dokumente%253D56",
+          "title": "Bundesgesetzblatt - Bundesgesetzblatt Teil I"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html",
+          "title": "GewO - Gewerbeordnung - Gesetze im Internet"
+        }
+      ]
+    },
+    {
+      "query": "\"Gewerbeordnung\" \"2026\" \"geändert\" site:recht.bund.de",
+      "tool": "Firecrawl CLI search",
+      "completed_at": "2026-10-19T17:05:19+00:00",
+      "snapshot": "sources/search-results/changes-broad.json",
+      "results": [
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/215/regelungstext.pdf?__blob=publicationFile",
+          "title": "[PDF] Teil I 2026 - Bundesgesetzblatt"
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/229/regelungstext.pdf?__blob=publicationFile",
+          "title": "[PDF] Nr. 229 - Bundesgesetzblatt"
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/183/regelungstext.pdf?__blob=publicationFile",
+          "title": "[PDF] Teil I 2026 - Bundesgesetzblatt"
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile&v=1",
+          "title": "[PDF] Teil I 2026 - Bundesgesetzblatt"
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/118/regelungstext.pdf?__blob=publicationFile",
+          "title": "[PDF] Teil I 2026 - Bundesgesetzblatt"
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/223/regelungstext.pdf?__blob=publicationFile",
+          "title": "[PDF] Nr. 223 - Bundesgesetzblatt"
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/6/regelungstext.pdf?__blob=publicationFile",
+          "title": "[PDF] Teil I 2026 - Bundesgesetzblatt"
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/191/regelungstext.pdf?__blob=publicationFile",
+          "title": "[PDF] Teil I 2026 - Bundesgesetzblatt"
+        }
+      ]
+    },
+    {
+      "query": "\"Gewerbeordnung\" \"2026\" \"Oktober\" \"Änderung\" site:recht.bund.de",
+      "tool": "Firecrawl CLI search",
+      "completed_at": "2026-10-19T17:06:09+00:00",
+      "snapshot": "sources/search-results/changes-october.json",
+      "results": [
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/215/regelungstext.pdf?__blob=publicationFile",
+          "title": "[PDF] Teil I 2026 - Bundesgesetzblatt"
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile&v=1",
+          "title": "[PDF] Teil I 2026 - Bundesgesetzblatt"
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/183/regelungstext.pdf?__blob=publicationFile",
+          "title": "[PDF] Teil I 2026 - Bundesgesetzblatt"
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/229/regelungstext.pdf?__blob=publicationFile",
+          "title": "[PDF] Nr. 229 - Bundesgesetzblatt"
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/191/regelungstext.pdf?__blob=publicationFile",
+          "title": "[PDF] Teil I 2026 - Bundesgesetzblatt"
+        }
+      ]
+    },
+    {
+      "query": "site:bverwg.de \"Gewerbeuntersagung\" \"2015\"",
+      "tool": "Firecrawl CLI search",
+      "completed_at": "2026-10-19T17:05:20+00:00",
+      "snapshot": "sources/search-results/cases-gewo.json",
+      "results": [
+        {
+          "url": "https://www.bverwg.de/150415U8C6.14.0",
+          "title": "BVerwG 8 C 6.14, Urteil vom 15. April 2015 | Bundesverwaltungsgericht"
+        },
+        {
+          "url": "https://www.bverwg.de/entscheidungen/pdf/150415U8C6.14.0.pdf",
+          "title": "[PDF] BVerwGE"
+        },
+        {
+          "url": "https://www.bverwg.de/211217B8B70.16.0",
+          "title": "BVerwG 8 B 70.16, Beschluss vom 21. Dezember 2017"
+        }
+      ]
+    },
+    {
+      "query": "site:bundesarbeitsgericht.de \"10 AZR 330/16\"",
+      "tool": "Firecrawl CLI search",
+      "completed_at": "2026-10-19T17:05:22+00:00",
+      "snapshot": "sources/search-results/cases-bag.json",
+      "results": [
+        {
+          "url": "https://www.bundesarbeitsgericht.de/entscheidung/10-azr-330-16/",
+          "title": "10 AZR 330/16 - Das Bundesarbeitsgericht"
+        },
+        {
+          "url": "https://www.bundesarbeitsgericht.de/entscheidung/10-azr-330-16-a/",
+          "title": "10 AZR 330/16 (A) - Das Bundesarbeitsgericht"
+        }
+      ]
+    },
+    {
+      "query": "\"§ 161\" \"Gewerbeordnung\" \"Bekanntmachung\"",
+      "tool": "Firecrawl CLI search",
+      "completed_at": "2026-10-19T17:22:13+00:00",
+      "snapshot": "sources/search-results/section161.json",
+      "results": [
+        {
+          "url": "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html",
+          "title": "GewO - Gewerbeordnung - Gesetze im Internet"
+        },
+        {
+          "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517",
+          "title": "Gewerbeordnung 1994 - Bundesrecht konsolidiert, Fassung vom ... - RIS"
+        },
+        {
+          "url": "https://dejure.org/gesetze/GewO",
+          "title": "Gewerbeordnung (GewO) - dejure.org"
+        },
+        {
+          "url": "https://www.buzer.de/gesetz/15557/index.htm",
+          "title": "GewOuaÄndG Gesetz zur Änderung der Gewerbeordnung und anderer ..."
+        }
+      ]
+    },
+    {
+      "query": "site:recht.bund.de \"Gewerbeordnung\" \"Identifikationsmerkmale\"",
+      "tool": "Firecrawl CLI search",
+      "result": "CLI returned No results found; no result file generated. This is not proof of absence of a notice.",
+      "recorded_at": "2026-10-19T17:27:32.388698+00:00"
+    },
+    {
+      "tool": "local corpus metadata search",
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii",
+      "pattern": "case_number: 10 AZR 330/16 or 8 C 6.14",
+      "results": [
+        "KARE600053180 (preliminary request; not cited as final holding)",
+        "KARE600053741 (BAG final judgment)",
+        "WBRE201500245 (BVerwG final judgment)"
+      ],
+      "note": "Exact matching case-number metadata distinguished from citations occurring in other decisions."
+    }
+  ]
+}

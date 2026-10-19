@@ -1,0 +1,21 @@
+HTTP/2 200 
+set-cookie: AL_LB-S=$xc/cHcQiaGBmW6AWsmpCXV!Lu0Lr5LLSZnCIRW7Wn9NbNREgQzX; Path=/; Secure; HttpOnly; SameSite=None
+date: Mon, 19 Oct 2026 17:05:17 GMT
+cache-control: max-age=604800
+last-modified: Thu, 23 Jul 2026 06:26:40 GMT
+x-server-generated: Mon, 19 Oct 2026 17:05:17 GMT
+referrer-policy: same-origin
+x-frame-options: sameorigin
+x-ua-compatible: IE=edge
+x-content-type-options: nosniff
+content-security-policy: default-src 'self'; connect-src 'self'; font-src 'self' data:; worker-src blob: 'self'; base-uri 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' *.itzbund.de; object-src 'self' multimedia.gsb.bund.de; media-src blob: 'self' multimedia.gsb.bund.de; frame-src 'self' blob:; img-src 'self' blob: data:; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests;
+x-permitted-cross-domain-policies: none
+x-xss-protection: 1;mode=block
+accept-ranges: bytes
+etag: "1e5ecc4711d24d54e9a3ba33d69b16ff"
+content-language: de-DE
+vary: Accept-Encoding
+strict-transport-security: max-age=31536000
+content-type: application/pdf
+server: Apache
+

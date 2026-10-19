@@ -1,0 +1,866 @@
+{
+  "method": "Selective topic research plus local corpus verification. Only independently read full-text authorities are cited. No claim of a provision-by-provision exhaustive search.",
+  "units": [
+    {
+      "id": "p1",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p2",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p3",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p4",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p5",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p6",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p6a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p6b",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p6c",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p7",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p8",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p9",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p10",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p11",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p11a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p11b",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p11c",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p11d",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p12",
+      "verified_cases": [
+        "bverwg-8c6-14"
+      ],
+      "disposition": "verified authority included"
+    },
+    {
+      "id": "p13",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p13a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p13b",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p13c",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p14",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p15",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p16-bis-28",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p29",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p30",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p30a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p30b",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p30c",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p31",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p32",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p33",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p33a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p33b",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p33c",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p33d",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p33e",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p33f",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p33g",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p33h",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p33i",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p34",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p34a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p34b",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p34c",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p34d",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p34e",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p34f",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p34g",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p34h",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p34i",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p34j",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p34l",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p35",
+      "verified_cases": [
+        "bverwg-8c6-14"
+      ],
+      "disposition": "verified authority included"
+    },
+    {
+      "id": "p35a-und-35b",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p36",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p36a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p37",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p38",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p39",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p39a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p40",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p41",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p41a-und-41b",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p42",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p42a-bis-44a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p45",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p46",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p47",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p48",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p49",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p50",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p51",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p52",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p53-bis-54",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p55",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p55a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p55b",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p55c",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p55d",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p55e",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p55f",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p56",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p56a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p57",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p57a-und-58",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p59",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p60",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p60a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p60b",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p60c",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p60d",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p61",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p61a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p62-und-63",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p64",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p65",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p66",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p67",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p68",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p68a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p69",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p69a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p69b",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p70",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p70a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p70b",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p71",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p71a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p71b",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p72-bis-80",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p81-bis-104n",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p104o-bis-104u",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p105",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p106",
+      "verified_cases": [
+        "bag-10azr330-16"
+      ],
+      "disposition": "verified authority included"
+    },
+    {
+      "id": "p107",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p108",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p109",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p110",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p111",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p112-bis-132a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p133",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p133a-bis-133d",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p133e-bis-139aa",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p139b",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p139c-bis-139h",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p139i",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p139k-und-139m",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p140",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p141-bis-141f",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p142",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p143",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p144",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p145",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p146",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p147",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p147a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p147b",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p147c",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p147d",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p148",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p148a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p148b",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p148c",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p149",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p150",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p150a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p150b",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p150c",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p150d",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p150e",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p150f",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p151",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p152",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p153",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p153a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p153b",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p153c",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p154",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p154a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p155",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p155a",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p156",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p157",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p158",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p159",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p160",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "p161",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    },
+    {
+      "id": "anlage",
+      "verified_cases": [],
+      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+    }
+  ]
+}

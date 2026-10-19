@@ -1,0 +1,84 @@
+{
+  "cc": "de",
+  "lang": "de",
+  "repo": "Komentar-DE-GEWO-1869",
+  "repo_dir": "/Volumes/LaCie/open-commentary/de/Komentar-DE-GEWO-1869",
+  "title": "Kommentar zur Gewerbeordnung",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869/sources/gewo-canonical.md",
+  "intro_file": "00-einleitung.md",
+  "intro_desc": "Gegenstand, Rechtsstand und Benutzung",
+  "labels": {
+    "text": "Wortlaut der Vorschrift",
+    "chapter": "Kommentarkapitel",
+    "notes": "Redaktioneller Quellenhinweis"
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "slug": "gewo-01",
+      "title": "Gewerbefreiheit, Daten und europäische Verfahren"
+    },
+    {
+      "n": 2,
+      "slug": "gewo-02",
+      "title": "Anzeige und erste Erlaubnistatbestände"
+    },
+    {
+      "n": 3,
+      "slug": "gewo-03",
+      "title": "Schaustellungen und Spielrecht"
+    },
+    {
+      "n": 4,
+      "slug": "gewo-04",
+      "title": "Pfand, Bewachung, Versteigerung und Immobilien"
+    },
+    {
+      "n": 5,
+      "slug": "gewo-05",
+      "title": "Versicherung, Finanzanlagen und Immobiliardarlehen"
+    },
+    {
+      "n": 6,
+      "slug": "gewo-06",
+      "title": "Untersagung, Sachverständige und Betriebsfortführung"
+    },
+    {
+      "n": 7,
+      "slug": "gewo-07",
+      "title": "Reisegewerbe"
+    },
+    {
+      "n": 8,
+      "slug": "gewo-08",
+      "title": "Messen, Ausstellungen und Märkte"
+    },
+    {
+      "n": 9,
+      "slug": "gewo-09",
+      "title": "Arbeitsrecht und Gewerbeaufsicht"
+    },
+    {
+      "n": 10,
+      "slug": "gewo-10",
+      "title": "Ordnungswidrigkeiten und Straftaten"
+    },
+    {
+      "n": 11,
+      "slug": "gewo-11",
+      "title": "Gewerbezentralregister"
+    },
+    {
+      "n": 12,
+      "slug": "gewo-12",
+      "title": "Zuständigkeit und Übergangsrecht"
+    },
+    {
+      "n": 13,
+      "slug": "gewo-13",
+      "title": "Anlage: Verhältnismäßigkeit neuer Berufsregeln"
+    }
+  ],
+  "decisive_date": "2026-10-19",
+  "official_source": "https://www.gesetze-im-internet.de/gewo/"
+}

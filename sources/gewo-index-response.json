@@ -1,0 +1,20 @@
+{
+  "url": "https://www.gesetze-im-internet.de/gewo/",
+  "accessed_at": "2026-10-19T17:12:32.520318+00:00",
+  "http_status": 200,
+  "headers": {
+    "Date": "Mon, 19 Oct 2026 17:12:32 GMT",
+    "Server": "Apache",
+    "Last-Modified": "Mon, 19 Oct 2026 00:14:19 GMT",
+    "ETag": "\"9342-65e26652d4f20\"",
+    "Accept-Ranges": "bytes",
+    "Content-Length": "37698",
+    "Vary": "Accept-Encoding",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "sameorigin",
+    "X-XSS-Protection": "1; mode=block",
+    "Content-Type": "text/html",
+    "Connection": "close"
+  },
+  "sha256": "692b5fe3e44ea3f7afa3014d7d0492e502f4aa9db38944f13a5c76b59b56cb7e"
+}
