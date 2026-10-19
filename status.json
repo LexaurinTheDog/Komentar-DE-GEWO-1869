@@ -1,16 +1,104 @@
 {
-  "stage": "authoring",
+  "stage": "drafted_technical_validation",
+  "country": "de",
+  "identifier": "GewO",
+  "repo": "Komentar-DE-GEWO-1869",
   "decisive_date": "2026-10-19",
+  "updated_at": "2026-10-19T17:29:24.355669+00:00",
   "total_units": 171,
-  "completed_units": 97,
+  "completed_units": 171,
+  "chapters": 13,
+  "commentary_chars": 182524,
   "source_checks": {
-    "official_xml": "downloaded, format validated",
-    "commencement": "BGBl. 2026 I Nr. 215 read; § 14 future amendment excluded"
+    "official_xml": {
+      "http_status": 200,
+      "format_verified": true,
+      "raw": "sources/BJNR002450869.xml",
+      "identification": "jurabk GewO",
+      "evidence": "sources/verification.json"
+    },
+    "official_html": {
+      "http_status": 200,
+      "independently_enumerated_units": 171
+    },
+    "commencement": {
+      "read_primary_gazettes": [
+        "2026 I Nr. 139, Art. 7 and 16",
+        "2026 I Nr. 183, Art. 5 and 7",
+        "2026 I Nr. 215, Art. 1 and 11"
+      ],
+      "future_changes_excluded": [
+        "§ 34k and § 162 (2026-11-20)",
+        "§ 14 Abs. 8 new recipients (2027-05-01)"
+      ]
+    },
+    "intake_comparison": {
+      "compared": 171,
+      "operative_changes": 0,
+      "evidence": "sources/change-map.json"
+    }
   },
-  "validation_result": null,
+  "case_law_sources": [
+    {
+      "court": "BVerwG",
+      "date": "2015-04-15",
+      "docket": "8 C 6.14",
+      "ecli": "ECLI:DE:BVerwG:2015:150415U8C6.14.0",
+      "units": [
+        "p12",
+        "p35"
+      ],
+      "card": "cases/bverwg-8c6-14.md"
+    },
+    {
+      "court": "BAG",
+      "date": "2017-10-18",
+      "docket": "10 AZR 330/16",
+      "ecli": "ECLI:DE:BAG:2017:181017.U.10AZR330.16.0",
+      "units": [
+        "p106"
+      ],
+      "card": "cases/bag-10azr330-16.md"
+    }
+  ],
+  "validation_result": {
+    "repo": "Komentar-DE-GEWO-1869",
+    "units": 171,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 182524,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "completeness_result": "All official XML and HTML in-scope identifiers accounted for; no duplicates; whole operative annex and repealed/empty slots included. See completeness-report.json and audit-report.json.",
+  "independent_review": {
+    "performed": false,
+    "state": "pending separate process"
+  },
   "remaining_limitations": [
-    "Authoring in progress",
-    "Selective case-law research in progress",
-    "Independent second pass pending"
-  ]
+    "Selective case-law research: two full-text decisions; no exhaustive coverage claimed.",
+    "State law, implementing regulations and externally referenced statutes are not fully separately verified or commented.",
+    "No primary evidence independently established the two §161 triggering notices. Commentary explicitly conditional; neither entry into operation nor absence of notices asserted.",
+    "Amendment search targeted, not an exhaustive review of every Bundesgesetzblatt issue.",
+    "Independent second substantive pass pending."
+  ],
+  "unresolved_statutory_text_blockers": [],
+  "publication": {
+    "published": false,
+    "pushed": false
+  },
+  "link_validation": {
+    "ok": true,
+    "checked_local_links": 85,
+    "broken_local_links": 0
+  },
+  "audit_result": {
+    "ok": true,
+    "expected_official_units": 171,
+    "parsed_units": 171,
+    "commented_units": 171,
+    "text_disagreements": 0,
+    "duplicate_commentary_paragraphs": 0,
+    "evidence": "audit-report.json"
+  }
 }

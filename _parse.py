@@ -24,6 +24,22 @@ def clean(el):
     t=re.sub(r' *\n *','\n',t)
     return re.sub(r'\n{3,}','\n\n',t).strip()
 
+def list_hierarchy(content):
+    found=[]
+    def walk(el,labels,pidx):
+        if el.tag=='DL':
+            current=''
+            for child in el:
+                if child.tag=='DT':current=clean(child)
+                elif child.tag=='DD':
+                    path=labels+[current];found.append({'paragraph_index':pidx,'labels':path})
+                    walk(child,path,pidx)
+        else:
+            for child in el:walk(child,labels,pidx)
+    if content is not None:
+        for idx,child in enumerate(content,1):walk(child,[],idx)
+    return found
+
 def uid(e):
     if e=='Anlage':return 'anlage'
     e=e.replace('(XXXX) ','')
@@ -60,7 +76,7 @@ for n in r.findall('norm'):
         if note and note in text:
             text=text.replace(note,'',1).lstrip();embedded_notes.append(note)
     notes='\n\n'.join(([notes] if notes else [])+embedded_notes)
-    u={'id':uid(e),'label':e.replace('(XXXX) ',''),'title':title,'chapter':chapter,'structure':list(structure),'text':text,'notes':[notes] if notes else [],'official_doknr':n.get('doknr'),'source_empty_text_with_repeal_title':empty}
+    u={'id':uid(e),'label':e.replace('(XXXX) ',''),'title':title,'chapter':chapter,'structure':list(structure),'text':text,'notes':[notes] if notes else [],'official_doknr':n.get('doknr'),'list_hierarchy':list_hierarchy(n.find('textdaten/text/Content')),'source_empty_text_with_repeal_title':empty}
     units.append(u);canonical+=['## '+u['label']+(' — '+title if title else ''),text]
 (W/'units.jsonl').write_text(''.join(json.dumps(u,ensure_ascii=False)+'\n' for u in units))
 (W/'sources/gewo-canonical.md').write_text('# Gewerbeordnung\n\n'+ '\n\n'.join(canonical)+'\n')

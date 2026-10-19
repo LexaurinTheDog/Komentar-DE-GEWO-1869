@@ -1,7 +1,7 @@
 from pathlib import Path
 import shutil,json
 W=Path(__file__).resolve().parent;O=Path(json.loads((W/'meta.json').read_text())['repo_dir'])
-for folder in ['sources','cases']:
+for folder in ['sources','cases','commentary']:
  shutil.copytree(W/folder,O/folder,dirs_exist_ok=True)
 for name in ['SOURCES.md','REVIEW.md','completeness-report.json','audit-report.json','meta.json','units.jsonl','_parse.py','_audit.py','_verify_sources.py','_copy_support.py','_check_links.py','status.json','validation.json','link-report.json']:
  p=W/name
