@@ -843,6 +843,22 @@
     },
     "intake_change_map": "sources/change-map.json",
     "unresolved_blockers": [],
-    "scope": "Source preflight plus exact assigned batch; no substantive rereview of the other units."
+    "scope": "Source preflight plus exact assigned batch; no substantive rereview of the other units.",
+    "validation": {
+      "result": {
+        "repo": "Komentar-DE-GEWO-1869",
+        "units": 171,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 221631,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "validated_at": "2026-10-20T14:59:53.437822+00:00",
+      "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+      "content_checkpoint": "137da6e2a3977e9e5091583f437541dfd756522b",
+      "work_content_checkpoint": "c83464ea43c866a4cbefb78debf6d77319f13774",
+      "scope": "Strict technical validation of rebuilt book; substantive second pass restricted to exactly 20 assigned reviewed_ids. No whole-book substantive completion."
+    }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-20T14:58:58.681423+00:00",
+  "created_at": "2026-10-20T15:00:11.774871+00:00",
   "verification": "sources/verification.json",
   "files": [
     {
@@ -1116,6 +1116,11 @@
       "path": "sources/review-p38-p55b/search-log.json",
       "bytes": 4032,
       "sha256": "1df4319efbaa1ff27d06c8dee2c6b3962fae0c48bc9b9548033f33c366694430"
+    },
+    {
+      "path": "sources/review-p38-p55b/validation-evidence.json",
+      "bytes": 689,
+      "sha256": "0848ab12bf3bc2d5f535680715ea9acd0b8c5da103e32d4c722376e224087e4f"
     },
     {
       "path": "sources/rii-kare600053741.md",
