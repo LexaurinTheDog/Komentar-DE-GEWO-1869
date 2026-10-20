@@ -4,7 +4,7 @@
   "identifier": "GewO",
   "repo": "Komentar-DE-GEWO-1869",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T16:01:48.706360+00:00",
+  "updated_at": "2026-10-20T16:02:56.280233+00:00",
   "total_units": 171,
   "completed_units": 171,
   "chapters": 13,
@@ -1387,7 +1387,23 @@
         "unit": "p161",
         "events": "Both required official notices remain unverified; commentary expressly conditional."
       },
-      "whole_book_completion_claimed": false
+      "whole_book_completion_claimed": false,
+      "validation": {
+        "validated_at": "2026-10-20T16:02:56.280233+00:00",
+        "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+        "result": {
+          "repo": "Komentar-DE-GEWO-1869",
+          "units": 171,
+          "verbatim_ratio": 1.0,
+          "commentary_chars": 276356,
+          "errors": [],
+          "warnings": [],
+          "ok": true
+        },
+        "content_checkpoint": "c313c4109789b53f59557be82380b2517fe1c222",
+        "work_content_checkpoint": "9a035199ccb02b8966b3c9e50d5b3048ba21b58b",
+        "scope": "Strict technical validation of rebuilt book; substantive review by this process limited to exact11 reviewed_ids. All160 unassigned comments preserved. No whole-book finalization or external professional approval."
+      }
     }
   },
   "case_law_sources": [
@@ -1667,7 +1683,7 @@
     "repo": "Komentar-DE-GEWO-1869",
     "units": 171,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 265281,
+    "commentary_chars": 276356,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -1881,7 +1897,7 @@
     "pushed": false
   },
   "link_validation": {
-    "checked_local_links": 382,
+    "checked_local_links": 422,
     "broken_local_links": [],
     "external_urls": [
       "https://github.com/LexaurinTheDog",
@@ -1893,6 +1909,7 @@
       "https://www.bverwg.de/161013U8C21.12.0",
       "https://www.bverwg.de/240611B8B31.11.0",
       "https://www.bverwg.de/300307B6B14.07.0",
+      "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2022-N-39302",
       "https://www.gesetze-im-internet.de/aktuDienst.html",
       "https://www.gesetze-im-internet.de/bgb/__126.html",
       "https://www.gesetze-im-internet.de/bgb/__126a.html",
@@ -1919,7 +1936,7 @@
     "units": 171,
     "text_disagreements": [],
     "commentary_count": 171,
-    "commentary_chars": 265281,
+    "commentary_chars": 276356,
     "duplicate_paragraphs": [],
     "similar_pairs": []
   },
@@ -1943,7 +1960,22 @@
     ],
     "evidence": "review-result.json",
     "whole_book_completion_claimed": false,
-    "validation_state": "awaiting rebuild/strict validation"
+    "validation": {
+      "validated_at": "2026-10-20T16:02:56.280233+00:00",
+      "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+      "result": {
+        "repo": "Komentar-DE-GEWO-1869",
+        "units": 171,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 276356,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "content_checkpoint": "c313c4109789b53f59557be82380b2517fe1c222",
+      "work_content_checkpoint": "9a035199ccb02b8966b3c9e50d5b3048ba21b58b",
+      "scope": "Strict technical validation of rebuilt book; substantive review by this process limited to exact11 reviewed_ids. All160 unassigned comments preserved. No whole-book finalization or external professional approval."
+    }
   },
   "completed_units_provenance": "171 pre-existing authored units; current bounded process reviewed20, corrected15, retained5. All151 other comments unchanged. Cumulative documented review160/171; previous140 not rereviewed.",
   "earlier_limitations_record": "sources/review-p154-anlage/before-status.json"

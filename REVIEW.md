@@ -14,7 +14,7 @@ Gelesen wurden die einschlägigen Änderungs- und Inkrafttretensbestimmungen aus
 
 Firecrawl war authentifiziert, hatte aber kein Guthaben. Die Quellen wurden direkt amtlich abgerufen. Die gezielte neue Recherche zu § 161 erbrachte keine eigenständige Verifikation der zwei erforderlichen Bekanntmachungen. Die bedingte Darstellung ist überprüft; für eine konkrete unbedingte Anwendung der betreffenden Teile von § 14 Abs. 4 bedarf es weiterhin dieses Nachweises. Ein fehlender Suchtreffer beweist nicht, dass keine Bekanntmachung existiert. Diese Anwendungsgrenze wird nicht als vermeintlich gesicherter negativer Tatsachenbefund verdeckt.
 
-Technische Abdeckung, Hashes und Längen-/Ähnlichkeitskontrollen ergänzen die Einzelprüfung und beweisen keine juristische Fehlerfreiheit. Für die so begrenzte Kommentarprüfung sind keine materiellen Blocker offen. Keine externe anwaltliche Freigabe und keine Veröffentlichung. Die folgenden früheren Berichte sind zeitlich zugeordnete Dokumentation der vorhandenen Arbeit.
+Technische Abdeckung, Hashes und Längen-/Ähnlichkeitskontrollen ergänzen die Einzelprüfung und beweisen keine juristische Fehlerfreiheit. Für die so begrenzte Kommentarprüfung sind keine materiellen Blocker offen. Die tatsächliche strikte Validierung des Inhaltscommits ist erfolgreich: 171 Einheiten, Wortlautquote 1,0, keine Fehler oder Warnungen; [Beleg](sources/review-p154-anlage/strict-validation.json). Die lokale Linkprüfung findet kein defektes Ziel. Keine externe anwaltliche Freigabe und keine Veröffentlichung. Die folgenden früheren Berichte sind zeitlich zugeordnete Dokumentation der vorhandenen Arbeit.
 
 
 ## Überlieferter begrenzter Review §§ 147c–153c vom 20. Oktober 2026

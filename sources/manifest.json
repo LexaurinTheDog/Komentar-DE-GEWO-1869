@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-20T16:02:45.396274+00:00",
+  "created_at": "2026-10-20T16:03:20.398886+00:00",
   "verification": "sources/verification.json",
   "files": [
     {
@@ -1798,14 +1798,19 @@
       "sha256": "692b5fe3e44ea3f7afa3014d7d0492e502f4aa9db38944f13a5c76b59b56cb7e"
     },
     {
+      "path": "sources/review-p154-anlage/link-check-output.json",
+      "bytes": 2164,
+      "sha256": "6fcb4264ca8910cd0bbda565237c2f9bf69ec6f7b85656bd0f3ff3a58ea63938"
+    },
+    {
       "path": "sources/review-p154-anlage/manifest.py",
       "bytes": 733,
       "sha256": "ebc4ec22443e546706efb49f230865a3ca388d7aa1384e8f99a83460447bbe61"
     },
     {
       "path": "sources/review-p154-anlage/preflight.json",
-      "bytes": 6922,
-      "sha256": "cc82010a6d2b249f96cf711b3792a8120c67f56c5edc54cf59fede2b7b792624"
+      "bytes": 7716,
+      "sha256": "f570bc38546d4bec11a5468d160b6c404e7a1f3d8f3f9c3e5039728c55960a20"
     },
     {
       "path": "sources/review-p154-anlage/record.py",
@@ -1826,6 +1831,11 @@
       "path": "sources/review-p154-anlage/search-log.json",
       "bytes": 4326,
       "sha256": "526c0a4f02fa77621d336a8f08f29de7122890106edc0d7c4bd67eeaef15edce"
+    },
+    {
+      "path": "sources/review-p154-anlage/strict-validation.json",
+      "bytes": 747,
+      "sha256": "a3ed38761a889cbbfc6e6540c6c236b884ee7a129a8d3a9bd785a63a7636e72c"
     },
     {
       "path": "sources/review-p154-anlage/vg-muenchen-court-text.json",
@@ -2979,8 +2989,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 224830,
-      "sha256": "e9ec5c335327f9dcbed312422cf3deadd14f168d0db3a90b79d35f739a465bf6"
+      "bytes": 225656,
+      "sha256": "6cc6932c4032f22d95b5a3cf7bf0ddbb9a241911d1a89ee69d19d9c23dec61ad"
     }
   ],
   "scope": "Preserved statutory/case evidence and bounded review artifacts. Failed responses explicitly rejected; raw platform editorial material is not commentary authority."
