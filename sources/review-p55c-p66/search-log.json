@@ -1,0 +1,53 @@
+{
+  "searched_at": "2026-10-20T15:08:47.054597+00:00",
+  "queries": [
+    {
+      "query": "site.bverwg.de GewO Ausstellung 65 repräsentativ Messe",
+      "disposition": "No directly pertinent primary decision selected; statutory definition used."
+    },
+    {
+      "query": "site.bverwg.de \"56a\" \"Wanderlager\"",
+      "disposition": "Older 1965 I C 108.63 surfaced through secondary host; not used as authority. Its reported limitation to existing goods conflicts with current express order-taking alternatives; no historical holding imported."
+    },
+    {
+      "query": "site.bverwg.de \"60b\" \"Volksfest\"",
+      "disposition": "Official 8 B 31.11 court page located; full text then separately captured and read."
+    },
+    {
+      "query": "site.recht.bund.de \"Gewerbeordnung\" \"Oktober\" \"2026\"",
+      "disposition": "Current official consolidation/gazette context; no later amendment of assigned units established. Austrian GewO results excluded."
+    },
+    {
+      "query": "site.bverwg.de \"8 B 31.11\"",
+      "disposition": "Official court page and PDF located; court HTML and RII XML used, not search snippets."
+    },
+    {
+      "query": "site.bverwg.de \"65 GewO\" \"repräsentativ\"",
+      "disposition": "No sufficiently relevant additional full-text authority selected."
+    }
+  ],
+  "firecrawl": {
+    "status_evidence": "sources/review-p55c-p66/firecrawl-status.txt",
+    "available_credits": 0,
+    "fallback": "No install/settings/auth changes; native web discovery and direct official HTTP captures."
+  },
+  "local_corpus": {
+    "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "commands": [
+      "rg -l § 65 / § 60b / § 56a over *.md",
+      "rg -l 8 B 31.11 / 8 B 31/11 over *.md"
+    ],
+    "selection": "rii-wbre410017920.md fully read, snapshotted, and compared with original RII XML; tenors and Rn. 10 additionally from official court HTML."
+  },
+  "primary_case_urls": [
+    "https://www.bverwg.de/240611B8B31.11.0",
+    "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE410017920.zip"
+  ],
+  "limits": [
+    "Independent substantive review covers exactly these 20 assigned units. Earlier batches are preserved, not rereviewed. No whole-book completion or external professional approval.",
+    "Case-law research is selective: one additional decision read in full on official court HTML and matched to official XML/local corpus. No sufficiently relevant additional full-text-verified case selected for the other assigned units; no absence claim.",
+    "No comprehensive audit of Land law, implementing regulations, EU medical-device definitions or all external banking and civil-law rules. No unverified external detail values are supplied.",
+    "Targeted actuality/commencement checks, not an audit of every gazette issue. Original decisive date remains 2026-10-19; source recheck occurred 2026-10-20.",
+    "The official dangling reference in § 60d is disclosed and cannot itself supply a missing substantive rule. Technical validation and prose diagnostics do not establish legal quality."
+  ]
+}

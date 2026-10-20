@@ -1,0 +1,80 @@
+{
+  "official_paragraph_range": "1\u20139 in RII XML, 1\u201310 in court HTML",
+  "method": "Every XML reasons block including unnumbered continuations matched literally ignoring whitespace. Rn. 10 and tenor read from court HTML; local corpus and RII XML do not contain them.",
+  "blocks": [
+    {
+      "rn": "1",
+      "length": 399,
+      "in_local_corpus_ignoring_whitespace": true
+    },
+    {
+      "rn": "2",
+      "length": 217,
+      "in_local_corpus_ignoring_whitespace": true
+    },
+    {
+      "rn": "3",
+      "length": 821,
+      "in_local_corpus_ignoring_whitespace": true
+    },
+    {
+      "rn": "4",
+      "length": 14,
+      "in_local_corpus_ignoring_whitespace": true
+    },
+    {
+      "rn": "4",
+      "length": 285,
+      "in_local_corpus_ignoring_whitespace": true
+    },
+    {
+      "rn": "4",
+      "length": 107,
+      "in_local_corpus_ignoring_whitespace": true
+    },
+    {
+      "rn": "5",
+      "length": 10,
+      "in_local_corpus_ignoring_whitespace": true
+    },
+    {
+      "rn": "5",
+      "length": 277,
+      "in_local_corpus_ignoring_whitespace": true
+    },
+    {
+      "rn": "5",
+      "length": 2646,
+      "in_local_corpus_ignoring_whitespace": true
+    },
+    {
+      "rn": "6",
+      "length": 826,
+      "in_local_corpus_ignoring_whitespace": true
+    },
+    {
+      "rn": "7",
+      "length": 95,
+      "in_local_corpus_ignoring_whitespace": true
+    },
+    {
+      "rn": "8",
+      "length": 755,
+      "in_local_corpus_ignoring_whitespace": true
+    },
+    {
+      "rn": "9",
+      "length": 442,
+      "in_local_corpus_ignoring_whitespace": true
+    }
+  ],
+  "xml_blocks": 13,
+  "all_xml_blocks_match_local": true,
+  "court_ecli": "ECLI:DE:BVerwG:2011:240611B8B31.11.0",
+  "court_full_reasons_read": "1\u201310",
+  "holding_used": [
+    5,
+    6,
+    9
+  ]
+}

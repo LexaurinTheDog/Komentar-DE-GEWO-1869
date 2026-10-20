@@ -2,312 +2,174 @@
   "kind": "review",
   "complete": true,
   "decisive_date": "2026-10-19",
-  "verified_at": "2026-10-20T14:57:27.481658+00:00",
+  "verified_at": "2026-10-20T15:08:47.054597+00:00",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p38",
-    "p39",
-    "p39a",
-    "p40",
-    "p41",
-    "p41a-und-41b",
-    "p42",
-    "p42a-bis-44a",
-    "p45",
-    "p46",
-    "p47",
-    "p48",
-    "p49",
-    "p50",
-    "p51",
-    "p52",
-    "p53-bis-54",
-    "p55",
-    "p55a",
-    "p55b"
+    "p55c",
+    "p55d",
+    "p55e",
+    "p55f",
+    "p56",
+    "p56a",
+    "p57",
+    "p57a-und-58",
+    "p59",
+    "p60",
+    "p60a",
+    "p60b",
+    "p60c",
+    "p60d",
+    "p61",
+    "p61a",
+    "p62-und-63",
+    "p64",
+    "p65",
+    "p66"
   ],
   "changed_ids": [
-    "p38",
-    "p45",
-    "p46",
-    "p47",
-    "p49",
-    "p51",
-    "p55",
-    "p55a",
-    "p55b"
+    "p55c",
+    "p56",
+    "p56a",
+    "p57",
+    "p59",
+    "p60a",
+    "p60b",
+    "p60c",
+    "p61a",
+    "p64",
+    "p65",
+    "p66"
   ],
   "retained_ids": [
-    "p39",
-    "p39a",
-    "p40",
-    "p41",
-    "p41a-und-41b",
-    "p42",
-    "p42a-bis-44a",
-    "p48",
-    "p50",
-    "p52",
-    "p53-bis-54"
+    "p55d",
+    "p55e",
+    "p55f",
+    "p57a-und-58",
+    "p60",
+    "p60d",
+    "p61",
+    "p62-und-63"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p38",
+      "id": "p55c",
       "disposition": "corrected",
-      "review": "Abs. 1 Nr. 1 requires listed goods plus used-goods specialization; distinguished two register applications and ex officio follow-up. Abs. 2 danger threshold and Abs. 4 precisely limited institutional exception made explicit. Checked § 4 nonapplication and § 29 monitoring.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-06.md"
-      ],
-      "material_issues_resolved": true
+      "review": "Beginnanzeige nur für § 55a Abs. 1 Nr. 3, 9, 10 und subsidiär zur Anmeldung nach § 14 geprüft. Entsprechende Änderungs-/Abmelderegeln, Verlegungsübermittlung und Dreitages-Empfangsbescheinigung erläutert; keine Erlaubniswirkung. Künftige Datenempfänger nicht vorgezogen. Beispiel und § 4-Nichtanwendung geprüft."
     },
     {
-      "id": "p39",
-      "disposition": "retained",
-      "review": "Official repeal marker checked. Existing explanation creates no power from the slot; internal references to §§ 11, 29, 38 are legitimate alternative statutory contexts, not automatic authority for any inquiry.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-06.md"
-      ],
-      "material_issues_resolved": true
+      "id": "p55d",
+      "disposition": "retained_after_review",
+      "review": "Amtlicher Strich als leerer Nummernplatz, weder Pflicht noch Ausnahme. Wortlaut und knappe Erläuterung unverändert erhalten; keine historische Ersatzregel eingefügt."
     },
     {
-      "id": "p39a",
-      "disposition": "retained",
-      "review": "Official repeal marker and lack of operative duties checked; historical forms are appropriately flagged without reconstruction of an earlier version.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-06.md"
-      ],
-      "material_issues_resolved": true
+      "id": "p55e",
+      "disposition": "retained_after_review",
+      "review": "Abs. 1 erfasst § 55 Abs. 1 Nr. 1 mit Warenfeilbieten- und Gastgewerbeausnahme, auch unselbständige Ausübung; § 55b-Ausnahme gerade nur für Selbständige. Abs. 2 Behördenausnahme und fortbestehende externe Feiertagsfragen richtig getrennt. Vorhandene Erläuterung und Beispiel erhalten."
     },
     {
-      "id": "p40",
-      "disposition": "retained",
-      "review": "Repealed single slot verified in XML and HTML; references to §§ 45 ff. are expressly current adjacent context and do not purport to describe former § 40.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-06.md"
-      ],
-      "material_issues_resolved": true
+      "id": "p55f",
+      "disposition": "retained_after_review",
+      "review": "Verordnungsermächtigung mit Bundesratszustimmung für besonders gefährliche Schaustellertätigkeiten nach § 55 Abs. 1 Nr. 2 geprüft. Keine unmittelbare Versicherungssumme oder bereits aus dem Ermächtigungstext allein folgende Abschlussmodalität behauptet. Konkrete Fachverordnung nicht Gegenstand dieses Reviews; vorhandener Text erhalten."
     },
     {
-      "id": "p41",
-      "disposition": "retained",
-      "review": "Repeal checked; existing distinction between no present rule here and continued sectoral restrictions is sound. No unsupported historical date or replacement norm asserted.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-06.md"
-      ],
-      "material_issues_resolved": true
-    },
-    {
-      "id": "p41a-und-41b",
-      "disposition": "retained",
-      "review": "One official record (XXXX) §§ 41a und 41b, text (weggefallen), checked. Grouping and exact label preserved; no invented individual current provisions.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-06.md"
-      ],
-      "material_issues_resolved": true
-    },
-    {
-      "id": "p42",
-      "disposition": "retained",
-      "review": "Official title (weggefallen) plus literal hyphen body independently verified. Commentary correctly explains source typography without creating substantive meaning or normalizing away the empty slot.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-06.md"
-      ],
-      "material_issues_resolved": true
-    },
-    {
-      "id": "p42a-bis-44a",
-      "disposition": "retained",
-      "review": "Grouped official repeal record checked, including exact (XXXX) label and range. No missing current child articles or operative transitional text found.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-06.md"
-      ],
-      "material_issues_resolved": true
-    },
-    {
-      "id": "p45",
+      "id": "p56",
       "disposition": "corrected",
-      "review": "Separated representative operation from transfer to a new independent licensee. Removed potential implication that § 45 requires authorization in every trade; §§ 47 and 35(2) apply on their own conditions. Functional qualifications and example refined.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-06.md"
-      ],
-      "material_issues_resolved": true
+      "review": "Verbotskatalog nach Vertrieb, Feilbieten, Ankauf und Vermittlung aufgeschlüsselt. Pflanzenschutz-/Schädlings-/Holzschutz-Bestellgrenze, medizinische Waren, Lotterien, Prämienvertrieb, getrennte Silberausnahmen, Alkohol und Nr. 6 erläutert. Abs. 4 nur für drei bestimmte Katalogpositionen; B2B-Ausnahme des Abs. 3 davon getrennt. Wegfallpositionen vollständig."
     },
     {
-      "id": "p46",
+      "id": "p56a",
       "disposition": "corrected",
-      "review": "Separated minority duration from ten years measured from succession for Nachlassverwalter, Nachlasspfleger and Testamentsvollstrecker. One-year relaxation runs from death, not later application. Special-law priority and BAFA competence from § 31(7) verified.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-06.md"
-      ],
-      "material_issues_resolved": true
+      "review": "Alle sieben Absätze und Listen geprüft. Öffentliche Werbung und organisierte Beförderung für Anzeige kumulativ; Abs. 4 gerade nicht auf Busfahrten beschränkt. Leitung, Produktverbote und ihre B2B-Ausnahme nach eigenem Verweis getrennt. § 4 nur partiell. Ältere Fundstelle mit anderem Wanderlagerbegriff nicht als Stichtagsautorität übernommen."
     },
     {
-      "id": "p47",
+      "id": "p57",
       "disposition": "corrected",
-      "review": "Checked full current list and competent body; public appointment is not employment. § 36 personal performance limits representation. Published addition of § 34k checked against Art. 7 Nr. 7/Art. 16 BGBl. 139: effective only 2026-11-20, excluded on decisive date.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-06.md"
-      ],
-      "material_issues_resolved": true
+      "review": "Gebundene Kartenversagung von Ermessensuntersagung nach § 59 getrennt. Tatsachenprognose und branchenspezifische Versagungsgründe erläutert; Versteigerung und § 4 separat. Bisheriges Finanzvermittlerbeispiel wegen vorher zu prüfender Kartenfreiheit durch gewöhnlichen Warenvertrieb ersetzt. Art. 7 Nr. 8/Art. 16 BGBl. 139 erst ab 20.11.2026."
     },
     {
-      "id": "p48",
-      "disposition": "retained",
-      "review": "Repeal record verified. Explanation neither creates a representation power nor silently revives former conditions. Historical approvals remain individually assessable.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-06.md"
-      ],
-      "material_issues_resolved": true
+      "id": "p57a-und-58",
+      "disposition": "retained_after_review",
+      "review": "Gemeinsamer Wegfallvermerk einschließlich amtlichem (XXXX)-Präfix gegen XML geprüft. Keine historische Aufhebungs- oder Versagungsregel als aktuell rekonstruiert. Erläuterung erhalten."
     },
     {
-      "id": "p49",
+      "id": "p59",
       "disposition": "corrected",
-      "review": "Distinguished initial noncommencement from continuous later nonuse, automatic expiry from revocation, and application from extension decision. Added fully read BVerwG 8 B 12.15 with express distinction between lower-court view, party question and court holding; no claim that preparatory acts were categorically held insufficient.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-06.md"
-      ],
-      "material_issues_resolved": true
+      "review": "Ermessen, begrenzte Übernahme des § 35 Abs. 1 Satz 2 und 3, Abs. 3, 4, 6, 7a, 8 konkret erläutert. Erweiterte Prognose, Behördenbeteiligung und Vorrang besonderer Regeln unterschieden. Wiedergestattung nur auf Antrag; vor einem Jahr besondere Gründe, kein automatischer Neustart. Beispiel geprüft."
     },
     {
-      "id": "p50",
-      "disposition": "retained",
-      "review": "Official repeal checked. The reference to § 49 is limited to its current standstill regime; no generalization to all permits introduced.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-06.md"
-      ],
-      "material_issues_resolved": true
+      "id": "p60",
+      "disposition": "retained_after_review",
+      "review": "Beschäftigungsverbot richtet sich an Gewerbetreibenden und erfordert tätigkeitsbezogene Unzuverlässigkeit der einzelnen beschäftigten Person. Keine automatische Gesamtbetriebsschließung; Ermessen und fiktiver Betrugsfall tragfähig. Vorhandene Erläuterung erhalten."
     },
     {
-      "id": "p51",
+      "id": "p60a",
       "disposition": "corrected",
-      "review": "Clarified discretionary plant-related intervention, statutory compensation to Besitzer, and scope of BImSchG exclusion beyond the bare existence of a permit. No invented damage tariff, categorical lost-profit exclusion or unverified procedural jurisdiction.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-06.md"
-      ],
-      "material_issues_resolved": true
+      "review": "Abs. 2 Satz 1 verweist nur auf Bauartregel, nicht unterschiedslos gesamten § 33c. LKA-Bescheinigung oder Abdruck und jeweilige örtliche Spielerlaubnis getrennt. Übernommene Aufhebungsregeln, Abs. 3 Spielhalle und Abs. 4 Verfahrensverordnung geprüft. Keine allgemeine Geldspielgeräte-Erlaubnis aus Warengeräteregel abgeleitet."
     },
     {
-      "id": "p52",
-      "disposition": "retained",
-      "review": "Official repeal checked; current interference basis must be identified independently. Existing mention of special regime is consistent with § 51 sentence 3.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-06.md"
-      ],
-      "material_issues_resolved": true
-    },
-    {
-      "id": "p53-bis-54",
-      "disposition": "retained",
-      "review": "Grouped repeal record verified at end of standing-trade title. Existing practical checklist checked against §§ 12, 35, 45–51; it does not convert the empty slot into an operative checklist mandate.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-06.md"
-      ],
-      "material_issues_resolved": true
-    },
-    {
-      "id": "p55",
+      "id": "p60b",
       "disposition": "corrected",
-      "review": "Reviewed both business variants, lack of prior order and establishment reference. Distinguished later fulfilment from initially customer-ordered visit with BVerfG 1 BvR 2176/98 fully read. Separated content restriction, time limit and subsequent conditions under Abs. 3; EU exception under § 4 included.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-07.md"
-      ],
-      "material_issues_resolved": true
+      "review": "Definitionsmerkmale, selektive Verweisung auf § 68a und § 69 Abs. 1/2 sowie §§ 69a–71a, Fortgeltung der Reisegewerbe-/Branchenvorgaben geprüft. BVerwG 8 B 31.11 vollständig amtlich gelesen. Auswahlgrenzen aus Rn. 5–6, 9 verwendet; gesetzliche Übertragung auf Volksfest ausdrücklich von gerichtlichem Marktfall unterschieden."
     },
     {
-      "id": "p55a",
+      "id": "p60c",
       "disposition": "corrected",
-      "review": "Reviewed every numbered category including empty Nr. 4 and Nr. 8a. Expanded event authorization, own produce, home/establishment municipality, milk authorization, specific insurance groups, actual other permit, distinct financial references, regular supply, alcohol exception, printworks and Abs. 2 discretion. Nr. 8 is not mislabeled a foreign-authorization exemption; Nr. 8a has separate EU/EWR conditions. § 55c and § 60c references checked.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-07.md"
-      ],
-      "material_issues_resolved": true
+      "review": "Mitführ-, Vorlage- und Einstellungsanordnung nach Abs. 1 unterschieden. Kundenkontakt als Aushändigungsmerkmal des Abs. 2; für Nachweisinhaber nur Satz 1 ausdrücklich verwiesen. Sonstige glaubhaft machende Unterlage nach Abs. 3 nicht mit beglaubigter Kartenkopie gleichgesetzt. Beispiel zweier Teams konkretisiert."
     },
     {
-      "id": "p55b",
+      "id": "p60d",
+      "disposition": "retained_after_review",
+      "review": "Eingriffskatalog, Ermessen und Abgrenzung zu § 59 geprüft. Amtlicher Verweis auf nicht mehr vorhandenen § 56 Abs. 3 Satz 2 weiterhin offen ausgewiesen; kein Eingriff durch erfundene Ersatznorm. Beispiel beruht auf tatsächlich bestehendem § 56 Abs. 1. Erläuterung erhalten."
+    },
+    {
+      "id": "p61",
+      "disposition": "retained_after_review",
+      "review": "Gewöhnlicher Aufenthalt für aufgezählte Karten-/Personenverfahren und Weiterführung nach Umzug nur mit Zustimmung geprüft. Keine Gesamtzuständigkeit am Verkaufsort oder für Spielortgenehmigungen behauptet. Beispiel und bestehende Erläuterung erhalten."
+    },
+    {
+      "id": "p61a",
       "disposition": "corrected",
-      "review": "Limited business visit exemption to actual commercial role; added § 56(3) and § 59 consequences. Distinguished domestic exemption from foreign-use identification card, statutory issuance wording, corresponding §§ 55(3)/57, and treaty/supranational priority. No specific foreign treaty asserted.",
-      "checked_against": [
-        "sources/review-p38-p55b/BJNR002450869.xml",
-        "units.jsonl",
-        "sources/review-p38-p55b/baseline-commentary/part-07.md"
-      ],
-      "material_issues_resolved": true
+      "review": "§ 29 entsprechend mit Grenzen, branchenspezifischer Absatz-/Satzkatalog und örtlich begrenzte Ausnahme für verderbliche Versteigerungsware geprüft. Verwalterweiterbildung seit Juli 2026 von entfallener Maklerweiterbildung getrennt. Art. 7 Nr. 9/Art. 16 BGBl. 139 erst ab 20.11.2026. Keine vorgezogene neue Darlehensvermittlerpflicht."
+    },
+    {
+      "id": "p62-und-63",
+      "disposition": "retained_after_review",
+      "review": "Gemeinsame Wegfallstelle und Übergang zur Veranstaltungstypologie geprüft. Reisegewerbe-Prüfliste behandelt Bestellung, Ausnahme, Anzeige, Verbote, Wanderlager, Beschäftigtennachweise und Branchenpflichten konkret. Text erhalten."
+    },
+    {
+      "id": "p64",
+      "disposition": "corrected",
+      "review": "Abs. 1 zeitlich begrenzt, grundsätzlich wiederkehrend, Vielzahl, wesentlicher Branchenumfang und überwiegender Mustervertrieb an genannten Abnehmerkreis; Abs. 2 eingeschränkter Letztverbraucherkauf. Ungenaue Formulierung „mehrere“ an gesetzliche „Vielzahl“ angepasst; übriger Text samt Beispiel erhalten."
+    },
+    {
+      "id": "p65",
+      "disposition": "corrected",
+      "review": "Zeitliche Begrenzung zuvor nicht eigens erläutert und nun ausdrücklich ergänzt. Vielzahl, repräsentativer Branchen-/Gebietsbezug und Informationsalternative ohne sofortigen Verkauf geprüft. Keine Wiederkehr- oder Fachpublikumspflicht hineingelesen. Beispiel erhalten."
+    },
+    {
+      "id": "p66",
+      "disposition": "corrected",
+      "review": "Vielzahl und im Wesentlichen geschäftlicher Abnehmerkreis, offener Warenumfang und Unterschied zu zeitlich begrenzten Veranstaltungstypen geprüft. „Mehrere“ zu „Vielzahl“ präzisiert; keine feste Mindestzahl erfunden. Beispiel und sachbezogene Anforderungen erhalten."
     }
   ],
   "limitations": [
-    "Independent substantive review restricted to exactly the 20 assigned reviewed_ids. No whole-book substantive completion or external professional approval.",
-    "Selective case law: two fully read primary decisions, one matching local corpus; no standalone local BVerfG corpus text found. No sufficiently relevant additional fully verified case selected for the other assigned units; absence of jurisprudence is not asserted.",
-    "No comprehensive review of Land law, implementing regulations, foreign treaties or external banking/milk/handicraft legislation. Internal statutory references and expressly limited court holdings support the explanations.",
-    "Targeted current-source and commencement checks, not an exhaustive audit of every gazette issue. Original authoring decisive date remains 2026-10-19.",
-    "Technical hashes, text agreement, counts and prose diagnostics do not by themselves establish legal quality."
+    "Independent substantive review covers exactly these 20 assigned units. Earlier batches are preserved, not rereviewed. No whole-book completion or external professional approval.",
+    "Case-law research is selective: one additional decision read in full on official court HTML and matched to official XML/local corpus. No sufficiently relevant additional full-text-verified case selected for the other assigned units; no absence claim.",
+    "No comprehensive audit of Land law, implementing regulations, EU medical-device definitions or all external banking and civil-law rules. No unverified external detail values are supplied.",
+    "Targeted actuality/commencement checks, not an audit of every gazette issue. Original decisive date remains 2026-10-19; source recheck occurred 2026-10-20.",
+    "The official dangling reference in § 60d is disclosed and cannot itself supply a missing substantive rule. Technical validation and prose diagnostics do not establish legal quality."
   ],
-  "prior_batch_record": "sources/review-p38-p55b/before-review-result.json",
+  "prior_batch_record": "sources/review-p55c-p66/before-review-result.json",
   "evidence": {
-    "source_captures": "sources/review-p38-p55b/captures.json",
-    "batch_checks": "sources/review-p38-p55b/batch-checks.json",
-    "diff": "sources/review-p38-p55b/commentary-changes.diff",
-    "source_coverage": "coverage-report.json",
-    "case_cards": [
-      "cases/bverfg-1bvr2176-98.md",
-      "cases/bverwg-8b12-15.md"
-    ],
-    "search_log": "sources/review-p38-p55b/search-log.json"
+    "preflight": "sources/review-p55c-p66/preflight.json",
+    "captures": "sources/review-p55c-p66/captures.json",
+    "preservation": "sources/review-p55c-p66/batch-checks.json",
+    "diff": "sources/review-p55c-p66/commentary-changes.diff",
+    "case_card": "cases/bverwg-8b31-11.md",
+    "case_comparison": "sources/review-p55c-p66/case-corpus-comparison.json",
+    "search_log": "sources/review-p55c-p66/search-log.json"
   },
   "unassigned_commentaries_preserved": 151,
-  "whole_book_completion_claimed": false,
-  "validation": {
-    "result": {
-      "repo": "Komentar-DE-GEWO-1869",
-      "units": 171,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 221631,
-      "errors": [],
-      "warnings": [],
-      "ok": true
-    },
-    "validated_at": "2026-10-20T14:59:53.437822+00:00",
-    "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
-    "content_checkpoint": "137da6e2a3977e9e5091583f437541dfd756522b",
-    "work_content_checkpoint": "c83464ea43c866a4cbefb78debf6d77319f13774",
-    "scope": "Strict technical validation of rebuilt book; substantive second pass restricted to exactly 20 assigned reviewed_ids. No whole-book substantive completion."
-  }
+  "whole_book_completion_claimed": false
 }
