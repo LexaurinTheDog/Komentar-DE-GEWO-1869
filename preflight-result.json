@@ -1258,6 +1258,22 @@
     "scope": "Source/parser preflight and exactly assigned commentary units. Operative annex/source inventory checked without rereviewing unassigned commentaries.",
     "limitations": [
       "Targeted amendment search is not an audit of every gazette issue. Existing § 161 trigger-event limitation is preserved; no whole-book legal completion."
-    ]
+    ],
+    "validation": {
+      "validated_at": "2026-10-20T15:23:19.439872+00:00",
+      "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+      "result": {
+        "repo": "Komentar-DE-GEWO-1869",
+        "units": 171,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 239739,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "content_checkpoint": "74e3ede2f91a5b1b3238f6e7b242675e07f0578a",
+      "work_content_checkpoint": "b3ec60cfe1ffda264476e36bb3b5d2de0cea79f8",
+      "scope": "Strict technical validation of rebuilt book. Substantive review limited to exactly the 20 reviewed_ids; all 151 other commentaries preserved. No whole-book substantive completion."
+    }
   }
 }

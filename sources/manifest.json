@@ -1648,9 +1648,14 @@
       "sha256": "1c5ab664a220f0fd6e0d4f0f490d91b3ca6b0ec0a8012940d750b285c79c912d"
     },
     {
+      "path": "sources/review-p67-p109/link-check-output.json",
+      "bytes": 1932,
+      "sha256": "80739bdbfb86e00e3d48d3ee14f5fb866277b5addee5a3e4847d4b3ea1c7c580"
+    },
+    {
       "path": "sources/review-p67-p109/preflight.json",
-      "bytes": 5666,
-      "sha256": "7413f6b0a77798115fb5f46cc7390dbc6bac5e09b878ad5d28232187ad59acd7"
+      "bytes": 6427,
+      "sha256": "a5020789fde97443194651e762ea20c060c423978a638e03701fa81255be2f79"
     },
     {
       "path": "sources/review-p67-p109/record.py",
@@ -1686,6 +1691,11 @@
       "path": "sources/review-p67-p109/search-log.json",
       "bytes": 4471,
       "sha256": "894fafb6f4a417f67d5888007b316322009b29838cd94799311738de33f7db14"
+    },
+    {
+      "path": "sources/review-p67-p109/validation-evidence.json",
+      "bytes": 714,
+      "sha256": "7681dce768782a1505120871c51d50f62d75a1d3a112cf2c1a8d930cb3def59e"
     },
     {
       "path": "sources/review-p67-p109/web-search-results.json",
@@ -1743,5 +1753,5 @@
       "sha256": "06fc290a45dc059ac9bcc0f4ed99dafbe152d800ef89d4e9a004f450fdd282a1"
     }
   ],
-  "updated_at": "2026-10-20T15:22:45.650069+00:00"
+  "updated_at": "2026-10-20T15:23:19.439872+00:00"
 }

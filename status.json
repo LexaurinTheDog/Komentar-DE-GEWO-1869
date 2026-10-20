@@ -4,7 +4,7 @@
   "identifier": "GewO",
   "repo": "Komentar-DE-GEWO-1869",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T15:21:05.226287+00:00",
+  "updated_at": "2026-10-20T15:23:19.439872+00:00",
   "total_units": 171,
   "completed_units": 171,
   "chapters": 13,
@@ -709,7 +709,23 @@
           "source": "sources/review-p67-p109/bgb-126b.html",
           "use": "text form, durable data carrier; separate from certificate electronic form"
         }
-      ]
+      ],
+      "validation": {
+        "validated_at": "2026-10-20T15:23:19.439872+00:00",
+        "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+        "result": {
+          "repo": "Komentar-DE-GEWO-1869",
+          "units": 171,
+          "verbatim_ratio": 1.0,
+          "commentary_chars": 239739,
+          "errors": [],
+          "warnings": [],
+          "ok": true
+        },
+        "content_checkpoint": "74e3ede2f91a5b1b3238f6e7b242675e07f0578a",
+        "work_content_checkpoint": "b3ec60cfe1ffda264476e36bb3b5d2de0cea79f8",
+        "scope": "Strict technical validation of rebuilt book. Substantive review limited to exactly the 20 reviewed_ids; all 151 other commentaries preserved. No whole-book substantive completion."
+      }
     }
   },
   "case_law_sources": [
@@ -918,7 +934,7 @@
     "repo": "Komentar-DE-GEWO-1869",
     "units": 171,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 231158,
+    "commentary_chars": 239739,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -1097,19 +1113,15 @@
   },
   "link_validation": {
     "ok": true,
-    "checked_local_links": 268,
+    "checked_local_links": 314,
     "broken_local_links": 0
   },
   "audit_result": {
-    "unit_count": 171,
-    "xml_norm_record_count": 194,
-    "independent_html_expected_count": 171,
-    "text_disagreements": [],
+    "ok": true,
     "commentary_count": 171,
-    "commentary_chars": 231158,
-    "duplicate_paragraphs": [],
-    "similar_commentary_pairs": [],
-    "ok": true
+    "text_disagreements": [],
+    "duplicate_paragraphs": 0,
+    "similar_commentary_pairs": []
   },
   "previous_authoring_stage": "drafted_technical_validation",
   "active_task": {
