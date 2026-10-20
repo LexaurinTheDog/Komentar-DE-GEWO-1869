@@ -4,7 +4,7 @@
   "identifier": "GewO",
   "repo": "Komentar-DE-GEWO-1869",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T14:10:04.546311+00:00",
+  "updated_at": "2026-10-20T14:11:36.081711+00:00",
   "total_units": 171,
   "completed_units": 171,
   "chapters": 13,
@@ -47,7 +47,8 @@
       ],
       "raw_xml_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
       "coverage_report": "coverage-report.json",
-      "exact_official_labels_agree": true
+      "exact_official_labels_agree": true,
+      "strict_validation_ok": true
     }
   },
   "case_law_sources": [

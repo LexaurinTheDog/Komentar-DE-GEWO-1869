@@ -220,5 +220,20 @@
     "ok": true,
     "checked_local_links": 99,
     "broken_local_links": 0
+  },
+  "validation": {
+    "strict": {
+      "repo": "Komentar-DE-GEWO-1869",
+      "units": 171,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 182524,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "verified_at": "2026-10-20T14:11:36.081711+00:00",
+    "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py WORK",
+    "validated_output_checkpoint": "42f0881",
+    "scope": "Technical checks of preserved manuscript after parser repair; no independent substantive review claim."
   }
 }
