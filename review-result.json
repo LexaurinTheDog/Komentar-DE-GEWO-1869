@@ -420,7 +420,24 @@
     "commentary_count": 171,
     "commentary_chars": 203118,
     "duplicate_paragraphs_in_batch": 0,
-    "local_links_checked": 164,
-    "broken_local_links": 0
+    "local_links_checked": 168,
+    "broken_local_links": 0,
+    "strict_validation_ok": true
+  },
+  "validation": {
+    "result": {
+      "repo": "Komentar-DE-GEWO-1869",
+      "units": 171,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 203118,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "validated_at": "2026-10-20T14:36:16.562474+00:00",
+    "content_checkpoint": "ddd8e2c7cf17a997490ccd64d994a435ab47b0aa",
+    "work_content_checkpoint": "e58f45d39ed359739e8af04b2728f5c43f950164",
+    "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+    "scope": "Strict technical validation of the rebuilt book. Substantive review only of the exact 20 reviewed_ids; no whole-book substantive certification."
   }
 }
