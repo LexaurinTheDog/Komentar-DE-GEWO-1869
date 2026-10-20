@@ -4,7 +4,7 @@
   "identifier": "GewO",
   "repo": "Komentar-DE-GEWO-1869",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T15:35:40.432482+00:00",
+  "updated_at": "2026-10-20T15:36:03.667189+00:00",
   "total_units": 171,
   "completed_units": 171,
   "chapters": 13,
@@ -931,7 +931,23 @@
       "scope": "Source/parser preflight and exactly 20 assigned commentary units. Full XML inventory/annex checked without substantive rereview of unassigned commentaries.",
       "limitations": [
         "Targeted amendment/actuality search, not an audit of every gazette issue. Existing § 161 trigger-event limitation is outside this batch and remains preserved. No whole-book completion."
-      ]
+      ],
+      "validation": {
+        "validated_at": "2026-10-20T15:36:03.667189+00:00",
+        "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+        "result": {
+          "repo": "Komentar-DE-GEWO-1869",
+          "units": 171,
+          "verbatim_ratio": 1.0,
+          "commentary_chars": 249191,
+          "errors": [],
+          "warnings": [],
+          "ok": true
+        },
+        "content_checkpoint": "a7943ecb18cbfd4e13b70cee989b9e6ecbd62098",
+        "work_content_checkpoint": "ef1036fe2229a00c04d699299cd09821107c1064",
+        "scope": "Strict technical validation of rebuilt book after this bounded review. Independent substantive review in this process covers exactly the 20 reviewed_ids; all 151 other commentary blocks unchanged. No whole-book substantive completion."
+      }
     }
   },
   "case_law_sources": [
@@ -1170,7 +1186,7 @@
     "repo": "Komentar-DE-GEWO-1869",
     "units": 171,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 239739,
+    "commentary_chars": 249191,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -1413,7 +1429,23 @@
       "p147b"
     ],
     "evidence": "review-result.json",
-    "whole_book_completion_claimed": false
+    "whole_book_completion_claimed": false,
+    "validation": {
+      "validated_at": "2026-10-20T15:36:03.667189+00:00",
+      "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+      "result": {
+        "repo": "Komentar-DE-GEWO-1869",
+        "units": 171,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 249191,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "content_checkpoint": "a7943ecb18cbfd4e13b70cee989b9e6ecbd62098",
+      "work_content_checkpoint": "ef1036fe2229a00c04d699299cd09821107c1064",
+      "scope": "Strict technical validation of rebuilt book after this bounded review. Independent substantive review in this process covers exactly the 20 reviewed_ids; all 151 other commentary blocks unchanged. No whole-book substantive completion."
+    }
   },
   "completed_units_provenance": "171 pre-existing authored comments; this process reviewed exactly 20, corrected 8 and retained 12; all 151 other comments preserved. Prior 120 units not rereviewed; cumulative ledger 140/171."
 }

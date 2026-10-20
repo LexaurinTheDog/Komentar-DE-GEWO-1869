@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-20T15:35:04.102406+00:00",
+  "created_at": "2026-10-20T15:36:03.667189+00:00",
   "verification": "sources/verification.json",
   "files": [
     {
@@ -806,6 +806,11 @@
       "path": "sources/review-p110-p147b/search-log.json",
       "bytes": 4346,
       "sha256": "e55b2bb1f92bf6ade0363ab600cdc71e4a3c38373d0770783cd556d46e9e93ab"
+    },
+    {
+      "path": "sources/review-p110-p147b/strict-validation.json",
+      "bytes": 769,
+      "sha256": "82e0f2faf5ee43b4e775b99f609145c401eef36a6a344b00990e38c51a323048"
     },
     {
       "path": "sources/review-p110-p147b/write-docs.py",
@@ -2149,8 +2154,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 132151,
-      "sha256": "3684a4d8a9abcb6a9924ee501d03b8df48d75160369245adb6db53b22aaaeb78"
+      "bytes": 132999,
+      "sha256": "b93fcca20a660de1054ece345a1530e7597e49ed0f8a4d970da282b5359567c0"
     }
   ]
 }
