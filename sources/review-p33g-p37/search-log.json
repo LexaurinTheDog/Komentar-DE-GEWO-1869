@@ -1,0 +1,43 @@
+{
+  "searched_at": "2026-10-20T14:46:52.066521+00:00",
+  "tool": "web.run plus read-only local rg/manifest scan; Firecrawl checked but zero credits",
+  "queries": [
+    {
+      "q": "site.bundesgerichtshof.de \"VIII ZR 436/21\" Pfandleih",
+      "result": "Official BGH PDF link discovered; direct responses yielded HTML landing pages, rejected. Official RII XML later secured."
+    },
+    {
+      "q": "site.bverwg.de \"8 C 24.11\" Sachverständige",
+      "result": "Official judgment URL and ECLI identified; full text obtained from official RII ZIP after direct403."
+    },
+    {
+      "q": "site.recht.bund.de 2026 \"Gewerbeordnung\" \"215\" \"139\"",
+      "result": "Used as targeted amendment discovery, not proof of effective date; primary gazette text read separately."
+    },
+    {
+      "q": "site.rechtsprechung-im-internet.de \"VIII ZR 436/21\" \"2022\"",
+      "result": "Followed verified local national corpus docid KORE317652022 and later KORE627742023 to official ZIP API; all captured XML text matches local corpus."
+    },
+    {
+      "q": "site.rechtsprechung-im-internet.de \"8 C 24.11\"",
+      "result": "Verified local corpus uses slash docket8C24/11 and docidWBRE410018529; primary XML downloaded and read."
+    },
+    {
+      "q": "site.recht.bund.de \"Gewerbeordnung\" \"Oktober 2026\"",
+      "result": "No additional effective amendment established from targeted search; not an exhaustive gazette audit."
+    },
+    {
+      "q": "site.gesetze-im-internet.de/gewo \"Zuletzt geändert\"",
+      "result": "Official full HTML confirms Art.1 G20.07.2026 I Nr.215; contemporaneous raw HTML+XML unchanged."
+    }
+  ],
+  "local_corpus_read_only_root": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "case_text_evidence": "case-corpus-comparison.json",
+  "actual_authorities_selected": [
+    "KORE317652022",
+    "KORE627742023",
+    "WBRE410018529"
+  ],
+  "existing_authority_re_read": "sources/review-p1-p13/WBRE201500245.xml; full1–29 forp35",
+  "limits": "Selective topic search; no exhaustive case-law or all-gazette coverage. Other batch units retain statute-based analysis without invented authority."
+}

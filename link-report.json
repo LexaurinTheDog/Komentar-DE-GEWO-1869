@@ -1,5 +1,5 @@
 {
-  "checked_local_links": 168,
+  "checked_local_links": 200,
   "broken_local_links": [],
   "external_urls": [
     "https://github.com/LexaurinTheDog",
@@ -15,7 +15,10 @@
     "https://www.recht.bund.de/bgbl/1/2026/139/regelungstext.pdf?__blob=publicationFile",
     "https://www.recht.bund.de/bgbl/1/2026/183/regelungstext.pdf?__blob=publicationFile",
     "https://www.recht.bund.de/bgbl/1/2026/215/regelungstext.pdf?__blob=publicationFile",
-    "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile"
+    "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile",
+    "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE317652022",
+    "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE627742023",
+    "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE410018529"
   ],
   "external_method": "Official statute, gazette and cited court URLs checked through real HTTP captures in sources/verification.json. Project-context GitHub profile is a context link, not a source or publication. Raw downloaded webpage navigation is outside authored-book link checking.",
   "ok": true

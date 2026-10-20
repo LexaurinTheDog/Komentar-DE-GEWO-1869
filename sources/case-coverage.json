@@ -226,8 +226,10 @@
     },
     {
       "id": "p34",
-      "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "verified_cases": [
+        "bgh-viiizr436-21"
+      ],
+      "disposition": "Verified full text used to delimit authority: §34 Abs.4 expressly left open; later correction decision also read."
     },
     {
       "id": "p34a",
@@ -298,8 +300,10 @@
     },
     {
       "id": "p36",
-      "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "verified_cases": [
+        "bverwg-8c24-11"
+      ],
+      "disposition": "Verified full text on general age limit and individual suitability; current additional proportionality procedure not retrojected."
     },
     {
       "id": "p36a",

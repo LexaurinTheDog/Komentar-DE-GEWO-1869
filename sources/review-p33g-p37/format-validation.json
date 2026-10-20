@@ -1,0 +1,80 @@
+{
+  "verified_at": "2026-10-20T14:46:52.066521+00:00",
+  "complete": true,
+  "checks": [
+    {
+      "path": "sources/review-p33g-p37/index.html",
+      "stored_hash_agrees": true,
+      "http_status": 200
+    },
+    {
+      "path": "sources/review-p33g-p37/full.html",
+      "stored_hash_agrees": true,
+      "http_status": 200
+    },
+    {
+      "path": "sources/review-p33g-p37/xml.zip",
+      "stored_hash_agrees": true,
+      "http_status": 200,
+      "zip_and_xml_valid": true
+    },
+    {
+      "path": "sources/review-p33g-p37/case-8c24-11-denied.txt",
+      "stored_hash_agrees": true,
+      "http_status": 403,
+      "rejected_as_legal_pdf_evidence": true
+    },
+    {
+      "path": "sources/review-p33g-p37/case-viiizr436-21-response.html",
+      "stored_hash_agrees": true,
+      "http_status": 200
+    },
+    {
+      "path": "sources/review-p33g-p37/WBRE410018529.zip",
+      "stored_hash_agrees": true,
+      "http_status": 200,
+      "zip_and_xml_valid": true
+    },
+    {
+      "path": "sources/review-p33g-p37/KORE317652022.zip",
+      "stored_hash_agrees": true,
+      "http_status": 200,
+      "zip_and_xml_valid": true
+    },
+    {
+      "path": "sources/review-p33g-p37/KORE627742023.zip",
+      "stored_hash_agrees": true,
+      "http_status": 200,
+      "zip_and_xml_valid": true
+    },
+    {
+      "path": "sources/review-p33g-p37/amendment-139.pdf",
+      "stored_hash_agrees": true,
+      "http_status": 200,
+      "pdf_signature_and_text_valid": true
+    },
+    {
+      "path": "sources/review-p33g-p37/amendment-215.pdf",
+      "stored_hash_agrees": true,
+      "http_status": 200,
+      "pdf_signature_and_text_valid": true
+    },
+    {
+      "path": "sources/review-p33g-p37/amendment-33.pdf",
+      "stored_hash_agrees": true,
+      "http_status": 200,
+      "pdf_signature_and_text_valid": true
+    },
+    {
+      "path": "sources/review-p33g-p37/bgh-pdf-request-response.html",
+      "stored_hash_agrees": true,
+      "http_status": 200,
+      "rejected_as_legal_pdf_evidence": true
+    },
+    {
+      "all_decision_xml_dockets_and_dates_match": true,
+      "corpus_all_text_blocks_match": true
+    }
+  ],
+  "failed_direct_requests_preserved_and_not_used_as_full_text": true
+}

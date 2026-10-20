@@ -1,7 +1,7 @@
 {
   "decisive_date": "2026-10-19",
   "authoring_started_at": "2026-10-19",
-  "verified_at": "2026-10-20T14:32:41.924863+00:00",
+  "verified_at": "2026-10-20T14:45:50.603925+00:00",
   "official_source": "https://www.gesetze-im-internet.de/gewo/",
   "raw_xml": {
     "path": "sources/BJNR002450869.xml",
@@ -889,6 +889,164 @@
       "read_at": "2026-10-20T14:32:41.924863+00:00",
       "source_url": "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE410020037",
       "comparison": "sources/review-p13a-p33f/case-corpus-comparison.json"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/",
+      "final_url": "https://www.gesetze-im-internet.de/gewo/",
+      "accessed_at": "2026-10-20T14:37:37.246953+00:00",
+      "http_status": 200,
+      "path": "sources/review-p33g-p37/index.html",
+      "sha256": "692b5fe3e44ea3f7afa3014d7d0492e502f4aa9db38944f13a5c76b59b56cb7e",
+      "bytes": 37698,
+      "content_type": "text/html",
+      "validated_format": "html"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html",
+      "final_url": "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html",
+      "accessed_at": "2026-10-20T14:37:37.447245+00:00",
+      "http_status": 200,
+      "path": "sources/review-p33g-p37/full.html",
+      "sha256": "b8db41db679b301143c45c54a2832ff614f298c976b307ee4a337f48703085e2",
+      "bytes": 537501,
+      "content_type": "text/html",
+      "validated_format": "html"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/gewo/xml.zip",
+      "accessed_at": "2026-10-20T14:37:37.732559+00:00",
+      "http_status": 200,
+      "path": "sources/review-p33g-p37/xml.zip",
+      "sha256": "300e2939e5dcd9a83b047303c70dc473e59eb923995aeb50d41e35adaa947b52",
+      "bytes": 87856,
+      "content_type": "application/zip",
+      "validated_format": "zip",
+      "xml_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
+      "identical_to_canonical": true
+    },
+    {
+      "url": "https://www.bverwg.de/010212U8C24.11.0",
+      "accessed_at": "2026-10-20T14:38:22.770507+00:00",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2022&Gericht=bgh&file=dokument.pdf&linked=urt&nr=131971",
+      "accessed_at": "2026-10-20T14:38:23.058314+00:00",
+      "error": "Expected PDF format not obtained; a repeated request body is preserved as bgh-pdf-request-response.html and rejected as non-PDF."
+    },
+    {
+      "url": "https://www.bverwg.de/entscheidungen/pdf/010212U8C24.11.0.pdf",
+      "final_url": "https://www.bverwg.de/entscheidungen/pdf/010212U8C24.11.0.pdf",
+      "accessed_at": "2026-10-20T14:38:49.912937+00:00",
+      "http_status": 403,
+      "path": "sources/review-p33g-p37/case-8c24-11-denied.txt",
+      "bytes": 17,
+      "sha256": "2938e9f1284180959e33ab1718d0793a72ff6e4cdb8108c34dcd14e69446de5c",
+      "content_type": "text/plain; charset=UTF-8",
+      "pdf_magic": false,
+      "validated_format": "rejected_non_pdf"
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=131971&pos=0&anz=1",
+      "final_url": "https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html",
+      "accessed_at": "2026-10-20T14:38:50.047795+00:00",
+      "http_status": 200,
+      "path": "sources/review-p33g-p37/case-viiizr436-21-response.html",
+      "bytes": 51650,
+      "sha256": "2b0bd1789bac8e7b78e7366ea5dcd35dcdf76a3f620091eb3f95cee948942435",
+      "content_type": "text/html;charset=utf-8",
+      "pdf_magic": false
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE410018529.zip",
+      "accessed_at": "2026-10-20T14:39:31.231932+00:00",
+      "http_status": 200,
+      "path": "sources/review-p33g-p37/WBRE410018529.zip",
+      "bytes": 8150,
+      "sha256": "6aeef97cdcd724e33152d4d5d9b576d21ecf635dca672f00476714ba905e5e99",
+      "validated_format": "zip",
+      "xml_path": "sources/review-p33g-p37/WBRE410018529.xml",
+      "xml_sha256": "c5943ffed82f6c1b8534804b3a451dcb207efddd7ad87b06252af1ff7fadfd9e",
+      "xml_root": "dokument",
+      "court": "BVerwG",
+      "docket": "8 C 24/11",
+      "decision_date": "20120201"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE317652022.zip",
+      "accessed_at": "2026-10-20T14:39:31.523591+00:00",
+      "http_status": 200,
+      "path": "sources/review-p33g-p37/KORE317652022.zip",
+      "bytes": 17633,
+      "sha256": "2193f214da970ad1bb52a19f6cd770c0193800850fa3ee260bb3c95fb66e08d3",
+      "validated_format": "zip",
+      "xml_path": "sources/review-p33g-p37/KORE317652022.xml",
+      "xml_sha256": "30f70fab03053eafcc117468baac6d00447404772eeb81a23c323909bba8688e",
+      "xml_root": "dokument",
+      "court": "BGH",
+      "docket": "VIII ZR 436/21",
+      "decision_date": "20221116"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE627742023.zip",
+      "accessed_at": "2026-10-20T14:39:32.017740+00:00",
+      "http_status": 200,
+      "path": "sources/review-p33g-p37/KORE627742023.zip",
+      "bytes": 1947,
+      "sha256": "7d796c08e5c44005dad2a45fc5d5100f48a2edb5efbdcceba866b5c6a66f1d84",
+      "validated_format": "zip",
+      "xml_path": "sources/review-p33g-p37/KORE627742023.xml",
+      "xml_sha256": "51011fc4eef80d4f6ca637b33547f3daec42e48a7528c32346847bdef38a2770",
+      "xml_root": "dokument",
+      "court": "BGH",
+      "docket": "VIII ZR 436/21",
+      "decision_date": "20230711"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/139/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T14:43:19.996489+00:00",
+      "http_status": 200,
+      "path": "sources/review-p33g-p37/amendment-139.pdf",
+      "bytes": 921242,
+      "sha256": "498ddd09c3dbaf9d91824601b61ab5e8a91167a5d5e58322a94f5858c4eab36b",
+      "content_type": "application/pdf",
+      "validated_format": "pdf",
+      "identical_to_previous_snapshot": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/215/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T14:43:20.724329+00:00",
+      "http_status": 200,
+      "path": "sources/review-p33g-p37/amendment-215.pdf",
+      "bytes": 289435,
+      "sha256": "2e01df7450d95485dab09281aa4e834031932db790c89b502130f4b7d1fc441b",
+      "content_type": "application/pdf",
+      "validated_format": "pdf",
+      "identical_to_previous_snapshot": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T14:43:21.558759+00:00",
+      "http_status": 200,
+      "path": "sources/review-p33g-p37/amendment-33.pdf",
+      "bytes": 1222431,
+      "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+      "content_type": "application/pdf",
+      "validated_format": "pdf",
+      "identical_to_previous_snapshot": true
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2022&Gericht=bgh&file=dokument.pdf&linked=urt&nr=131971",
+      "final_url": "https://www.bundesgerichtshof.de/DE/Presse/Pressemitteilungen/pressemitteilungen_node.html",
+      "accessed_at": "2026-10-20T14:43:22.798521+00:00",
+      "http_status": 200,
+      "path": "sources/review-p33g-p37/bgh-pdf-request-response.html",
+      "bytes": 38163,
+      "sha256": "fc2cde6fe18b56c2ba2a9d1b63e08f569b67e0168b18c08da3d0315601c534db",
+      "content_type": "text/html;charset=utf-8",
+      "validated_format": "rejected_non_pdf_html_landing_page",
+      "pdf_magic": false
     }
   ],
   "effective_version_evidence": [
@@ -929,9 +1087,9 @@
     "original_sha256": "635d97b6c4cb30b7cae7145c45b6a67e22532ab45c6d3b40bbba434292f6101c",
     "change_map": "sources/change-map.json",
     "method": "fresh official XML, current official index/full HTML, published amendment commencement provisions, targeted official-gazette search",
-    "limit": "Targeted search is not an exhaustive audit of all Bundesgesetzblatt issues; §161 triggering notices not independently established."
+    "limit": "Targeted search is not an exhaustive audit of all Bundesgesetzblatt issues; § 161 triggering notices not independently established."
   },
-  "case_law_scope": "Selective, two full-text decisions, court websites and local official corpus; no exhaustive coverage.",
+  "case_law_scope": "Selective: six main decisions plus one supplementary correction decision; no exhaustive coverage.",
   "canonical_source_sha256": "733ff4f9741f241314070edea57b7d7eebfedb7b820354a45f914e58f8648c1c",
   "formats_validated": {
     "zip": "ZIP signature and sole expected XML member; content byte-for-byte equals extracted raw XML",
@@ -975,5 +1133,32 @@
       }
     ],
     "case_law": "Two newly read official full texts; selective use, no current statewide gaming-law assurance."
+  },
+  "bounded_review_p33g_p37": {
+    "verified_at": "2026-10-20T14:45:50.603925+00:00",
+    "decisive_date": "2026-10-19",
+    "captures": "sources/review-p33g-p37/captures.json",
+    "fresh_xml_identical": true,
+    "version_checks": [
+      {
+        "source": "sources/amendment-215.pdf",
+        "location": "Art. 1 Nr. 3; Art. 11 Abs. 1; Verkündung23.07.2026",
+        "effect": "§ 34c Abs. 2a: Maklerweiterbildung entfernt seit 24.07.2026; Verwalterpflicht erhalten."
+      },
+      {
+        "source": "sources/amendment-139.pdf",
+        "location": "Art. 7 Nr. 5–6; Art. 16 Abs. 1 und Abs. 2 Nr. 2; Verkündung18.05.2026",
+        "effect": "§ 34l seit 19.05.2026 wirksam; § 34k und Streichung allgemeiner Darlehensvermittlung aus§ 34c erst 20.11.2026, ausgeschlossen."
+      },
+      {
+        "source": "sources/preflight-20261020/amendment-33.pdf",
+        "location": "Art. 34 Nr. 1; Art. 64 Abs. 8",
+        "effect": "§ 34d Abs. 11 zusätzliche ESAP-Sätze erst 10.01.2030, ausgeschlossen."
+      }
+    ],
+    "corpus_comparison": "sources/review-p33g-p37/case-corpus-comparison.json",
+    "case_law": "Selective; two main new full texts, one later correction decision, one previously cited full text re-read.",
+    "firecrawl": "Installed/authenticated, zero credits; direct official HTTPS used.",
+    "format_checks": "sources/review-p33g-p37/format-validation.json"
   }
 }

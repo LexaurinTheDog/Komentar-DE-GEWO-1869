@@ -5,7 +5,7 @@
   "authoring_started_at": "2026-10-19",
   "preflight_date": "2026-10-20",
   "official_url": "https://www.gesetze-im-internet.de/gewo/",
-  "verified_at": "2026-10-20T14:32:41.924863+00:00",
+  "verified_at": "2026-10-20T14:45:50.603925+00:00",
   "version_evidence": [
     {
       "source": "sources/amendment-215.pdf",
@@ -467,5 +467,184 @@
       "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
       "scope": "Strict technical validation of the rebuilt book. Substantive review only of the exact 20 reviewed_ids; no whole-book substantive certification."
     }
+  },
+  "bounded_review_p33g_p37_source_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/gewo/",
+    "verified_at": "2026-10-20T14:45:50.603925+00:00",
+    "captures": "sources/review-p33g-p37/captures.json",
+    "fresh_xml_identical_to_canonical": true,
+    "raw_xml_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
+    "version_evidence": [
+      {
+        "source": "sources/amendment-215.pdf",
+        "location": "Art. 1 Nr. 3; Art. 11 Abs. 1; Verkündung23.07.2026",
+        "effect": "§ 34c Abs. 2a: Maklerweiterbildung entfernt seit 24.07.2026; Verwalterpflicht erhalten."
+      },
+      {
+        "source": "sources/amendment-139.pdf",
+        "location": "Art. 7 Nr. 5–6; Art. 16 Abs. 1 und Abs. 2 Nr. 2; Verkündung18.05.2026",
+        "effect": "§ 34l seit 19.05.2026 wirksam; § 34k und Streichung allgemeiner Darlehensvermittlung aus§ 34c erst 20.11.2026, ausgeschlossen."
+      },
+      {
+        "source": "sources/preflight-20261020/amendment-33.pdf",
+        "location": "Art. 34 Nr. 1; Art. 64 Abs. 8",
+        "effect": "§ 34d Abs. 11 zusätzliche ESAP-Sätze erst 10.01.2030, ausgeschlossen."
+      }
+    ],
+    "historical_versions_checked": {
+      "duplicate_official_labels": [],
+      "duplicate_doknr": [],
+      "selection": "One consolidated record per official identifier; TOC excluded as navigation. Historical transition clauses retained as enacted, not alternative versions.",
+      "intake_change_map": "sources/change-map.json",
+      "future_units_excluded": [
+        "§ 34k (2026-11-20)",
+        "§ 162 (2026-11-20)"
+      ]
+    },
+    "annexes_checked": [
+      {
+        "parent_label": "Anlage",
+        "doknr": "BJNR002450869BJNE029500123",
+        "unit_id": "anlage",
+        "included_as": "one complete operative annex, retaining nested numbering",
+        "official_sections": [
+          "I. Begriffsbestimmungen",
+          "II. Zu prüfende Kriterien"
+        ],
+        "official_list_labels": [
+          "1.",
+          "2.",
+          "3.",
+          "4.",
+          "1.",
+          "2.",
+          "a)",
+          "b)",
+          "c)",
+          "d)",
+          "e)",
+          "f)",
+          "g)",
+          "h)",
+          "i)",
+          "j)",
+          "k)",
+          "l)",
+          "3.",
+          "a)",
+          "b)",
+          "c)",
+          "d)",
+          "e)",
+          "f)",
+          "g)",
+          "h)",
+          "aa)",
+          "bb)",
+          "cc)",
+          "dd)",
+          "ee)",
+          "ff)",
+          "gg)",
+          "hh)",
+          "ii)",
+          "jj)",
+          "kk)",
+          "ll)",
+          "mm)",
+          "i)",
+          "aa)",
+          "bb)",
+          "cc)",
+          "dd)",
+          "ee)",
+          "ff)",
+          "4.",
+          "a)",
+          "b)",
+          "c)",
+          "5."
+        ],
+        "parsed_list_labels": [
+          "1.",
+          "2.",
+          "3.",
+          "4.",
+          "1.",
+          "2.",
+          "a)",
+          "b)",
+          "c)",
+          "d)",
+          "e)",
+          "f)",
+          "g)",
+          "h)",
+          "i)",
+          "j)",
+          "k)",
+          "l)",
+          "3.",
+          "a)",
+          "b)",
+          "c)",
+          "d)",
+          "e)",
+          "f)",
+          "g)",
+          "h)",
+          "aa)",
+          "bb)",
+          "cc)",
+          "dd)",
+          "ee)",
+          "ff)",
+          "gg)",
+          "hh)",
+          "ii)",
+          "jj)",
+          "kk)",
+          "ll)",
+          "mm)",
+          "i)",
+          "aa)",
+          "bb)",
+          "cc)",
+          "dd)",
+          "ee)",
+          "ff)",
+          "4.",
+          "a)",
+          "b)",
+          "c)",
+          "5."
+        ],
+        "list_order_agrees": true,
+        "full_text_agrees": true,
+        "evidence_path": "sources/BJNR002450869.xml",
+        "evidence_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561"
+      },
+      {
+        "parent_label": "Anhang EV",
+        "included_as": "not operative in the current XML",
+        "evidence_path": "sources/gewo-framework-notes.md",
+        "reason": "Framework note states measures no longer applicable from 2010/2013; no operative annex record exists. Historical wording not reconstructed."
+      }
+    ],
+    "eingangsformel_checked": {
+      "present_in_official_xml": false,
+      "disposition": "Verified absent: framework record contains editorial footnotes only; no statutory text node. No invented opening formula."
+    },
+    "all_xml_records_disposed": 194,
+    "coverage": {
+      "expected_count": 171,
+      "parsed_count": 171,
+      "missing": [],
+      "duplicates": [],
+      "report": "coverage-report.json"
+    },
+    "unresolved_blockers": []
   }
 }

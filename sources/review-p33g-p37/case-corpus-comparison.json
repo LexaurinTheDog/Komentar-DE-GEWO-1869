@@ -1,0 +1,26 @@
+[
+  {
+    "original_read_only_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-wbre410018529.md",
+    "snapshot_path": "sources/review-p33g-p37/rii-wbre410018529.md",
+    "sha256": "1d90d79b9865122c7d9ef3ac8150685601ffe14c28ece620373f41f09b67b52a",
+    "official_xml": "sources/review-p33g-p37/WBRE410018529.xml",
+    "paragraphs": 33,
+    "missing_from_local_corpus": []
+  },
+  {
+    "original_read_only_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore317652022.md",
+    "snapshot_path": "sources/review-p33g-p37/rii-kore317652022.md",
+    "sha256": "269c1038f6c50e15db7447c60ecb0a3fc001dff455925aebe998a97b0a3f3fc0",
+    "official_xml": "sources/review-p33g-p37/KORE317652022.xml",
+    "paragraphs": 208,
+    "missing_from_local_corpus": []
+  },
+  {
+    "original_read_only_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore627742023.md",
+    "snapshot_path": "sources/review-p33g-p37/rii-kore627742023.md",
+    "sha256": "8e35cf8a9d1a73937ed2b060db91442cd4211f5e279cdb1b9c5181f3c317ead7",
+    "official_xml": "sources/review-p33g-p37/KORE627742023.xml",
+    "paragraphs": 27,
+    "missing_from_local_corpus": []
+  }
+]
