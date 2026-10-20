@@ -1,0 +1,92 @@
+[
+  {
+    "path": "sources/review-p67-p109/index.html",
+    "sha256": "692b5fe3e44ea3f7afa3014d7d0492e502f4aa9db38944f13a5c76b59b56cb7e",
+    "http_status": 200,
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p67-p109/gewo-full.html",
+    "sha256": "b8db41db679b301143c45c54a2832ff614f298c976b307ee4a337f48703085e2",
+    "http_status": 200,
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p67-p109/gewo.zip",
+    "sha256": "300e2939e5dcd9a83b047303c70dc473e59eb923995aeb50d41e35adaa947b52",
+    "http_status": 200,
+    "format_valid": true,
+    "xml_law_identification": "GewO"
+  },
+  {
+    "path": "sources/review-p67-p109/aktudienst.html",
+    "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+    "http_status": 200,
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p67-p109/amendment-139.pdf",
+    "sha256": "498ddd09c3dbaf9d91824601b61ab5e8a91167a5d5e58322a94f5858c4eab36b",
+    "http_status": 200,
+    "format_valid": true,
+    "pdf_magic": true,
+    "extracted_text_chars": 216121,
+    "expected_title_present": true
+  },
+  {
+    "path": "sources/review-p67-p109/amendment-215.pdf",
+    "sha256": "2e01df7450d95485dab09281aa4e834031932db790c89b502130f4b7d1fc441b",
+    "http_status": 200,
+    "format_valid": true,
+    "pdf_magic": true,
+    "extracted_text_chars": 21379,
+    "expected_title_present": true
+  },
+  {
+    "path": "sources/review-p67-p109/bag-9azr48-24.html",
+    "sha256": "a0e3bd7a49eb08b14e1691d5b7bd7616f384d6779018f432a05bccbd09d587db",
+    "http_status": 200,
+    "format_valid": true,
+    "expected_ecli_suffix": "9AZR48.24.0"
+  },
+  {
+    "path": "sources/review-p67-p109/bag-10azr330-16.html",
+    "sha256": "dcdfaa558e4778c999eb5818a9f67bdab5758f21ca18c76183e8a80c2c0b0fa0",
+    "http_status": 200,
+    "format_valid": true,
+    "expected_ecli_suffix": "10AZR330.16.0"
+  },
+  {
+    "path": "sources/review-p67-p109/bgb-126a.html",
+    "sha256": "764cd5c3686f32db43c7435ad2edab7bfb3465ab9b1a6bc6ba793d09baca971c",
+    "http_status": 200,
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p67-p109/bgb-126.html",
+    "sha256": "bd09c0b1fd1b847706c8f0a69971cee5ff80c6a8b01d71f408018a0ca1b3bf4f",
+    "http_status": 200,
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p67-p109/bgb-126b.html",
+    "sha256": "42a3ec23ede8eaae79d2907ed080519d957d3a17e4e6e2107dc15392d6e8e70b",
+    "http_status": 200,
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p67-p109/amendment-2024-323.pdf",
+    "sha256": "dbfcf74401b5009b4346362971985eded52cfcab21ab04bdec2485e626aaa55a",
+    "http_status": 200,
+    "format_valid": true,
+    "pdf_magic": true,
+    "extracted_text_chars": 130325,
+    "expected_title_present": true
+  },
+  {
+    "path": "sources/review-p67-p109/bverwg-8b31-11.html",
+    "sha256": "7de497a0fe63606395dc0f531bcfe65ff703088f84006db79bcf9bdadb8f1645",
+    "http_status": 200,
+    "format_valid": true
+  }
+]

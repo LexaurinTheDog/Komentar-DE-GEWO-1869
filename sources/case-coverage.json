@@ -562,104 +562,108 @@
     {
       "id": "p67",
       "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "disposition": "No additional full-text-verified case selected in bounded review; statutory analysis. No claim of absence of relevant case law."
     },
     {
       "id": "p68",
       "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "disposition": "No additional full-text-verified case selected in bounded review; statutory analysis. No claim of absence of relevant case law."
     },
     {
       "id": "p68a",
       "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "disposition": "No additional full-text-verified case selected in bounded review; statutory analysis. No claim of absence of relevant case law."
     },
     {
       "id": "p69",
       "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "disposition": "No additional full-text-verified case selected in bounded review; statutory analysis. No claim of absence of relevant case law."
     },
     {
       "id": "p69a",
       "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "disposition": "No additional full-text-verified case selected in bounded review; statutory analysis. No claim of absence of relevant case law."
     },
     {
       "id": "p69b",
       "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "disposition": "No additional full-text-verified case selected in bounded review; statutory analysis. No claim of absence of relevant case law."
     },
     {
       "id": "p70",
-      "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "verified_cases": [
+        "bverwg-8b31-11"
+      ],
+      "disposition": "Full-text verified in bounded review 20.10.2026"
     },
     {
       "id": "p70a",
       "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "disposition": "No additional full-text-verified case selected in bounded review; statutory analysis. No claim of absence of relevant case law."
     },
     {
       "id": "p70b",
       "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "disposition": "No additional full-text-verified case selected in bounded review; statutory analysis. No claim of absence of relevant case law."
     },
     {
       "id": "p71",
       "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "disposition": "No additional full-text-verified case selected in bounded review; statutory analysis. No claim of absence of relevant case law."
     },
     {
       "id": "p71a",
       "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "disposition": "No additional full-text-verified case selected in bounded review; statutory analysis. No claim of absence of relevant case law."
     },
     {
       "id": "p71b",
       "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "disposition": "No additional full-text-verified case selected in bounded review; statutory analysis. No claim of absence of relevant case law."
     },
     {
       "id": "p72-bis-80",
       "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "disposition": "No additional full-text-verified case selected in bounded review; statutory analysis. No claim of absence of relevant case law."
     },
     {
       "id": "p81-bis-104n",
       "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "disposition": "No additional full-text-verified case selected in bounded review; statutory analysis. No claim of absence of relevant case law."
     },
     {
       "id": "p104o-bis-104u",
       "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "disposition": "No additional full-text-verified case selected in bounded review; statutory analysis. No claim of absence of relevant case law."
     },
     {
       "id": "p105",
       "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "disposition": "No additional full-text-verified case selected in bounded review; statutory analysis. No claim of absence of relevant case law."
     },
     {
       "id": "p106",
       "verified_cases": [
         "bag-10azr330-16"
       ],
-      "disposition": "verified authority included"
+      "disposition": "Full-text verified in bounded review 20.10.2026"
     },
     {
       "id": "p107",
       "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "disposition": "No additional full-text-verified case selected in bounded review; statutory analysis. No claim of absence of relevant case law."
     },
     {
       "id": "p108",
-      "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "verified_cases": [
+        "bag-9azr48-24"
+      ],
+      "disposition": "Full-text verified in bounded review 20.10.2026"
     },
     {
       "id": "p109",
       "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "disposition": "No additional full-text-verified case selected in bounded review; statutory analysis. No claim of absence of relevant case law."
     },
     {
       "id": "p110",

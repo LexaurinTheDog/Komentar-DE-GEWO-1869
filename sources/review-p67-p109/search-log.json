@@ -1,0 +1,84 @@
+{
+  "verified_at": "2026-10-20T15:21:05.226287+00:00",
+  "tool_policy": "Firecrawl skill consulted; CLI authenticated with zero credits, no billable request attempted. Direct official HTTP captures and web search used without changing settings or credentials.",
+  "queries": [
+    {
+      "query": "site.bundesarbeitsgericht.de 9 AZR 48/24 Entgeltabrechnung digital 2025",
+      "result": "Official full judgment located and captured; Rn. 1–36 read. New case card and § 108 use."
+    },
+    {
+      "query": "site.bundesarbeitsgericht.de 10 AZR 330/16 18 Oktober 2017",
+      "result": "Final judgment and separate preliminary request identified; final judgment only used; Rn. 1–85 read."
+    },
+    {
+      "query": "site.recht.bund.de Gewerbeordnung 2026 Oktober Änderung",
+      "result": "No additional decisive enacted amendment established from search. Current official consolidation and commenced amendment texts checked directly."
+    },
+    {
+      "query": "site.bverwg.de § 70 GewO Platzmangel sachgerechte Auswahl 8 B 31.11",
+      "result": "Official non-admission decision recaptured; tenor and Rn. 1–10 read; existing corpus evidence checked."
+    },
+    {
+      "query": "site.recht.bund.de \"Gewerbeordnung\" \"Oktober 2026\"",
+      "result": "No additional enacted GewO amendment established; search is not exhaustive."
+    },
+    {
+      "query": "site.gesetze-im-internet.de/gewo \"109\" \"elektronischer Form\"",
+      "result": "Current official full text located; § 109 Abs. 3 compared with Art. 36 Nr. 3 BGBl. 2024 I Nr. 323."
+    },
+    {
+      "query": "site.bundesarbeitsgericht.de \"9 AZR 48/24\" 2026",
+      "result": "BAG official judgment and result found. A third-party result mentioned later lower-court proceedings; it was not used as authority and no outcome of the remand is asserted."
+    },
+    {
+      "query": "site.bundesarbeitsgericht.de \"10 AZR 330/16\" \"2026\"",
+      "result": "No separately verified reversal established; selected use rests on unchanged statutory standard and read final judgment."
+    }
+  ],
+  "saved_second_search_response": "sources/review-p67-p109/web-search-results.json",
+  "local_corpus_searches": [
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+      "term": "9 AZR 48/24",
+      "result": "KARE600070298; copied read-only source to batch and compared all 36 numbered official paragraphs."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kare600053741.md",
+      "term": "10 AZR 330/16",
+      "result": "Preserved prior local-corpus snapshot; compared all 85 numbered official paragraphs."
+    },
+    {
+      "path": "sources/review-p55c-p66/rii-wbre410017920.md",
+      "term": "8 B 31.11",
+      "result": "Existing validated corpus snapshot preserved; new official non-script HTML identical to previous capture; only telemetry script parameters changed. Prior corpus comparison retained."
+    }
+  ],
+  "no_case_selected_ids": [
+    "p67",
+    "p68",
+    "p68a",
+    "p69",
+    "p69a",
+    "p69b",
+    "p70a",
+    "p70b",
+    "p71",
+    "p71a",
+    "p71b",
+    "p72-bis-80",
+    "p81-bis-104n",
+    "p104o-bis-104u",
+    "p105",
+    "p107",
+    "p109"
+  ],
+  "no_case_disposition": "No additional sufficiently relevant full-text-verified authority selected in this bounded review. This is not a conclusion that no relevant case law exists.",
+  "limitations": [
+    "This review covers exactly the 20 reviewed_ids. Earlier ledger-reviewed units were not substantively reviewed again; 151 other commentaries are preserved.",
+    "Selective case-law research: one new BAG decision and two existing authorities fully read. No exhaustive case-law coverage; no additional case selected for the other 17 units.",
+    "The BAG 9 AZR 48/24 remand is not described as a final dismissal; subsequent lower-court proceedings are not separately assessed.",
+    "Land rules, EU food-law definitions, all external implementing regulations, collective agreements and concrete garnishment amounts are not comprehensively reviewed; no unsupported numerical or local-law claims added.",
+    "Targeted current-amendment search supplements current official consolidation and enacted commencement clauses, not every gazette issue. Existing whole-book § 161 trigger uncertainty remains outside this batch.",
+    "Technical coverage, hashes, minimum length and prose similarity checks do not establish legal quality or external professional approval."
+  ]
+}

@@ -2,190 +2,194 @@
   "kind": "review",
   "complete": true,
   "decisive_date": "2026-10-19",
-  "verified_at": "2026-10-20T15:08:47.054597+00:00",
+  "verified_at": "2026-10-20T15:21:05.226287+00:00",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p55c",
-    "p55d",
-    "p55e",
-    "p55f",
-    "p56",
-    "p56a",
-    "p57",
-    "p57a-und-58",
-    "p59",
-    "p60",
-    "p60a",
-    "p60b",
-    "p60c",
-    "p60d",
-    "p61",
-    "p61a",
-    "p62-und-63",
-    "p64",
-    "p65",
-    "p66"
+    "p67",
+    "p68",
+    "p68a",
+    "p69",
+    "p69a",
+    "p69b",
+    "p70",
+    "p70a",
+    "p70b",
+    "p71",
+    "p71a",
+    "p71b",
+    "p72-bis-80",
+    "p81-bis-104n",
+    "p104o-bis-104u",
+    "p105",
+    "p106",
+    "p107",
+    "p108",
+    "p109"
   ],
   "changed_ids": [
-    "p55c",
-    "p56",
-    "p56a",
-    "p57",
-    "p59",
-    "p60a",
-    "p60b",
-    "p60c",
-    "p61a",
-    "p64",
-    "p65",
-    "p66"
+    "p67",
+    "p68",
+    "p69",
+    "p69b",
+    "p70",
+    "p70a",
+    "p71b",
+    "p106",
+    "p108",
+    "p109"
   ],
   "retained_ids": [
-    "p55d",
-    "p55e",
-    "p55f",
-    "p57a-und-58",
-    "p60",
-    "p60d",
-    "p61",
-    "p62-und-63"
+    "p68a",
+    "p69a",
+    "p70b",
+    "p71",
+    "p71a",
+    "p72-bis-80",
+    "p81-bis-104n",
+    "p104o-bis-104u",
+    "p105",
+    "p107"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p55c",
+      "id": "p67",
       "disposition": "corrected",
-      "review": "Beginnanzeige nur für § 55a Abs. 1 Nr. 3, 9, 10 und subsidiär zur Anmeldung nach § 14 geprüft. Entsprechende Änderungs-/Abmelderegeln, Verlegungsübermittlung und Dreitages-Empfangsbescheinigung erläutert; keine Erlaubniswirkung. Künftige Datenempfänger nicht vorgezogen. Beispiel und § 4-Nichtanwendung geprüft."
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Regelmäßigkeit, zeitliche Begrenzung, Vielzahl und alternative Warenarten am gesamten Abs. 1 geprüft. Alkoholherkunft und spezieller Zukauf durch Urproduzenten präzisiert; Warenverkauf von Ausschank nach § 68a getrennt. Abs. 2 verlangt Landesverordnung, nicht freie Sortimentsöffnung durch Veranstalter. Beispiel konkret an Herkunft und Zusatzsortiment geprüft."
     },
     {
-      "id": "p55d",
-      "disposition": "retained_after_review",
-      "review": "Amtlicher Strich als leerer Nummernplatz, weder Pflicht noch Ausnahme. Wortlaut und knappe Erläuterung unverändert erhalten; keine historische Ersatzregel eingefügt."
-    },
-    {
-      "id": "p55e",
-      "disposition": "retained_after_review",
-      "review": "Abs. 1 erfasst § 55 Abs. 1 Nr. 1 mit Warenfeilbieten- und Gastgewerbeausnahme, auch unselbständige Ausübung; § 55b-Ausnahme gerade nur für Selbständige. Abs. 2 Behördenausnahme und fortbestehende externe Feiertagsfragen richtig getrennt. Vorhandene Erläuterung und Beispiel erhalten."
-    },
-    {
-      "id": "p55f",
-      "disposition": "retained_after_review",
-      "review": "Verordnungsermächtigung mit Bundesratszustimmung für besonders gefährliche Schaustellertätigkeiten nach § 55 Abs. 1 Nr. 2 geprüft. Keine unmittelbare Versicherungssumme oder bereits aus dem Ermächtigungstext allein folgende Abschlussmodalität behauptet. Konkrete Fachverordnung nicht Gegenstand dieses Reviews; vorhandener Text erhalten."
-    },
-    {
-      "id": "p56",
+      "id": "p68",
       "disposition": "corrected",
-      "review": "Verbotskatalog nach Vertrieb, Feilbieten, Ankauf und Vermittlung aufgeschlüsselt. Pflanzenschutz-/Schädlings-/Holzschutz-Bestellgrenze, medizinische Waren, Lotterien, Prämienvertrieb, getrennte Silberausnahmen, Alkohol und Nr. 6 erläutert. Abs. 4 nur für drei bestimmte Katalogpositionen; B2B-Ausnahme des Abs. 3 davon getrennt. Wegfallpositionen vollständig."
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Abgrenzung bestimmter Waren von Waren aller Art, Zeitmerkmale und Vielzahl geprüft. Im Allgemeinen verhindert starre Wiederholungspflicht; kein zwingender Jahresabstand allein aus dem Begriff Jahrmarkt. Abs. 3 eröffnet Volksfesttätigkeiten ohne pauschale Reisegewerbebefreiung; Keramikbeispiel und §§ 69/69b geprüft."
     },
     {
-      "id": "p56a",
+      "id": "p68a",
+      "disposition": "reviewed_and_retained",
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Vorhandene Erläuterung zutreffend: alkoholfreie Getränke und zubereitete Speisen auf Märkten, Kostproben auf anderen Veranstaltungen. Allgemeine Bewirtungs- und Lebensmittelregeln bleiben gesondert; Standvergabe nach § 70 nicht durch Norm entschieden. Ausstellungsrestaurant-Beispiel ist spezifisch und folgerichtig. Unverändert erhalten."
+    },
+    {
+      "id": "p69",
       "disposition": "corrected",
-      "review": "Alle sieben Absätze und Listen geprüft. Öffentliche Werbung und organisierte Beförderung für Anzeige kumulativ; Abs. 4 gerade nicht auf Busfahrten beschränkt. Leitung, Produktverbote und ihre B2B-Ausnahme nach eigenem Verweis getrennt. § 4 nur partiell. Ältere Fundstelle mit anderem Wanderlagerbegriff nicht als Stichtagsautorität übernommen."
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Gebundene Einzelfestsetzung nach Satz 1 von Kann-Entscheidung für längere Dauer nach Satz 2 getrennt; zweijährige Messe-/Ausstellungsgrenze erhalten. Veranstaltungsrahmen von individueller Zulassung getrennt. Durchführungspflicht, Anzeige und Aufhebung nicht gleichgesetzt. Genehmigungsfiktion über § 6a Abs. 2 ausdrücklich samt Fristvoraussetzungen erläutert."
     },
     {
-      "id": "p57",
+      "id": "p69a",
+      "disposition": "reviewed_and_retained",
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Alle vier zwingenden Ablehnungsgruppen und Auflagenbefugnis samt späterer Änderung geprüft. Veranstalter-/Leiterzuverlässigkeit, Sicherheitskonzept und Ladengeschäftsverbot nicht vermischt. Rettungswegebeispiel behandelt behebbares Defizit gegenüber nicht durch tragfähige Auflagen lösbarem Ablehnungsgrund. Unverändert erhalten; keine freie Wirtschaftlichkeitsablehnung behauptet."
+    },
+    {
+      "id": "p69b",
       "disposition": "corrected",
-      "review": "Gebundene Kartenversagung von Ermessensuntersagung nach § 59 getrennt. Tatsachenprognose und branchenspezifische Versagungsgründe erläutert; Versteigerung und § 4 separat. Bisheriges Finanzvermittlerbeispiel wegen vorher zu prüfender Kartenfreiheit durch gewöhnlichen Warenvertrieb ersetzt. Art. 7 Nr. 8/Art. 16 BGBl. 139 erst ab 20.11.2026."
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Abs. 1 nur vorübergehend Zeit/Öffnungszeiten/Platz, nicht Gegenstand. Entstehung einer Tatsache von späterer Kenntnis unterschieden; Rücknahme/Widerruf und Muss-/Kann-Befugnis genau zugeordnet. Spezialmarkt-Unterschied ausdrücklich herausgearbeitet: Durchführungspflicht nach § 69 Abs. 2, Aufhebung auf Antrag dennoch ohne gesetzliche Unzumutbarkeitsgrenze des § 69b Abs. 3 Satz 2. Unwetterbeispiel geprüft."
     },
     {
-      "id": "p57a-und-58",
-      "disposition": "retained_after_review",
-      "review": "Gemeinsamer Wegfallvermerk einschließlich amtlichem (XXXX)-Präfix gegen XML geprüft. Keine historische Aufhebungs- oder Versagungsregel als aktuell rekonstruiert. Erläuterung erhalten."
-    },
-    {
-      "id": "p59",
+      "id": "p70",
       "disposition": "corrected",
-      "review": "Ermessen, begrenzte Übernahme des § 35 Abs. 1 Satz 2 und 3, Abs. 3, 4, 6, 7a, 8 konkret erläutert. Erweiterte Prognose, Behördenbeteiligung und Vorrang besonderer Regeln unterschieden. Wiedergestattung nur auf Antrag; vor einem Jahr besondere Gründe, kein automatischer Neustart. Beispiel geprüft."
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Teilnehmerkreis, allgemeine Bestimmungen, erforderliche Gruppenbeschränkung und individueller Ausschluss geprüft. Platzmangel rechtfertigt Auswahlbedarf, aber nicht beliebige Auswahl. BVerwG 8 B 31.11 vollständig gelesen; echte Zulassungschance neuer Bewerber, Grenzen von Attraktivität/Bewährtheit und Nichtzulassungscharakter berücksichtigt. Keine automatische Wunschstandzusage oder einziges Auswahlmodell behauptet."
     },
     {
-      "id": "p60",
-      "disposition": "retained_after_review",
-      "review": "Beschäftigungsverbot richtet sich an Gewerbetreibenden und erfordert tätigkeitsbezogene Unzuverlässigkeit der einzelnen beschäftigten Person. Keine automatische Gesamtbetriebsschließung; Ermessen und fiktiver Betrugsfall tragfähig. Vorhandene Erläuterung erhalten."
-    },
-    {
-      "id": "p60a",
+      "id": "p70a",
       "disposition": "corrected",
-      "review": "Abs. 2 Satz 1 verweist nur auf Bauartregel, nicht unterschiedslos gesamten § 33c. LKA-Bescheinigung oder Abdruck und jeweilige örtliche Spielerlaubnis getrennt. Übernommene Aufhebungsregeln, Abs. 3 Spielhalle und Abs. 4 Verfahrensverordnung geprüft. Keine allgemeine Geldspielgeräte-Erlaubnis aus Warengeräteregel abgeleitet."
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Behördliches Ermessen gegenüber Ausstellern/Anbietern und tätigkeitsbezogene Reichweite erläutert; Besucher nicht dem Abs. 1 unterstellt. Abs. 2 entsprechende Versagungsgründe von ausdrücklicher Versteigerererlaubnis nach Abs. 3 getrennt. Keine pauschale Übernahme aller Erlaubnisverfahren. Erweiterung um § 34k aus Art. 7 Nr. 10/Art. 16 BGBl. 139 erst 20.11.2026, nicht vorgezogen."
     },
     {
-      "id": "p60b",
+      "id": "p70b",
+      "disposition": "reviewed_and_retained",
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Amtlicher Titel (weggefallen) und operativer Strich geprüft. Kein zusätzlicher Tatbestand, keine aus dem Nummernplatz erfundene Ausnahme. Knappe Erläuterung und Verweis auf aktuelle §§ 70/70a unverändert erhalten."
+    },
+    {
+      "id": "p71",
+      "disposition": "reviewed_and_retained",
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Drei Veranstaltungstypen des Satzes 1 und zwei Typen des Werbekostensatzes abgeglichen. Keine allgemeine Werbeumlage für Wochenmarkt, kein bundesweiter Preis aus Norm abgeleitet. Landesrechtlicher Gebührenvorbehalt von privatrechtlicher Vergütung getrennt; Servicepauschalenbeispiel zutreffend. Unverändert erhalten."
+    },
+    {
+      "id": "p71a",
+      "disposition": "reviewed_and_retained",
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Landesvorbehalt für Sicherheits-/Ordnungsregeln von unmittelbar vollziehbarer Einzelbefugnis und Veranstalterwillkür getrennt. Lokale konkrete Grundlage weiterhin erforderlich; Beispiel zu Besucherströmen respektiert bundesrechtliche Teilnahmevorgaben. Keine unüberprüfte Landesvorschrift oder Vollständigkeit behauptet. Unverändert erhalten."
+    },
+    {
+      "id": "p71b",
       "disposition": "corrected",
-      "review": "Definitionsmerkmale, selektive Verweisung auf § 68a und § 69 Abs. 1/2 sowie §§ 69a–71a, Fortgeltung der Reisegewerbe-/Branchenvorgaben geprüft. BVerwG 8 B 31.11 vollständig amtlich gelesen. Auswahlgrenzen aus Rn. 5–6, 9 verwendet; gesetzliche Übertragung auf Volksfest ausdrücklich von gerichtlichem Marktfall unterschieden."
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "§ 29 samt Nachschaugrenzen und Auskunftsverweigerung erklärt; gezielter Absatz-/Satzkatalog statt Gesamtübernahme der Branchenerlaubnisse. Verhältnis zu § 70a, Vergütungs-/Rollen-/Registerpflichten und lokale Ausnahme verderblicher Auktionsware geprüft. Verwalterweiterbildung seit Juli 2026 von Maklerweiterbildung getrennt. Künftige Erweiterung Art. 7 Nr. 11 BGBl. 139 erst 20.11.2026 ausgeschlossen."
     },
     {
-      "id": "p60c",
+      "id": "p72-bis-80",
+      "disposition": "reviewed_and_retained",
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Amtlich zusammengefasster Wegfallbereich mit (XXXX)-Kennung, ohne ausgelassene operative Einzelnormen. Historische §§ nicht als geltend rekonstruiert. Aussage über fehlende heutige zusätzliche Marktordnung zutreffend; unverändert erhalten."
+    },
+    {
+      "id": "p81-bis-104n",
+      "disposition": "reviewed_and_retained",
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Gesamter amtlicher Wegfallbereich gegen XML und Reihenfolge geprüft. Keine gegenwärtigen Organisations-/Berufspflichten aus Nummernfortführung behauptet. Historische Verweise erfordern andere zeitliche Quelle; diese nicht erfunden. Unverändert erhalten."
+    },
+    {
+      "id": "p104o-bis-104u",
+      "disposition": "reviewed_and_retained",
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Getrennter amtlicher Wegfallbereich vollständig, keine aktive Buchstabennorm innerhalb des XML-Datensatzes. Folgender aktiver Vertragsbestand beginnt bei § 105. Erhaltene Veranstaltungsprüfliste ist thematisch brauchbar und ersetzt keine Einzelnorm. Unverändert erhalten."
+    },
+    {
+      "id": "p105",
+      "disposition": "reviewed_and_retained",
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Vertragsabschluss/Inhalt/Form und zwingende gesetzliche/kollektive Grenzen sowie § 6 Abs. 2 geprüft. Vertragswirksamkeit von Nachweis wesentlicher Bedingungen ausdrücklich getrennt; keine unrichtige aktuelle Detailform des Nachweisgesetzes behauptet. Mündlicher Beginn als fiktiver Fall mit Spezialformvorbehalt richtig. Unverändert erhalten."
+    },
+    {
+      "id": "p106",
       "disposition": "corrected",
-      "review": "Mitführ-, Vorlage- und Einstellungsanordnung nach Abs. 1 unterschieden. Kundenkontakt als Aushändigungsmerkmal des Abs. 2; für Nachweisinhaber nur Satz 1 ausdrücklich verwiesen. Sonstige glaubhaft machende Unterlage nach Abs. 3 nicht mit beglaubigter Kartenkopie gleichgesetzt. Beispiel zweier Teams konkretisiert."
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Alle drei Sätze und BAG 10 AZR 330/16 vollständig gelesen. Vertraglicher Rahmen, ergebnisbezogene Billigkeitskontrolle, Entscheidungszeitpunkt und Darlegungs-/Beweislast präzisiert. Kein vorläufiges Befolgungsgebot, aber Risiko fehlerhafter Einschätzung. Abgetrennte Vergütungsfragen nicht als unbedingter Zahlungsanspruch gelesen. Behinderungsbeispiel als eigene Anwendung, nicht gerichtlicher Sachverhalt bezeichnet."
     },
     {
-      "id": "p60d",
-      "disposition": "retained_after_review",
-      "review": "Eingriffskatalog, Ermessen und Abgrenzung zu § 59 geprüft. Amtlicher Verweis auf nicht mehr vorhandenen § 56 Abs. 3 Satz 2 weiterhin offen ausgewiesen; kein Eingriff durch erfundene Ersatznorm. Beispiel beruht auf tatsächlich bestehendem § 56 Abs. 1. Erläuterung erhalten."
+      "id": "p107",
+      "disposition": "reviewed_and_retained",
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Alle drei Absätze gegen frische XML geprüft: Euro, vereinbarte Teil-Sachbezüge mit Interessen-/Eigenartsvoraussetzung, Kreditverbot, Selbstkosten, mittlere Art/Güte und Pfändbarkeitsgrenze. Regelmäßige Arbeitgebervergütung von freiwilligem Dritttrinkgeld getrennt. Unterkunfts-/Trinkgeldbeispiel passt zu beiden Schutzgrenzen; unverändert erhalten, keine aktuellen Pfändungsbeträge erfunden."
     },
     {
-      "id": "p61",
-      "disposition": "retained_after_review",
-      "review": "Gewöhnlicher Aufenthalt für aufgezählte Karten-/Personenverfahren und Weiterführung nach Umzug nur mit Zustimmung geprüft. Keine Gesamtzuständigkeit am Verkaufsort oder für Spielortgenehmigungen behauptet. Beispiel und bestehende Erläuterung erhalten."
-    },
-    {
-      "id": "p61a",
+      "id": "p108",
       "disposition": "corrected",
-      "review": "§ 29 entsprechend mit Grenzen, branchenspezifischer Absatz-/Satzkatalog und örtlich begrenzte Ausnahme für verderbliche Versteigerungsware geprüft. Verwalterweiterbildung seit Juli 2026 von entfallener Maklerweiterbildung getrennt. Art. 7 Nr. 9/Art. 16 BGBl. 139 erst ab 20.11.2026. Keine vorgezogene neue Darlehensvermittlerpflicht."
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Abrechnungspflicht, unveränderte Angaben gegenüber letzter ordnungsgemäßer Abrechnung und Bescheinigungen nach Abs. 3 geprüft. Beamten-/Richter-/Soldatenmitteilungen nun ausdrücklich berücksichtigt. BAG 9 AZR 48/24 Rn. 1–36 vollständig gelesen, alle 36 nummerierten Absätze im Korpus bestätigt. Digitaler Erfüllungsweg mit Zugriff/Speicherbarkeit, fehlendem privaten IT-Zwang und offenem Mitbestimmungspunkt bei Zurückverweisung aufgenommen. Gleiches Netto allein befreit bei geänderter Zusammensetzung nicht."
     },
     {
-      "id": "p62-und-63",
-      "disposition": "retained_after_review",
-      "review": "Gemeinsame Wegfallstelle und Übergang zur Veranstaltungstypologie geprüft. Reisegewerbe-Prüfliste behandelt Bestellung, Ausnahme, Anzeige, Verbote, Wanderlager, Beschäftigtennachweise und Branchenpflichten konkret. Text erhalten."
-    },
-    {
-      "id": "p64",
+      "id": "p109",
       "disposition": "corrected",
-      "review": "Abs. 1 zeitlich begrenzt, grundsätzlich wiederkehrend, Vielzahl, wesentlicher Branchenumfang und überwiegender Mustervertrieb an genannten Abnehmerkreis; Abs. 2 eingeschränkter Letztverbraucherkauf. Ungenaue Formulierung „mehrere“ an gesetzliche „Vielzahl“ angepasst; übriger Text samt Beispiel erhalten."
-    },
-    {
-      "id": "p65",
-      "disposition": "corrected",
-      "review": "Zeitliche Begrenzung zuvor nicht eigens erläutert und nun ausdrücklich ergänzt. Vielzahl, repräsentativer Branchen-/Gebietsbezug und Informationsalternative ohne sofortigen Verkauf geprüft. Keine Wiederkehr- oder Fachpublikumspflicht hineingelesen. Beispiel erhalten."
-    },
-    {
-      "id": "p66",
-      "disposition": "corrected",
-      "review": "Vielzahl und im Wesentlichen geschäftlicher Abnehmerkreis, offener Warenumfang und Unterschied zu zeitlich begrenzten Veranstaltungstypen geprüft. „Mehrere“ zu „Vielzahl“ präzisiert; keine feste Mindestzahl erfunden. Beispiel und sachbezogene Anforderungen erhalten."
+      "source": "sources/review-p67-p109/BJNR002450869.xml",
+      "finding": "Einfaches/qualifiziertes Zeugnis, Klarheit und gezielte verdeckte Aussage unterschieden. Neue elektronische Form seit 01.01.2025 mit amtlichem Änderungsgesetz Art. 36 Nr. 3/Art. 74 Abs. 1 bestätigt. Zustimmung und qualifizierte elektronische Signatur nach amtlichem § 126a BGB ausdrücklich erklärt; Abgrenzung zu § 108/§ 126b BGB. Unsigniertes Portal-PDF erfüllt Zeugnisform nicht; keine Noten-/Schlussformelpflicht allein aus Gesetzestext behauptet."
     }
   ],
   "limitations": [
-    "Independent substantive review covers exactly these 20 assigned units. Earlier batches are preserved, not rereviewed. No whole-book completion or external professional approval.",
-    "Case-law research is selective: one additional decision read in full on official court HTML and matched to official XML/local corpus. No sufficiently relevant additional full-text-verified case selected for the other assigned units; no absence claim.",
-    "No comprehensive audit of Land law, implementing regulations, EU medical-device definitions or all external banking and civil-law rules. No unverified external detail values are supplied.",
-    "Targeted actuality/commencement checks, not an audit of every gazette issue. Original decisive date remains 2026-10-19; source recheck occurred 2026-10-20.",
-    "The official dangling reference in § 60d is disclosed and cannot itself supply a missing substantive rule. Technical validation and prose diagnostics do not establish legal quality."
+    "This review covers exactly the 20 reviewed_ids. Earlier ledger-reviewed units were not substantively reviewed again; 151 other commentaries are preserved.",
+    "Selective case-law research: one new BAG decision and two existing authorities fully read. No exhaustive case-law coverage; no additional case selected for the other 17 units.",
+    "The BAG 9 AZR 48/24 remand is not described as a final dismissal; subsequent lower-court proceedings are not separately assessed.",
+    "Land rules, EU food-law definitions, all external implementing regulations, collective agreements and concrete garnishment amounts are not comprehensively reviewed; no unsupported numerical or local-law claims added.",
+    "Targeted current-amendment search supplements current official consolidation and enacted commencement clauses, not every gazette issue. Existing whole-book § 161 trigger uncertainty remains outside this batch.",
+    "Technical coverage, hashes, minimum length and prose similarity checks do not establish legal quality or external professional approval."
   ],
-  "prior_batch_record": "sources/review-p55c-p66/before-review-result.json",
+  "prior_batch_record": "sources/review-p67-p109/before-review-result.json",
   "evidence": {
-    "preflight": "sources/review-p55c-p66/preflight.json",
-    "captures": "sources/review-p55c-p66/captures.json",
-    "preservation": "sources/review-p55c-p66/batch-checks.json",
-    "diff": "sources/review-p55c-p66/commentary-changes.diff",
-    "case_card": "cases/bverwg-8b31-11.md",
-    "case_comparison": "sources/review-p55c-p66/case-corpus-comparison.json",
-    "search_log": "sources/review-p55c-p66/search-log.json"
+    "source_preflight": "sources/review-p67-p109/preflight.json",
+    "captures": "sources/review-p67-p109/captures.json",
+    "batch_checks": "sources/review-p67-p109/batch-checks.json",
+    "exact_changes": "sources/review-p67-p109/commentary-changes.diff",
+    "case_comparison": "sources/review-p67-p109/case-corpus-comparison.json",
+    "search_log": "sources/review-p67-p109/search-log.json"
   },
   "unassigned_commentaries_preserved": 151,
-  "whole_book_completion_claimed": false,
-  "validation": {
-    "validated_at": "2026-10-20T15:10:58.956593+00:00",
-    "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
-    "result": {
-      "repo": "Komentar-DE-GEWO-1869",
-      "units": 171,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 231158,
-      "errors": [],
-      "warnings": [],
-      "ok": true
-    },
-    "content_checkpoint": "3fe7d84ca5dc54a42d4ebf47b184d58a629ed726",
-    "work_content_checkpoint": "2afaafcdab0307f048c90d0e33251462fa2095ae",
-    "scope": "Strict technical validation of rebuilt book. Substantive review restricted to exactly 20 assigned IDs; 151 other commentaries preserved. No whole-book substantive completion."
-  }
+  "whole_book_completion_claimed": false
 }

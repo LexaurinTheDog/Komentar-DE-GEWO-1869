@@ -1,0 +1,20 @@
+[
+  {
+    "case": "bag-9azr48-24",
+    "official_html": "sources/review-p67-p109/bag-9azr48-24.html",
+    "official_numbered_paragraphs": 36,
+    "missing_from_local_after_typography_normalization": [],
+    "corpus_path": "sources/review-p67-p109/rii-kare600070298.md",
+    "corpus_sha256": "490957d74482fd6bc0a4bea970428181e0f82b4351710babb98288bdde002c16",
+    "method": "Each numbered official dd content searched in preserved local corpus after whitespace, Markdown marker and typography normalization; unnumbered continuations and tenor read manually in court main text."
+  },
+  {
+    "case": "bag-10azr330-16",
+    "official_html": "sources/review-p67-p109/bag-10azr330-16.html",
+    "official_numbered_paragraphs": 85,
+    "missing_from_local_after_typography_normalization": [],
+    "corpus_path": "sources/review-p67-p109/rii-kare600053741.md",
+    "corpus_sha256": "d4fea4423c2267e4ae11a4befc8ad07741502ddafbda2858fd0998763d0fc4c9",
+    "method": "Each numbered official dd content searched in preserved local corpus after whitespace, Markdown marker and typography normalization; unnumbered continuations and tenor read manually in court main text."
+  }
+]

@@ -5,7 +5,7 @@
   "authoring_started_at": "2026-10-19",
   "preflight_date": "2026-10-20",
   "official_url": "https://www.gesetze-im-internet.de/gewo/",
-  "verified_at": "2026-10-20T15:08:47.054597+00:00",
+  "verified_at": "2026-10-20T15:12:49.285209+00:00",
   "version_evidence": [
     {
       "source": "sources/amendment-215.pdf",
@@ -1066,5 +1066,198 @@
       "work_content_checkpoint": "2afaafcdab0307f048c90d0e33251462fa2095ae",
       "scope": "Strict technical validation of rebuilt book. Substantive review restricted to exactly 20 assigned IDs; 151 other commentaries preserved. No whole-book substantive completion."
     }
+  },
+  "bounded_review_p67_p109_source_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/gewo/",
+    "verified_at": "2026-10-20T15:12:49.285209+00:00",
+    "captures": "sources/review-p67-p109/captures.json",
+    "raw_xml": "sources/review-p67-p109/BJNR002450869.xml",
+    "raw_xml_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
+    "fresh_xml_identical_to_canonical": true,
+    "version_evidence": [
+      {
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "location": "framework standangabe and full official index/HTML",
+        "effect": "Latest incorporated amendment Art. 1 G v. 20.7.2026 I Nr. 215; fresh XML byte-identical to canonical authoring source. Fetch/build date is not used as commencement evidence."
+      },
+      {
+        "source": "sources/review-p67-p109/amendment-139.pdf",
+        "location": "Art. 7 Nr. 10–11; Art. 16 Abs. 1 and Abs. 2 Nr. 2; publication 18.05.2026",
+        "effect": "§ 70a Abs. 2 and § 71b Abs. 2 Satz 1 additional loan-intermediary provisions effective only 20.11.2026. Earlier commencement of § 34l does not advance them. Excluded at decisive date."
+      },
+      {
+        "source": "sources/review-p67-p109/amendment-215.pdf",
+        "location": "Art. 1 Nr. 3; Art. 11 Abs. 1; publication 23.07.2026",
+        "effect": "§ 34c Abs. 2a administrator-only training effective 24.07.2026, relevant through § 71b. Estate-agent training removed."
+      },
+      {
+        "source": "sources/review-p67-p109/amendment-2024-323.pdf",
+        "location": "Art. 36 Nr. 3; Art. 74 Abs. 1 and entire exception list Abs. 2–13; publication 29.10.2024, PDF pp. 20, 34–35",
+        "effect": "New § 109 Abs. 3 electronic certificate with consent from 01.01.2025 (first day of following quarter). Exception in Abs. 9 concerns Art. 36 Nr. 1–2, not Nr. 3. Electronic-form permission is operative on decisive date."
+      }
+    ],
+    "historical_versions_checked": {
+      "duplicate_official_labels": [],
+      "duplicate_doknr": [],
+      "selection": "One consolidated record per official identifier; TOC excluded as navigation. Historical transition clauses retained as enacted, not alternative versions.",
+      "intake_change_map": "sources/change-map.json",
+      "future_units_excluded": [
+        "§ 34k (2026-11-20)",
+        "§ 162 (2026-11-20)"
+      ]
+    },
+    "annexes_checked": [
+      {
+        "parent_label": "Anlage",
+        "doknr": "BJNR002450869BJNE029500123",
+        "unit_id": "anlage",
+        "included_as": "one complete operative annex, retaining nested numbering",
+        "official_sections": [
+          "I. Begriffsbestimmungen",
+          "II. Zu prüfende Kriterien"
+        ],
+        "official_list_labels": [
+          "1.",
+          "2.",
+          "3.",
+          "4.",
+          "1.",
+          "2.",
+          "a)",
+          "b)",
+          "c)",
+          "d)",
+          "e)",
+          "f)",
+          "g)",
+          "h)",
+          "i)",
+          "j)",
+          "k)",
+          "l)",
+          "3.",
+          "a)",
+          "b)",
+          "c)",
+          "d)",
+          "e)",
+          "f)",
+          "g)",
+          "h)",
+          "aa)",
+          "bb)",
+          "cc)",
+          "dd)",
+          "ee)",
+          "ff)",
+          "gg)",
+          "hh)",
+          "ii)",
+          "jj)",
+          "kk)",
+          "ll)",
+          "mm)",
+          "i)",
+          "aa)",
+          "bb)",
+          "cc)",
+          "dd)",
+          "ee)",
+          "ff)",
+          "4.",
+          "a)",
+          "b)",
+          "c)",
+          "5."
+        ],
+        "parsed_list_labels": [
+          "1.",
+          "2.",
+          "3.",
+          "4.",
+          "1.",
+          "2.",
+          "a)",
+          "b)",
+          "c)",
+          "d)",
+          "e)",
+          "f)",
+          "g)",
+          "h)",
+          "i)",
+          "j)",
+          "k)",
+          "l)",
+          "3.",
+          "a)",
+          "b)",
+          "c)",
+          "d)",
+          "e)",
+          "f)",
+          "g)",
+          "h)",
+          "aa)",
+          "bb)",
+          "cc)",
+          "dd)",
+          "ee)",
+          "ff)",
+          "gg)",
+          "hh)",
+          "ii)",
+          "jj)",
+          "kk)",
+          "ll)",
+          "mm)",
+          "i)",
+          "aa)",
+          "bb)",
+          "cc)",
+          "dd)",
+          "ee)",
+          "ff)",
+          "4.",
+          "a)",
+          "b)",
+          "c)",
+          "5."
+        ],
+        "list_order_agrees": true,
+        "full_text_agrees": true,
+        "evidence_path": "sources/BJNR002450869.xml",
+        "evidence_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561"
+      },
+      {
+        "parent_label": "Anhang EV",
+        "included_as": "not operative in the current XML",
+        "evidence_path": "sources/gewo-framework-notes.md",
+        "reason": "Framework note states measures no longer applicable from 2010/2013; no operative annex record exists. Historical wording not reconstructed."
+      }
+    ],
+    "eingangsformel_checked": {
+      "present_in_official_xml": false,
+      "disposition": "Verified absent: framework record contains editorial footnotes only; no statutory text node. No invented opening formula."
+    },
+    "coverage": {
+      "expected": 171,
+      "parsed": 171,
+      "all_xml_records": 194,
+      "missing": [],
+      "extra": [],
+      "duplicates": [],
+      "unclassified_operative_records": [],
+      "report": "coverage-report.json"
+    },
+    "intake_change_map": "sources/change-map.json",
+    "intake_operatively_changed_units": 0,
+    "unresolved_blockers": [],
+    "scope": "Source/parser preflight and exactly assigned commentary units. Operative annex/source inventory checked without rereviewing unassigned commentaries.",
+    "limitations": [
+      "Targeted amendment search is not an audit of every gazette issue. Existing § 161 trigger-event limitation is preserved; no whole-book legal completion."
+    ]
   }
 }

@@ -1,0 +1,6 @@
+{
+  "old_html_sha256": "587c6f56c2801ba2593bca10eca296322e3a7f7f5b3fe685b63f371d378c78cb",
+  "new_html_sha256": "7de497a0fe63606395dc0f531bcfe65ff703088f84006db79bcf9bdadb8f1645",
+  "html_identical_after_removing_script_elements": true,
+  "difference": "Only changing Cloudflare telemetry script parameters; all non-script HTML including decision text unchanged."
+}
