@@ -42,6 +42,7 @@ def list_hierarchy(content):
 
 def uid(e):
     if e=='Anlage':return 'anlage'
+    if e=='Eingangsformel':return 'eingangsformel'
     e=e.replace('(XXXX) ','')
     return 'p'+e.replace('§','').strip().replace(' ','-')
 
@@ -57,7 +58,14 @@ for n in r.findall('norm'):
         structure=structure[:level-1]+[label];struct_keys=struct_keys[:level-1]+[key]
         dispositions.append({'doknr':n.get('doknr'),'type':'structure','key':key,'label':label});continue
     if not e:
-        dispositions.append({'doknr':n.get('doknr'),'type':'metadata','notes':clean(n.find('textdaten/fussnoten/Content'))});continue
+        if clean(n.find('textdaten/text/Content')):
+            # Never silently discard an unnumbered operative opening formula.
+            # The verified GewO framework record has footnotes only, no such text.
+            raise ValueError((n.get('doknr'),'unlabelled substantive text requires explicit classification'))
+        framework_notes=clean(n.find('textdaten/fussnoten/Content'))
+        dispositions.append({'doknr':n.get('doknr'),'type':'metadata','operative_text_present':False,'notes':framework_notes})
+        (W/'sources/gewo-framework-notes.md').write_text('# Redaktionelle Rahmenhinweise der amtlichen XML\n\n'+framework_notes+'\n')
+        continue
     if e=='Inhaltsübersicht':
         dispositions.append({'doknr':n.get('doknr'),'type':'table_of_contents','reason':'duplicate navigation, not an operative provision'});continue
     # editorial chapters keep statutory ordering while staying readable.
@@ -76,7 +84,7 @@ for n in r.findall('norm'):
         if note and note in text:
             text=text.replace(note,'',1).lstrip();embedded_notes.append(note)
     notes='\n\n'.join(([notes] if notes else [])+embedded_notes)
-    u={'id':uid(e),'label':e.replace('(XXXX) ',''),'title':title,'chapter':chapter,'structure':list(structure),'text':text,'notes':[notes] if notes else [],'official_doknr':n.get('doknr'),'list_hierarchy':list_hierarchy(n.find('textdaten/text/Content')),'source_empty_text_with_repeal_title':empty}
+    u={'id':uid(e),'label':e,'display_label':e.removeprefix('(XXXX) '),'title':title,'chapter':chapter,'structure':list(structure),'text':text,'notes':[notes] if notes else [],'official_doknr':n.get('doknr'),'list_hierarchy':list_hierarchy(n.find('textdaten/text/Content')),'source_empty_text_with_repeal_title':empty}
     units.append(u);canonical+=['## '+u['label']+(' — '+title if title else ''),text]
 (W/'units.jsonl').write_text(''.join(json.dumps(u,ensure_ascii=False)+'\n' for u in units))
 (W/'sources/gewo-canonical.md').write_text('# Gewerbeordnung\n\n'+ '\n\n'.join(canonical)+'\n')

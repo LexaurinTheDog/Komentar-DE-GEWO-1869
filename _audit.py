@@ -26,7 +26,8 @@ blocks=re.split(r'(?m)^#{3,4} ',source)[1:];old={}
 for b in blocks:
  head,_,body=b.partition('\n');h=head.replace('(XXXX) ','')
  for u in sorted(U,key=lambda v:len(v['label']),reverse=True):
-  if h.startswith(u['label']) and (len(h)==len(u['label']) or h[len(u['label'])].isspace()):old[u['id']]=(head,body.strip());break
+  label=u.get('display_label',u['label'])
+  if h.startswith(label) and (len(h)==len(label) or h[len(label)].isspace()):old[u['id']]=(head,body.strip());break
 for u in U:
  v=old.get(u['id']);oldtxt=v[1] if v else '';oldtxt=re.split(r'(?m)^Fußnote:',oldtxt)[0].strip()
  # Empty repeal text often only appears in heading in intake.

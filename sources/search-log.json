@@ -175,5 +175,18 @@
       ],
       "note": "Exact matching case-number metadata distinguished from citations occurring in other decisions."
     }
+  ],
+  "preflight_searches": [
+    {
+      "date": "2026-10-20T14:10:04.546311+00:00",
+      "tool": "web search (Firecrawl unavailable: zero credits)",
+      "queries": [
+        "site.recht.bund.de \"Gewerbeordnung\" \"2026\" \"Oktober\"",
+        "site.recht.bund.de \"Gewerbeordnung\" \"2026\" \"September\"",
+        "site.recht.bund.de \"Gewerbeordnung\" \"2026\" \"215\""
+      ],
+      "snapshot": "sources/preflight-20261020/search-results.txt",
+      "use": "Discovery only; source conclusions rest on saved official bodies and commencement provisions, not snippets."
+    }
   ]
 }

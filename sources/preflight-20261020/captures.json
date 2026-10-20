@@ -1,0 +1,133 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/gewo/",
+    "final_url": "https://www.gesetze-im-internet.de/gewo/",
+    "accessed_at": "2026-10-20T14:05:45.040176+00:00",
+    "http_status": 200,
+    "response_headers": {
+      "Date": "Tue, 20 Oct 2026 14:05:45 GMT",
+      "Server": "Apache",
+      "Last-Modified": "Tue, 20 Oct 2026 00:14:21 GMT",
+      "ETag": "\"9342-65e3a83217275\"",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "37698",
+      "Vary": "Accept-Encoding",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "sameorigin",
+      "X-XSS-Protection": "1; mode=block",
+      "Content-Type": "text/html",
+      "Connection": "close"
+    },
+    "path": "sources/preflight-20261020/index.html",
+    "sha256": "692b5fe3e44ea3f7afa3014d7d0492e502f4aa9db38944f13a5c76b59b56cb7e",
+    "bytes": 37698,
+    "validated_format": "html"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html",
+    "final_url": "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html",
+    "accessed_at": "2026-10-20T14:05:45.264793+00:00",
+    "http_status": 200,
+    "response_headers": {
+      "Date": "Tue, 20 Oct 2026 14:05:45 GMT",
+      "Server": "Apache",
+      "Last-Modified": "Tue, 20 Oct 2026 00:14:20 GMT",
+      "ETag": "\"8339d-65e3a830c6037\"",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "537501",
+      "Vary": "Accept-Encoding",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "sameorigin",
+      "X-XSS-Protection": "1; mode=block",
+      "Content-Type": "text/html",
+      "Connection": "close"
+    },
+    "path": "sources/preflight-20261020/full.html",
+    "sha256": "b8db41db679b301143c45c54a2832ff614f298c976b307ee4a337f48703085e2",
+    "bytes": 537501,
+    "validated_format": "html"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/gewo/xml.zip",
+    "final_url": "https://www.gesetze-im-internet.de/gewo/xml.zip",
+    "accessed_at": "2026-10-20T14:05:46.321538+00:00",
+    "http_status": 200,
+    "response_headers": {
+      "Date": "Tue, 20 Oct 2026 14:05:46 GMT",
+      "Server": "Apache",
+      "Last-Modified": "Fri, 21 Aug 2026 19:55:03 GMT",
+      "ETag": "\"15730-65994032ac2f1\"",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "87856",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "sameorigin",
+      "X-XSS-Protection": "1; mode=block",
+      "Content-Type": "application/zip",
+      "Connection": "close"
+    },
+    "path": "sources/preflight-20261020/gewo.zip",
+    "sha256": "300e2939e5dcd9a83b047303c70dc473e59eb923995aeb50d41e35adaa947b52",
+    "bytes": 87856,
+    "extracted_xml_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
+    "unchanged_from_authoring_xml": true,
+    "xml_stand": [
+      "Neugefasst durch Bek. v. 22.2.1999 I 202",
+      "Zuletzt geändert durch Art. 1 G v. 20.7.2026 I Nr. 215"
+    ],
+    "validated_format": "zip"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile",
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-20T14:06:38.383049+00:00",
+    "http_status": 200,
+    "response_headers": {
+      "Date": "Tue, 20 Oct 2026 14:06:38 GMT",
+      "Server": "Apache",
+      "Set-Cookie": "AL_LB-S=$xc/Bg1RNypt9kOHuO1NGw2twG9ShRsN_slrkxgNZE4Z8WZ414I3; Path=/; Secure; HttpOnly; SameSite=None",
+      "Referrer-Policy": "same-origin",
+      "X-Frame-Options": "sameorigin",
+      "X-UA-Compatible": "IE=edge",
+      "X-Server-Generated": "Tue, 20 Oct 2026 13:14:51 GMT",
+      "X-Content-Type-Options": "nosniff",
+      "Content-Security-Policy": "default-src 'self'; connect-src 'self'; font-src 'self' data:; worker-src blob: 'self'; base-uri 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' *.itzbund.de; object-src 'self' multimedia.gsb.bund.de; media-src blob: 'self' multimedia.gsb.bund.de; frame-src 'self' blob:; img-src 'self' blob: data:; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests;",
+      "X-Permitted-Cross-Domain-Policies": "none",
+      "X-XSS-Protection": "1;mode=block",
+      "Cache-Control": "max-age=604800",
+      "Content-Language": "de-DE",
+      "Vary": "Accept-Encoding",
+      "Strict-Transport-Security": "max-age=31536000",
+      "Connection": "close",
+      "Transfer-Encoding": "chunked",
+      "Content-Type": "application/pdf;charset=UTF-8"
+    },
+    "path": "sources/preflight-20261020/amendment-33.pdf",
+    "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+    "bytes": 1222431,
+    "validated_format": "pdf"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+    "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+    "accessed_at": "2026-10-20T14:06:39.013129+00:00",
+    "http_status": 200,
+    "response_headers": {
+      "Date": "Tue, 20 Oct 2026 14:06:39 GMT",
+      "Server": "Apache",
+      "Last-Modified": "Tue, 20 Oct 2026 05:30:01 GMT",
+      "ETag": "\"125ca-65e3eec07e7f6\"",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "75210",
+      "Vary": "Accept-Encoding",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "sameorigin",
+      "X-XSS-Protection": "1; mode=block",
+      "Content-Type": "text/html",
+      "Connection": "close"
+    },
+    "path": "sources/preflight-20261020/aktudienst.html",
+    "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+    "bytes": 75210,
+    "validated_format": "html"
+  }
+]

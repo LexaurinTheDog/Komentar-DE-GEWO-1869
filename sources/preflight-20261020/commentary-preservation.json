@@ -1,0 +1,60 @@
+{
+  "method": "Compare bytes with preflight parent HEAD a178361 before checkpoint commit",
+  "unchanged_files": [
+    {
+      "path": "commentary/part-01.md",
+      "sha256": "6048909ed287881f3194450cfe78647b973829a1005f6ab3ff80bb12192fda34"
+    },
+    {
+      "path": "commentary/part-02.md",
+      "sha256": "4d53562a4774b61a8ac5ccf2e81776389d9aacc1868496521fce757b1b273391"
+    },
+    {
+      "path": "commentary/part-03.md",
+      "sha256": "981bde1f75342a725c47243cb28c432c00ec7fb17966421128b3a9995a9c3526"
+    },
+    {
+      "path": "commentary/part-04.md",
+      "sha256": "f981082bb6b81fe3d7fd9404c16d554e1dec3f43b7e6d9a3e974fc464e110a8b"
+    },
+    {
+      "path": "commentary/part-05.md",
+      "sha256": "5673238d0e62fc56bf5fe853b397361ddcb48843dfbebf1820f4c2c58b499612"
+    },
+    {
+      "path": "commentary/part-06.md",
+      "sha256": "3cb8e0a8d843e1381aa9a85a710de6e9c5d5d5aac0de6f8b39e279efd98fdd53"
+    },
+    {
+      "path": "commentary/part-07.md",
+      "sha256": "ef4f8c1d43b40b91da249f279071a8ce63ef25bf5d5e8cc1cffea58f0367b41c"
+    },
+    {
+      "path": "commentary/part-08.md",
+      "sha256": "52742fffc2ae2f5a4760edf1a3497dd4a9cff3ef17864943c750e8b1d6286cec"
+    },
+    {
+      "path": "commentary/part-09.md",
+      "sha256": "5335c27902584370097a4d89706af3fd2ecad4f8082bdd06af22f2a78b5f919a"
+    },
+    {
+      "path": "commentary/part-10.md",
+      "sha256": "53518a675721fac5838750064b00a635fea368ea83a94a94e09645c08404c063"
+    },
+    {
+      "path": "commentary/part-11.md",
+      "sha256": "ae685bbc62acd15534f0ddce420f602ceaa9f5c7b47d4c96ae19d540ecc27790"
+    },
+    {
+      "path": "commentary/part-12.md",
+      "sha256": "0f7c4fb6b1f27be5ba04d2b730ed09f590fb9677b4ff95f7188fa913d2a92114"
+    },
+    {
+      "path": "commentary/part-13.md",
+      "sha256": "84c946946135c1e043a13539054a89208eb89f75a72273b4f19d54bd3a76b600"
+    }
+  ],
+  "commented_units": 171,
+  "commentary_chars": 182524,
+  "new_commentary_units": 0
+}

@@ -471,7 +471,7 @@ Die Datenempfänger sowie die Verarbeitungszwecke, für die Abrufe zugelassen we
 
 (2) Wird ein Gewerbe, zu dessen Ausübung eine Erlaubnis, Genehmigung, Konzession oder Bewilligung (Zulassung) erforderlich ist, ohne diese Zulassung betrieben, so kann die Fortsetzung des Betriebes von der zuständigen Behörde verhindert werden. Das gleiche gilt, wenn ein Gewerbe von einer ausländischen juristischen Person begonnen wird, deren Rechtsfähigkeit im Inland nicht anerkannt wird.
 
-## §§ 16 bis 28
+## (XXXX) §§ 16 bis 28
 
 (weggefallen)
 
@@ -513,7 +513,7 @@ Die Datenempfänger sowie die Verarbeitungszwecke, für die Abrufe zugelassen we
 
 (weggefallen)
 
-## § 30c
+## (XXXX) § 30c
 
 (weggefallen)
 
@@ -1173,7 +1173,7 @@ Absatz 1 Satz 2 bleibt unberührt. Die Entscheidung über ein vorläufiges Beruf
 
 (9) Die Absätze 1 bis 8 sind auf Genossenschaften entsprechend anzuwenden, auch wenn sich ihr Geschäftsbetrieb auf den Kreis der Mitglieder beschränkt; sie finden ferner Anwendung auf den Handel mit Arzneimitteln, mit Losen von Lotterien und Ausspielungen sowie mit Bezugs- und Anteilscheinen auf solche Lose und auf den Betrieb von Wettannahmestellen aller Art.
 
-## §§ 35a und 35b
+## (XXXX) §§ 35a und 35b
 
 (weggefallen)
 
@@ -1270,7 +1270,7 @@ hat die zuständige Behörde unverzüglich nach Erstattung der Gewerbeanmeldung 
 
 (weggefallen)
 
-## §§ 41a und 41b
+## (XXXX) §§ 41a und 41b
 
 (weggefallen)
 
@@ -1278,7 +1278,7 @@ hat die zuständige Behörde unverzüglich nach Erstattung der Gewerbeanmeldung 
 
 -
 
-## §§ 42a bis 44a
+## (XXXX) §§ 42a bis 44a
 
 (weggefallen)
 
@@ -1322,7 +1322,7 @@ Wegen überwiegender Nachteile und Gefahren für das Gemeinwohl kann die fernere
 
 (weggefallen)
 
-## §§ 53 bis 54
+## (XXXX) §§ 53 bis 54
 
 (weggefallen)
 
@@ -1474,7 +1474,7 @@ Satz 1 gilt nicht, wenn sich das Wanderlager ausschließlich an Personen richtet
 
 (3) Die Ausübung des Versteigerergewerbes als Reisegewerbe ist nur zulässig, wenn der Gewerbetreibende die nach § 34b Abs. 1 erforderliche Erlaubnis besitzt.
 
-## §§ 57a und 58
+## (XXXX) §§ 57a und 58
 
 (weggefallen)
 
@@ -1526,7 +1526,7 @@ Für die Erteilung, die Versagung, die Rücknahme und den Widerruf der Reisegewe
 
 (2) Für die Ausübung des Bewachungsgewerbes, des Versteigerergewerbes, des Gewerbes der Makler, Bauträger und Baubetreuer, Wohnimmobilienverwalter, des Versicherungsvermittlergewerbes, des Versicherungsberatergewerbes, des Gewerbes des Finanzanlagenvermittlers oder Honorar-Finanzanlagenberaters sowie des Gewerbes des Immobiliardarlehensvermittlers gelten § 34a Absatz 1a Satz 1 und Absatz 2 bis 5, § 34b Absatz 5 bis 8 und 10, § 34c Absatz 2a, 3 und 5, § 34d Absatz 1 Satz 6 und 7, Absatz 2 Satz 3 bis 6, Absatz 3 und 8 bis 10, § 34f Absatz 4 bis 6, auch in Verbindung mit § 34h Absatz 1 Satz 4 und Absatz 2 und 3, die §§ 34g, 34i Absatz 5 bis 8 und § 34j sowie die auf Grund des § 34a Absatz 2, des § 34b Absatz 8, des § 34c Absatz 3, des § 34e sowie der §§ 34g und 34j erlassenen Rechtsvorschriften entsprechend. Die zuständige Behörde kann für die Versteigerung leicht verderblicher Waren für ihren Bezirk Ausnahmen zulassen.
 
-## §§ 62 und 63
+## (XXXX) §§ 62 und 63
 
 (weggefallen)
 
@@ -1627,15 +1627,15 @@ Den Ländern bleibt es vorbehalten, Vorschriften zur Aufrechterhaltung der öffe
 
 (2) Für die Ausübung des Bewachungsgewerbes, des Versteigerergewerbes, des Gewerbes der Makler, Bauträger und Baubetreuer, Wohnimmobilienverwalter, des Versicherungsvermittlergewerbes, des Versicherungsberatergewerbes, des Gewerbes des Finanzanlagenvermittlers und Honorar-Finanzanlagenberaters sowie des Gewerbes des Immobiliardarlehensvermittlers gelten § 34a Absatz 1a Satz 1 und Absatz 2 bis 5, § 34b Absatz 5 bis 8 und 10, § 34c Absatz 2a, 3 und 5, § 34d Absatz 1 Satz 6 und 7, Absatz 2 Satz 3 bis 6, Absatz 3 und 8 bis 10, § 34f Absatz 4 bis 6, § 34h Absatz 1 Satz 4 und Absatz 2 und 3, § 34i Absatz 5 bis 8 sowie die auf Grund des § 34a Absatz 2, des § 34b Absatz 8, des § 34c Absatz 3, des § 34e sowie der §§ 34g und 34j erlassenen Rechtsvorschriften entsprechend. Die zuständige Behörde kann für die Versteigerung leicht verderblicher Waren für ihren Bezirk Ausnahmen zulassen.
 
-## §§ 72 bis 80
+## (XXXX) §§ 72 bis 80
 
 (weggefallen)
 
-## §§ 81 bis 104n
+## (XXXX) §§ 81 bis 104n
 
 (weggefallen)
 
-## §§ 104o bis 104u
+## (XXXX) §§ 104o bis 104u
 
 (weggefallen)
 
@@ -1681,7 +1681,7 @@ Arbeitgeber und Arbeitnehmer können die berufliche Tätigkeit des Arbeitnehmers
 
 (2) Fortbildungen nach Absatz 1 sollen während der regelmäßigen Arbeitszeit durchgeführt werden. Soweit Fortbildungen nach Absatz 1 außerhalb der regelmäßigen Arbeitszeit durchgeführt werden müssen, gelten sie als Arbeitszeit.
 
-## §§ 112 bis 132a
+## (XXXX) §§ 112 bis 132a
 
 (weggefallen)
 
@@ -1689,11 +1689,11 @@ Arbeitgeber und Arbeitnehmer können die berufliche Tätigkeit des Arbeitnehmers
 
 Die Befugnis zur Führung des Meistertitels in Verbindung mit einer anderen Bezeichnung, die auf eine Tätigkeit im Baugewerbe hinweist, insbesondere des Titels Baumeister und Baugewerksmeister, wird durch Rechtsverordnung der Bundesregierung*) mit Zustimmung des Bundesrates geregelt.
 
-## §§ 133a bis 133d
+## (XXXX) §§ 133a bis 133d
 
 (weggefallen)
 
-## §§ 133e bis 139aa
+## (XXXX) §§ 133e bis 139aa
 
 (weggefallen)
 
@@ -1740,7 +1740,7 @@ unterrichten sie die für die Verfolgung und Ahndung der Verstöße jeweils zust
 8. den Rentenversicherungsträgern,
 9. den Trägern der Sozialhilfe.
 
-## §§ 139c bis 139h
+## (XXXX) §§ 139c bis 139h
 
 (weggefallen)
 
@@ -1748,7 +1748,7 @@ unterrichten sie die für die Verfolgung und Ahndung der Verstöße jeweils zust
 
 (weggefallen)
 
-## §§ 139k und 139m
+## (XXXX) §§ 139k und 139m
 
 (weggefallen)
 
@@ -1756,7 +1756,7 @@ unterrichten sie die für die Verfolgung und Ahndung der Verstöße jeweils zust
 
 (weggefallen)
 
-## §§ 141 bis 141f
+## (XXXX) §§ 141 bis 141f
 
 (weggefallen)
 

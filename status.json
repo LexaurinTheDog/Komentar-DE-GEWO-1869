@@ -1,10 +1,10 @@
 {
-  "stage": "drafted_technical_validation",
+  "stage": "preflight_complete",
   "country": "de",
   "identifier": "GewO",
   "repo": "Komentar-DE-GEWO-1869",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-19T17:29:24.355669+00:00",
+  "updated_at": "2026-10-20T14:10:04.546311+00:00",
   "total_units": 171,
   "completed_units": 171,
   "chapters": 13,
@@ -36,6 +36,18 @@
       "compared": 171,
       "operative_changes": 0,
       "evidence": "sources/change-map.json"
+    },
+    "preflight_20261020": {
+      "official_http_statuses": [
+        200,
+        200,
+        200,
+        200,
+        200
+      ],
+      "raw_xml_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
+      "coverage_report": "coverage-report.json",
+      "exact_official_labels_agree": true
     }
   },
   "case_law_sources": [
@@ -70,7 +82,7 @@
     "warnings": [],
     "ok": true
   },
-  "completeness_result": "All official XML and HTML in-scope identifiers accounted for; no duplicates; whole operative annex and repealed/empty slots included. See completeness-report.json and audit-report.json.",
+  "completeness_result": "171/171 exact XML labels and doknr; all 194 records disposed, no missing or duplicate identifiers; complete operative annex and nested list order; no Eingangsformel in official XML.",
   "independent_review": {
     "performed": false,
     "state": "pending separate process"
@@ -89,7 +101,7 @@
   },
   "link_validation": {
     "ok": true,
-    "checked_local_links": 85,
+    "checked_local_links": 99,
     "broken_local_links": 0
   },
   "audit_result": {
@@ -100,5 +112,13 @@
     "text_disagreements": 0,
     "duplicate_commentary_paragraphs": 0,
     "evidence": "audit-report.json"
-  }
+  },
+  "previous_authoring_stage": "drafted_technical_validation",
+  "active_task": {
+    "kind": "preflight",
+    "complete": true,
+    "evidence": "preflight-result.json",
+    "whole_book_completion_claimed": false
+  },
+  "completed_units_provenance": "171 existing commentaries preserved; this bounded task performed source/parser checks only."
 }

@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-19T17:28:21.593876+00:00",
+  "created_at": "2026-10-20T14:10:54.469831+00:00",
   "verification": "sources/verification.json",
   "files": [
     {
@@ -79,13 +79,18 @@
     },
     {
       "path": "sources/change-map.json",
-      "bytes": 58471,
-      "sha256": "88bb5d853cac8bfdec50e703735366c8f44b777267192020df63282aa49b3675"
+      "bytes": 58590,
+      "sha256": "0dc3bfc76952a0657fff61959547fa4bf5e41b12b738eb3619b16e5323558b98"
     },
     {
       "path": "sources/gewo-canonical.md",
-      "bytes": 315011,
-      "sha256": "4b59b541c40ba919e13657c2adf97993baae572f3b99fef6d2e08a0d095c34f8"
+      "bytes": 315130,
+      "sha256": "733ff4f9741f241314070edea57b7d7eebfedb7b820354a45f914e58f8648c1c"
+    },
+    {
+      "path": "sources/gewo-framework-notes.md",
+      "bytes": 1858,
+      "sha256": "f91f504d9d116fd98b77474ddf7c29f75e7d0c1f65208b20903aea57a23e7901"
     },
     {
       "path": "sources/gewo-full.html",
@@ -118,6 +123,86 @@
       "sha256": "635d97b6c4cb30b7cae7145c45b6a67e22532ab45c6d3b40bbba434292f6101c"
     },
     {
+      "path": "sources/preflight-20261020/BJNR002450869.xml",
+      "bytes": 442893,
+      "sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561"
+    },
+    {
+      "path": "sources/preflight-20261020/aktudienst.html",
+      "bytes": 75210,
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596"
+    },
+    {
+      "path": "sources/preflight-20261020/amendment-33.pdf",
+      "bytes": 1222431,
+      "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af"
+    },
+    {
+      "path": "sources/preflight-20261020/amendment-33.txt",
+      "bytes": 308217,
+      "sha256": "083969daa812de40a9c7ff2ee93674875e701fe194d7a291d4c1f69928252a36"
+    },
+    {
+      "path": "sources/preflight-20261020/captures.json",
+      "bytes": 5568,
+      "sha256": "12761060e3bb8f544c5b90cddfccc791127e4cd97161e7ae62c1e68ec017ee97"
+    },
+    {
+      "path": "sources/preflight-20261020/commentary-preservation.json",
+      "bytes": 1959,
+      "sha256": "b486327b2001925704102bff0b4acf44ec529c379b8801e44b9eb3760286a268"
+    },
+    {
+      "path": "sources/preflight-20261020/completeness-before.json",
+      "bytes": 30366,
+      "sha256": "29f89868c97422c0ee78b72cd33bc66e78731c19c8f45a6507360d4a4a1038b9"
+    },
+    {
+      "path": "sources/preflight-20261020/full.html",
+      "bytes": 537501,
+      "sha256": "b8db41db679b301143c45c54a2832ff614f298c976b307ee4a337f48703085e2"
+    },
+    {
+      "path": "sources/preflight-20261020/gewo-canonical-before.md",
+      "bytes": 315011,
+      "sha256": "4b59b541c40ba919e13657c2adf97993baae572f3b99fef6d2e08a0d095c34f8"
+    },
+    {
+      "path": "sources/preflight-20261020/gewo.zip",
+      "bytes": 87856,
+      "sha256": "300e2939e5dcd9a83b047303c70dc473e59eb923995aeb50d41e35adaa947b52"
+    },
+    {
+      "path": "sources/preflight-20261020/index.html",
+      "bytes": 37698,
+      "sha256": "692b5fe3e44ea3f7afa3014d7d0492e502f4aa9db38944f13a5c76b59b56cb7e"
+    },
+    {
+      "path": "sources/preflight-20261020/parse-before.py",
+      "bytes": 7005,
+      "sha256": "0a358a43a41f8a74a21f0965fe36b2c7397d4a7747ec65db24d0356abe6d707f"
+    },
+    {
+      "path": "sources/preflight-20261020/search-results.txt",
+      "bytes": 29402,
+      "sha256": "3ef00f4f1b72a8710fc1d4dd2f99962fa2c87dc715d789c3bc91275ef9e3ddaa"
+    },
+    {
+      "path": "sources/preflight-20261020/status-before.json",
+      "bytes": 3145,
+      "sha256": "53456714633b1c5e09726a39a2a81351db39d138e2a7f4b33c1ee197cd3fca08"
+    },
+    {
+      "path": "sources/preflight-20261020/verification-before.json",
+      "bytes": 9430,
+      "sha256": "3b8b0805259177d57490d8c82872cb0b5c0c329e76fa49156decf7bcaf63c5d0"
+    },
+    {
+      "path": "sources/preflight-20261020/version-checks.json",
+      "bytes": 842,
+      "sha256": "cb8bf122c41b3e0e0bea2ba84bac887cd1f405d941bab5630de9983692cf757b"
+    },
+    {
       "path": "sources/rii-kare600053741.md",
       "bytes": 78520,
       "sha256": "d4fea4423c2267e4ae11a4befc8ad07741502ddafbda2858fd0998763d0fc4c9"
@@ -129,8 +214,8 @@
     },
     {
       "path": "sources/search-log.json",
-      "bytes": 7531,
-      "sha256": "1f0257d93b1b1deb385999331630b3c902341c8c7658877adfaa60b196e22375"
+      "bytes": 8115,
+      "sha256": "f6a52e524f0cc272260f715112ba1cd442cfc98925cb777ee1d6d71dce254477"
     },
     {
       "path": "sources/search-results/cases-bag.json",
@@ -164,9 +249,9 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 9430,
-      "sha256": "3b8b0805259177d57490d8c82872cb0b5c0c329e76fa49156decf7bcaf63c5d0"
+      "bytes": 16175,
+      "sha256": "c8ab646d83acbfd1619ae371a1cb5961b3f7b0fd4201c462c3327941df8fe88a"
     }
   ],
-  "note": "Manifest itself excluded to avoid recursive hash. Sources include official raw responses, local intake preservation, corpus snapshots and reproducible derivatives."
+  "note": "Manifest itself excluded to avoid recursive hash. Official originals, earlier source snapshots, raw preflight responses, and reproducible derivatives retained."
 }

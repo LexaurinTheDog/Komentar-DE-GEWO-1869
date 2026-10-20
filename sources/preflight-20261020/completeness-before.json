@@ -1,0 +1,1233 @@
+{
+  "raw_xml_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
+  "law_identification": [
+    "GewO"
+  ],
+  "expected_official_units": [
+    {
+      "doknr": "BJNR002450869BJNE003202301",
+      "label": "§ 1"
+    },
+    {
+      "doknr": "BJNR002450869BJNE003302301",
+      "label": "§ 2"
+    },
+    {
+      "doknr": "BJNR002450869BJNE003402301",
+      "label": "§ 3"
+    },
+    {
+      "doknr": "BJNR002450869BJNE003506311",
+      "label": "§ 4"
+    },
+    {
+      "doknr": "BJNR002450869BJNE003602301",
+      "label": "§ 5"
+    },
+    {
+      "doknr": "BJNR002450869BJNE003711311",
+      "label": "§ 6"
+    },
+    {
+      "doknr": "BJNR002450869BJNE025104123",
+      "label": "§ 6a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE025203118",
+      "label": "§ 6b"
+    },
+    {
+      "doknr": "BJNR002450869BJNE025300377",
+      "label": "§ 6c"
+    },
+    {
+      "doknr": "BJNR002450869BJNE003803123",
+      "label": "§ 7"
+    },
+    {
+      "doknr": "BJNR002450869BJNE003903123",
+      "label": "§ 8"
+    },
+    {
+      "doknr": "BJNR002450869BJNE004003123",
+      "label": "§ 9"
+    },
+    {
+      "doknr": "BJNR002450869BJNE004103123",
+      "label": "§ 10"
+    },
+    {
+      "doknr": "BJNR002450869BJNE023106123",
+      "label": "§ 11"
+    },
+    {
+      "doknr": "BJNR002450869BJNE026808123",
+      "label": "§ 11a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE028601119",
+      "label": "§ 11b"
+    },
+    {
+      "doknr": "BJNR002450869BJNE024802118",
+      "label": "§ 11c"
+    },
+    {
+      "doknr": "BJNR002450869BJNE029100123",
+      "label": "§ 11d"
+    },
+    {
+      "doknr": "BJNR002450869BJNE028700128",
+      "label": "§ 12"
+    },
+    {
+      "doknr": "BJNR002450869BJNE022902377",
+      "label": "§ 13"
+    },
+    {
+      "doknr": "BJNR002450869BJNE024902118",
+      "label": "§ 13a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE025408118",
+      "label": "§ 13b"
+    },
+    {
+      "doknr": "BJNR002450869BJNE025901118",
+      "label": "§ 13c"
+    },
+    {
+      "doknr": "BJNR002450869BJNE004732128",
+      "label": "§ 14"
+    },
+    {
+      "doknr": "BJNR002450869BJNE004803301",
+      "label": "§ 15"
+    },
+    {
+      "doknr": "BJNR002450869BJNE005206301",
+      "label": "(XXXX) §§ 16 bis 28"
+    },
+    {
+      "doknr": "BJNR002450869BJNE005913118",
+      "label": "§ 29"
+    },
+    {
+      "doknr": "BJNR002450869BJNE006003301",
+      "label": "§ 30"
+    },
+    {
+      "doknr": "BJNR002450869BJNE006102301",
+      "label": "§ 30a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE006203377",
+      "label": "§ 30b"
+    },
+    {
+      "doknr": "BJNR002450869BJNE006303360",
+      "label": "(XXXX) § 30c"
+    },
+    {
+      "doknr": "BJNR002450869BJNE026205123",
+      "label": "§ 31"
+    },
+    {
+      "doknr": "BJNR002450869BJNE006307116",
+      "label": "§ 32"
+    },
+    {
+      "doknr": "BJNR002450869BJNE028500116",
+      "label": "§ 33"
+    },
+    {
+      "doknr": "BJNR002450869BJNE006403301",
+      "label": "§ 33a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE006503123",
+      "label": "§ 33b"
+    },
+    {
+      "doknr": "BJNR002450869BJNE006607128",
+      "label": "§ 33c"
+    },
+    {
+      "doknr": "BJNR002450869BJNE006707360",
+      "label": "§ 33d"
+    },
+    {
+      "doknr": "BJNR002450869BJNE006806360",
+      "label": "§ 33e"
+    },
+    {
+      "doknr": "BJNR002450869BJNE027603123",
+      "label": "§ 33f"
+    },
+    {
+      "doknr": "BJNR002450869BJNE007012123",
+      "label": "§ 33g"
+    },
+    {
+      "doknr": "BJNR002450869BJNE007102301",
+      "label": "§ 33h"
+    },
+    {
+      "doknr": "BJNR002450869BJNE007205360",
+      "label": "§ 33i"
+    },
+    {
+      "doknr": "BJNR002450869BJNE007312123",
+      "label": "§ 34"
+    },
+    {
+      "doknr": "BJNR002450869BJNE028103119",
+      "label": "§ 34a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE007516123",
+      "label": "§ 34b"
+    },
+    {
+      "doknr": "BJNR002450869BJNE007635123",
+      "label": "§ 34c"
+    },
+    {
+      "doknr": "BJNR002450869BJNE026907128",
+      "label": "§ 34d"
+    },
+    {
+      "doknr": "BJNR002450869BJNE024506128",
+      "label": "§ 34e"
+    },
+    {
+      "doknr": "BJNR002450869BJNE025707128",
+      "label": "§ 34f"
+    },
+    {
+      "doknr": "BJNR002450869BJNE028203128",
+      "label": "§ 34g"
+    },
+    {
+      "doknr": "BJNR002450869BJNE026403128",
+      "label": "§ 34h"
+    },
+    {
+      "doknr": "BJNR002450869BJNE027102128",
+      "label": "§ 34i"
+    },
+    {
+      "doknr": "BJNR002450869BJNE027302123",
+      "label": "§ 34j"
+    },
+    {
+      "doknr": "BJNR002450869BJNE029900128",
+      "label": "§ 34l"
+    },
+    {
+      "doknr": "BJNR002450869BJNE007709123",
+      "label": "§ 35"
+    },
+    {
+      "doknr": "BJNR002450869BJNE007803301",
+      "label": "(XXXX) §§ 35a und 35b"
+    },
+    {
+      "doknr": "BJNR002450869BJNE008010123",
+      "label": "§ 36"
+    },
+    {
+      "doknr": "BJNR002450869BJNE025500377",
+      "label": "§ 36a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE008102301",
+      "label": "§ 37"
+    },
+    {
+      "doknr": "BJNR002450869BJNE008209123",
+      "label": "§ 38"
+    },
+    {
+      "doknr": "BJNR002450869BJNE008302301",
+      "label": "§ 39"
+    },
+    {
+      "doknr": "BJNR002450869BJNE008403377",
+      "label": "§ 39a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE008502301",
+      "label": "§ 40"
+    },
+    {
+      "doknr": "BJNR002450869BJNE008603123",
+      "label": "§ 41"
+    },
+    {
+      "doknr": "BJNR002450869BJNE008702301",
+      "label": "(XXXX) §§ 41a und 41b"
+    },
+    {
+      "doknr": "BJNR002450869BJNE008903377",
+      "label": "§ 42"
+    },
+    {
+      "doknr": "BJNR002450869BJNE009002301",
+      "label": "(XXXX) §§ 42a bis 44a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE009102301",
+      "label": "§ 45"
+    },
+    {
+      "doknr": "BJNR002450869BJNE009203377",
+      "label": "§ 46"
+    },
+    {
+      "doknr": "BJNR002450869BJNE009308118",
+      "label": "§ 47"
+    },
+    {
+      "doknr": "BJNR002450869BJNE009403123",
+      "label": "§ 48"
+    },
+    {
+      "doknr": "BJNR002450869BJNE009504301",
+      "label": "§ 49"
+    },
+    {
+      "doknr": "BJNR002450869BJNE009602301",
+      "label": "§ 50"
+    },
+    {
+      "doknr": "BJNR002450869BJNE009703301",
+      "label": "§ 51"
+    },
+    {
+      "doknr": "BJNR002450869BJNE009803123",
+      "label": "§ 52"
+    },
+    {
+      "doknr": "BJNR002450869BJNE010102301",
+      "label": "(XXXX) §§ 53 bis 54"
+    },
+    {
+      "doknr": "BJNR002450869BJNE010205377",
+      "label": "§ 55"
+    },
+    {
+      "doknr": "BJNR002450869BJNE010311118",
+      "label": "§ 55a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE010404377",
+      "label": "§ 55b"
+    },
+    {
+      "doknr": "BJNR002450869BJNE010509119",
+      "label": "§ 55c"
+    },
+    {
+      "doknr": "BJNR002450869BJNE010603301",
+      "label": "§ 55d"
+    },
+    {
+      "doknr": "BJNR002450869BJNE010708377",
+      "label": "§ 55e"
+    },
+    {
+      "doknr": "BJNR002450869BJNE022208123",
+      "label": "§ 55f"
+    },
+    {
+      "doknr": "BJNR002450869BJNE010816123",
+      "label": "§ 56"
+    },
+    {
+      "doknr": "BJNR002450869BJNE010907311",
+      "label": "§ 56a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE011011124",
+      "label": "§ 57"
+    },
+    {
+      "doknr": "BJNR002450869BJNE011103301",
+      "label": "(XXXX) §§ 57a und 58"
+    },
+    {
+      "doknr": "BJNR002450869BJNE011305301",
+      "label": "§ 59"
+    },
+    {
+      "doknr": "BJNR002450869BJNE011404377",
+      "label": "§ 60"
+    },
+    {
+      "doknr": "BJNR002450869BJNE011505301",
+      "label": "§ 60a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE011605377",
+      "label": "§ 60b"
+    },
+    {
+      "doknr": "BJNR002450869BJNE011704377",
+      "label": "§ 60c"
+    },
+    {
+      "doknr": "BJNR002450869BJNE011805377",
+      "label": "§ 60d"
+    },
+    {
+      "doknr": "BJNR002450869BJNE011906123",
+      "label": "§ 61"
+    },
+    {
+      "doknr": "BJNR002450869BJNE022315123",
+      "label": "§ 61a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE012003301",
+      "label": "(XXXX) §§ 62 und 63"
+    },
+    {
+      "doknr": "BJNR002450869BJNE012202301",
+      "label": "§ 64"
+    },
+    {
+      "doknr": "BJNR002450869BJNE012302301",
+      "label": "§ 65"
+    },
+    {
+      "doknr": "BJNR002450869BJNE012402301",
+      "label": "§ 66"
+    },
+    {
+      "doknr": "BJNR002450869BJNE012508311",
+      "label": "§ 67"
+    },
+    {
+      "doknr": "BJNR002450869BJNE012603301",
+      "label": "§ 68"
+    },
+    {
+      "doknr": "BJNR002450869BJNE012702301",
+      "label": "§ 68a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE012804118",
+      "label": "§ 69"
+    },
+    {
+      "doknr": "BJNR002450869BJNE012903301",
+      "label": "§ 69a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE013002301",
+      "label": "§ 69b"
+    },
+    {
+      "doknr": "BJNR002450869BJNE013102301",
+      "label": "§ 70"
+    },
+    {
+      "doknr": "BJNR002450869BJNE013209124",
+      "label": "§ 70a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE013304377",
+      "label": "§ 70b"
+    },
+    {
+      "doknr": "BJNR002450869BJNE013402301",
+      "label": "§ 71"
+    },
+    {
+      "doknr": "BJNR002450869BJNE013503301",
+      "label": "§ 71a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE022414123",
+      "label": "§ 71b"
+    },
+    {
+      "doknr": "BJNR002450869BJNE013602301",
+      "label": "(XXXX) §§ 72 bis 80"
+    },
+    {
+      "doknr": "BJNR002450869BJNE013702301",
+      "label": "(XXXX) §§ 81 bis 104n"
+    },
+    {
+      "doknr": "BJNR002450869BJNE013802301",
+      "label": "(XXXX) §§ 104o bis 104u"
+    },
+    {
+      "doknr": "BJNR002450869BJNE013903377",
+      "label": "§ 105"
+    },
+    {
+      "doknr": "BJNR002450869BJNE023700377",
+      "label": "§ 106"
+    },
+    {
+      "doknr": "BJNR002450869BJNE023800377",
+      "label": "§ 107"
+    },
+    {
+      "doknr": "BJNR002450869BJNE023905118",
+      "label": "§ 108"
+    },
+    {
+      "doknr": "BJNR002450869BJNE024001119",
+      "label": "§ 109"
+    },
+    {
+      "doknr": "BJNR002450869BJNE024100377",
+      "label": "§ 110"
+    },
+    {
+      "doknr": "BJNR002450869BJNE015004123",
+      "label": "§ 111"
+    },
+    {
+      "doknr": "BJNR002450869BJNE015005123",
+      "label": "(XXXX) §§ 112 bis 132a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE018003377",
+      "label": "§ 133"
+    },
+    {
+      "doknr": "BJNR002450869BJNE018102301",
+      "label": "(XXXX) §§ 133a bis 133d"
+    },
+    {
+      "doknr": "BJNR002450869BJNE018405377",
+      "label": "(XXXX) §§ 133e bis 139aa"
+    },
+    {
+      "doknr": "BJNR002450869BJNE019320128",
+      "label": "§ 139b"
+    },
+    {
+      "doknr": "BJNR002450869BJNE019402301",
+      "label": "(XXXX) §§ 139c bis 139h"
+    },
+    {
+      "doknr": "BJNR002450869BJNE019703377",
+      "label": "§ 139i"
+    },
+    {
+      "doknr": "BJNR002450869BJNE019802301",
+      "label": "(XXXX) §§ 139k und 139m"
+    },
+    {
+      "doknr": "BJNR002450869BJNE020003377",
+      "label": "§ 140"
+    },
+    {
+      "doknr": "BJNR002450869BJNE020102301",
+      "label": "(XXXX) §§ 141 bis 141f"
+    },
+    {
+      "doknr": "BJNR002450869BJNE020204377",
+      "label": "§ 142"
+    },
+    {
+      "doknr": "BJNR002450869BJNE020303301",
+      "label": "§ 143"
+    },
+    {
+      "doknr": "BJNR002450869BJNE020429123",
+      "label": "§ 144"
+    },
+    {
+      "doknr": "BJNR002450869BJNE020520311",
+      "label": "§ 145"
+    },
+    {
+      "doknr": "BJNR002450869BJNE020623123",
+      "label": "§ 146"
+    },
+    {
+      "doknr": "BJNR002450869BJNE020707377",
+      "label": "§ 147"
+    },
+    {
+      "doknr": "BJNR002450869BJNE022503377",
+      "label": "§ 147a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE022705311",
+      "label": "§ 147b"
+    },
+    {
+      "doknr": "BJNR002450869BJNE028300118",
+      "label": "§ 147c"
+    },
+    {
+      "doknr": "BJNR002450869BJNE029600128",
+      "label": "§ 147d"
+    },
+    {
+      "doknr": "BJNR002450869BJNE020809360",
+      "label": "§ 148"
+    },
+    {
+      "doknr": "BJNR002450869BJNE020903301",
+      "label": "§ 148a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE022602301",
+      "label": "§ 148b"
+    },
+    {
+      "doknr": "BJNR002450869BJNE029200123",
+      "label": "§ 148c"
+    },
+    {
+      "doknr": "BJNR002450869BJNE027700118",
+      "label": "§ 149"
+    },
+    {
+      "doknr": "BJNR002450869BJNE021111128",
+      "label": "§ 150"
+    },
+    {
+      "doknr": "BJNR002450869BJNE028806128",
+      "label": "§ 150a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE023203116",
+      "label": "§ 150b"
+    },
+    {
+      "doknr": "BJNR002450869BJNE029401128",
+      "label": "§ 150c"
+    },
+    {
+      "doknr": "BJNR002450869BJNE026103116",
+      "label": "§ 150d"
+    },
+    {
+      "doknr": "BJNR002450869BJNE026504119",
+      "label": "§ 150e"
+    },
+    {
+      "doknr": "BJNR002450869BJNE028900311",
+      "label": "§ 150f"
+    },
+    {
+      "doknr": "BJNR002450869BJNE021305116",
+      "label": "§ 151"
+    },
+    {
+      "doknr": "BJNR002450869BJNE021404118",
+      "label": "§ 152"
+    },
+    {
+      "doknr": "BJNR002450869BJNE021509116",
+      "label": "§ 153"
+    },
+    {
+      "doknr": "BJNR002450869BJNE021606311",
+      "label": "§ 153a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE029000311",
+      "label": "§ 153b"
+    },
+    {
+      "doknr": "BJNR002450869BJNE029301128",
+      "label": "§ 153c"
+    },
+    {
+      "doknr": "BJNR002450869BJNE021805377",
+      "label": "§ 154"
+    },
+    {
+      "doknr": "BJNR002450869BJNE021903377",
+      "label": "§ 154a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE022005377",
+      "label": "§ 155"
+    },
+    {
+      "doknr": "BJNR002450869BJNE023601128",
+      "label": "§ 155a"
+    },
+    {
+      "doknr": "BJNR002450869BJNE022105118",
+      "label": "§ 156"
+    },
+    {
+      "doknr": "BJNR002450869BJNE025005123",
+      "label": "§ 157"
+    },
+    {
+      "doknr": "BJNR002450869BJNE025601119",
+      "label": "§ 158"
+    },
+    {
+      "doknr": "BJNR002450869BJNE026302118",
+      "label": "§ 159"
+    },
+    {
+      "doknr": "BJNR002450869BJNE027400118",
+      "label": "§ 160"
+    },
+    {
+      "doknr": "BJNR002450869BJNE028401123",
+      "label": "§ 161"
+    },
+    {
+      "doknr": "BJNR002450869BJNE029500123",
+      "label": "Anlage"
+    }
+  ],
+  "parsed_official_ids": [
+    "BJNR002450869BJNE003202301",
+    "BJNR002450869BJNE003302301",
+    "BJNR002450869BJNE003402301",
+    "BJNR002450869BJNE003506311",
+    "BJNR002450869BJNE003602301",
+    "BJNR002450869BJNE003711311",
+    "BJNR002450869BJNE025104123",
+    "BJNR002450869BJNE025203118",
+    "BJNR002450869BJNE025300377",
+    "BJNR002450869BJNE003803123",
+    "BJNR002450869BJNE003903123",
+    "BJNR002450869BJNE004003123",
+    "BJNR002450869BJNE004103123",
+    "BJNR002450869BJNE023106123",
+    "BJNR002450869BJNE026808123",
+    "BJNR002450869BJNE028601119",
+    "BJNR002450869BJNE024802118",
+    "BJNR002450869BJNE029100123",
+    "BJNR002450869BJNE028700128",
+    "BJNR002450869BJNE022902377",
+    "BJNR002450869BJNE024902118",
+    "BJNR002450869BJNE025408118",
+    "BJNR002450869BJNE025901118",
+    "BJNR002450869BJNE004732128",
+    "BJNR002450869BJNE004803301",
+    "BJNR002450869BJNE005206301",
+    "BJNR002450869BJNE005913118",
+    "BJNR002450869BJNE006003301",
+    "BJNR002450869BJNE006102301",
+    "BJNR002450869BJNE006203377",
+    "BJNR002450869BJNE006303360",
+    "BJNR002450869BJNE026205123",
+    "BJNR002450869BJNE006307116",
+    "BJNR002450869BJNE028500116",
+    "BJNR002450869BJNE006403301",
+    "BJNR002450869BJNE006503123",
+    "BJNR002450869BJNE006607128",
+    "BJNR002450869BJNE006707360",
+    "BJNR002450869BJNE006806360",
+    "BJNR002450869BJNE027603123",
+    "BJNR002450869BJNE007012123",
+    "BJNR002450869BJNE007102301",
+    "BJNR002450869BJNE007205360",
+    "BJNR002450869BJNE007312123",
+    "BJNR002450869BJNE028103119",
+    "BJNR002450869BJNE007516123",
+    "BJNR002450869BJNE007635123",
+    "BJNR002450869BJNE026907128",
+    "BJNR002450869BJNE024506128",
+    "BJNR002450869BJNE025707128",
+    "BJNR002450869BJNE028203128",
+    "BJNR002450869BJNE026403128",
+    "BJNR002450869BJNE027102128",
+    "BJNR002450869BJNE027302123",
+    "BJNR002450869BJNE029900128",
+    "BJNR002450869BJNE007709123",
+    "BJNR002450869BJNE007803301",
+    "BJNR002450869BJNE008010123",
+    "BJNR002450869BJNE025500377",
+    "BJNR002450869BJNE008102301",
+    "BJNR002450869BJNE008209123",
+    "BJNR002450869BJNE008302301",
+    "BJNR002450869BJNE008403377",
+    "BJNR002450869BJNE008502301",
+    "BJNR002450869BJNE008603123",
+    "BJNR002450869BJNE008702301",
+    "BJNR002450869BJNE008903377",
+    "BJNR002450869BJNE009002301",
+    "BJNR002450869BJNE009102301",
+    "BJNR002450869BJNE009203377",
+    "BJNR002450869BJNE009308118",
+    "BJNR002450869BJNE009403123",
+    "BJNR002450869BJNE009504301",
+    "BJNR002450869BJNE009602301",
+    "BJNR002450869BJNE009703301",
+    "BJNR002450869BJNE009803123",
+    "BJNR002450869BJNE010102301",
+    "BJNR002450869BJNE010205377",
+    "BJNR002450869BJNE010311118",
+    "BJNR002450869BJNE010404377",
+    "BJNR002450869BJNE010509119",
+    "BJNR002450869BJNE010603301",
+    "BJNR002450869BJNE010708377",
+    "BJNR002450869BJNE022208123",
+    "BJNR002450869BJNE010816123",
+    "BJNR002450869BJNE010907311",
+    "BJNR002450869BJNE011011124",
+    "BJNR002450869BJNE011103301",
+    "BJNR002450869BJNE011305301",
+    "BJNR002450869BJNE011404377",
+    "BJNR002450869BJNE011505301",
+    "BJNR002450869BJNE011605377",
+    "BJNR002450869BJNE011704377",
+    "BJNR002450869BJNE011805377",
+    "BJNR002450869BJNE011906123",
+    "BJNR002450869BJNE022315123",
+    "BJNR002450869BJNE012003301",
+    "BJNR002450869BJNE012202301",
+    "BJNR002450869BJNE012302301",
+    "BJNR002450869BJNE012402301",
+    "BJNR002450869BJNE012508311",
+    "BJNR002450869BJNE012603301",
+    "BJNR002450869BJNE012702301",
+    "BJNR002450869BJNE012804118",
+    "BJNR002450869BJNE012903301",
+    "BJNR002450869BJNE013002301",
+    "BJNR002450869BJNE013102301",
+    "BJNR002450869BJNE013209124",
+    "BJNR002450869BJNE013304377",
+    "BJNR002450869BJNE013402301",
+    "BJNR002450869BJNE013503301",
+    "BJNR002450869BJNE022414123",
+    "BJNR002450869BJNE013602301",
+    "BJNR002450869BJNE013702301",
+    "BJNR002450869BJNE013802301",
+    "BJNR002450869BJNE013903377",
+    "BJNR002450869BJNE023700377",
+    "BJNR002450869BJNE023800377",
+    "BJNR002450869BJNE023905118",
+    "BJNR002450869BJNE024001119",
+    "BJNR002450869BJNE024100377",
+    "BJNR002450869BJNE015004123",
+    "BJNR002450869BJNE015005123",
+    "BJNR002450869BJNE018003377",
+    "BJNR002450869BJNE018102301",
+    "BJNR002450869BJNE018405377",
+    "BJNR002450869BJNE019320128",
+    "BJNR002450869BJNE019402301",
+    "BJNR002450869BJNE019703377",
+    "BJNR002450869BJNE019802301",
+    "BJNR002450869BJNE020003377",
+    "BJNR002450869BJNE020102301",
+    "BJNR002450869BJNE020204377",
+    "BJNR002450869BJNE020303301",
+    "BJNR002450869BJNE020429123",
+    "BJNR002450869BJNE020520311",
+    "BJNR002450869BJNE020623123",
+    "BJNR002450869BJNE020707377",
+    "BJNR002450869BJNE022503377",
+    "BJNR002450869BJNE022705311",
+    "BJNR002450869BJNE028300118",
+    "BJNR002450869BJNE029600128",
+    "BJNR002450869BJNE020809360",
+    "BJNR002450869BJNE020903301",
+    "BJNR002450869BJNE022602301",
+    "BJNR002450869BJNE029200123",
+    "BJNR002450869BJNE027700118",
+    "BJNR002450869BJNE021111128",
+    "BJNR002450869BJNE028806128",
+    "BJNR002450869BJNE023203116",
+    "BJNR002450869BJNE029401128",
+    "BJNR002450869BJNE026103116",
+    "BJNR002450869BJNE026504119",
+    "BJNR002450869BJNE028900311",
+    "BJNR002450869BJNE021305116",
+    "BJNR002450869BJNE021404118",
+    "BJNR002450869BJNE021509116",
+    "BJNR002450869BJNE021606311",
+    "BJNR002450869BJNE029000311",
+    "BJNR002450869BJNE029301128",
+    "BJNR002450869BJNE021805377",
+    "BJNR002450869BJNE021903377",
+    "BJNR002450869BJNE022005377",
+    "BJNR002450869BJNE023601128",
+    "BJNR002450869BJNE022105118",
+    "BJNR002450869BJNE025005123",
+    "BJNR002450869BJNE025601119",
+    "BJNR002450869BJNE026302118",
+    "BJNR002450869BJNE027400118",
+    "BJNR002450869BJNE028401123",
+    "BJNR002450869BJNE029500123"
+  ],
+  "expected_count": 171,
+  "parsed_count": 171,
+  "missing": [],
+  "unexpected": [],
+  "duplicates": [],
+  "repealed_or_empty_slots": [
+    {
+      "id": "p2",
+      "label": "§ 2",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p8",
+      "label": "§ 8",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p9",
+      "label": "§ 9",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p10",
+      "label": "§ 10",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p16-bis-28",
+      "label": "§§ 16 bis 28",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p30a",
+      "label": "§ 30a",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p30b",
+      "label": "§ 30b",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p30c",
+      "label": "§ 30c",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p33",
+      "label": "§ 33",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p33b",
+      "label": "§ 33b",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p35a-und-35b",
+      "label": "§§ 35a und 35b",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p37",
+      "label": "§ 37",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p39",
+      "label": "§ 39",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p39a",
+      "label": "§ 39a",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p40",
+      "label": "§ 40",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p41",
+      "label": "§ 41",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p41a-und-41b",
+      "label": "§§ 41a und 41b",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p42",
+      "label": "§ 42",
+      "text": "-"
+    },
+    {
+      "id": "p42a-bis-44a",
+      "label": "§§ 42a bis 44a",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p48",
+      "label": "§ 48",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p50",
+      "label": "§ 50",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p52",
+      "label": "§ 52",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p53-bis-54",
+      "label": "§§ 53 bis 54",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p55d",
+      "label": "§ 55d",
+      "text": "-"
+    },
+    {
+      "id": "p57a-und-58",
+      "label": "§§ 57a und 58",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p62-und-63",
+      "label": "§§ 62 und 63",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p70b",
+      "label": "§ 70b",
+      "text": "-"
+    },
+    {
+      "id": "p72-bis-80",
+      "label": "§§ 72 bis 80",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p81-bis-104n",
+      "label": "§§ 81 bis 104n",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p104o-bis-104u",
+      "label": "§§ 104o bis 104u",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p112-bis-132a",
+      "label": "§§ 112 bis 132a",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p133a-bis-133d",
+      "label": "§§ 133a bis 133d",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p133e-bis-139aa",
+      "label": "§§ 133e bis 139aa",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p139c-bis-139h",
+      "label": "§§ 139c bis 139h",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p139i",
+      "label": "§ 139i",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p139k-und-139m",
+      "label": "§§ 139k und 139m",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p140",
+      "label": "§ 140",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p141-bis-141f",
+      "label": "§§ 141 bis 141f",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p142",
+      "label": "§ 142",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p143",
+      "label": "§ 143",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p154",
+      "label": "§ 154",
+      "text": "(weggefallen)"
+    },
+    {
+      "id": "p154a",
+      "label": "§ 154a",
+      "text": "(weggefallen)"
+    }
+  ],
+  "nonunit_dispositions": [
+    {
+      "doknr": "BJNR002450869",
+      "type": "metadata",
+      "notes": "(+++ Textnachweis Geltung ab: 1.4.1983 +++)\n\n(+++ Zur Anwendung vgl. § 6 +++)\n\n(+++ § 4 Abs. 2: Zur Anwendung vgl. § 34d Abs. 12 Satz 3 +++)\n(+++ § 11a Abs. 4: Zur Nichtanwendung vgl. § 160 Abs. 6 iVm Abs. 1 +++)\n(+++ § 11b Abs. 1: Zur Anwendung bis 10.10.2022 vgl. § 158 Abs. 1 +++)\n(+++ § 14: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 2 +++)\n(+++ § 14 Abs. 1 Satz 2 bis 4, Abs. 4 bis 12: Zur Geltung vgl. § 55c Satz 2 +++)\n(+++ § 15 Abs. 1: Zur Geltung vgl. § 55c Satz 2 +++)\n(+++ § 29: Zur Anwendung vgl. § 34d Abs. 13 Satz 2 +++)\n(+++ § 34b Abs. 1, 3, 4, 6 u. 7: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 1 +++)\n(+++ § 34c Abs. 1 Satz 1 Nr. 1, 3 und 4: Zur Nichtanwendung vgl. § 4 Abs. 1\nSatz 1 +++)\n(+++ § 38 Abs. 1 u. 2: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 1 +++)\n(+++ § 55 Abs. 2 u. 3: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 2 +++)\n(+++ § 55c: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 2 +++)\n(+++ § 56a Abs. 2, 3, 5 u. 7 Nr. 1: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 2\n+++)\n(+++ § 57 Abs. 3: Zur Nichtanwendung vgl. § 4 Abs. 1 Satz 2 +++)\n\n(+++ § 11: Zur Anwendung vgl. § 34 ProstSchG mWv 1.7.2017 +++)\n(+++ § 45: Zur Nichtanwendung vgl. § 20 Abs. 7 WpIG +++)\n\n(+++ Maßgaben aufgrund EinigVtr vgl. GewO Anhang EV;\nMaßgaben nicht mehr anzuwenden gem. Art. 109 Nr. 3 Buchst. a\nDBuchst. bb, Buchst. b DBuchst. aa, ii, Buchst. c DBuchst. aa\nG v. 8.12.2010 I 1864 mWv 15.12.2010 und gem. Art. 1 Nr. 6 Buchst. a\nDBuchst. aa G v. 21.1.2013 I 91 mWv 29.1.2013 +++)\n\n(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:\nUmsetzung der\nEGRL 36/2005 (CELEX Nr: 32005L0036) vgl. G v. 12.12.2008 I 2423\nEURL 2016/97 (CELEX Nr: 32016L0097) vgl. Art. 1 G v. 9.11.2022 I 2009\n+++)\n(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 354, G v. 12.5.2026 I Nr. 139 +++)"
+    },
+    {
+      "doknr": "BJNR002450869BJNE028016128",
+      "type": "table_of_contents",
+      "reason": "duplicate navigation, not an operative provision"
+    },
+    {
+      "doknr": "BJNR002450869BJNG000102301",
+      "type": "structure",
+      "key": "010",
+      "label": "Titel I — Allgemeine Bestimmungen"
+    },
+    {
+      "doknr": "BJNR002450869BJNG000202301",
+      "type": "structure",
+      "key": "020",
+      "label": "Titel II — Stehendes Gewerbe"
+    },
+    {
+      "doknr": "BJNR002450869BJNG000302301",
+      "type": "structure",
+      "key": "020010",
+      "label": "I. — Allgemeine Erfordernisse"
+    },
+    {
+      "doknr": "BJNR002450869BJNG000402301",
+      "type": "structure",
+      "key": "020020",
+      "label": "II. — Erfordernis besonderer Überwachung oder Genehmigung"
+    },
+    {
+      "doknr": "BJNR002450869BJNG000502301",
+      "type": "structure",
+      "key": "020020010",
+      "label": "A. — Anlagen, die einer besonderen Überwachung bedürfen"
+    },
+    {
+      "doknr": "BJNR002450869BJNG000602301",
+      "type": "structure",
+      "key": "020020020",
+      "label": "B. — Gewerbetreibende, die einer besonderen Genehmigung bedürfen"
+    },
+    {
+      "doknr": "BJNR002450869BJNG000702301",
+      "type": "structure",
+      "key": "020030",
+      "label": "III. — Umfang, Ausübung und Verlust der Gewerbebefugnisse"
+    },
+    {
+      "doknr": "BJNR002450869BJNG000802301",
+      "type": "structure",
+      "key": "030",
+      "label": "Titel III — Reisegewerbe"
+    },
+    {
+      "doknr": "BJNR002450869BJNG000902301",
+      "type": "structure",
+      "key": "040",
+      "label": "Titel IV — Messen, Ausstellungen, Märkte"
+    },
+    {
+      "doknr": "BJNR002450869BJNG001002301",
+      "type": "structure",
+      "key": "050",
+      "label": "Titel V — Taxen"
+    },
+    {
+      "doknr": "BJNR002450869BJNG001102301",
+      "type": "structure",
+      "key": "060",
+      "label": "Titel VI — Innungen, Innungsausschüsse, Handwerkskammern, Innungsverbände"
+    },
+    {
+      "doknr": "BJNR002450869BJNG001202301",
+      "type": "structure",
+      "key": "061",
+      "label": "Titel VIa — Handwerksrolle"
+    },
+    {
+      "doknr": "BJNR002450869BJNG001303377",
+      "type": "structure",
+      "key": "070",
+      "label": "Titel VII — Arbeitnehmer"
+    },
+    {
+      "doknr": "BJNR002450869BJNG001403377",
+      "type": "structure",
+      "key": "070010",
+      "label": "I. — Allgemeine arbeitsrechtliche Grundsätze"
+    },
+    {
+      "doknr": "BJNR002450869BJNG001803377",
+      "type": "structure",
+      "key": "070020",
+      "label": "II. — Meistertitel"
+    },
+    {
+      "doknr": "BJNR002450869BJNG002303377",
+      "type": "structure",
+      "key": "070030",
+      "label": "III. — Aufsicht"
+    },
+    {
+      "doknr": "BJNR002450869BJNG002502301",
+      "type": "structure",
+      "key": "080",
+      "label": "Titel VIII — Gewerbliche Hilfskassen"
+    },
+    {
+      "doknr": "BJNR002450869BJNG002602301",
+      "type": "structure",
+      "key": "090",
+      "label": "Titel IX — Statutarische Bestimmungen"
+    },
+    {
+      "doknr": "BJNR002450869BJNG002702301",
+      "type": "structure",
+      "key": "100",
+      "label": "Titel X — Straf- und Bußgeldvorschriften"
+    },
+    {
+      "doknr": "BJNR002450869BJNG002802301",
+      "type": "structure",
+      "key": "110",
+      "label": "Titel XI — Gewerbezentralregister"
+    },
+    {
+      "doknr": "BJNR002450869BJNG002902301",
+      "type": "structure",
+      "key": "110010",
+      "label": "- — Schlußbestimmungen"
+    }
+  ],
+  "annex_disposition": [
+    {
+      "label": "Anlage (zu § 36 Absatz 4a Satz 1)",
+      "id": "anlage",
+      "included": true,
+      "sections": [
+        "I. Begriffsbestimmungen",
+        "II. Zu prüfende Kriterien"
+      ]
+    }
+  ],
+  "range_policy": "Official grouped repealed ranges remain grouped; no invented historically absent letters. Every numbered XML record and sole annex included. Inhaltsübersicht is navigation only.",
+  "complete": true
+}
