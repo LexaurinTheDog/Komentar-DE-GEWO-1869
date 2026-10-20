@@ -2374,5 +2374,21 @@
   "whole_book_completion_claimed": false,
   "independent_whole_book_review_performed_by_finalizer": false,
   "technical_evidence": "sources/finalization-20261020/ledger-audit.json",
-  "previous_review_preserved": "sources/finalization-20261020/before-review-result.json"
+  "previous_review_preserved": "sources/finalization-20261020/before-review-result.json",
+  "validation": {
+    "validated_at": "2026-10-20T16:08:01.398168+00:00",
+    "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+    "result": {
+      "repo": "Komentar-DE-GEWO-1869",
+      "units": 171,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 276356,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "work_content_checkpoint": "b1b851e9278fd5bb09c17b404ec78b2e37b48a18",
+    "output_content_checkpoint": "0b8fa7b88eaf6220e4f85f182db43c3855c4738a",
+    "scope": "Strict technical validation after assembly of nine existing bounded reviews; no new substantive legal review and no whole-book legal completion claim."
+  }
 }

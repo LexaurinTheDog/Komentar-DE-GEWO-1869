@@ -1759,5 +1759,7 @@
   "active_task": "finalize",
   "completed_units_provenance": "171 pre-existing authored units preserved byte-for-byte against their individual final batch hashes. Nine disjoint completed batch reports assembled; zero units substantively re-reviewed during finalization.",
   "earlier_limitations_record": "sources/review-p154-anlage/before-status.json",
-  "finalization_evidence": "sources/finalization-20261020/ledger-audit.json"
+  "finalization_evidence": "sources/finalization-20261020/ledger-audit.json",
+  "validated_at": "2026-10-20T16:08:01.398168+00:00",
+  "validation_evidence": "sources/finalization-20261020/strict-validation.json"
 }

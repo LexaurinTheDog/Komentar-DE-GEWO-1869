@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-20T16:07:10.020610+00:00",
+  "created_at": "2026-10-20T16:08:01.398168+00:00",
   "verification": "sources/verification.json",
   "files": [
     {
@@ -156,6 +156,11 @@
       "path": "sources/finalization-20261020/manuscript-preservation.json",
       "bytes": 1615,
       "sha256": "bd056cc38bc352d01775d44eb3cdf802381393332b8cc0eed8f7ea669cf7a0ef"
+    },
+    {
+      "path": "sources/finalization-20261020/strict-validation.json",
+      "bytes": 692,
+      "sha256": "1a0a15a492e2a8fd9ddecedbbabcb26aba90df1bc16ec2cf73962b2759e9ede3"
     },
     {
       "path": "sources/gewo-canonical.md",
