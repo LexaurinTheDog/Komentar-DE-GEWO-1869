@@ -188,5 +188,81 @@
       "snapshot": "sources/preflight-20261020/search-results.txt",
       "use": "Discovery only; source conclusions rest on saved official bodies and commencement provisions, not snippets."
     }
-  ]
+  ],
+  "bounded_review_p13a_p33f": {
+    "recorded_at": "2026-10-20T14:32:41.924863+00:00",
+    "scope": "Selective source/current-version and case-law research only for assigned 20-unit review.",
+    "firecrawl": "Status checked: installed/authenticated, zero credits. No installation or credential/settings changes; web search and direct official HTTP captures used.",
+    "web_searches": [
+      {
+        "query": "site.bverwg.de \"§ 33c\" \"Sozialkonzept\"",
+        "tool": "web search",
+        "primary_only_reliance": true
+      },
+      {
+        "query": "site.bverwg.de \"§ 30\" \"Privatkrankenanstalt\" Konzession",
+        "tool": "web search",
+        "primary_only_reliance": true
+      },
+      {
+        "query": "site.recht.bund.de \"Gewerbeordnung\" \"2026\" \"215\"",
+        "tool": "web search",
+        "primary_only_reliance": true
+      },
+      {
+        "query": "site.bverwg.de Spielgeräte Gewinnmöglichkeit Gaststätte 33c Urteil",
+        "tool": "web search",
+        "primary_only_reliance": true
+      },
+      {
+        "query": "site.bverwg.de Schaustellungen Personen 33a Urteil",
+        "tool": "web search",
+        "primary_only_reliance": true
+      },
+      {
+        "query": "site.bverwg.de Privatkrankenanstalten 30 2019 2024",
+        "tool": "web search",
+        "primary_only_reliance": true
+      }
+    ],
+    "selected_official_fulltexts": [
+      "https://www.bverwg.de/300307B6B14.07.0",
+      "https://www.bverwg.de/161013U8C21.12.0"
+    ],
+    "local_corpus_searches": [
+      {
+        "query": "6 B 14.07 / 6 B 14/07; 6 C 9.05; 8 C 21.12",
+        "path": "/Volumes/LaCie/law-intake/eu/de/rii",
+        "method": "rg literal/docket heading searches",
+        "result": "8 C 21/12: WBRE410020037 matched and full text read; no independent 6 B 14/07 docket record found."
+      }
+    ],
+    "fulltext_read_and_limits": [
+      {
+        "case": "6 B 14.07",
+        "all_numbered_paragraphs_read": "1–12",
+        "used_for": [
+          "p33c",
+          "p33e"
+        ],
+        "limit": "2007 device-model/nonadmission decision; no current technical numerical limits inferred."
+      },
+      {
+        "case": "8 C 21.12",
+        "all_numbered_paragraphs_read": "1–29, official HTML and PDF; local corpus 1–28",
+        "used_for": [
+          "p33d"
+        ],
+        "limit": "2013 gaming treaty and particular fantasy game; no modern online/state-law comprehensive ruling or actual §33d licence decision."
+      }
+    ],
+    "other_units": "No sufficiently relevant full-text-verified case selected in this bounded research. This is no claim that no relevant case exists.",
+    "current_source_checks": [
+      "Fresh GewO index/full HTML/ZIP and actuality service",
+      "Read BGBl. 2026 I Nr. 139 Art. 7 Nr. 3–4 and Art. 16; future §13b/§29 changes excluded",
+      "Fresh BGBl. 215 equals stored gazette; Art. 1 Nr. 2/Art. 11 Abs. 2 exclude future §14 recipients",
+      "Read stored BGBl. 183 Art. 5/7; no relevant batch change",
+      "All 194 XML records and complete operative annex rechecked by independent inventory"
+    ]
+  }
 }

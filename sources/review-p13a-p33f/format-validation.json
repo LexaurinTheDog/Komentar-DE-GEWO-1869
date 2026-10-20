@@ -1,0 +1,79 @@
+{
+  "checked_at": "2026-10-20T14:32:41.924863+00:00",
+  "checks": [
+    {
+      "path": "sources/review-p13a-p33f/index.html",
+      "checks": {
+        "stored_hash_agrees": true,
+        "http_200": true,
+        "expected_law_title": true
+      }
+    },
+    {
+      "path": "sources/review-p13a-p33f/full.html",
+      "checks": {
+        "stored_hash_agrees": true,
+        "http_200": true,
+        "expected_law_and_doknr": true
+      }
+    },
+    {
+      "path": "sources/review-p13a-p33f/gewo.zip",
+      "checks": {
+        "stored_hash_agrees": true,
+        "http_200": true,
+        "validated_zip_and_expected_member": true
+      }
+    },
+    {
+      "path": "sources/review-p13a-p33f/aktualitaet.html",
+      "checks": {
+        "stored_hash_agrees": true,
+        "http_200": true,
+        "expected_change_entry": true
+      }
+    },
+    {
+      "path": "sources/review-p13a-p33f/amendment-215.pdf",
+      "checks": {
+        "stored_hash_agrees": true,
+        "http_200": true,
+        "pdf_signature_and_identical_to_previously_read_gazette": true
+      }
+    },
+    {
+      "path": "sources/review-p13a-p33f/case-6b14-07.html",
+      "checks": {
+        "stored_hash_agrees": true,
+        "http_200": true,
+        "expected_docket_and_reason_paragraphs": true
+      }
+    },
+    {
+      "path": "sources/review-p13a-p33f/case-6b14-07.pdf",
+      "checks": {
+        "stored_hash_agrees": true,
+        "http_200": true,
+        "pdf_signature_and_extracted_expected_docket": true
+      }
+    },
+    {
+      "path": "sources/review-p13a-p33f/case-8c21-12.html",
+      "checks": {
+        "stored_hash_agrees": true,
+        "http_200": true,
+        "expected_docket_and_reason_paragraphs": true
+      }
+    },
+    {
+      "path": "sources/review-p13a-p33f/case-8c21-12.pdf",
+      "checks": {
+        "stored_hash_agrees": true,
+        "http_200": true,
+        "pdf_signature_and_extracted_expected_docket": true
+      }
+    }
+  ],
+  "xml_identical_to_canonical": true,
+  "all_valid": true
+}

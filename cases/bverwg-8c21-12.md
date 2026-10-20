@@ -1,0 +1,9 @@
+# Fallkarte: BVerwG, 16. Oktober 2013 – 8 C 21.12
+
+Bundesverwaltungsgericht, 8. Senat, Urteil. ECLI:DE:BVerwG:2013:161013U8C21.12.0. Zugeordnet: § 33d, zur Abgrenzung nach § 33h Nr. 3.
+
+Am 20. Oktober 2026 vollständig gelesen: [Gerichtsvolltext](https://www.bverwg.de/161013U8C21.12.0), [HTML](../sources/review-p13a-p33f/case-8c21-12.html), [PDF](../sources/review-p13a-p33f/case-8c21-12.pdf), [Extraktion](../sources/review-p13a-p33f/case-8c21-12.txt) und [lokaler amtlicher Korpus](../sources/review-p13a-p33f/rii-wbre410020037.md). Neue Gerichtsantworten: HTTP 200, [Hashes und Zeiten](../sources/review-p13a-p33f/captures.json). Die [Vergleichsdaten](../sources/review-p13a-p33f/case-corpus-comparison.json) zeigen Übereinstimmung der Korpus-Rn. 1–28 nach Leerraum-/Typografienormalisierung; Kosten-Rn. 29 fehlt im Korpus, liegt aber in HTML und PDF vor.
+
+Das Land untersagte ein entgeltliches Fußballmanagerspiel. Rn. 5–7 referieren Vorinstanz und Revisionsvorbringen, nicht durchgehend die eigenen Schlussfolgerungen des Senats. Die Revision blieb erfolglos. Rn. 12–19 behandeln Bestimmtheit und Feststellungsklage. Rn. 20–28 beurteilen das Spiel nach damaligem Glücksspielstaatsvertrag: Eine Gewinnchance muss unmittelbar aus dem Entgelt erwachsen; Finanzierung der Gewinne aus diesem Entgelt ist dagegen nicht erforderlich (Rn. 22). Rn. 24 erläutert die Abgrenzung nach §§ 33d, 33h; Rn. 25–28 begrenzen die Teilnahmegebühr anhand des konkreten Spielverlaufs.
+
+Grenzen: keine Entscheidung über eine konkrete §-33d-Erlaubnis, keine pauschale Freistellung entgeltlicher Spiele, keine aktuelle Gesamtprüfung des Glücksspielstaatsvertrags oder Landesrechts. Zufallsabhängigkeit wurde nicht abschließend geklärt. Die damaligen Zahlenwerte sind keine heutigen Grenzwerte. Weitere im Urteil zitierte Autoritäten wurden nicht eigenständig verifiziert.

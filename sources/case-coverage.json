@@ -185,18 +185,24 @@
     },
     {
       "id": "p33c",
-      "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "verified_cases": [
+        "BVerwG 6 B 14.07"
+      ],
+      "disposition": "New official court full text read; Rn. 6–10 for §33c, Rn. 10 for §33e; historical scope and later-law limits stated; card cases/bverwg-6b14-07.md."
     },
     {
       "id": "p33d",
-      "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "verified_cases": [
+        "BVerwG 8 C 21.12"
+      ],
+      "disposition": "Official HTML/PDF and local corpus read; Rn. 22–28 for §33d/§33h boundary; historical treaty limits stated; card cases/bverwg-8c21-12.md."
     },
     {
       "id": "p33e",
-      "verified_cases": [],
-      "disposition": "No sufficiently relevant full-text-verified authority selected for this unit in the limited research; commentary rests on statutory analysis. This does not establish absence of relevant case law."
+      "verified_cases": [
+        "BVerwG 6 B 14.07"
+      ],
+      "disposition": "New official court full text read; Rn. 6–10 for §33c, Rn. 10 for §33e; historical scope and later-law limits stated; card cases/bverwg-6b14-07.md."
     },
     {
       "id": "p33f",

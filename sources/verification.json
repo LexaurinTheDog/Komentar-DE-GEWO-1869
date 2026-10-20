@@ -1,7 +1,7 @@
 {
   "decisive_date": "2026-10-19",
   "authoring_started_at": "2026-10-19",
-  "verified_at": "2026-10-20T14:20:40.552454+00:00",
+  "verified_at": "2026-10-20T14:32:41.924863+00:00",
   "official_source": "https://www.gesetze-im-internet.de/gewo/",
   "raw_xml": {
     "path": "sources/BJNR002450869.xml",
@@ -595,6 +595,300 @@
         "Transfer-Encoding": "chunked",
         "Content-Type": "application/pdf"
       }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/",
+      "final_url": "https://www.gesetze-im-internet.de/gewo/",
+      "accessed_at": "2026-10-20T14:26:01.503102+00:00",
+      "http_status": 200,
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 14:26:01 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Tue, 20 Oct 2026 00:14:21 GMT",
+        "ETag": "\"9342-65e3a83217275\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "37698",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "text/html",
+        "Connection": "close"
+      },
+      "path": "sources/review-p13a-p33f/index.html",
+      "bytes": 37698,
+      "sha256": "692b5fe3e44ea3f7afa3014d7d0492e502f4aa9db38944f13a5c76b59b56cb7e",
+      "validated_format": "html",
+      "content_validation": {
+        "stored_hash_agrees": true,
+        "http_200": true,
+        "expected_law_title": true
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html",
+      "final_url": "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html",
+      "accessed_at": "2026-10-20T14:26:01.698878+00:00",
+      "http_status": 200,
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 14:26:01 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Tue, 20 Oct 2026 00:14:20 GMT",
+        "ETag": "\"8339d-65e3a830c6037\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "537501",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "text/html",
+        "Connection": "close"
+      },
+      "path": "sources/review-p13a-p33f/full.html",
+      "bytes": 537501,
+      "sha256": "b8db41db679b301143c45c54a2832ff614f298c976b307ee4a337f48703085e2",
+      "validated_format": "html",
+      "content_validation": {
+        "stored_hash_agrees": true,
+        "http_200": true,
+        "expected_law_and_doknr": true
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/gewo/xml.zip",
+      "accessed_at": "2026-10-20T14:26:03.532457+00:00",
+      "http_status": 200,
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 14:26:03 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Fri, 21 Aug 2026 19:55:03 GMT",
+        "ETag": "\"15730-65994032ac2f1\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "87856",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "application/zip",
+        "Connection": "close"
+      },
+      "path": "sources/review-p13a-p33f/gewo.zip",
+      "bytes": 87856,
+      "sha256": "300e2939e5dcd9a83b047303c70dc473e59eb923995aeb50d41e35adaa947b52",
+      "validated_format": "zip",
+      "content_validation": {
+        "stored_hash_agrees": true,
+        "http_200": true,
+        "validated_zip_and_expected_member": true
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T14:26:03.720800+00:00",
+      "http_status": 200,
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 14:26:03 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Tue, 20 Oct 2026 05:30:01 GMT",
+        "ETag": "\"125ca-65e3eec07e7f6\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "75210",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "text/html",
+        "Connection": "close"
+      },
+      "path": "sources/review-p13a-p33f/aktualitaet.html",
+      "bytes": 75210,
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "validated_format": "html",
+      "content_validation": {
+        "stored_hash_agrees": true,
+        "http_200": true,
+        "expected_change_entry": true
+      }
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/215/regelungstext.pdf?__blob=publicationFile",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/215/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T14:26:03.891933+00:00",
+      "http_status": 200,
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 14:26:04 GMT",
+        "Server": "Apache",
+        "Set-Cookie": "AL_LB-S=$xc/B9KJrWf4Y2XnmeMAhC1HRjGABmwLgk4oLZVJ8ktCtlu4LiI9; Path=/; Secure; HttpOnly; SameSite=None",
+        "Cache-Control": "max-age=604800",
+        "Last-Modified": "Thu, 23 Jul 2026 06:26:40 GMT",
+        "X-Server-Generated": "Tue, 20 Oct 2026 14:26:04 GMT",
+        "Referrer-Policy": "same-origin",
+        "X-Frame-Options": "sameorigin",
+        "X-UA-Compatible": "IE=edge",
+        "X-Content-Type-Options": "nosniff",
+        "Content-Security-Policy": "default-src 'self'; connect-src 'self'; font-src 'self' data:; worker-src blob: 'self'; base-uri 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' *.itzbund.de; object-src 'self' multimedia.gsb.bund.de; media-src blob: 'self' multimedia.gsb.bund.de; frame-src 'self' blob:; img-src 'self' blob: data:; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests;",
+        "X-Permitted-Cross-Domain-Policies": "none",
+        "X-XSS-Protection": "1;mode=block",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"1e5ecc4711d24d54e9a3ba33d69b16ff\"",
+        "Content-Language": "de-DE",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Type": "application/pdf"
+      },
+      "path": "sources/review-p13a-p33f/amendment-215.pdf",
+      "bytes": 289435,
+      "sha256": "2e01df7450d95485dab09281aa4e834031932db790c89b502130f4b7d1fc441b",
+      "validated_format": "pdf",
+      "content_validation": {
+        "stored_hash_agrees": true,
+        "http_200": true,
+        "pdf_signature_and_identical_to_previously_read_gazette": true
+      }
+    },
+    {
+      "url": "https://www.bverwg.de/300307B6B14.07.0",
+      "final_url": "https://www.bverwg.de/300307B6B14.07.0",
+      "accessed_at": "2026-10-20T14:26:04.123301+00:00",
+      "http_status": 200,
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 14:26:22 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Server": "cloudflare",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=tOJS71r0J%2FBz%2FC2iqB3Mirdww8rY1SzNv96uvoiX5gr12wToXUpNoRnfaKXpdflMvIdCCOqfyyH6da7MSlYogypv6uEYty2eeQs7hSa3R19SvLzFwSLKbffcJY44SpY%3D\"}]}",
+        "Vary": "Accept-Encoding",
+        "Cache-Control": "max-age=3600",
+        "Strict-Transport-Security": "max-age=63072000; includeSubdomains;",
+        "last-modified": "Tue, 20 Oct 2026 14:26:22 GMT",
+        "cf-cache-status": "MISS",
+        "CF-RAY": "a4d8b208dc675c50-TXL"
+      },
+      "path": "sources/review-p13a-p33f/case-6b14-07.html",
+      "bytes": 39042,
+      "sha256": "6c8072580cd402645212d52a483adada195b4c639eeb57d2951455cff7cba575",
+      "validated_format": "html",
+      "content_validation": {
+        "stored_hash_agrees": true,
+        "http_200": true,
+        "expected_docket_and_reason_paragraphs": true
+      }
+    },
+    {
+      "url": "https://www.bverwg.de/entscheidungen/pdf/300307B6B14.07.0.pdf",
+      "final_url": "https://www.bverwg.de/entscheidungen/pdf/300307B6B14.07.0.pdf",
+      "accessed_at": "2026-10-20T14:26:22.789215+00:00",
+      "http_status": 200,
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 14:26:23 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "30743",
+        "Connection": "close",
+        "Server": "cloudflare",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Last-Modified": "Tue, 15 Dec 2015 16:17:35 GMT",
+        "ETag": "\"7817-526f220a245c0\"",
+        "Cache-Control": "max-age=43200",
+        "Strict-Transport-Security": "max-age=63072000; includeSubdomains;",
+        "Accept-Ranges": "bytes",
+        "cf-cache-status": "MISS",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=DY8V9Apn67K1SwPwPj5aNnL6ULQtCWJaAny7wBbjoHRV637%2BxPn1jqkuoaVYIN%2F9FCx47xRzl%2BQ9MhRGCNixdI423qNtxxVhP%2F4ABIaiNMyB689IKZgJQQyqoC6HfOw%3D\"}]}",
+        "CF-RAY": "a4d8b27d3aa05315-TXL"
+      },
+      "path": "sources/review-p13a-p33f/case-6b14-07.pdf",
+      "bytes": 30743,
+      "sha256": "02d25dd8ee08d0efc085fc55d526b82167f77f2970fb4918d3ab43ae3834b399",
+      "validated_format": "pdf",
+      "content_validation": {
+        "stored_hash_agrees": true,
+        "http_200": true,
+        "pdf_signature_and_extracted_expected_docket": true
+      }
+    },
+    {
+      "url": "https://www.bverwg.de/161013U8C21.12.0",
+      "final_url": "https://www.bverwg.de/161013U8C21.12.0",
+      "accessed_at": "2026-10-20T14:26:41.480806+00:00",
+      "http_status": 200,
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 14:26:42 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Server": "cloudflare",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=5iBDAPyoXQjPiowxTEJM32%2FOTdp%2Baga3NpKsWW66otaYiTEKE1OwQE0hZi4kQhN%2FC%2BgmTtAyJqLspgUUbOSJdf8tNhONfApkboeyGnESqWIJ7tBmwT8YI%2FWPwvBFf5s%3D\"}]}",
+        "Vary": "Accept-Encoding",
+        "Cache-Control": "max-age=3600",
+        "Strict-Transport-Security": "max-age=63072000; includeSubdomains;",
+        "last-modified": "Tue, 20 Oct 2026 14:26:42 GMT",
+        "cf-cache-status": "MISS",
+        "CF-RAY": "a4d8b2f21b14da39-TXL"
+      },
+      "path": "sources/review-p13a-p33f/case-8c21-12.html",
+      "bytes": 71455,
+      "sha256": "ed2032c299d6c3cb420fd7b9993c142cb344f203bc468e45599e2397f7b880cd",
+      "validated_format": "html",
+      "content_validation": {
+        "stored_hash_agrees": true,
+        "http_200": true,
+        "expected_docket_and_reason_paragraphs": true
+      }
+    },
+    {
+      "url": "https://www.bverwg.de/entscheidungen/pdf/161013U8C21.12.0.pdf",
+      "final_url": "https://www.bverwg.de/entscheidungen/pdf/161013U8C21.12.0.pdf",
+      "accessed_at": "2026-10-20T14:26:42.271234+00:00",
+      "http_status": 200,
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 14:26:42 GMT",
+        "Content-Type": "application/pdf",
+        "Content-Length": "111133",
+        "Connection": "close",
+        "Server": "cloudflare",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Last-Modified": "Tue, 15 Dec 2015 16:17:34 GMT",
+        "ETag": "\"1b21d-526f220930380\"",
+        "Cache-Control": "max-age=43200",
+        "Strict-Transport-Security": "max-age=63072000; includeSubdomains;",
+        "Accept-Ranges": "bytes",
+        "cf-cache-status": "MISS",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ejxS9aJMhZn1E9BpAR9ofQEMr6pHR2EG97Id1W4CiGQMu3neaKYhA6bKDwqVOfNDCCL3GnMMqWPxtyB1D6%2BO2tL2S%2Bf3s68rX6Ilh%2BrQkvcKzaFMsbv17rBPTnWqKiY%3D\"}]}",
+        "CF-RAY": "a4d8b2f6ffd4dd79-TXL"
+      },
+      "path": "sources/review-p13a-p33f/case-8c21-12.pdf",
+      "bytes": 111133,
+      "sha256": "28094400ff9b42a3bbf7ecada49e5b0b2ae64379ac9e5b64171e013f0a21b6c7",
+      "validated_format": "pdf",
+      "content_validation": {
+        "stored_hash_agrees": true,
+        "http_200": true,
+        "pdf_signature_and_extracted_expected_docket": true
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/xml.zip",
+      "accessed_at": "2026-10-20T14:26:03.532457+00:00",
+      "http_status": 200,
+      "path": "sources/review-p13a-p33f/BJNR002450869.xml",
+      "sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
+      "bytes": 442893,
+      "validated_format": "xml",
+      "derivation": "Exact sole member from validated official ZIP; jurabk GewO; parsed successfully."
+    },
+    {
+      "type": "local_official_judicial_corpus",
+      "original_read_only_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-wbre410020037.md",
+      "snapshot_path": "sources/review-p13a-p33f/rii-wbre410020037.md",
+      "sha256": "ece89bce54f82ff488abbe40908af58cc21eb45181b43d0860228d8d1f4dca46",
+      "read_at": "2026-10-20T14:32:41.924863+00:00",
+      "source_url": "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE410020037",
+      "comparison": "sources/review-p13a-p33f/case-corpus-comparison.json"
     }
   ],
   "effective_version_evidence": [
@@ -622,6 +916,11 @@
       "source": "sources/preflight-20261020/amendment-33.pdf",
       "location": "Art. 34 Nr. 1 and 2; Art. 64 Abs. 1 and 8; PDF pp. 43, 64–65",
       "effect": "§ 150 Abs. 5 sentence on BaFin reliability checks effective 2026-02-10 and present; additional ESAP sentences in § 34d Abs. 11 effective only 2030-01-10 and excluded."
+    },
+    {
+      "source": "sources/amendment-139.pdf",
+      "location": "Art. 7 Nr. 3 and 4; Art. 16 Abs. 1",
+      "effect": "New § 13b Abs. 3 exclusions and § 29 Abs. 1 Nr. 1 addition of § 34k effective only 2026-11-20; excluded from decisive 2026-10-19 text."
     }
   ],
   "since_intake": {
@@ -661,5 +960,20 @@
     "case_archive_xml_sha256": "e72a79c7ff4598d88b191eb086db318969403749741bc6e670144073588ee01c",
     "case_text_all_paragraphs_match": true,
     "firecrawl_status": "Installed/authenticated but zero credits; direct primary HTTP used, no settings changes."
+  },
+  "bounded_review_p13a_p33f": {
+    "verified_at": "2026-10-20T14:32:41.924863+00:00",
+    "captures": "sources/review-p13a-p33f/captures.json",
+    "format_checks": "sources/review-p13a-p33f/format-validation.json",
+    "fresh_xml_identical": true,
+    "decisive_date": "2026-10-19",
+    "version_checks": [
+      {
+        "source": "sources/amendment-139.pdf",
+        "location": "Art. 7 Nr. 3 and 4; Art. 16 Abs. 1",
+        "effect": "New § 13b Abs. 3 exclusions and § 29 Abs. 1 Nr. 1 addition of § 34k effective only 2026-11-20; excluded from decisive 2026-10-19 text."
+      }
+    ],
+    "case_law": "Two newly read official full texts; selective use, no current statewide gaming-law assurance."
   }
 }

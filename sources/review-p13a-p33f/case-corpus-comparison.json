@@ -1,0 +1,218 @@
+{
+  "case": "8 C 21.12",
+  "official_html_paragraphs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "local_corpus_paragraphs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "checks": [
+    {
+      "paragraph": 1,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 2,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 3,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 4,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 5,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 6,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 7,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 8,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 9,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 10,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 11,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 12,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 13,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 14,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 15,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 16,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 17,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 18,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 19,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 20,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 21,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 22,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 23,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 24,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 25,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 26,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 27,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 28,
+      "equal_after_whitespace_and_typography": true,
+      "similarity": 1.0
+    },
+    {
+      "paragraph": 29,
+      "equal_after_whitespace_and_typography": false,
+      "similarity": 0.0
+    }
+  ],
+  "note": "Formatting and typography may differ; this comparison does not certify current applicability.",
+  "local_corpus_missing_official_paragraphs": [
+    29
+  ],
+  "matched_corpus_numbered_paragraphs": 28,
+  "missing_paragraph_disposition": "Official paragraph 29 is costs only, absent from local corpus; read in official HTML and PDF, not reconstructed.",
+  "all_available_corpus_paragraphs_match": true
+}

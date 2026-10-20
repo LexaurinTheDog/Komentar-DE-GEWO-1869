@@ -1,0 +1,258 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p6a",
+    "p6b",
+    "p6c",
+    "p7",
+    "p8",
+    "p9",
+    "p10",
+    "p11",
+    "p11a",
+    "p11b",
+    "p11c",
+    "p11d",
+    "p12",
+    "p13"
+  ],
+  "decisive_date": "2026-10-19",
+  "reviewed_at": "2026-10-20T14:20:40.552454+00:00",
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "unit_id": "p6",
+      "status": "resolved",
+      "finding_and_correction": "Drei Ausnahmetechniken, Rückausnahme Titel XI, Erweiterung durch Absatz 1a und Arbeitnehmerbezug des Absatzes 2 geprüft. Unpassenden Vergleich mit einer versicherten Person durch Abgrenzung Versicherungsunternehmen/selbständige Vermittlung ersetzt; Zeugnisbeispiel mit § 109 abgeglichen.",
+      "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+    },
+    {
+      "unit_id": "p6a",
+      "status": "resolved",
+      "finding_and_correction": "Dreimonatsfrist, Bewachungsausnahmen und Absatz 2 präzisiert. Neufassung seit 24.07.2026 anhand Art. 1 Nr. 1 und Art. 11 BGBl. 215 bestätigt. § 42a VwVfG im geltenden Wortlaut geprüft; neue Vollständigkeitsbescheinigung nach BGBl. 199 erst ab 01.02.2027, daher nicht vorgezogen. Landesverfahrensrecht bleibt ausdrücklich zu prüfen.",
+      "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+    },
+    {
+      "unit_id": "p7",
+      "status": "resolved",
+      "finding_and_correction": "Persönlichen Anwendungsbereich und sämtliche sieben Datenkategorien geprüft. Veranstalter nach § 69 Abs. 1 Satz 1 sowie zuständige Zuverlässigkeitsbehörde im Kommentar ausdrücklich ergänzt; spätere Vertretungsbestellung bleibt mitteilungspflichtig.",
+      "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+    },
+    {
+      "unit_id": "p11",
+      "status": "resolved",
+      "finding_and_correction": "Alle sieben Absätze geprüft. Kumulative Erhebungsgrenzen und grundsätzliche Übermittlungspflicht nichtöffentlicher Stellen samt Geheimnisschutz ausdrücklich erläutert; interne Weitergabe ergänzt. Datenbeispiel bleibt auf konkrete Erforderlichkeit begrenzt.",
+      "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+    },
+    {
+      "unit_id": "p11a",
+      "status": "resolved",
+      "finding_and_correction": "Absätze 1, 1a, 2, 3–3b, 4–8 geprüft. Richtigen Empfänger bei getrennten Register-/Erlaubnisbehörden ergänzt, Monatslöschung und begrenzte Fünfjahresregel präzisiert. Zukünftige §-34k-Erweiterung nach BGBl. 139 Art. 7 Nr. 2/Art. 16 erst ab 20.11.2026 ausdrücklich abgegrenzt.",
+      "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+    },
+    {
+      "unit_id": "p11b",
+      "status": "resolved",
+      "finding_and_correction": "Alle neun Absätze und Datenkatalog Nr. 1–13 gegen amtlichen Volltext geprüft. Trennung Register/Entscheidungsbehörde, Altqualifikationsnachweise, Ausweiskopien, verschiedene Meldewege und Löschanlässe vertieft. Keine einheitliche Aufbewahrungsfrist behauptet; Arbeitgeberwechsel bleibt fiktives Beispiel.",
+      "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+    },
+    {
+      "unit_id": "p11c",
+      "status": "resolved",
+      "finding_and_correction": "Ersuchen, Übermittlung ohne Ersuchen, Gegenseitigkeit und Arbeitnehmerbezug geprüft. Eingehende Tätigkeiten auf gesetzlich qualifikationsgebundene Fälle beschränkt; unverzügliche Prüfung beim Empfänger und Viehzucht trotz § 6 verdeutlicht.",
+      "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+    },
+    {
+      "unit_id": "p11d",
+      "status": "resolved",
+      "finding_and_correction": "Alle sechs Absätze gegen den Text geprüft. Versicherungsbezogene Eskalation, Unterrichtung des Eintragungspflichtigen, unterschiedliche Vermittlungswege über Ministerium/gemeinsame Stelle beziehungsweise BAFA und abgegrenzte EIOPA-Meldungen ergänzt. Keine beliebige Zuständigkeitsübertragung unterstellt.",
+      "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+    },
+    {
+      "unit_id": "p12",
+      "status": "resolved",
+      "finding_and_correction": "Alle vier Schutzphasen, maßgebliches Ausgangsgewerbe, Untersagung/Rücknahme/Widerruf und Freigabeausnahme geprüft. Bloßen Antrag und neue Freigabetatsachen abgegrenzt. BVerwG 8 C 6.14 vollständig im amtlichen Bestand gelesen und frisch abgerufene XML mit lokalem Korpus verglichen; maßgebliche letzte Behördenentscheidung von Bestandskraft unterschieden; keine Übertragung auf ungeprüfte Restrukturierungsfälle.",
+      "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+    },
+    {
+      "unit_id": "p13",
+      "status": "resolved",
+      "finding_and_correction": "Adressat Landesregierungen, Verordnungsbedürftigkeit, maximal fünf Jahre, Unionsbindung und territoriale Wirkung geprüft. Berufsausübung ausdrücklich vom nicht pauschal freigebbaren Berufszugang abgegrenzt; kein konkretes unbestätigtes Landesexperiment behauptet.",
+      "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+    }
+  ],
+  "unit_reviews": [
+    {
+      "id": "p1",
+      "disposition": "checked_unchanged",
+      "review_note": "Absatz 1, gesetzliche Beschränkung und Trennung von Anzeige und Erlaubnis geprüft. Historischen Bezug des Absatzes 2 sowie Übergangsverweise geprüft; unverändert."
+    },
+    {
+      "id": "p2",
+      "disposition": "checked_unchanged",
+      "review_note": "Amtlicher Wegfallvermerk statt materieller Norm bestätigt; historische Bezugnahmen werden nicht als heutige Eingriffsbefugnis behandelt; unverändert."
+    },
+    {
+      "id": "p3",
+      "disposition": "checked_unchanged",
+      "review_note": "Mehrfachgewerbe, mehrere Betriebs-/Verkaufsstätten und fremdgefertigte Waren gegen beide Sätze geprüft. Anzeige und besondere Zulassung bleiben getrennt; unverändert."
+    },
+    {
+      "id": "p4",
+      "disposition": "checked_unchanged",
+      "review_note": "Beide unterschiedlich weit reichenden Ausnahmen in Absatz 1, tatsächliche Niederlassung, Umgehungsvorbehalt und Verweis auf § 13a geprüft. Fiktiver österreichischer Versteigerer ist kein behaupteter Gerichtsfall; unverändert."
+    },
+    {
+      "id": "p5",
+      "disposition": "checked_unchanged",
+      "review_note": "Vorbehalt der Zoll-, Steuer- und Postbeschränkungen und fehlende eigenständige Erlaubnis-/Untersagungsermächtigung geprüft; unverändert."
+    },
+    {
+      "id": "p6",
+      "disposition": "corrected",
+      "review_note": "Drei Ausnahmetechniken, Rückausnahme Titel XI, Erweiterung durch Absatz 1a und Arbeitnehmerbezug des Absatzes 2 geprüft. Unpassenden Vergleich mit einer versicherten Person durch Abgrenzung Versicherungsunternehmen/selbständige Vermittlung ersetzt; Zeugnisbeispiel mit § 109 abgeglichen."
+    },
+    {
+      "id": "p6a",
+      "disposition": "corrected",
+      "review_note": "Dreimonatsfrist, Bewachungsausnahmen und Absatz 2 präzisiert. Neufassung seit 24.07.2026 anhand Art. 1 Nr. 1 und Art. 11 BGBl. 215 bestätigt. § 42a VwVfG im geltenden Wortlaut geprüft; neue Vollständigkeitsbescheinigung nach BGBl. 199 erst ab 01.02.2027, daher nicht vorgezogen. Landesverfahrensrecht bleibt ausdrücklich zu prüfen."
+    },
+    {
+      "id": "p6b",
+      "disposition": "checked_unchanged",
+      "review_note": "Einheitliche Stelle und Ausschlussverordnung vom Europäischen Berufsausweis unterschieden. Zuständigkeit nach § 155 Abs. 2 und verbleibende Anerkennungsvoraussetzungen geprüft; unverändert."
+    },
+    {
+      "id": "p6c",
+      "disposition": "checked_unchanged",
+      "review_note": "Verordnungsermächtigung zu Inhalt, Umfang und Informationsbereitstellung geprüft. Kein unmittelbar aus der Ermächtigung erfundener Pflichtenkatalog; Erweiterung nach § 6 Abs. 1a zutreffend; unverändert."
+    },
+    {
+      "id": "p7",
+      "disposition": "corrected",
+      "review_note": "Persönlichen Anwendungsbereich und sämtliche sieben Datenkategorien geprüft. Veranstalter nach § 69 Abs. 1 Satz 1 sowie zuständige Zuverlässigkeitsbehörde im Kommentar ausdrücklich ergänzt; spätere Vertretungsbestellung bleibt mitteilungspflichtig."
+    },
+    {
+      "id": "p8",
+      "disposition": "checked_unchanged",
+      "review_note": "Wegfall und rein historische Bedeutung eines Altverweises geprüft; unverändert."
+    },
+    {
+      "id": "p9",
+      "disposition": "checked_unchanged",
+      "review_note": "Wegfall statt Ausnahmevorschrift geprüft; unverändert."
+    },
+    {
+      "id": "p10",
+      "disposition": "checked_unchanged",
+      "review_note": "Wegfall und fehlende heutige Eingriffsermächtigung geprüft; unverändert."
+    },
+    {
+      "id": "p11",
+      "disposition": "corrected",
+      "review_note": "Alle sieben Absätze geprüft. Kumulative Erhebungsgrenzen und grundsätzliche Übermittlungspflicht nichtöffentlicher Stellen samt Geheimnisschutz ausdrücklich erläutert; interne Weitergabe ergänzt. Datenbeispiel bleibt auf konkrete Erforderlichkeit begrenzt."
+    },
+    {
+      "id": "p11a",
+      "disposition": "corrected",
+      "review_note": "Absätze 1, 1a, 2, 3–3b, 4–8 geprüft. Richtigen Empfänger bei getrennten Register-/Erlaubnisbehörden ergänzt, Monatslöschung und begrenzte Fünfjahresregel präzisiert. Zukünftige §-34k-Erweiterung nach BGBl. 139 Art. 7 Nr. 2/Art. 16 erst ab 20.11.2026 ausdrücklich abgegrenzt."
+    },
+    {
+      "id": "p11b",
+      "disposition": "corrected",
+      "review_note": "Alle neun Absätze und Datenkatalog Nr. 1–13 gegen amtlichen Volltext geprüft. Trennung Register/Entscheidungsbehörde, Altqualifikationsnachweise, Ausweiskopien, verschiedene Meldewege und Löschanlässe vertieft. Keine einheitliche Aufbewahrungsfrist behauptet; Arbeitgeberwechsel bleibt fiktives Beispiel."
+    },
+    {
+      "id": "p11c",
+      "disposition": "corrected",
+      "review_note": "Ersuchen, Übermittlung ohne Ersuchen, Gegenseitigkeit und Arbeitnehmerbezug geprüft. Eingehende Tätigkeiten auf gesetzlich qualifikationsgebundene Fälle beschränkt; unverzügliche Prüfung beim Empfänger und Viehzucht trotz § 6 verdeutlicht."
+    },
+    {
+      "id": "p11d",
+      "disposition": "corrected",
+      "review_note": "Alle sechs Absätze gegen den Text geprüft. Versicherungsbezogene Eskalation, Unterrichtung des Eintragungspflichtigen, unterschiedliche Vermittlungswege über Ministerium/gemeinsame Stelle beziehungsweise BAFA und abgegrenzte EIOPA-Meldungen ergänzt. Keine beliebige Zuständigkeitsübertragung unterstellt."
+    },
+    {
+      "id": "p12",
+      "disposition": "corrected",
+      "review_note": "Alle vier Schutzphasen, maßgebliches Ausgangsgewerbe, Untersagung/Rücknahme/Widerruf und Freigabeausnahme geprüft. Bloßen Antrag und neue Freigabetatsachen abgegrenzt. BVerwG 8 C 6.14 vollständig im amtlichen Bestand gelesen und frisch abgerufene XML mit lokalem Korpus verglichen; maßgebliche letzte Behördenentscheidung von Bestandskraft unterschieden; keine Übertragung auf ungeprüfte Restrukturierungsfälle."
+    },
+    {
+      "id": "p13",
+      "disposition": "corrected",
+      "review_note": "Adressat Landesregierungen, Verordnungsbedürftigkeit, maximal fünf Jahre, Unionsbindung und territoriale Wirkung geprüft. Berufsausübung ausdrücklich vom nicht pauschal freigebbaren Berufszugang abgegrenzt; kein konkretes unbestätigtes Landesexperiment behauptet."
+    }
+  ],
+  "limitations": [
+    "Nur die genau bezeichneten 20 Einheiten wurden inhaltlich zweitgeprüft; die übrigen 151 Einheiten sind nicht Gegenstand dieses Durchgangs.",
+    "Selektive Rechtsprechungsprüfung: das bei § 12 zitierte Urteil, keine vollständige Judikaturrecherche und keine neue Einzelfallautorität für technische Normen.",
+    "Keine Prüfung sämtlicher Landesgesetze, Landesverordnungen oder unionsrechtlicher Durchführungsvorschriften; insbesondere keine konkrete landesrechtliche Fiktionsanwendung zugesichert.",
+    "Amtliche Aktualitätskontrolle und gezielte Änderungssuche, keine lückenlose Sichtung sämtlicher Bundesgesetzblatt-Ausgaben.",
+    "Gerichtswebsite antwortete beim neuen Abruf mit HTTP 403; frischer amtlicher XML-Volltext aus Rechtsprechung im Internet war mit HTTP 200 verfügbar und stimmt mit dem vorhandenen Korpus überein.",
+    "Technische Vollständigkeit und Längen-/Wiederholungsdiagnostik ersetzen keine externe fachliche Freigabe."
+  ],
+  "whole_book_completion_claimed": false,
+  "whole_book_independent_review_complete": false,
+  "unassigned_units_preserved": 151,
+  "source_preflight": "preflight-result.json",
+  "technical_evidence": "sources/review-p1-p13/batch-checks.json",
+  "changes": "sources/review-p1-p13/commentary-changes.diff",
+  "case_law_sources": [
+    {
+      "court": "BVerwG",
+      "date": "2015-04-15",
+      "docket": "8 C 6.14",
+      "ecli": "ECLI:DE:BVerwG:2015:150415U8C6.14.0",
+      "supported_assigned_unit": "p12",
+      "read": "full official text, local corpus and current XML",
+      "precise_paragraphs": [
+        15,
+        19,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "card": "cases/bverwg-8c6-14.md",
+      "raw_xml": "sources/review-p1-p13/WBRE201500245.xml",
+      "comparison": "sources/review-p1-p13/case-text-comparison.json"
+    }
+  ],
+  "validation": {
+    "result": {
+      "repo": "Komentar-DE-GEWO-1869",
+      "units": 171,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 190447,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "validated_at": "2026-10-20T14:24:14.162544+00:00",
+    "content_checkpoint": "59207a72e3094f32f503183e725b685bd21ecce5",
+    "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py WORK",
+    "scope": "Technical validation of the built book after correction of the assigned 20 units; substantive review limited to exact reviewed_ids."
+  },
+  "technical_checks": {
+    "source_text_agreement": 1.0,
+    "inventory": "171/171; metadata, TOC and structure separately disposed",
+    "batch_checks": true,
+    "assigned_comments": 20,
+    "unassigned_commentaries_preserved": 151,
+    "commentary_count": 171,
+    "commentary_chars": 190447,
+    "duplicate_paragraphs_in_batch": 0,
+    "local_links_checked": 128,
+    "broken_local_links": 0
+  }
+}
