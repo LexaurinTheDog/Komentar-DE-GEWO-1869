@@ -1,0 +1,16 @@
+{
+  "result": {
+    "repo": "Komentar-DE-GEWO-1869",
+    "units": 171,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 211131,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "validated_at": "2026-10-20T14:48:33.353835+00:00",
+  "content_checkpoint": "74ca38f309b5436bdd5368e2906dbe0921266f25",
+  "work_content_checkpoint": "0d7fd98ac7a2c408056e902a72070b24545f977c",
+  "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+  "scope": "Strict technical validation of rebuilt171-unit book; substantive review limited to exact20reviewed_ids. No whole-book substantive completion."
+}

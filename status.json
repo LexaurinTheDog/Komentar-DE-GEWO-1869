@@ -4,7 +4,7 @@
   "identifier": "GewO",
   "repo": "Komentar-DE-GEWO-1869",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T14:45:50.603925+00:00",
+  "updated_at": "2026-10-20T14:48:33.353835+00:00",
   "total_units": 171,
   "completed_units": 171,
   "chapters": 13,
@@ -222,7 +222,7 @@
     "repo": "Komentar-DE-GEWO-1869",
     "units": 171,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 203118,
+    "commentary_chars": 211131,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -336,17 +336,727 @@
   },
   "link_validation": {
     "ok": true,
-    "checked_local_links": 168,
+    "checked_local_links": 200,
     "broken_local_links": 0
   },
   "audit_result": {
-    "ok": true,
-    "expected_official_units": 171,
-    "parsed_units": 171,
-    "commented_units": 171,
-    "text_disagreements": 0,
-    "duplicate_commentary_paragraphs": 0,
-    "evidence": "audit-report.json"
+    "unit_count": 171,
+    "xml_norm_record_count": 194,
+    "independent_html_expected_count": 171,
+    "html_missing_from_units": [],
+    "units_missing_from_html": [],
+    "text_checks": [
+      {
+        "id": "p1",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p2",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p3",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p4",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p5",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p6",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p6a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p6b",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p6c",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p7",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p8",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p9",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p10",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p11",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p11a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p11b",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p11c",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p11d",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p12",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p13",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p13a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p13b",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p13c",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p14",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p15",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p16-bis-28",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p29",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p30",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p30a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p30b",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p30c",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p31",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p32",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p33",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p33a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p33b",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p33c",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p33d",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p33e",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p33f",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p33g",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p33h",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p33i",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p34",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p34a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p34b",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p34c",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p34d",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p34e",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p34f",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p34g",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p34h",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p34i",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p34j",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p34l",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p35",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p35a-und-35b",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p36",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p36a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p37",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p38",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p39",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p39a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p40",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p41",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p41a-und-41b",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p42",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p42a-bis-44a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p45",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p46",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p47",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p48",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p49",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p50",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p51",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p52",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p53-bis-54",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p55",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p55a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p55b",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p55c",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p55d",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p55e",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p55f",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p56",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p56a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p57",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p57a-und-58",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p59",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p60",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p60a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p60b",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p60c",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p60d",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p61",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p61a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p62-und-63",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p64",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p65",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p66",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p67",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p68",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p68a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p69",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p69a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p69b",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p70",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p70a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p70b",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p71",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p71a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p71b",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p72-bis-80",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p81-bis-104n",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p104o-bis-104u",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p105",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p106",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p107",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p108",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p109",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p110",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p111",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p112-bis-132a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p133",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p133a-bis-133d",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p133e-bis-139aa",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p139b",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p139c-bis-139h",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p139i",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p139k-und-139m",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p140",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p141-bis-141f",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p142",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p143",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p144",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p145",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p146",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p147",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p147a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p147b",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p147c",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p147d",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p148",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p148a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p148b",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p148c",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p149",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p150",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p150a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p150b",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p150c",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p150d",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p150e",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p150f",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p151",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p152",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p153",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p153a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p153b",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p153c",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p154",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p154a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p155",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p155a",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p156",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p157",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p158",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p159",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p160",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "p161",
+        "agreement_without_layout_whitespace": true
+      },
+      {
+        "id": "anlage",
+        "agreement_without_layout_whitespace": true
+      }
+    ],
+    "text_disagreements": [],
+    "commentary_count": 171,
+    "commentary_chars": 211131,
+    "missing_commentary": [],
+    "extra_commentary": [],
+    "duplicate_commentary_ids": [],
+    "duplicate_paragraphs": [],
+    "similar_commentary_pairs": [],
+    "ordinary_units_under_700_chars": [],
+    "checklists": 13,
+    "annexes": [
+      {
+        "id": "anlage",
+        "status": "included completely; both sections and all nested points preserved"
+      },
+      {
+        "name": "Anhang EV",
+        "status": "No operative XML record. Framework notes explicitly declare measures no longer applicable since 2010/2013; not reconstructed as effective law."
+      }
+    ],
+    "limits": [
+      "Text comparison ignores only layout whitespace and explicitly relocated editorial notes.",
+      "Similarity and length checks are diagnostics, not proof of legal quality.",
+      "Independent substantive second pass remains pending."
+    ],
+    "ok": true
   },
   "previous_authoring_stage": "drafted_technical_validation",
   "active_task": {
@@ -376,7 +1086,23 @@
       "p37"
     ],
     "evidence": "review-result.json",
-    "whole_book_completion_claimed": false
+    "whole_book_completion_claimed": false,
+    "validation": {
+      "result": {
+        "repo": "Komentar-DE-GEWO-1869",
+        "units": 171,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 211131,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "validated_at": "2026-10-20T14:48:33.353835+00:00",
+      "content_checkpoint": "74ca38f309b5436bdd5368e2906dbe0921266f25",
+      "work_content_checkpoint": "0d7fd98ac7a2c408056e902a72070b24545f977c",
+      "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+      "scope": "Strict technical validation of rebuilt171-unit book; substantive review limited to exact20reviewed_ids. No whole-book substantive completion."
+    }
   },
   "completed_units_provenance": "171 existing authored comments; 20 reviewed in this batch,12 changed,151 others preserved. Earlier40 reviews remain separately documented; cumulative reported 60/171."
 }
