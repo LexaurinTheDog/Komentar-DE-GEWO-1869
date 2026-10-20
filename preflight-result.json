@@ -275,6 +275,21 @@
     "eingangsformel": "Verified absent again; no raw substantive text skipped.",
     "intake_change_map": "sources/change-map.json",
     "targeted_actuality_search": "sources/review-p1-p13/search-log.json",
-    "new_blockers": []
+    "new_blockers": [],
+    "validation": {
+      "result": {
+        "repo": "Komentar-DE-GEWO-1869",
+        "units": 171,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 190447,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "validated_at": "2026-10-20T14:24:14.162544+00:00",
+      "content_checkpoint": "59207a72e3094f32f503183e725b685bd21ecce5",
+      "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py WORK",
+      "scope": "Technical validation of the built book after correction of the assigned 20 units; substantive review limited to exact reviewed_ids."
+    }
   }
 }

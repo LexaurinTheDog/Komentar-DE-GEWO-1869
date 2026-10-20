@@ -4,7 +4,7 @@
   "identifier": "GewO",
   "repo": "Komentar-DE-GEWO-1869",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T14:23:27.370179+00:00",
+  "updated_at": "2026-10-20T14:24:14.162544+00:00",
   "total_units": 171,
   "completed_units": 171,
   "chapters": 13,
@@ -91,7 +91,7 @@
     "repo": "Komentar-DE-GEWO-1869",
     "units": 171,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 182524,
+    "commentary_chars": 190447,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -141,7 +141,7 @@
   },
   "link_validation": {
     "ok": true,
-    "checked_local_links": 99,
+    "checked_local_links": 128,
     "broken_local_links": 0
   },
   "audit_result": {
@@ -181,7 +181,22 @@
       "p13"
     ],
     "evidence": "review-result.json",
-    "whole_book_completion_claimed": false
+    "whole_book_completion_claimed": false,
+    "validation": {
+      "result": {
+        "repo": "Komentar-DE-GEWO-1869",
+        "units": 171,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 190447,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "validated_at": "2026-10-20T14:24:14.162544+00:00",
+      "content_checkpoint": "59207a72e3094f32f503183e725b685bd21ecce5",
+      "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py WORK",
+      "scope": "Technical validation of the built book after correction of the assigned 20 units; substantive review limited to exact reviewed_ids."
+    }
   },
   "completed_units_provenance": "171 existing authored commentaries; only assigned 20 independently reviewed, 10 corrected, other 151 preserved."
 }
