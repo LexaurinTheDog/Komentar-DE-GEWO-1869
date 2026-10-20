@@ -1,0 +1,659 @@
+{
+  "kind": "review",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p33g",
+    "p33h",
+    "p33i",
+    "p34",
+    "p34a",
+    "p34b",
+    "p34c",
+    "p34d",
+    "p34e",
+    "p34f",
+    "p34g",
+    "p34h",
+    "p34i",
+    "p34j",
+    "p34l",
+    "p35",
+    "p35a-und-35b",
+    "p36",
+    "p36a",
+    "p37"
+  ],
+  "corrected_ids": [
+    "p33g",
+    "p33i",
+    "p34",
+    "p34a",
+    "p34b",
+    "p34d",
+    "p34g",
+    "p34i",
+    "p34l",
+    "p35",
+    "p36",
+    "p36a"
+  ],
+  "unchanged_reviewed_ids": [
+    "p33h",
+    "p34c",
+    "p34e",
+    "p34f",
+    "p34h",
+    "p34j",
+    "p35a-und-35b",
+    "p37"
+  ],
+  "reviewed_at": "2026-10-20T14:45:50.603925+00:00",
+  "decisive_date": "2026-10-19",
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p33g",
+      "label": "§ 33g",
+      "official_doknr": "BJNR002450869BJNE007012123",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Verordnungsvoraussetzungen und Beschränkung der ersten Öffnung auf andere Spiele waren verkürzt.",
+      "resolution": "Ressorteinvernehmen, Bundesratszustimmung und Grenze zu § 33c ergänzt; keine unmittelbare Befreiung oder Erstreckung allein durch das Gesetz unterstellt.",
+      "action": "corrected_or_deepened",
+      "unresolved": false
+    },
+    {
+      "id": "p33h",
+      "label": "§ 33h",
+      "official_doknr": "BJNR002450869BJNE007102301",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Keine materielle Korrektur erforderlich.",
+      "resolution": "Alle drei Ausschlüsse und Rückausnahme für Fest-Ausspielungen mit geringwertigen Sachgewinnen geprüft; keine allgemeine Erlaubnisfreiheit behauptet.",
+      "action": "retained_after_review",
+      "unresolved": false
+    },
+    {
+      "id": "p33i",
+      "label": "§ 33i",
+      "official_doknr": "BJNR002450869BJNE007205360",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Persönliche Verweisung und Schutzanforderungen nicht hinreichend differenziert.",
+      "resolution": "Gezielte Verweisungen des Abs. 2 Nr. 1 statt pauschaler Übernahme aller Aufstellerpflichten; Raum- und prognostische Gefährdungsgründe sowie Erforderlichkeit bei Befristung/Auflagen ergänzt. Landesrecht bleibt ausdrücklich gesondert.",
+      "action": "corrected_or_deepened",
+      "unresolved": false
+    },
+    {
+      "id": "p34",
+      "label": "§ 34",
+      "official_doknr": "BJNR002450869BJNE007312123",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Rückkaufsrecht gegenüber späterer Erwerbschance sowie Rechtsprechungsbeleggrenze nicht erläutert.",
+      "resolution": "Tatsächliche Abreden, Unbeachtlichkeit einer vorhandenen Pfandleiherlaubnis für das Verbot und Verwertungsjahresbeispiel ergänzt. BGH VIII ZR436/21 vollständig gelesen: § 34 Abs. 4 dort offengelassen, Sittenwidrigkeit tragend. Späterer Berichtigungsbeschluss mitgeprüft.",
+      "action": "corrected_or_deepened",
+      "unresolved": false
+    },
+    {
+      "id": "p34a",
+      "label": "§ 34a",
+      "official_doknr": "BJNR002450869BJNE028103119",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Zuverlässigkeitszeitfenster, Sachkundeaufgaben und Löschungsregime waren zu pauschal.",
+      "resolution": "Zehn-/Fünfjahresregeln, strafrechtliche Schwellen, Tätigkeitsgruppen und unterschiedlicher Leitungsbezug ergänzt. Fünfjahres-/Sechsmonatslöschung mit § 11b abgegrenzt. Alle Absätze1,1a,1b,2–6 geprüft; keine generellen Polizeibefugnisse unterstellt.",
+      "action": "corrected_or_deepened",
+      "unresolved": false
+    },
+    {
+      "id": "p34b",
+      "label": "§ 34b",
+      "official_doknr": "BJNR002450869BJNE007516123",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Öffentliche Bestellung klang fakultativ; Strafschwelle und Geschäftsbieterausnahme zu unbestimmt.",
+      "resolution": "Gesetzliche Antragsbestellung, besondere Sachkunde und Bedarf für bestimmte Versteigerungsarten erklärt. Freiheitsstrafe/Fünfjahresbezug sowie Zugang jedes Bieters nach Abs. 10 Nr. 3 präzisiert. Eigen-/Fremdgebote, Warenverbote und Abs. 7–8 geprüft.",
+      "action": "corrected_or_deepened",
+      "unresolved": false
+    },
+    {
+      "id": "p34c",
+      "label": "§ 34c",
+      "official_doknr": "BJNR002450869BJNE007635123",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Keine materielle Korrektur erforderlich.",
+      "resolution": "Sämtliche Tatbestände, Versagung, Weiterbildung, Verordnung und Ausnahmen geprüft. Aktuelle Maklerstreichung aus Weiterbildung nach BGBl.215 Art. 1 Nr. 3/Art. 11 ab 24.07.2026 bestätigt; allgemeine Darlehensvermittlung bleibt bis zur künftigen Änderung unter aktuellem Tatbestand.",
+      "action": "retained_after_review",
+      "unresolved": false
+    },
+    {
+      "id": "p34d",
+      "label": "§ 34d",
+      "official_doknr": "BJNR002450869BJNE026907128",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Maklerberatung, Beraterpräferenz, Ausnahmekatalog, Mitarbeiterfolgen und Veröffentlichung verkürzt.",
+      "resolution": "Nichtverbraucher-/Unternehmensbeschäftigtenregel und Vorrang zuwendungsfreier gleich geeigneter Versicherung ergänzt. Alle Ausnahmen6–8 getrennt,600/200/500-Euro-Maßstäbe konkretisiert; Personalprüfung,15-Stunden-Liste, Delegationsausschluss und Beschäftigungsuntersagung erläutert. Kürzere personenbezogene Löschung; ESAP-Ergänzung erst 2030 ausdrücklich ausgeschlossen. Abs. 11a–13 vollständig geprüft.",
+      "action": "corrected_or_deepened",
+      "unresolved": false
+    },
+    {
+      "id": "p34e",
+      "label": "§ 34e",
+      "official_doknr": "BJNR002450869BJNE024506128",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Keine materielle Korrektur erforderlich.",
+      "resolution": "Alle sieben Regelungsgegenstände, Bundestagsverfahren, Drei-Sitzungswochen-Regel sowie getrennte Geldsicherungs-/Resilienz-/Unabhängigkeitsprüfungen geprüft. Keine konkreten ungeprüften Verordnungsintervalle ergänzt.",
+      "action": "retained_after_review",
+      "unresolved": false
+    },
+    {
+      "id": "p34f",
+      "label": "§ 34f",
+      "official_doknr": "BJNR002450869BJNE025707128",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Keine materielle Korrektur erforderlich.",
+      "resolution": "Alle drei Produktkategorien, Bereichsausnahme, vier Erlaubnisvoraussetzungen, fünf Aufsichtsausnahmen, Personalsachkunde und getrennte Registerwege geprüft. Beispiel überschreitet nachvollziehbar die erlaubte offene-Fonds-Kategorie.",
+      "action": "retained_after_review",
+      "unresolved": false
+    },
+    {
+      "id": "p34g",
+      "label": "§ 34g",
+      "official_doknr": "BJNR002450869BJNE028203128",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Aufzeichnungsbeschreibung sprachlich unklar; tägliche Aufbewahrungsfrist sachfremde Formulierung.",
+      "resolution": "Kenntnis der Kunden ausdrücklich; keine einheitliche Speicherfrist erfunden. Gebotener Verordnungskern gegenüber fakultativen Ergänzungen präzisiert; sämtliche Pflichtgegenstände und Prüfungsverweis kontrolliert.",
+      "action": "corrected_or_deepened",
+      "unresolved": false
+    },
+    {
+      "id": "p34h",
+      "label": "§ 34h",
+      "official_doknr": "BJNR002450869BJNE026403128",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Keine materielle Korrektur erforderlich.",
+      "resolution": "Alle drei Absätze geprüft: Erlaubniswechsel unter Urkundenvorlage mit begrenztem Prüfverzicht und Erlöschen, Trennungsgebot, Marktstreuung, Ausnahme für unvermeidbare Zuwendungen, unverzügliche ungeminderte Auskehr und Abgabenvorbehalt stimmen.",
+      "action": "retained_after_review",
+      "unresolved": false
+    },
+    {
+      "id": "p34i",
+      "label": "§ 34i",
+      "official_doknr": "BJNR002450869BJNE027102128",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Personalregel des Absatzes6 durch unmittelbar unzulässig verengt.",
+      "resolution": "Mitwirkung in Abs. 6 gegenüber unmittelbarer Mitwirkung in Registerregel8 getrennt. Leitungsbezug, Zweigniederlassungen, Beschäftigungsuntersagung präzisiert. Alle neun Absätze einschließlich Absatz7-Vergütung und Absatz9-Veröffentlichung gegen Wortlaut geprüft.",
+      "action": "corrected_or_deepened",
+      "unresolved": false
+    },
+    {
+      "id": "p34j",
+      "label": "§ 34j",
+      "official_doknr": "BJNR002450869BJNE027302123",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Keine materielle Korrektur erforderlich.",
+      "resolution": "Fünf Ermächtigungskomplexe geprüft; Qualifikationsanerkennung außerhalb § 34i Abs. 4, Versicherungsmechanismus, grenzüberschreitende Begleitprüfung und anlassbezogene statt automatisch jährlicher Prüfung sachgerecht.",
+      "action": "retained_after_review",
+      "unresolved": false
+    },
+    {
+      "id": "p34l",
+      "label": "§ 34l",
+      "official_doknr": "BJNR002450869BJNE029900128",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Beispiel formulierte unbestimmte Vorwirkung künftiger Qualifikation.",
+      "resolution": "Planung der verkündeten künftigen Voraussetzungen von heutiger Ermächtigung und Weiterbildung getrennt. Art. 7 Nr. 6/Art. 16 BGBl.139 bestätigt § 34l ab 19.05.2026, § 34k erst 20.11.2026; keine fehlende heutige Norm erfunden.",
+      "action": "corrected_or_deepened",
+      "unresolved": false
+    },
+    {
+      "id": "p35",
+      "label": "§ 35",
+      "official_doknr": "BJNR002450869BJNE007709123",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Gebundene Grunduntersagung, Erweiterungsermessen und Rückausnahmen zu knapp.",
+      "resolution": "Satz1/Satz2 ausdrücklich getrennt; strafgerichtliche Bindung, Antragsform, Wiedergestattungsanspruch und Jahresfrist, örtliche Zuständigkeit, Abs. 7a ohne Abs. 2, Abs. 8-Rückausnahmen und Abs. 9-Bereiche vertieft. Amtliches BVerwG 8C6.14 vollständig für diese Einheit nachgeprüft; heutige § 12-Erweiterungen nicht als damals entschieden ausgegeben.",
+      "action": "corrected_or_deepened",
+      "unresolved": false
+    },
+    {
+      "id": "p35a-und-35b",
+      "label": "(XXXX) §§ 35a und 35b",
+      "official_doknr": "BJNR002450869BJNE007803301",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Keine materielle Korrektur erforderlich.",
+      "resolution": "Amtlichen gruppierten Wegfall und exaktes(XXXX)-Label kontrolliert. Keine historischen Einzeltexte oder zusätzlichen Rechtsbehelfe ergänzt.",
+      "action": "retained_after_review",
+      "unresolved": false
+    },
+    {
+      "id": "p36",
+      "label": "§ 36",
+      "official_doknr": "BJNR002450869BJNE008010123",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Bedarfsprüfung und Reichweite des Absatzes4a konnten zu weit verstanden werden.",
+      "resolution": "Sachgebietsbedarf von individueller Konkurrenz-/Stellenbedarfsprüfung getrennt; Absatz4a nur für die in4Satz3 erfassten neuen/geänderten Berufsregeln. Amtliches Urteil8C24.11 vollständig gelesen und begrenzt eingeordnet; heutige neue Verhältnismäßigkeitsordnung nicht rückprojiziert. Alle Absätze samt Anlageverweis und Sonderrechtsvorrang geprüft.",
+      "action": "corrected_or_deepened",
+      "unresolved": false
+    },
+    {
+      "id": "p36a",
+      "label": "§ 36a",
+      "official_doknr": "BJNR002450869BJNE025500377",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Fristen und Hemmung zu stark zusammengefasst.",
+      "resolution": "Einmonatige Empfangsbestätigung, Dreimonatsfrist ab Vollständigkeit, begründete Verlängerung um einen Monat und zweckgebundene Herkunftsnachfrage als Hemmungsgrund präzisiert. Zweijahres-/Zehnjahresregel im amtlichen Text erhalten, kein anderer Richtlinienstand hineinkorrigiert; Wahlrecht bei Ausgleichsmaßnahmen geprüft.",
+      "action": "corrected_or_deepened",
+      "unresolved": false
+    },
+    {
+      "id": "p37",
+      "label": "§ 37",
+      "official_doknr": "BJNR002450869BJNE008102301",
+      "source": "sources/review-p33g-p37/BJNR002450869.xml",
+      "source_text_checked": true,
+      "complete_commentary_read": true,
+      "meaning_and_temporal_selection_checked": true,
+      "cross_references_and_example_checked": true,
+      "finding": "Keine materielle Korrektur erforderlich.",
+      "resolution": "Amtlichen Wegfall geprüft; historische Bezugnahme von heutiger materieller Regel unterschieden, keine neue aktuelle Pflicht aus der Nummernlücke konstruiert.",
+      "action": "retained_after_review",
+      "unresolved": false
+    }
+  ],
+  "limitations": [
+    "Dieser Durchgang prüft genau die 20 zugewiesenen reviewed_ids, keine vollständige inhaltliche Zweitprüfung des Bands. Alle 151 anderen Kommentartexte blieben erhalten.",
+    "Selektive Rechtsprechungsprüfung: zwei neue Hauptentscheidungen und ein ergänzender Berichtigungsbeschluss; bereits zitierte Entscheidung zu § 35 erneut vollständig gelesen. Keine erschöpfende Rechtsprechungsrecherche für jede Norm.",
+    "Landesrechtliche Spielhallenregeln, Ausführungsverordnungen und externe Aufsichtsgesetze werden nicht vollständig erschlossen. Die Erläuterungen erfinden daraus keine Grenzwerte, Deckungssummen oder Fristen.",
+    "Gezielte amtliche Aktualitätskontrolle und Prüfung der einschlägigen verkündeten Inkrafttretensbestimmungen; keine lückenlose Sichtung sämtlicher Bundesgesetzblatt-Ausgaben.",
+    "Direkte Gerichtsanfragen ergaben 403 beziehungsweise statt PDF eine HTML-Suchseite. Diese Antworten wurden als ungeeignet verworfen; die vollständigen amtlichen XML-Pakete aus Rechtsprechung im Internet waren mit 200 verfügbar.",
+    "Automatische Text-, Abdeckungs-, Längen-, Wiederholungs- und Linkkontrollen sind keine externe anwaltliche Freigabe."
+  ],
+  "case_law_sources": [
+    {
+      "court": "BGH",
+      "date": "2022-11-16",
+      "docket": "VIII ZR 436/21",
+      "ecli": "ECLI:DE:BGH:2022:161122UVIIIZR436.21.0",
+      "units": [
+        "p34"
+      ],
+      "all_paragraphs_read": "1–76",
+      "paragraphs_used": [
+        29,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "card": "cases/bgh-viiizr436-21.md",
+      "supplementary_decision": {
+        "date": "2023-07-11",
+        "docket": "VIII ZR 436/21",
+        "paragraphs_read": "1–4",
+        "effect": "Berichtigungsantrag verworfen, kein neues materielles Ergebnis"
+      }
+    },
+    {
+      "court": "BVerwG",
+      "date": "2012-02-01",
+      "docket": "8 C 24.11",
+      "ecli": "ECLI:DE:BVerwG:2012:010212U8C24.11.0",
+      "units": [
+        "p36"
+      ],
+      "all_paragraphs_read": "1–28",
+      "paragraphs_used": [
+        17,
+        21,
+        22,
+        26,
+        27,
+        28
+      ],
+      "card": "cases/bverwg-8c24-11.md"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2015-04-15",
+      "docket": "8 C 6.14",
+      "units": [
+        "p35"
+      ],
+      "all_paragraphs_read": "1–29",
+      "paragraphs_used": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "card": "cases/bverwg-8c6-14.md",
+      "new_case": false
+    }
+  ],
+  "source_preflight": "preflight-result.json",
+  "technical_evidence": "sources/review-p33g-p37/batch-checks.json",
+  "changes": "sources/review-p33g-p37/commentary-changes.diff",
+  "source_captures": "sources/review-p33g-p37/captures.json",
+  "source_search_log": "sources/review-p33g-p37/search-log.json",
+  "previous_review_preserved": "sources/review-p33g-p37/before-review-result.json",
+  "unassigned_units_preserved": 151,
+  "whole_book_completion_claimed": false,
+  "whole_book_independent_review_complete": false,
+  "technical_checks": {
+    "reviewed_ids": [
+      "p33g",
+      "p33h",
+      "p33i",
+      "p34",
+      "p34a",
+      "p34b",
+      "p34c",
+      "p34d",
+      "p34e",
+      "p34f",
+      "p34g",
+      "p34h",
+      "p34i",
+      "p34j",
+      "p34l",
+      "p35",
+      "p35a-und-35b",
+      "p36",
+      "p36a",
+      "p37"
+    ],
+    "assigned_commentary_count": 20,
+    "changed_ids": [
+      "p33g",
+      "p33i",
+      "p34",
+      "p34a",
+      "p34b",
+      "p34d",
+      "p34g",
+      "p34i",
+      "p34l",
+      "p35",
+      "p36",
+      "p36a"
+    ],
+    "unchanged_reviewed_ids": [
+      "p33h",
+      "p34c",
+      "p34e",
+      "p34f",
+      "p34h",
+      "p34j",
+      "p35a-und-35b",
+      "p37"
+    ],
+    "unassigned_commentaries_preserved": 151,
+    "unassigned_comparison": "Exact full-block comparison to baseline-commentary snapshots",
+    "full_book_commentary_count": 171,
+    "full_book_commentary_chars": 211131,
+    "duplicate_paragraphs_in_batch": [],
+    "official_xml_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
+    "coverage_complete": true,
+    "statutory_text_agreement": 1.0,
+    "meaning_review": "Every assigned complete statutory text and commentary read, including all paragraphs and lists; automated checks supplement rather than replace this review.",
+    "per_unit": [
+      {
+        "id": "p33g",
+        "official_doknr": "BJNR002450869BJNE007012123",
+        "commentary_chars": 1214,
+        "commentary_sha256": "7a7bc95b336614e146d37863c0269af42580227aa4d521861fe67ebdd86c681e",
+        "statutory_sha256": "505b083b936dad6db567f05dae3c36a39220174284e6f3d84fd5d0f2d0955c09"
+      },
+      {
+        "id": "p33h",
+        "official_doknr": "BJNR002450869BJNE007102301",
+        "commentary_chars": 937,
+        "commentary_sha256": "54c77e6ebb122b110484797153b9073efbea8fd6b235f1308d18537cb1202a3b",
+        "statutory_sha256": "19d39085afa460687ceb095da70b7e3da9989ae09fbea52fec49ce028549a380"
+      },
+      {
+        "id": "p33i",
+        "official_doknr": "BJNR002450869BJNE007205360",
+        "commentary_chars": 1693,
+        "commentary_sha256": "41614d26cc5c7f48fbea855c23803c17233e5032c6cf8fdca850823c81d00627",
+        "statutory_sha256": "5e5bc29a5fb4c990fa229d85f2450e3459dcee0953903112ca8f7bf3d3882f7a"
+      },
+      {
+        "id": "p34",
+        "official_doknr": "BJNR002450869BJNE007312123",
+        "commentary_chars": 2418,
+        "commentary_sha256": "39f75298ac791a9b7d125d24bf686a456eb2a61ec417f220269de9093530c795",
+        "statutory_sha256": "fd4614ece6e0862bd3e653b53784fdd2c697a53b58c9d2a1f636c49dd3da14da"
+      },
+      {
+        "id": "p34a",
+        "official_doknr": "BJNR002450869BJNE028103119",
+        "commentary_chars": 4024,
+        "commentary_sha256": "7750b43edbfabba3afa6fa11178bc4b82a1d2a7c21aac707fe5352aae793b999",
+        "statutory_sha256": "6e10bce826707953ad157a52006aa9bbedf9d1a9129a15a502894e6fc1116c7c"
+      },
+      {
+        "id": "p34b",
+        "official_doknr": "BJNR002450869BJNE007516123",
+        "commentary_chars": 2719,
+        "commentary_sha256": "682223ba5c853b4f8977a986e7fc2168d6c22cffa810547de7b1cfac7a3e36a3",
+        "statutory_sha256": "3cb3c23cee7cc292b8889e371153d0c2132b4c72f2833500c18a731444ce45c1"
+      },
+      {
+        "id": "p34c",
+        "official_doknr": "BJNR002450869BJNE007635123",
+        "commentary_chars": 3129,
+        "commentary_sha256": "79ad22bcb8961ffc6e4b4b4de14b5d5ae6a3b180405a376e595a4704ddc1d3a1",
+        "statutory_sha256": "528c6b4c7ed0ba43301b626cc14c1c5a3c42b774b1300bbf9a13c886b8dbc760"
+      },
+      {
+        "id": "p34d",
+        "official_doknr": "BJNR002450869BJNE026907128",
+        "commentary_chars": 5467,
+        "commentary_sha256": "bb5727aa1a3f248d388c963a24bc902188e4d3f424ba3219610069f1c440417e",
+        "statutory_sha256": "1bbf8705d448421dc603cf2de38f723d170dbc817c5473db2814fed8f4ec2419"
+      },
+      {
+        "id": "p34e",
+        "official_doknr": "BJNR002450869BJNE024506128",
+        "commentary_chars": 1678,
+        "commentary_sha256": "71e3f2ce227274971866d474a5da330e286af9d77d5d2db55d9ef96f6e988c2d",
+        "statutory_sha256": "4fc797cbf6ef288a3349946f7dc87729384b5cea0be51d3128695d8ca35d8aa6"
+      },
+      {
+        "id": "p34f",
+        "official_doknr": "BJNR002450869BJNE025707128",
+        "commentary_chars": 1877,
+        "commentary_sha256": "6518fb30c17278e130180761a97f7fe712e2f1a2a6806a4601532b59cb9909b6",
+        "statutory_sha256": "adef11c10e2ab954fd6648f6465822ea5fe362a5d4d89eaf4b3db5d86aee7007"
+      },
+      {
+        "id": "p34g",
+        "official_doknr": "BJNR002450869BJNE028203128",
+        "commentary_chars": 1912,
+        "commentary_sha256": "980ef0dfe65fa710db06f463216e15700b1f30efe8385f1e306181e592e6734e",
+        "statutory_sha256": "898d5ccd7be0389740198bef0231a1dc5f5eb26ed161d5aa3ad59a215bc8ab6c"
+      },
+      {
+        "id": "p34h",
+        "official_doknr": "BJNR002450869BJNE026403128",
+        "commentary_chars": 1480,
+        "commentary_sha256": "e5e46c0987acf0e0d2fcafde15aad6cde06ba29f036df082b9a7a9e3a075f7d6",
+        "statutory_sha256": "1a207ffa5c27ab137a2dfb6841dcad068d2c9abd98a1bb7c1a1d1a1a0dc75365"
+      },
+      {
+        "id": "p34i",
+        "official_doknr": "BJNR002450869BJNE027102128",
+        "commentary_chars": 2497,
+        "commentary_sha256": "3d19a7af379c7cc6bb96b493714e6250dec8749fafd00a38b29f7610ec6ec2fb",
+        "statutory_sha256": "2a67bf38918f640efb567f7bdbeda90dd2b2cfd435d49efc5cc370605eca1737"
+      },
+      {
+        "id": "p34j",
+        "official_doknr": "BJNR002450869BJNE027302123",
+        "commentary_chars": 1457,
+        "commentary_sha256": "046f474c6379b3dd1e217e0ffbddeb4a48d0938ad2abeb1aa9ae56f491fc03d9",
+        "statutory_sha256": "35f1224fa5d0e2343286d3b7ad2a2972c08b14083303c9d87f8b0b687d9cb52a"
+      },
+      {
+        "id": "p34l",
+        "official_doknr": "BJNR002450869BJNE029900128",
+        "commentary_chars": 2005,
+        "commentary_sha256": "d7e42c55530bd0a42d7f1bf35426734edf9addcb3cabb840f30d54b8fb451b5b",
+        "statutory_sha256": "9f2b6e16ee6fd9ac88ca3c132bf539c81f0eafbfa7bef08d88a0dd5086ecf98a"
+      },
+      {
+        "id": "p35",
+        "official_doknr": "BJNR002450869BJNE007709123",
+        "commentary_chars": 3752,
+        "commentary_sha256": "f22a738429434c8b7c45cc2635f73172c12bd5db148b7b242ed823e36f567d42",
+        "statutory_sha256": "403fc8b2b7cd810f1dcb6891de78042dec596bf8d70df3432328e7f0e8c89f3b"
+      },
+      {
+        "id": "p35a-und-35b",
+        "official_doknr": "BJNR002450869BJNE007803301",
+        "commentary_chars": 266,
+        "commentary_sha256": "f1b3c0680487f3e347fc12a1d3d7aba8ff2259985f6414ebb149f469a3f7fdb2",
+        "statutory_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+      },
+      {
+        "id": "p36",
+        "official_doknr": "BJNR002450869BJNE008010123",
+        "commentary_chars": 2662,
+        "commentary_sha256": "56f458f0454a332e262251bf6fd97b84050ccd927d77bae1e44de09f1418869a",
+        "statutory_sha256": "dde2e21ca3574252015ec67fb658e214084e1220af18d899d22cdd729dc8ffbc"
+      },
+      {
+        "id": "p36a",
+        "official_doknr": "BJNR002450869BJNE025500377",
+        "commentary_chars": 1849,
+        "commentary_sha256": "4c7dcb972ff1803fab5ab1c5f389fbbd1f48f696b2acd3cc839132a9aa5abda5",
+        "statutory_sha256": "d394029f6d7cad06db4101ab00bfc6f3ff626a5dc5fae398bfa755441956567c"
+      },
+      {
+        "id": "p37",
+        "official_doknr": "BJNR002450869BJNE008102301",
+        "commentary_chars": 285,
+        "commentary_sha256": "34aa577d61ff008c4b693d9306f71d29decf741fc33a53faeb2a7d8355d25679",
+        "statutory_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+      }
+    ]
+  },
+  "validation": {
+    "result": {
+      "repo": "Komentar-DE-GEWO-1869",
+      "units": 171,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 211131,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "validated_at": "2026-10-20T14:48:33.353835+00:00",
+    "content_checkpoint": "74ca38f309b5436bdd5368e2906dbe0921266f25",
+    "work_content_checkpoint": "0d7fd98ac7a2c408056e902a72070b24545f977c",
+    "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+    "scope": "Strict technical validation of rebuilt171-unit book; substantive review limited to exact20reviewed_ids. No whole-book substantive completion."
+  },
+  "source_format_validation": "sources/review-p33g-p37/format-validation.json",
+  "local_links": {
+    "checked": 200,
+    "broken": 0,
+    "evidence": "link-report.json"
+  }
+}

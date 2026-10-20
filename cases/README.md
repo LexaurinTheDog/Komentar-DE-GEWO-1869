@@ -1,6 +1,6 @@
 # Verifizierte Rechtsprechung
 
-Vier selektiv ausgewählte amtliche Volltexte, gelesen und mit dem jeweiligen Stichtagswortlaut abgeglichen:
+Selektiv ausgewählte amtliche Volltexte, gelesen und mit dem jeweiligen Stichtagswortlaut abgeglichen:
 
 - [BVerwG, 15. April 2015 – 8 C 6.14](bverwg-8c6-14.md): §§ 12, 35; nachfolgende Insolvenz, Prognosezeitpunkt und Wiedergestattung.
 - [BAG, 18. Oktober 2017 – 10 AZR 330/16](bag-10azr330-16.md): § 106; Weisungsrahmen, Billigkeitskontrolle und fehlende vorläufige Bindung an unbillige Weisung.
@@ -11,3 +11,5 @@ Vier selektiv ausgewählte amtliche Volltexte, gelesen und mit dem jeweiligen St
 Die Karten sind eigene Zusammenfassungen. Die beigefügten amtlichen Quellensnapshots und lokalen Korpusfassungen dienen dem Beleg. Es wurde keine kommerzielle Redaktionsanmerkung übernommen. Für nicht zugeordnete Einheiten ist keine Entscheidung als verifizierte Autorität aufgenommen; daraus folgt kein Nachweis fehlender Rechtsprechung. [Rechercheprotokoll](../sources/search-log.json) und [Einheitenzuordnung](../sources/case-coverage.json) dokumentieren Umfang und Grenzen.
 
 Im begrenzten Review §§ 33g–37 vom 20. Oktober 2026 zusätzlich geprüft: [BGH VIII ZR 436/21](bgh-viiizr436-21.md), einschließlich des späteren Berichtigungsbeschlusses, sowie [BVerwG 8 C 24.11](bverwg-8c24-11.md). Die BGH-Entscheidung wird gerade nicht als tragender Nachweis einer Verletzung des § 34 Abs. 4 verwendet. Das bereits vorhandene Urteil BVerwG 8 C 6.14 wurde nun auch für die Verwendung bei § 35 vollständig nachkontrolliert. Für die übrigen Einheiten dieses Batches wurde keine zusätzliche ausreichend einschlägige volltextverifizierte Entscheidung ausgewählt; daraus folgt keine Aussage über das Fehlen entsprechender Rechtsprechung.
+
+Im begrenzten Review §§ 38–55b vom 20. Oktober 2026 zusätzlich vollständig gelesen: [BVerfG 1 BvR 2176/98](bverfg-1bvr2176-98.md), Rn. 1–33, zur zeitversetzten Erfüllung eines im Reisegewerbe gewonnenen Auftrags; [BVerwG 8 B 12.15](bverwg-8b12-15.md), Rn. 1–10, zur fehlenden Entscheidungserheblichkeit einer Stillstandsfrage bei neuem Erlaubnisinhaber. Die letztere Entscheidung wird ausdrücklich nicht als allgemeine Entscheidung über jede vorbereitende Betriebshandlung angeführt. Die lokale Korpusfassung stimmt mit dem amtlichen XML überein; für den BVerfG-Beschluss wurde kein eigener Korpusdatensatz gefunden. [Suchlog](../sources/review-p38-p55b/search-log.json) und [Vergleich](../sources/review-p38-p55b/case-corpus-comparison.json) belegen Reichweite und Grenzen.

@@ -1,0 +1,61 @@
+{
+  "searched_at": "2026-10-20T14:57:27.481658+00:00",
+  "firecrawl": "Installed/authenticated, zero credits; no installation or settings changes; direct official HTTP and web search used.",
+  "queries": [
+    {
+      "query": "site.bverwg.de Reisegewerbe Bestellung",
+      "selected": "BVerfG 1 BvR 2176/98, located through official court result; full text separately captured and read."
+    },
+    {
+      "query": "site.rechtsprechung-im-internet.de § 49 GewO Jahr",
+      "selected": "No independently useful result in initial search."
+    },
+    {
+      "query": "Gewerbeordnung Änderung 2026 38 55 Bundesgesetzblatt",
+      "selected": "Official GewO consolidated source and gazette 215; Austrian hits rejected as wrong jurisdiction."
+    },
+    {
+      "query": "site.bverwg.de § 49 GewO Erlöschen",
+      "selected": "Official PDF 250116B8B12.15.0 located. Conflicting search-result title pointing to a different later case not trusted; actual RII XML read and identified as 8 B 12.15."
+    },
+    {
+      "query": "site.bverwg.de § 55a Nr. 9",
+      "selected": "Unrelated procedural § 55a VwGO results rejected; no relevant full-text authority selected."
+    },
+    {
+      "query": "site.recht.bund.de 2026 Gewerbeordnung Oktober",
+      "selected": "Official consolidated text and actuality service; no later direct amendment of the assigned units established."
+    }
+  ],
+  "local_corpus_search": {
+    "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "method": "rg -l exact docket variants 1 BvR 2176/98, 8 B 12/15, 7 C 101/78; metadata inspection and full read of selected 8 B 12/15.",
+    "selected": "rii-wbre201600111.md, full reasons match official XML",
+    "bverfg": "No standalone exact decision found; related BVerwG 8 C 9/10 references it but not used as a substitute.",
+    "comparison": "sources/review-p38-p55b/case-corpus-comparison.json"
+  },
+  "primary_urls": [
+    "https://www.gesetze-im-internet.de/gewo/",
+    "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html",
+    "https://www.gesetze-im-internet.de/gewo/xml.zip",
+    "https://www.recht.bund.de/bgbl/1/2026/215/regelungstext.pdf?__blob=publicationFile",
+    "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2000/09/rk20000927_1bvr217698.html",
+    "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE201600111.zip",
+    "https://www.gesetze-im-internet.de/aktuDienst.html",
+    "https://www.recht.bund.de/bgbl/1/2026/139/regelungstext.pdf?__blob=publicationFile",
+    "https://www.recht.bund.de/bgbl/1/2026/183/regelungstext.pdf?__blob=publicationFile"
+  ],
+  "actuality_scope": "Official GII latest amendment line and actuality service read; 139/183/215 gazette amendment and commencement clauses inspected. No exhaustive every-issue audit claimed.",
+  "exclusions": [
+    "Secondary commercial summaries not used as holding authority.",
+    "Unrelated Austrian GewO 1994 and VwGO § 55a not used.",
+    "BVerwG 7 B 30.18 concerned a mining entitlement; not used as a categorical rule about retrospective GewO extensions."
+  ],
+  "limitations": [
+    "Independent substantive review restricted to exactly the 20 assigned reviewed_ids. No whole-book substantive completion or external professional approval.",
+    "Selective case law: two fully read primary decisions, one matching local corpus; no standalone local BVerfG corpus text found. No sufficiently relevant additional fully verified case selected for the other assigned units; absence of jurisprudence is not asserted.",
+    "No comprehensive review of Land law, implementing regulations, foreign treaties or external banking/milk/handicraft legislation. Internal statutory references and expressly limited court holdings support the explanations.",
+    "Targeted current-source and commencement checks, not an exhaustive audit of every gazette issue. Original authoring decisive date remains 2026-10-19.",
+    "Technical hashes, text agreement, counts and prose diagnostics do not by themselves establish legal quality."
+  ]
+}

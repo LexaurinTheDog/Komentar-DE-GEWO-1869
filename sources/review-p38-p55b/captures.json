@@ -1,0 +1,112 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/gewo/",
+    "final_url": "https://www.gesetze-im-internet.de/gewo/",
+    "accessed_at": "2026-10-20T14:50:22.697116+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/review-p38-p55b/index.html",
+    "sha256": "692b5fe3e44ea3f7afa3014d7d0492e502f4aa9db38944f13a5c76b59b56cb7e",
+    "bytes": 37698,
+    "expected_format": "html",
+    "format_validated": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html",
+    "final_url": "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html",
+    "accessed_at": "2026-10-20T14:50:23.047080+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/review-p38-p55b/gewo-full.html",
+    "sha256": "b8db41db679b301143c45c54a2832ff614f298c976b307ee4a337f48703085e2",
+    "bytes": 537501,
+    "expected_format": "html",
+    "format_validated": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/gewo/xml.zip",
+    "final_url": "https://www.gesetze-im-internet.de/gewo/xml.zip",
+    "accessed_at": "2026-10-20T14:50:25.300363+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p38-p55b/gewo.zip",
+    "sha256": "300e2939e5dcd9a83b047303c70dc473e59eb923995aeb50d41e35adaa947b52",
+    "bytes": 87856,
+    "expected_format": "zip",
+    "format_validated": true
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/215/regelungstext.pdf?__blob=publicationFile",
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/215/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-20T14:50:25.686127+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "sources/review-p38-p55b/amendment-215.pdf",
+    "sha256": "2e01df7450d95485dab09281aa4e834031932db790c89b502130f4b7d1fc441b",
+    "bytes": 289435,
+    "expected_format": "pdf",
+    "format_validated": true
+  },
+  {
+    "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2000/09/rk20000927_1bvr217698.html",
+    "final_url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2000/09/rk20000927_1bvr217698.html",
+    "accessed_at": "2026-10-20T14:50:26.018187+00:00",
+    "http_status": 200,
+    "content_type": "text/html;charset=utf-8",
+    "path": "sources/review-p38-p55b/bverfg-1bvr2176-98.html",
+    "sha256": "1490f20dc531325c42988d2ddb1af5b4e345b681b65012de014457d506f9371f",
+    "bytes": 141269,
+    "expected_format": "html",
+    "format_validated": true
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE201600111.zip",
+    "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE201600111.zip",
+    "accessed_at": "2026-10-20T14:51:36.266230+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p38-p55b/WBRE201600111.zip",
+    "sha256": "b2e2988ee503f843da3e17ee2aef8bf89c1c2356806877f3d17f1945c419b84d",
+    "bytes": 5212,
+    "expected_format": "zip",
+    "format_validated": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+    "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+    "accessed_at": "2026-10-20T14:51:36.488035+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/review-p38-p55b/actuality.html",
+    "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+    "bytes": 75210,
+    "expected_format": "html",
+    "format_validated": true
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/139/regelungstext.pdf?__blob=publicationFile",
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/139/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-20T14:56:05.844694+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf;charset=UTF-8",
+    "path": "sources/review-p38-p55b/amendment-139.pdf",
+    "sha256": "498ddd09c3dbaf9d91824601b61ab5e8a91167a5d5e58322a94f5858c4eab36b",
+    "bytes": 921242,
+    "expected_format": "pdf",
+    "format_validated": true,
+    "identical_to_previous_capture": true
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/183/regelungstext.pdf?__blob=publicationFile",
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/183/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-20T14:56:06.642712+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "sources/review-p38-p55b/amendment-183.pdf",
+    "sha256": "9409bcf42628489544edadc4a6366a91806e48c33a64dfecd7943ddd0bacf721",
+    "bytes": 297268,
+    "expected_format": "pdf",
+    "format_validated": true,
+    "identical_to_previous_capture": true
+  }
+]

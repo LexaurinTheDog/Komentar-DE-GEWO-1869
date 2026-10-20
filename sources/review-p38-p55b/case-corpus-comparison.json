@@ -1,0 +1,68 @@
+{
+  "case": "BVerwG 8 B 12.15",
+  "official_xml": "sources/review-p38-p55b/jb-WBRE201600111.xml",
+  "official_xml_sha256": "2c5aa1ecee40f01aae691d873c40abe2522091208418c64442d7ca8e36e26e05",
+  "corpus_original": "/Volumes/LaCie/law-intake/eu/de/rii/rii-wbre201600111.md",
+  "corpus_snapshot": "sources/review-p38-p55b/rii-wbre201600111.md",
+  "corpus_sha256": "7ca0be4c982f0ce99bc1cf71886ea73eb5aee829a4a40529f0987e9004767f57",
+  "all_numbered_reasons_read": "1–10 including separate unnumbered question after Rn. 6",
+  "checks": [
+    {
+      "chars": 782,
+      "text_sha256": "c47ca574e704b4beb2a32d82bf662304be9aa83144f2e8690efa11beb22cc239",
+      "present_in_corpus_ignoring_layout": true
+    },
+    {
+      "chars": 1229,
+      "text_sha256": "b903f2d35b4aba44978381468e4cf94fc495039883dc101a3b9417f8d6d031d7",
+      "present_in_corpus_ignoring_layout": true
+    },
+    {
+      "chars": 1347,
+      "text_sha256": "02c7ad121de62a9e77ce63f19dc454a65362ae2fffcf02b4160b154832d95da6",
+      "present_in_corpus_ignoring_layout": true
+    },
+    {
+      "chars": 954,
+      "text_sha256": "ede9dc6c746e1080e74e6338b71d5361002f29272a45d96111cdca791527a2e0",
+      "present_in_corpus_ignoring_layout": true
+    },
+    {
+      "chars": 519,
+      "text_sha256": "df4ea567a6e62e105604470a6cccd7351f2c41185209aa28e140b3cd9bc56bc6",
+      "present_in_corpus_ignoring_layout": true
+    },
+    {
+      "chars": 71,
+      "text_sha256": "6e8a312bc3abc765e432b7c64a8773aa3c3cf4a5bb66c7ea110f06d5db7d882f",
+      "present_in_corpus_ignoring_layout": true
+    },
+    {
+      "chars": 289,
+      "text_sha256": "536f9cb5a6c7f324c87e983492de0410693734df7fc937718825a3e8e069d5ff",
+      "present_in_corpus_ignoring_layout": true
+    },
+    {
+      "chars": 1691,
+      "text_sha256": "7b46432765438e17d290efa630ad411af623a182a9e1693dc8cce8e5391dc6fb",
+      "present_in_corpus_ignoring_layout": true
+    },
+    {
+      "chars": 2131,
+      "text_sha256": "162eab3be59a253776b95dc441ba68895caccd29e3a71d2812bd9c24a3f438fe",
+      "present_in_corpus_ignoring_layout": true
+    },
+    {
+      "chars": 1103,
+      "text_sha256": "c7f3f54d747b0df21d9abafade9dcea1711e306ec7c87036ae54ef402c6610ba",
+      "present_in_corpus_ignoring_layout": true
+    },
+    {
+      "chars": 799,
+      "text_sha256": "84fb052feea77821bd51bd0de749b51a4bf453e1b0c6dcc0056a1b0b4e1f4b30",
+      "present_in_corpus_ignoring_layout": true
+    }
+  ],
+  "all_text_blocks_match": true,
+  "bverfg_corpus": "Exact docket/title search returned no standalone case; court HTML read in full."
+}
