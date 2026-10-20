@@ -1334,8 +1334,8 @@
     },
     {
       "path": "sources/review-p55c-p66/preflight.json",
-      "bytes": 5157,
-      "sha256": "1e1b81bd1d5cf0fa44ef09222d9b3db071f843dad190fe48a7d72a98c451331e"
+      "bytes": 5913,
+      "sha256": "e9d87a569af3dc7985a5906607ae7970a446df5c69232d334dc92f6a41da8d2e"
     },
     {
       "path": "sources/review-p55c-p66/record.py",
@@ -1361,6 +1361,11 @@
       "path": "sources/review-p55c-p66/search-log.json",
       "bytes": 3074,
       "sha256": "8b3d88c6e15ddca6de9ccc91be65ea14d6b58c1c515578a05c44dd1fe291ddbe"
+    },
+    {
+      "path": "sources/review-p55c-p66/validation-evidence.json",
+      "bytes": 709,
+      "sha256": "b42abfede8dbc12f0f5ba35b423bab5dcd45bfb8eb45bb074380341319eb03c4"
     },
     {
       "path": "sources/rii-kare600053741.md",
@@ -1409,9 +1414,9 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 67339,
-      "sha256": "ca0c60d7f53c399a6cc6debb2a8b346502b1ae8256cfd88793a86b7aaf2e5154"
+      "bytes": 68127,
+      "sha256": "dc298484dbdb3b1d53ea7c128429fb57a74ba6727efc1dec1214072d68fc76fa"
     }
   ],
-  "updated_at": "2026-10-20T15:10:05.187149+00:00"
+  "updated_at": "2026-10-20T15:10:58.956593+00:00"
 }
