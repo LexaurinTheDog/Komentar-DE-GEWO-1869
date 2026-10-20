@@ -1,0 +1,129 @@
+{
+  "kind": "review",
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T16:01:48.706360+00:00",
+  "units_reviewed": 11,
+  "reviewed_ids": [
+    "p154",
+    "p154a",
+    "p155",
+    "p155a",
+    "p156",
+    "p157",
+    "p158",
+    "p159",
+    "p160",
+    "p161",
+    "anlage"
+  ],
+  "changed_ids": [
+    "p155",
+    "p155a",
+    "p156",
+    "p157",
+    "p158",
+    "p159",
+    "p160",
+    "p161",
+    "anlage"
+  ],
+  "retained_ids": [
+    "p154",
+    "p154a"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p154",
+      "action": "retained",
+      "review": "Officially repealed slot, not an operative general jurisdiction rule. Existing short explanation correctly directs to §155; no historical replacement or unsupported authority."
+    },
+    {
+      "id": "p154a",
+      "action": "retained",
+      "review": "Officially repealed slot. Current permit/information claims cannot rest on it; historical references require historical law. No invented former wording."
+    },
+    {
+      "id": "p155",
+      "action": "corrected",
+      "review": "Clarifies that delegable regulation-making powers of Land governments need not originate in Land legislation; distinguishes delegation, subdelegation and individual administrative jurisdiction, named city-state senates and limited data purpose. Abs4 repeal retained."
+    },
+    {
+      "id": "p155a",
+      "action": "corrected",
+      "review": "Replaces unexplained referral with all five §44a BZRG paragraphs: blocking versus deletion, balancing and binding necessity assessment, special no-entry dataset, temporary identity changes and reserved criminal-procedure powers. Correct effective25.06.2026, not digital-certificate01.10.2026."
+    },
+    {
+      "id": "p156",
+      "action": "corrected",
+      "review": "Identifies old intermediary-to-adviser transition and exact waived checks; liability coverage not waived, old permission ends on new grant not application; payment timing separated from underlying pre-grant mediation. No broad new-provision exemption."
+    },
+    {
+      "id": "p157",
+      "action": "corrected",
+      "review": "All eight paragraphs checked. Adds exact application/registration/proof deadlines, mandatory statutory lapse rather than discretionary possibility, finality versus grant, limits of old-practitioner exception, category-specific expansion and no imported exception into Abs6. Expired carve-outs not reopened."
+    },
+    {
+      "id": "p158",
+      "action": "corrected",
+      "review": "Corrects conflation: protective storage does not require actual loss, retransmission does. Distinguishes one month after transfer from month after statutory date, test deletion from live transfer, and separate protocol/storage-image retention via verified §14(3)BewachRV."
+    },
+    {
+      "id": "p159",
+      "action": "corrected",
+      "review": "Differentiates exact data categories, industry reporting versus official enquiry, future intended sensitive assignments and three distinct2019 dates. No assumed proof of actual compliance."
+    },
+    {
+      "id": "p160",
+      "action": "corrected",
+      "review": "Separates acquisition/registration from application, restricted waiver and proof. Adds actual VG reasons on application deadline and independent failure of continuity evidence, plaintiff argument not adopted as holding, first-instance/finality limits; no current reactivation of historical exemption or future §162."
+    },
+    {
+      "id": "p161",
+      "action": "corrected",
+      "review": "Scopes temporal holdback to actual identifier fragments or specified sentence; no general §14(1) exemption. Separate notice events and renewed negative search stated conditionally, no false proof of occurrence/nonoccurrence."
+    },
+    {
+      "id": "anlage",
+      "action": "corrected",
+      "review": "Entire two-section operative annex and nested lists checked. Clarifies §36-specific scope, shared reservations and experience qualification, quantitative/staff restrictions, cumulative same-goal burden, EU/EWR/Swiss scope and two-week consultation; supervised activity example does not displace statutory personal expertise."
+    }
+  ],
+  "limitations": [
+    "This process substantively reviewed exactly the eleven reviewed_ids. All160 other commentaries and their earlier review evidence were preserved. No whole-book completion, final cross-batch synthesis or external professional approval is claimed.",
+    "Selective case-law research: one official state-court judgment newly read in full. Local national RII corpus searched with targeted provision/docket patterns; no matching copy of the selected judgment found. No relevant additional full-text-verified case selected for the other ten units; no claim that none exists.",
+    "§161 triggering notices remain independently unestablished after renewed targeted search. Commentary gives conditional analysis and neither asserts occurrence nor proves nonoccurrence. Concrete unconditional application of the affected §14(4) fragments requires separate notice evidence.",
+    "VG München judgment is first instance; no independently verified finality or appellate outcome. No comprehensive current commentary of EU directive, ImmVermV, BZRG, StPO, state delegation law or every gazette issue.",
+    "Source currentness rests on fresh official consolidation, complete intake comparison and targeted enacted amendment/commencement checks. Fetch timestamps or the label consolidated are not treated as proof of commencement. Technical validation and prose diagnostics do not establish legal correctness."
+  ],
+  "prior_batch_record": "sources/review-p154-anlage/before-review-result.json",
+  "unassigned_commentaries_preserved": 160,
+  "whole_book_completion_claimed": false,
+  "evidence": {
+    "preflight": "sources/review-p154-anlage/preflight.json",
+    "coverage": "sources/review-p154-anlage/coverage.json",
+    "source_captures": "sources/review-p154-anlage/captures.json",
+    "external_norms": "sources/review-p154-anlage/external-provisions.json",
+    "case": "sources/review-p154-anlage/case-evidence.json",
+    "search": "sources/review-p154-anlage/search-log.json",
+    "preservation": "sources/review-p154-anlage/batch-checks.json",
+    "diff": "sources/review-p154-anlage/commentary-changes.diff"
+  },
+  "validation": {
+    "validated_at": "2026-10-20T16:02:56.280233+00:00",
+    "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+    "result": {
+      "repo": "Komentar-DE-GEWO-1869",
+      "units": 171,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 276356,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "content_checkpoint": "c313c4109789b53f59557be82380b2517fe1c222",
+    "work_content_checkpoint": "9a035199ccb02b8966b3c9e50d5b3048ba21b58b",
+    "scope": "Strict technical validation of rebuilt book; substantive review by this process limited to exact11 reviewed_ids. All160 unassigned comments preserved. No whole-book finalization or external professional approval."
+  }
+}

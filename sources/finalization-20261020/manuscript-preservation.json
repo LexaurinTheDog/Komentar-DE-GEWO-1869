@@ -1,0 +1,21 @@
+{
+  "at": "2026-10-20T16:06:03.327578+00:00",
+  "commentary_files": {
+    "commentary/part-01.md": "0e63ea51e5685e36f4840245eab44e4b70573fbb7fb7a842a9f51e041f51a912",
+    "commentary/part-02.md": "62b07e5a1b62a06b6aabc696d1ff2d8249eb0bd2c8452ba9c4c164bd2aa94d1e",
+    "commentary/part-03.md": "936b1bfb0d336486393900c53b588672b9d3b1fb001268fcdd150a4758316d5a",
+    "commentary/part-04.md": "bce9884fb91f4da67d6eba09003b03494fb4562bac6c8d13b5f056337690f785",
+    "commentary/part-05.md": "59a0ab6220b1d76ce40e92424e6952c7eedd4ac5c60deaa7a48ea22232b9f946",
+    "commentary/part-06.md": "01c4caf757785d0a0330b4ae15eca1660f537d33894fda2dc07cdacaf7e1da7e",
+    "commentary/part-07.md": "b93da456a936e4e594492999171ee1442a819fce1e01c32bfc56244693b145b8",
+    "commentary/part-08.md": "18cc4dab9209f4c44d5e0e0c06bf81a50cf4eb3fbf9c9b7e780bc37bb4381762",
+    "commentary/part-09.md": "b44302ed393b520e3caafd37b59851f42ca798377c046b79f4f52bc1089bcc9d",
+    "commentary/part-10.md": "29433856134199062d7f809d9fef3a22ec47c150f7aeebee5892cb3901365bce",
+    "commentary/part-11.md": "891f1a87813fba10f4abdc6bfc4e06906a0593d31e18d03742d70961a26673df",
+    "commentary/part-12.md": "b4e0d420f9fc1a65bd436732cc5646ae52744f9d5a52bfd2aca69624b89f3c8a",
+    "commentary/part-13.md": "12d4a05c7a60f16014b9db23e443742106a62d56caa8449be646a39eb2d11203"
+  },
+  "units_sha256": "5f76f98fb10828da16e93230e4c0df9d9ed2d0e33c3682ca2106194a94cc43d2",
+  "canonical_sha256": "733ff4f9741f241314070edea57b7d7eebfedb7b820354a45f914e58f8648c1c",
+  "method": "Finalization changes metadata and evidence only; reviewed prose retained byte-for-byte."
+}

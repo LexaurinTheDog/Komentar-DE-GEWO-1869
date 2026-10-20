@@ -1,0 +1,1989 @@
+{
+  "scope": "Existing captured response integrity; no new HTTP request. Previously rejected/error responses preserved as evidence, not used as statutory or decision text.",
+  "records": [
+    {
+      "log": "sources/verification.json",
+      "path": "sources/gewo-full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/case-bverwg-8c6-14.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/case-bag-10azr330-16.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/gewo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/amendment-215.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/amendment-183.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/amendment-139.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/gewo-index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/preflight-20261020/index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/preflight-20261020/full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/preflight-20261020/gewo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/preflight-20261020/amendment-33.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/preflight-20261020/aktudienst.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p1-p13/index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p1-p13/gewo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p1-p13/full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p1-p13/amendment-215.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p1-p13/vwvfg-42a.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p1-p13/WBRE201500245.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p1-p13/bverwg-response.html",
+      "http_status": 403,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p1-p13/vwvfg.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p1-p13/aktudienst.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p1-p13/vwvfg-amendment-199.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p1-p13/vwvfg-amendment-224.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p13a-p33f/index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p13a-p33f/full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p13a-p33f/gewo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p13a-p33f/aktualitaet.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p13a-p33f/amendment-215.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p13a-p33f/case-6b14-07.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p13a-p33f/case-6b14-07.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p13a-p33f/case-8c21-12.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p13a-p33f/case-8c21-12.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p13a-p33f/BJNR002450869.xml",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p33g-p37/index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p33g-p37/full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p33g-p37/xml.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p33g-p37/case-8c24-11-denied.txt",
+      "http_status": 403,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p33g-p37/case-viiizr436-21-response.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p33g-p37/WBRE410018529.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p33g-p37/KORE317652022.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p33g-p37/KORE627742023.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p33g-p37/amendment-139.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p33g-p37/amendment-215.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p33g-p37/amendment-33.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p33g-p37/bgh-pdf-request-response.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p67-p109/index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p67-p109/gewo-full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p67-p109/gewo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p67-p109/aktudienst.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p67-p109/amendment-139.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p67-p109/amendment-215.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p67-p109/bag-9azr48-24.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p67-p109/bag-10azr330-16.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p67-p109/bgb-126a.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p67-p109/bgb-126.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p67-p109/bgb-126b.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p67-p109/amendment-2024-323.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p67-p109/bverwg-8b31-11.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/gewo-full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/gewo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/aktudienst.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/amendment-139.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/amendment-215.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/amendment-226.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/amendment-2025-349.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/amendment-33.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/bag-10azr448-15.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/KARE600052708.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/hgb.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/bgb.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/owig_1968.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/hgb-74.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/hgb-74a.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/hgb-75d.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/owig-17.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/owig-10.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/bgb-651t.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/bgb-651u.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/bgb-651v.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p110-p147b/bgb-651w.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/gewo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/aktudienst.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/vvg.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/owig.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/stpo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/mabv.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/stgb.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/amendment-33.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/amendment-139.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/amendment-183.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/amendment-215.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/bgh-3str372-12-rejected.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/rejected-case-index.xml",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/amendment-156.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/amendment-229.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/amendment-95.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/amendment-199.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/amendment-2025-349.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/dora.html",
+      "http_status": 202,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/idd.html",
+      "http_status": 202,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/rejected-case-index.xml",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/JURE130006318.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/dora-pdf-rejected.html",
+      "http_status": 202,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/idd-pdf-rejected.html",
+      "http_status": 202,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/dora-eli.html",
+      "http_status": 202,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/idd-eli.html",
+      "http_status": 202,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/vvg-7c.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/vvg-59.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/owig-10.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/owig-17.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/owig-22.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/owig-23.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/owig-24.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/owig-30.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/stpo-488.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/stpo-493.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/mabv-16.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p147c-p153c/stgb-15.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p154-anlage/index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p154-anlage/full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p154-anlage/gewo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p154-anlage/aktudienst.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p154-anlage/bzrg.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p154-anlage/bzrg-44a.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p154-anlage/bewachrv.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p154-anlage/bewachrv-14.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p154-anlage/amendment-139.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p154-anlage/amendment-183.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p154-anlage/amendment-215.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p154-anlage/amendment-2024-12.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p154-anlage/vg-muenchen.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p154-anlage/amendment-199.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/verification.json",
+      "path": "sources/review-p154-anlage/rejected-bzrg-44b.html",
+      "http_status": 404,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/preflight-20261020/captures.json",
+      "path": "sources/preflight-20261020/index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/preflight-20261020/captures.json",
+      "path": "sources/preflight-20261020/full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/preflight-20261020/captures.json",
+      "path": "sources/preflight-20261020/gewo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/preflight-20261020/captures.json",
+      "path": "sources/preflight-20261020/amendment-33.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/preflight-20261020/captures.json",
+      "path": "sources/preflight-20261020/aktudienst.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p1-p13/captures.json",
+      "path": "sources/review-p1-p13/index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p1-p13/captures.json",
+      "path": "sources/review-p1-p13/gewo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p1-p13/captures.json",
+      "path": "sources/review-p1-p13/full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p1-p13/captures.json",
+      "path": "sources/review-p1-p13/amendment-215.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p1-p13/captures.json",
+      "path": "sources/review-p1-p13/vwvfg-42a.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p1-p13/captures.json",
+      "path": "sources/review-p1-p13/WBRE201500245.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p1-p13/captures.json",
+      "path": "sources/review-p1-p13/bverwg-response.html",
+      "http_status": 403,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p1-p13/captures.json",
+      "path": "sources/review-p1-p13/vwvfg.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p1-p13/captures.json",
+      "path": "sources/review-p1-p13/aktudienst.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p1-p13/captures.json",
+      "path": "sources/review-p1-p13/vwvfg-amendment-199.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p1-p13/captures.json",
+      "path": "sources/review-p1-p13/vwvfg-amendment-224.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/gewo-full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/gewo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/aktudienst.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/amendment-139.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/amendment-215.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/amendment-226.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/amendment-2025-349.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/amendment-33.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/bag-10azr448-15.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/KARE600052708.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/hgb.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/bgb.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/owig_1968.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/hgb-74.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/hgb-74a.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/hgb-75d.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/owig-17.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/owig-10.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/bgb-651t.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/bgb-651u.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/bgb-651v.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p110-p147b/captures.json",
+      "path": "sources/review-p110-p147b/bgb-651w.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p13a-p33f/captures.json",
+      "path": "sources/review-p13a-p33f/index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p13a-p33f/captures.json",
+      "path": "sources/review-p13a-p33f/full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p13a-p33f/captures.json",
+      "path": "sources/review-p13a-p33f/gewo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p13a-p33f/captures.json",
+      "path": "sources/review-p13a-p33f/aktualitaet.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p13a-p33f/captures.json",
+      "path": "sources/review-p13a-p33f/amendment-215.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p13a-p33f/captures.json",
+      "path": "sources/review-p13a-p33f/case-6b14-07.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p13a-p33f/captures.json",
+      "path": "sources/review-p13a-p33f/case-6b14-07.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p13a-p33f/captures.json",
+      "path": "sources/review-p13a-p33f/case-8c21-12.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p13a-p33f/captures.json",
+      "path": "sources/review-p13a-p33f/case-8c21-12.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p13a-p33f/captures.json",
+      "path": "sources/review-p13a-p33f/BJNR002450869.xml",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/gewo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/aktudienst.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/vvg.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/owig.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/stpo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/mabv.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/stgb.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/amendment-33.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/amendment-139.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/amendment-183.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/amendment-215.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/bgh-3str372-12-rejected.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/rejected-case-index.xml",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/amendment-156.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/amendment-229.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/amendment-95.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/amendment-199.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/amendment-2025-349.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/dora.html",
+      "http_status": 202,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/idd.html",
+      "http_status": 202,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/rejected-case-index.xml",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/JURE130006318.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/dora-pdf-rejected.html",
+      "http_status": 202,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/idd-pdf-rejected.html",
+      "http_status": 202,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/dora-eli.html",
+      "http_status": 202,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/idd-eli.html",
+      "http_status": 202,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/vvg-7c.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/vvg-59.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/owig-10.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/owig-17.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/owig-22.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/owig-23.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/owig-24.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/owig-30.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/stpo-488.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/stpo-493.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/mabv-16.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p147c-p153c/captures.json",
+      "path": "sources/review-p147c-p153c/stgb-15.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p154-anlage/captures.json",
+      "path": "sources/review-p154-anlage/index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p154-anlage/captures.json",
+      "path": "sources/review-p154-anlage/full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p154-anlage/captures.json",
+      "path": "sources/review-p154-anlage/gewo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p154-anlage/captures.json",
+      "path": "sources/review-p154-anlage/aktudienst.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p154-anlage/captures.json",
+      "path": "sources/review-p154-anlage/bzrg.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p154-anlage/captures.json",
+      "path": "sources/review-p154-anlage/bzrg-44a.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p154-anlage/captures.json",
+      "path": "sources/review-p154-anlage/bewachrv.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p154-anlage/captures.json",
+      "path": "sources/review-p154-anlage/bewachrv-14.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p154-anlage/captures.json",
+      "path": "sources/review-p154-anlage/amendment-139.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p154-anlage/captures.json",
+      "path": "sources/review-p154-anlage/amendment-183.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p154-anlage/captures.json",
+      "path": "sources/review-p154-anlage/amendment-215.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p154-anlage/captures.json",
+      "path": "sources/review-p154-anlage/amendment-2024-12.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p154-anlage/captures.json",
+      "path": "sources/review-p154-anlage/vg-muenchen.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p154-anlage/captures.json",
+      "path": "sources/review-p154-anlage/amendment-199.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p154-anlage/captures.json",
+      "path": "sources/review-p154-anlage/rejected-bzrg-44b.html",
+      "http_status": 404,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p33g-p37/captures.json",
+      "path": "sources/review-p33g-p37/index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p33g-p37/captures.json",
+      "path": "sources/review-p33g-p37/full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p33g-p37/captures.json",
+      "path": "sources/review-p33g-p37/xml.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p33g-p37/captures.json",
+      "path": "sources/review-p33g-p37/case-8c24-11-denied.txt",
+      "http_status": 403,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p33g-p37/captures.json",
+      "path": "sources/review-p33g-p37/case-viiizr436-21-response.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p33g-p37/captures.json",
+      "path": "sources/review-p33g-p37/WBRE410018529.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p33g-p37/captures.json",
+      "path": "sources/review-p33g-p37/KORE317652022.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p33g-p37/captures.json",
+      "path": "sources/review-p33g-p37/KORE627742023.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p33g-p37/captures.json",
+      "path": "sources/review-p33g-p37/amendment-139.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p33g-p37/captures.json",
+      "path": "sources/review-p33g-p37/amendment-215.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p33g-p37/captures.json",
+      "path": "sources/review-p33g-p37/amendment-33.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p33g-p37/captures.json",
+      "path": "sources/review-p33g-p37/bgh-pdf-request-response.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p38-p55b/captures.json",
+      "path": "sources/review-p38-p55b/index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p38-p55b/captures.json",
+      "path": "sources/review-p38-p55b/gewo-full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p38-p55b/captures.json",
+      "path": "sources/review-p38-p55b/gewo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p38-p55b/captures.json",
+      "path": "sources/review-p38-p55b/amendment-215.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p38-p55b/captures.json",
+      "path": "sources/review-p38-p55b/bverfg-1bvr2176-98.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p38-p55b/captures.json",
+      "path": "sources/review-p38-p55b/WBRE201600111.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p38-p55b/captures.json",
+      "path": "sources/review-p38-p55b/actuality.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p38-p55b/captures.json",
+      "path": "sources/review-p38-p55b/amendment-139.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p38-p55b/captures.json",
+      "path": "sources/review-p38-p55b/amendment-183.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p55c-p66/captures.json",
+      "path": "sources/review-p55c-p66/index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p55c-p66/captures.json",
+      "path": "sources/review-p55c-p66/gewo-full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p55c-p66/captures.json",
+      "path": "sources/review-p55c-p66/gewo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p55c-p66/captures.json",
+      "path": "sources/review-p55c-p66/aktudienst.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p55c-p66/captures.json",
+      "path": "sources/review-p55c-p66/amendment-139.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p55c-p66/captures.json",
+      "path": "sources/review-p55c-p66/amendment-215.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p55c-p66/captures.json",
+      "path": "sources/review-p55c-p66/WBRE410017920.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p55c-p66/captures.json",
+      "path": "sources/review-p55c-p66/bverwg-8b31-11.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p67-p109/captures.json",
+      "path": "sources/review-p67-p109/index.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p67-p109/captures.json",
+      "path": "sources/review-p67-p109/gewo-full.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p67-p109/captures.json",
+      "path": "sources/review-p67-p109/gewo.zip",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p67-p109/captures.json",
+      "path": "sources/review-p67-p109/aktudienst.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p67-p109/captures.json",
+      "path": "sources/review-p67-p109/amendment-139.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p67-p109/captures.json",
+      "path": "sources/review-p67-p109/amendment-215.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p67-p109/captures.json",
+      "path": "sources/review-p67-p109/bag-9azr48-24.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p67-p109/captures.json",
+      "path": "sources/review-p67-p109/bag-10azr330-16.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p67-p109/captures.json",
+      "path": "sources/review-p67-p109/bgb-126a.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p67-p109/captures.json",
+      "path": "sources/review-p67-p109/bgb-126.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p67-p109/captures.json",
+      "path": "sources/review-p67-p109/bgb-126b.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    },
+    {
+      "log": "sources/review-p67-p109/captures.json",
+      "path": "sources/review-p67-p109/amendment-2024-323.pdf",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": true
+    },
+    {
+      "log": "sources/review-p67-p109/captures.json",
+      "path": "sources/review-p67-p109/bverwg-8b31-11.html",
+      "http_status": 200,
+      "sha256_agrees": true,
+      "signature_or_parse_valid": null
+    }
+  ],
+  "checked_captures": 283,
+  "errors": [],
+  "ok": true
+}

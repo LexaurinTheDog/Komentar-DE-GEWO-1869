@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-20T16:03:20.398886+00:00",
+  "created_at": "2026-10-20T16:07:10.020610+00:00",
   "verification": "sources/verification.json",
   "files": [
     {
@@ -81,6 +81,81 @@
       "path": "sources/change-map.json",
       "bytes": 58590,
       "sha256": "0dc3bfc76952a0657fff61959547fa4bf5e41b12b738eb3619b16e5323558b98"
+    },
+    {
+      "path": "sources/finalization-20261020/before-00-einleitung.md",
+      "bytes": 7400,
+      "sha256": "5fd5afd20ead3d6798438dae24013b83042421dfc0e8e13b70542b88e68283a6"
+    },
+    {
+      "path": "sources/finalization-20261020/before-README.md",
+      "bytes": 7282,
+      "sha256": "dff1b48d7dbff5f374a243fc340d360b65a09c6f32446175d900eb41348e8201"
+    },
+    {
+      "path": "sources/finalization-20261020/before-REVIEW.md",
+      "bytes": 53473,
+      "sha256": "d40f715b6969ecee5541c6d3f241395a29d3e3be5c552be78857d2ec40492381"
+    },
+    {
+      "path": "sources/finalization-20261020/before-SOURCES.md",
+      "bytes": 28133,
+      "sha256": "c38248b5bf93a302eefaf94c7621a30a5aa5f2e882b95150c43ed9c72f28e039"
+    },
+    {
+      "path": "sources/finalization-20261020/before-audit-report.json",
+      "bytes": 15377,
+      "sha256": "49124123ece894734c9e762f30767bd6f0633d66ad46eb0ac46792e31beb80c7"
+    },
+    {
+      "path": "sources/finalization-20261020/before-link-report.json",
+      "bytes": 2288,
+      "sha256": "c37fc195769797ba3a69c7014c04181a8678a179adf9fcc0db02b750288ec77f"
+    },
+    {
+      "path": "sources/finalization-20261020/before-preflight-result.json",
+      "bytes": 66136,
+      "sha256": "fcfed4d6367d092a6812cb063c49073cd6333648de01392b031c21fa7fd7e1ff"
+    },
+    {
+      "path": "sources/finalization-20261020/before-review-result.json",
+      "bytes": 7136,
+      "sha256": "693d87cff5c0118c62c36452235ba552fd86a765242f51bcd90b0a589f6a68d5"
+    },
+    {
+      "path": "sources/finalization-20261020/before-sources--manifest.json",
+      "bytes": 107819,
+      "sha256": "c4a9123fc9fed2913ecad7ae19e4c9a6399f2acb7b62dfd7335973350a494bc0"
+    },
+    {
+      "path": "sources/finalization-20261020/before-sources--verification.json",
+      "bytes": 225656,
+      "sha256": "6cc6932c4032f22d95b5a3cf7bf0ddbb9a241911d1a89ee69d19d9c23dec61ad"
+    },
+    {
+      "path": "sources/finalization-20261020/before-status.json",
+      "bytes": 66370,
+      "sha256": "86a8056166b359e6a4985486ef1804aa485eb868678d731e2b7b07d5de7b5531"
+    },
+    {
+      "path": "sources/finalization-20261020/before-validation.json",
+      "bytes": 157,
+      "sha256": "207fe133acd7c04f404b44a95a3b72168c8700a3324128e302f9e58083c675d0"
+    },
+    {
+      "path": "sources/finalization-20261020/capture-integrity.json",
+      "bytes": 60680,
+      "sha256": "0f1198475d801c1a51de73cc2c20a8995729aba77f1f5b0b05751345ccaec2e6"
+    },
+    {
+      "path": "sources/finalization-20261020/ledger-audit.json",
+      "bytes": 96190,
+      "sha256": "14df1adf1cf6e7f122012e452547e2be64f6939a76c8ab56b267be093de4aaaf"
+    },
+    {
+      "path": "sources/finalization-20261020/manuscript-preservation.json",
+      "bytes": 1615,
+      "sha256": "bd056cc38bc352d01775d44eb3cdf802381393332b8cc0eed8f7ea669cf7a0ef"
     },
     {
       "path": "sources/gewo-canonical.md",
@@ -2989,9 +3064,79 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 225656,
-      "sha256": "6cc6932c4032f22d95b5a3cf7bf0ddbb9a241911d1a89ee69d19d9c23dec61ad"
+      "bytes": 226039,
+      "sha256": "c3a9b897534a3b531c093f613152c965e69764009991d42c1009bf0f815a0880"
+    },
+    {
+      "path": "cases/README.md",
+      "bytes": 5737,
+      "sha256": "f4306ca0a6de13e2c288ad225e8598255f9ea43a729443a470f1d878d89d97a0"
+    },
+    {
+      "path": "cases/bag-10azr330-16.md",
+      "bytes": 4255,
+      "sha256": "082dd511ebc76996ef5c1b87b477325a7c09e1dfd05cd37754439e9b1e340fb5"
+    },
+    {
+      "path": "cases/bag-10azr448-15.md",
+      "bytes": 3754,
+      "sha256": "9ebcb0938203dca222bde0a6ec40d35e9c39c41f01bb5693550ae9603dbf6883"
+    },
+    {
+      "path": "cases/bag-9azr48-24.md",
+      "bytes": 3932,
+      "sha256": "aba45958233a78891eadc1b98fcc371ff42d4188b8e898a1f5b734f175a16cc3"
+    },
+    {
+      "path": "cases/bgh-3str372-12.md",
+      "bytes": 4339,
+      "sha256": "5753d070b60d1c9a50d31642e87518557bb23f80156197330f6f7cb4b1990228"
+    },
+    {
+      "path": "cases/bgh-viiizr436-21.md",
+      "bytes": 1574,
+      "sha256": "9773b00661ab0e5af7b20d0c87b8142e777600bc0f67e604f8449c991308a760"
+    },
+    {
+      "path": "cases/bverfg-1bvr2176-98.md",
+      "bytes": 2953,
+      "sha256": "7490017f89de239254ee368df2e6fa0edc427b86c48a6397c556706e67459799"
+    },
+    {
+      "path": "cases/bverwg-6b14-07.md",
+      "bytes": 1726,
+      "sha256": "c5cecf0346b52cdbaa65db091e502630668337785cbad8465e922379b703de81"
+    },
+    {
+      "path": "cases/bverwg-8b12-15.md",
+      "bytes": 2781,
+      "sha256": "13ea8db991c603d240de8c160feaea34a2d9726a9c39ca40c56843ea50ca1860"
+    },
+    {
+      "path": "cases/bverwg-8b31-11.md",
+      "bytes": 5295,
+      "sha256": "90a9da402c550cd6e8a40865f8ae190a15c445f84397c6148d414baaa8232cc8"
+    },
+    {
+      "path": "cases/bverwg-8c21-12.md",
+      "bytes": 1883,
+      "sha256": "13ef3c3e08b94a463e0c36e906f6555221b0e9aa6530a8b118b9a1cb9c42c996"
+    },
+    {
+      "path": "cases/bverwg-8c24-11.md",
+      "bytes": 1481,
+      "sha256": "01a065b97554e00b236a585e200861a79c5e69864b8bf538a0ef9885c2c94128"
+    },
+    {
+      "path": "cases/bverwg-8c6-14.md",
+      "bytes": 4235,
+      "sha256": "0c6bec62a55f17038f2464ef0a770fc67e0e6d2bcae5976ec0aad8df0d89088d"
+    },
+    {
+      "path": "cases/vg-muenchen-m16k214969.md",
+      "bytes": 3122,
+      "sha256": "20d34c5b5b27004b7ed9bf4431b97b8faaa9c5e911b2aacc92975f69f0c0bc74"
     }
   ],
-  "scope": "Preserved statutory/case evidence and bounded review artifacts. Failed responses explicitly rejected; raw platform editorial material is not commentary authority."
+  "scope": "All preserved source evidence and case cards; excludes this manifest to avoid self-reference. Original HTTP response metadata remain in capture logs. Archived before-* records retain their original dated scope."
 }

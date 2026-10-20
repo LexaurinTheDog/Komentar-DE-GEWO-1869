@@ -118,3 +118,8 @@ Die erweiterten Zeugenschutzmaßnahmen folgen aus [BGBl. 2026 I Nr. 183](sources
 Neu vollständig ausgewertet: [VG München M 16 K 21.4969](cases/vg-muenchen-m16k214969.md), Tenor und Rn. 1–32. [Amtliche Rohantwort](sources/review-p154-anlage/vg-muenchen.html), [Gerichtstext ohne redaktionelle Leitsätze](sources/review-p154-anlage/vg-muenchen.txt) und [Absatz-/Hashnachweis](sources/review-p154-anlage/case-evidence.json) bleiben erhalten. Es fehlt ein passender lokaler nationaler Korpusdatensatz; die Suche ist [dokumentiert](sources/review-p154-anlage/corpus-search.json). Rechtskraft und Rechtsmittelabschluss werden nicht behauptet. Die Rechtsprechungsauswahl ist selektiv.
 
 Die [erneute Recherche](sources/review-p154-anlage/search-log.json) belegt die weiterhin fehlende eigenständige Verifikation der beiden Bekanntmachungsauslöser des § 161. Daraus folgt weder ein positiver noch ein negativer Nachweis des Eintritts. Die Erläuterung bleibt bewusst bedingt. Der aktuelle Review betrifft genau elf Einheiten; alle 160 anderen Kommentare sind [unverändert erhalten](sources/review-p154-anlage/batch-checks.json). Keine Gesamtfreigabe wird erklärt.
+
+
+## Dokumentarische Zusammenführung am 20. Oktober 2026
+
+[Ledger](batch-review-ledger.json), [einheitenbezogener Hashabgleich](sources/finalization-20261020/ledger-audit.json), [kumulierte Prüfungen](review-result.json) und [Prüfbericht](REVIEW.md) führen die vorhandenen Nachweise zusammen. Kein zusätzlicher Netzabruf und keine erneute inhaltliche Prüfung werden für diesen Schritt behauptet. Die vorigen Abrufprotokolle, Quellenversionen, Fallkarten und Grenzen bleiben erhalten.

@@ -3480,7 +3480,7 @@
     "method": "fresh official XML, current official index/full HTML, published amendment commencement provisions, targeted official-gazette search",
     "limit": "Targeted search is not an exhaustive audit of all Bundesgesetzblatt issues; § 161 triggering notices not independently established."
   },
-  "case_law_scope": "Selective; twelve main decisions and one supplementary correction across preserved history. Current batch adds BGH3StR372/12 only; no exhaustive survey.",
+  "case_law_scope": "Selective: thirteen main decisions and one supplementary correction, as documented in cases/README.md; assembled from prior full-text-reviewed batch evidence, not newly re-read during finalization.",
   "canonical_source_sha256": "733ff4f9741f241314070edea57b7d7eebfedb7b820354a45f914e58f8648c1c",
   "formats_validated": {
     "zip": "ZIP signature and sole expected XML member; content byte-for-byte equals extracted raw XML",
@@ -4827,5 +4827,11 @@
       "work_content_checkpoint": "9a035199ccb02b8966b3c9e50d5b3048ba21b58b",
       "scope": "Strict technical validation of rebuilt book; substantive review by this process limited to exact11 reviewed_ids. All160 unassigned comments preserved. No whole-book finalization or external professional approval."
     }
+  },
+  "finalization": {
+    "at": "2026-10-20T16:06:03.327578+00:00",
+    "method": "Assembly and integrity checking of existing primary-source evidence, not a new online verification.",
+    "latest_actual_source_verification_at": "2026-10-20T16:01:48.706360+00:00",
+    "ledger_audit": "sources/finalization-20261020/ledger-audit.json"
   }
 }

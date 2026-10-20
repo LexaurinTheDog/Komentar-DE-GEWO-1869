@@ -713,7 +713,7 @@
   "limits": [
     "Text comparison ignores only layout whitespace and explicitly relocated editorial notes.",
     "Similarity and length checks are diagnostics, not proof of legal quality.",
-    "Independent substantive second pass remains pending."
+    "Nine prior bounded substantive reviews are assembled in review-result.json; this audit is technical and is not a new independent legal review."
   ],
   "ok": true
 }

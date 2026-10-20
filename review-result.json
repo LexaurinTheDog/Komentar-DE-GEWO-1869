@@ -1,10 +1,170 @@
 {
-  "kind": "review",
+  "kind": "finalize_from_batch_review_ledger",
   "complete": true,
+  "verified_at": "2026-10-20T16:06:03.327578+00:00",
   "decisive_date": "2026-10-19",
-  "verified_at": "2026-10-20T16:01:48.706360+00:00",
-  "units_reviewed": 11,
+  "units_reviewed": 171,
   "reviewed_ids": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p6a",
+    "p6b",
+    "p6c",
+    "p7",
+    "p8",
+    "p9",
+    "p10",
+    "p11",
+    "p11a",
+    "p11b",
+    "p11c",
+    "p11d",
+    "p12",
+    "p13",
+    "p13a",
+    "p13b",
+    "p13c",
+    "p14",
+    "p15",
+    "p16-bis-28",
+    "p29",
+    "p30",
+    "p30a",
+    "p30b",
+    "p30c",
+    "p31",
+    "p32",
+    "p33",
+    "p33a",
+    "p33b",
+    "p33c",
+    "p33d",
+    "p33e",
+    "p33f",
+    "p33g",
+    "p33h",
+    "p33i",
+    "p34",
+    "p34a",
+    "p34b",
+    "p34c",
+    "p34d",
+    "p34e",
+    "p34f",
+    "p34g",
+    "p34h",
+    "p34i",
+    "p34j",
+    "p34l",
+    "p35",
+    "p35a-und-35b",
+    "p36",
+    "p36a",
+    "p37",
+    "p38",
+    "p39",
+    "p39a",
+    "p40",
+    "p41",
+    "p41a-und-41b",
+    "p42",
+    "p42a-bis-44a",
+    "p45",
+    "p46",
+    "p47",
+    "p48",
+    "p49",
+    "p50",
+    "p51",
+    "p52",
+    "p53-bis-54",
+    "p55",
+    "p55a",
+    "p55b",
+    "p55c",
+    "p55d",
+    "p55e",
+    "p55f",
+    "p56",
+    "p56a",
+    "p57",
+    "p57a-und-58",
+    "p59",
+    "p60",
+    "p60a",
+    "p60b",
+    "p60c",
+    "p60d",
+    "p61",
+    "p61a",
+    "p62-und-63",
+    "p64",
+    "p65",
+    "p66",
+    "p67",
+    "p68",
+    "p68a",
+    "p69",
+    "p69a",
+    "p69b",
+    "p70",
+    "p70a",
+    "p70b",
+    "p71",
+    "p71a",
+    "p71b",
+    "p72-bis-80",
+    "p81-bis-104n",
+    "p104o-bis-104u",
+    "p105",
+    "p106",
+    "p107",
+    "p108",
+    "p109",
+    "p110",
+    "p111",
+    "p112-bis-132a",
+    "p133",
+    "p133a-bis-133d",
+    "p133e-bis-139aa",
+    "p139b",
+    "p139c-bis-139h",
+    "p139i",
+    "p139k-und-139m",
+    "p140",
+    "p141-bis-141f",
+    "p142",
+    "p143",
+    "p144",
+    "p145",
+    "p146",
+    "p147",
+    "p147a",
+    "p147b",
+    "p147c",
+    "p147d",
+    "p148",
+    "p148a",
+    "p148b",
+    "p148c",
+    "p149",
+    "p150",
+    "p150a",
+    "p150b",
+    "p150c",
+    "p150d",
+    "p150e",
+    "p150f",
+    "p151",
+    "p152",
+    "p153",
+    "p153a",
+    "p153b",
+    "p153c",
     "p154",
     "p154a",
     "p155",
@@ -17,113 +177,2202 @@
     "p161",
     "anlage"
   ],
-  "changed_ids": [
-    "p155",
-    "p155a",
-    "p156",
-    "p157",
-    "p158",
-    "p159",
-    "p160",
-    "p161",
-    "anlage"
-  ],
-  "retained_ids": [
-    "p154",
-    "p154a"
+  "review_provenance": "Cumulative prior nine bounded reviews; zero units substantively re-reviewed by this finalization process.",
+  "units_newly_reviewed_in_finalization": 0,
+  "batches": [
+    {
+      "key": "5ed142847c84e7c964b63d5ec2dd41ac61c0aa062f5dbdcf3244142ca7ce81c3",
+      "ids": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5",
+        "p6",
+        "p6a",
+        "p6b",
+        "p6c",
+        "p7",
+        "p8",
+        "p9",
+        "p10",
+        "p11",
+        "p11a",
+        "p11b",
+        "p11c",
+        "p11d",
+        "p12",
+        "p13"
+      ],
+      "units": 20,
+      "verified_at": "2026-10-20T14:20:40.552454+00:00",
+      "evidence": "sources/review-p1-p13/batch-checks.json",
+      "evidence_sha256": "225b20e86782a5c95dc671b5f60c1850d3d01ff1d3486325c1034741b7013cb3",
+      "complete": true,
+      "unresolved_blockers": []
+    },
+    {
+      "key": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "ids": [
+        "p13a",
+        "p13b",
+        "p13c",
+        "p14",
+        "p15",
+        "p16-bis-28",
+        "p29",
+        "p30",
+        "p30a",
+        "p30b",
+        "p30c",
+        "p31",
+        "p32",
+        "p33",
+        "p33a",
+        "p33b",
+        "p33c",
+        "p33d",
+        "p33e",
+        "p33f"
+      ],
+      "units": 20,
+      "verified_at": "2026-10-20T14:34:51.277766+00:00",
+      "evidence": "sources/review-p13a-p33f/batch-checks.json",
+      "evidence_sha256": "c9c082182dca1613b1d26671d970e4837a383c7357e49347f48530e83940d6c0",
+      "complete": true,
+      "unresolved_blockers": []
+    },
+    {
+      "key": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "ids": [
+        "p33g",
+        "p33h",
+        "p33i",
+        "p34",
+        "p34a",
+        "p34b",
+        "p34c",
+        "p34d",
+        "p34e",
+        "p34f",
+        "p34g",
+        "p34h",
+        "p34i",
+        "p34j",
+        "p34l",
+        "p35",
+        "p35a-und-35b",
+        "p36",
+        "p36a",
+        "p37"
+      ],
+      "units": 20,
+      "verified_at": "2026-10-20T14:45:50.603925+00:00",
+      "evidence": "sources/review-p33g-p37/batch-checks.json",
+      "evidence_sha256": "c43ac8cfffae93afc05b9dcd6056d809be300eddf07b0d7cedd4833f212ace81",
+      "complete": true,
+      "unresolved_blockers": []
+    },
+    {
+      "key": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "ids": [
+        "p38",
+        "p39",
+        "p39a",
+        "p40",
+        "p41",
+        "p41a-und-41b",
+        "p42",
+        "p42a-bis-44a",
+        "p45",
+        "p46",
+        "p47",
+        "p48",
+        "p49",
+        "p50",
+        "p51",
+        "p52",
+        "p53-bis-54",
+        "p55",
+        "p55a",
+        "p55b"
+      ],
+      "units": 20,
+      "verified_at": "2026-10-20T14:57:27.481658+00:00",
+      "evidence": "sources/review-p38-p55b/batch-checks.json",
+      "evidence_sha256": "67ac7cdad448e0851b19451757613afb07d9902aba16c96f13c3e1c2dc40c8ab",
+      "complete": true,
+      "unresolved_blockers": []
+    },
+    {
+      "key": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "ids": [
+        "p55c",
+        "p55d",
+        "p55e",
+        "p55f",
+        "p56",
+        "p56a",
+        "p57",
+        "p57a-und-58",
+        "p59",
+        "p60",
+        "p60a",
+        "p60b",
+        "p60c",
+        "p60d",
+        "p61",
+        "p61a",
+        "p62-und-63",
+        "p64",
+        "p65",
+        "p66"
+      ],
+      "units": 20,
+      "verified_at": "2026-10-20T15:08:47.054597+00:00",
+      "evidence": "sources/review-p55c-p66/batch-checks.json",
+      "evidence_sha256": "7124565cf20b90ca6d72ebd0f7b8f17190ffe51d162c3b4105835b6b1c67b528",
+      "complete": true,
+      "unresolved_blockers": []
+    },
+    {
+      "key": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "ids": [
+        "p67",
+        "p68",
+        "p68a",
+        "p69",
+        "p69a",
+        "p69b",
+        "p70",
+        "p70a",
+        "p70b",
+        "p71",
+        "p71a",
+        "p71b",
+        "p72-bis-80",
+        "p81-bis-104n",
+        "p104o-bis-104u",
+        "p105",
+        "p106",
+        "p107",
+        "p108",
+        "p109"
+      ],
+      "units": 20,
+      "verified_at": "2026-10-20T15:21:05.226287+00:00",
+      "evidence": "sources/review-p67-p109/batch-checks.json",
+      "evidence_sha256": "518c778174273778f41eb16b132086444497721fcaf41ac7279bce732b63737a",
+      "complete": true,
+      "unresolved_blockers": []
+    },
+    {
+      "key": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "ids": [
+        "p110",
+        "p111",
+        "p112-bis-132a",
+        "p133",
+        "p133a-bis-133d",
+        "p133e-bis-139aa",
+        "p139b",
+        "p139c-bis-139h",
+        "p139i",
+        "p139k-und-139m",
+        "p140",
+        "p141-bis-141f",
+        "p142",
+        "p143",
+        "p144",
+        "p145",
+        "p146",
+        "p147",
+        "p147a",
+        "p147b"
+      ],
+      "units": 20,
+      "verified_at": "2026-10-20T15:34:32.420901+00:00",
+      "evidence": "sources/review-p110-p147b/batch-checks.json",
+      "evidence_sha256": "d64e39cd4b1c202fec5937c2747d46a88009ddee388dd7da86f0120b452c2e08",
+      "complete": true,
+      "unresolved_blockers": []
+    },
+    {
+      "key": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "ids": [
+        "p147c",
+        "p147d",
+        "p148",
+        "p148a",
+        "p148b",
+        "p148c",
+        "p149",
+        "p150",
+        "p150a",
+        "p150b",
+        "p150c",
+        "p150d",
+        "p150e",
+        "p150f",
+        "p151",
+        "p152",
+        "p153",
+        "p153a",
+        "p153b",
+        "p153c"
+      ],
+      "units": 20,
+      "verified_at": "2026-10-20T15:47:25.220056+00:00",
+      "evidence": "sources/review-p147c-p153c/batch-checks.json",
+      "evidence_sha256": "1e021fff736b051d84cada72abe64ff80e1a526dd9a2e91ead2321d4add0b3b9",
+      "complete": true,
+      "unresolved_blockers": []
+    },
+    {
+      "key": "3a1fef542d781e78c8b212be9441df6f61c9898b3f10f5acd1a5831d1fb4207a",
+      "ids": [
+        "p154",
+        "p154a",
+        "p155",
+        "p155a",
+        "p156",
+        "p157",
+        "p158",
+        "p159",
+        "p160",
+        "p161",
+        "anlage"
+      ],
+      "units": 11,
+      "verified_at": "2026-10-20T16:01:48.706360+00:00",
+      "evidence": "sources/review-p154-anlage/batch-checks.json",
+      "evidence_sha256": "06261af55461ae8f859811a70d58685963cc260e9688c7d828f3b9805a9309b9",
+      "complete": true,
+      "unresolved_blockers": []
+    }
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p154",
-      "action": "retained",
-      "review": "Officially repealed slot, not an operative general jurisdiction rule. Existing short explanation correctly directs to §155; no historical replacement or unsupported authority."
+      "batch": "5ed142847c84e7c964b63d5ec2dd41ac61c0aa062f5dbdcf3244142ca7ce81c3",
+      "finding": {
+        "unit_id": "p6",
+        "status": "resolved",
+        "finding_and_correction": "Drei Ausnahmetechniken, Rückausnahme Titel XI, Erweiterung durch Absatz 1a und Arbeitnehmerbezug des Absatzes 2 geprüft. Unpassenden Vergleich mit einer versicherten Person durch Abgrenzung Versicherungsunternehmen/selbständige Vermittlung ersetzt; Zeugnisbeispiel mit § 109 abgeglichen.",
+        "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+      }
     },
     {
-      "id": "p154a",
-      "action": "retained",
-      "review": "Officially repealed slot. Current permit/information claims cannot rest on it; historical references require historical law. No invented former wording."
+      "batch": "5ed142847c84e7c964b63d5ec2dd41ac61c0aa062f5dbdcf3244142ca7ce81c3",
+      "finding": {
+        "unit_id": "p6a",
+        "status": "resolved",
+        "finding_and_correction": "Dreimonatsfrist, Bewachungsausnahmen und Absatz 2 präzisiert. Neufassung seit 24.07.2026 anhand Art. 1 Nr. 1 und Art. 11 BGBl. 215 bestätigt. § 42a VwVfG im geltenden Wortlaut geprüft; neue Vollständigkeitsbescheinigung nach BGBl. 199 erst ab 01.02.2027, daher nicht vorgezogen. Landesverfahrensrecht bleibt ausdrücklich zu prüfen.",
+        "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+      }
     },
     {
-      "id": "p155",
-      "action": "corrected",
-      "review": "Clarifies that delegable regulation-making powers of Land governments need not originate in Land legislation; distinguishes delegation, subdelegation and individual administrative jurisdiction, named city-state senates and limited data purpose. Abs4 repeal retained."
+      "batch": "5ed142847c84e7c964b63d5ec2dd41ac61c0aa062f5dbdcf3244142ca7ce81c3",
+      "finding": {
+        "unit_id": "p7",
+        "status": "resolved",
+        "finding_and_correction": "Persönlichen Anwendungsbereich und sämtliche sieben Datenkategorien geprüft. Veranstalter nach § 69 Abs. 1 Satz 1 sowie zuständige Zuverlässigkeitsbehörde im Kommentar ausdrücklich ergänzt; spätere Vertretungsbestellung bleibt mitteilungspflichtig.",
+        "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+      }
     },
     {
-      "id": "p155a",
-      "action": "corrected",
-      "review": "Replaces unexplained referral with all five §44a BZRG paragraphs: blocking versus deletion, balancing and binding necessity assessment, special no-entry dataset, temporary identity changes and reserved criminal-procedure powers. Correct effective25.06.2026, not digital-certificate01.10.2026."
+      "batch": "5ed142847c84e7c964b63d5ec2dd41ac61c0aa062f5dbdcf3244142ca7ce81c3",
+      "finding": {
+        "unit_id": "p11",
+        "status": "resolved",
+        "finding_and_correction": "Alle sieben Absätze geprüft. Kumulative Erhebungsgrenzen und grundsätzliche Übermittlungspflicht nichtöffentlicher Stellen samt Geheimnisschutz ausdrücklich erläutert; interne Weitergabe ergänzt. Datenbeispiel bleibt auf konkrete Erforderlichkeit begrenzt.",
+        "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+      }
     },
     {
-      "id": "p156",
-      "action": "corrected",
-      "review": "Identifies old intermediary-to-adviser transition and exact waived checks; liability coverage not waived, old permission ends on new grant not application; payment timing separated from underlying pre-grant mediation. No broad new-provision exemption."
+      "batch": "5ed142847c84e7c964b63d5ec2dd41ac61c0aa062f5dbdcf3244142ca7ce81c3",
+      "finding": {
+        "unit_id": "p11a",
+        "status": "resolved",
+        "finding_and_correction": "Absätze 1, 1a, 2, 3–3b, 4–8 geprüft. Richtigen Empfänger bei getrennten Register-/Erlaubnisbehörden ergänzt, Monatslöschung und begrenzte Fünfjahresregel präzisiert. Zukünftige §-34k-Erweiterung nach BGBl. 139 Art. 7 Nr. 2/Art. 16 erst ab 20.11.2026 ausdrücklich abgegrenzt.",
+        "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+      }
     },
     {
-      "id": "p157",
-      "action": "corrected",
-      "review": "All eight paragraphs checked. Adds exact application/registration/proof deadlines, mandatory statutory lapse rather than discretionary possibility, finality versus grant, limits of old-practitioner exception, category-specific expansion and no imported exception into Abs6. Expired carve-outs not reopened."
+      "batch": "5ed142847c84e7c964b63d5ec2dd41ac61c0aa062f5dbdcf3244142ca7ce81c3",
+      "finding": {
+        "unit_id": "p11b",
+        "status": "resolved",
+        "finding_and_correction": "Alle neun Absätze und Datenkatalog Nr. 1–13 gegen amtlichen Volltext geprüft. Trennung Register/Entscheidungsbehörde, Altqualifikationsnachweise, Ausweiskopien, verschiedene Meldewege und Löschanlässe vertieft. Keine einheitliche Aufbewahrungsfrist behauptet; Arbeitgeberwechsel bleibt fiktives Beispiel.",
+        "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+      }
     },
     {
-      "id": "p158",
-      "action": "corrected",
-      "review": "Corrects conflation: protective storage does not require actual loss, retransmission does. Distinguishes one month after transfer from month after statutory date, test deletion from live transfer, and separate protocol/storage-image retention via verified §14(3)BewachRV."
+      "batch": "5ed142847c84e7c964b63d5ec2dd41ac61c0aa062f5dbdcf3244142ca7ce81c3",
+      "finding": {
+        "unit_id": "p11c",
+        "status": "resolved",
+        "finding_and_correction": "Ersuchen, Übermittlung ohne Ersuchen, Gegenseitigkeit und Arbeitnehmerbezug geprüft. Eingehende Tätigkeiten auf gesetzlich qualifikationsgebundene Fälle beschränkt; unverzügliche Prüfung beim Empfänger und Viehzucht trotz § 6 verdeutlicht.",
+        "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+      }
     },
     {
-      "id": "p159",
-      "action": "corrected",
-      "review": "Differentiates exact data categories, industry reporting versus official enquiry, future intended sensitive assignments and three distinct2019 dates. No assumed proof of actual compliance."
+      "batch": "5ed142847c84e7c964b63d5ec2dd41ac61c0aa062f5dbdcf3244142ca7ce81c3",
+      "finding": {
+        "unit_id": "p11d",
+        "status": "resolved",
+        "finding_and_correction": "Alle sechs Absätze gegen den Text geprüft. Versicherungsbezogene Eskalation, Unterrichtung des Eintragungspflichtigen, unterschiedliche Vermittlungswege über Ministerium/gemeinsame Stelle beziehungsweise BAFA und abgegrenzte EIOPA-Meldungen ergänzt. Keine beliebige Zuständigkeitsübertragung unterstellt.",
+        "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+      }
     },
     {
-      "id": "p160",
-      "action": "corrected",
-      "review": "Separates acquisition/registration from application, restricted waiver and proof. Adds actual VG reasons on application deadline and independent failure of continuity evidence, plaintiff argument not adopted as holding, first-instance/finality limits; no current reactivation of historical exemption or future §162."
+      "batch": "5ed142847c84e7c964b63d5ec2dd41ac61c0aa062f5dbdcf3244142ca7ce81c3",
+      "finding": {
+        "unit_id": "p12",
+        "status": "resolved",
+        "finding_and_correction": "Alle vier Schutzphasen, maßgebliches Ausgangsgewerbe, Untersagung/Rücknahme/Widerruf und Freigabeausnahme geprüft. Bloßen Antrag und neue Freigabetatsachen abgegrenzt. BVerwG 8 C 6.14 vollständig im amtlichen Bestand gelesen und frisch abgerufene XML mit lokalem Korpus verglichen; maßgebliche letzte Behördenentscheidung von Bestandskraft unterschieden; keine Übertragung auf ungeprüfte Restrukturierungsfälle.",
+        "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+      }
     },
     {
-      "id": "p161",
-      "action": "corrected",
-      "review": "Scopes temporal holdback to actual identifier fragments or specified sentence; no general §14(1) exemption. Separate notice events and renewed negative search stated conditionally, no false proof of occurrence/nonoccurrence."
+      "batch": "5ed142847c84e7c964b63d5ec2dd41ac61c0aa062f5dbdcf3244142ca7ce81c3",
+      "finding": {
+        "unit_id": "p13",
+        "status": "resolved",
+        "finding_and_correction": "Adressat Landesregierungen, Verordnungsbedürftigkeit, maximal fünf Jahre, Unionsbindung und territoriale Wirkung geprüft. Berufsausübung ausdrücklich vom nicht pauschal freigebbaren Berufszugang abgegrenzt; kein konkretes unbestätigtes Landesexperiment behauptet.",
+        "evidence": "sources/BJNR002450869.xml; sources/review-p1-p13/commentary-changes.diff"
+      }
     },
     {
-      "id": "anlage",
-      "action": "corrected",
-      "review": "Entire two-section operative annex and nested lists checked. Clarifies §36-specific scope, shared reservations and experience qualification, quantitative/staff restrictions, cumulative same-goal burden, EU/EWR/Swiss scope and two-week consultation; supervised activity example does not displace statutory personal expertise."
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p13a",
+        "label": "§ 13a",
+        "official_doknr": "BJNR002450869BJNE024902118",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Persönlicher Anwendungsbereich und gestufte Fristen bislang zu knapp.",
+        "resolution": "EU-/EWR-Staatsangehörigkeit, Monatsbestätigung gegenüber Vollständigkeitsfristen, Zwei-Monats-Entscheidung, Nachprüfungshemmung, fehlende Kopienhemmung, Ein-Jahres-Praxis in zehn Jahren und Wiederholungsanzeige präzisiert.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p13b",
+        "label": "§ 13b",
+        "official_doknr": "BJNR002450869BJNE025408118",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Ersatzunterlagen, Versicherungsaussteller und künftig geänderter Ausnahmekatalog waren nicht hinreichend unterschieden.",
+        "resolution": "Ersatznachweis nur bei fehlenden Herkunftsdokumenten, mögliche Aussteller, Deckungsvergleich und §34c/§34h im aktuellen Katalog erläutert. Art.7 Nr.3/Art.16 BGBl.139: Neufassung erst 20.11.2026.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p13c",
+        "label": "§ 13c",
+        "official_doknr": "BJNR002450869BJNE025901118",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Drittstaatsgrundsatz, genaue Wahlrechte und Schutzfunktion der Sechsmonatsregel zu knapp.",
+        "resolution": "Allgemeiner Auslandsnachweis von europäisch privilegierter Maßnahmenwahl getrennt; anerkannter Drittstaatsnachweis plus drei Jahre Praxis, Begründungsniveau, sechsmonatige Ermöglichung statt Ausschlussfrist und fehlende gesetzliche Anerkennungsfiktion verdeutlicht.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p14",
+        "label": "§ 14",
+        "official_doknr": "BJNR002450869BJNE004732128",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Amtsabmeldung ohne ausdrückliche Wartekomponente; Bundesstatistik nicht hinreichend von Änderungsanzeigen abgegrenzt.",
+        "resolution": "Angemessener Zeitraum bei Amtsabmeldung ergänzt; monatliche Statistik über Aufnahme-/Aufgabeanzeigen, besondere Abrufanforderungen und begrenzte Zweckbindung genauer erläutert; zukünftige Empfänger bleiben ausgeschlossen.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p15",
+        "label": "§ 15",
+        "official_doknr": "BJNR002450869BJNE004803301",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Keine materielle Korrektur erforderlich.",
+        "resolution": "Dreitages-Empfangsbestätigung und fehlende Zulassungswirkung stimmen; formelle Zulassungslücke und Ermessen richtig von §35 getrennt. Beispiel §34a/§6a gegen aktuelle GewO geprüft.",
+        "action": "retained_after_review",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p16-bis-28",
+        "label": "(XXXX) §§ 16 bis 28",
+        "official_doknr": "BJNR002450869BJNE005206301",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Keine materielle Korrektur erforderlich.",
+        "resolution": "Amtlich zusammengefasste Wegfallspanne vollständig erhalten, einschließlich (XXXX)-Label. Keine fiktiven aktuellen Einzelpflichten oder historischen Fassungen ergänzt.",
+        "action": "retained_after_review",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p29",
+        "label": "§ 29",
+        "official_doknr": "BJNR002450869BJNE005913118",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Kontrolladressaten unvollständig erläutert; Formulierung zu Verdachtstatsachen missverständlich.",
+        "resolution": "§34i-Abs.4-Befreite, Kulturguthandel und bestellte Personengruppen benannt; erforderlichkeitsgebundene Auskunft, Gefahrenschwelle, Wohnnutzung und tatsachengestützter Verdacht präzisiert; §34k-Erweiterung erst 20.11.2026.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p30",
+        "label": "§ 30",
+        "official_doknr": "BJNR002450869BJNE006003301",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Anstaltsbezug und Einzelgründe bislang sehr verdichtet.",
+        "resolution": "Unternehmerbezogene Konzession vom bloßen medizinischen Angebot getrennt; Nr.1,1a,2,3,4 und jeweilige räumliche Voraussetzungen einzeln erklärt; Anhörung von eigener Sachentscheidung unterschieden.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p30a",
+        "label": "§ 30a",
+        "official_doknr": "BJNR002450869BJNE006102301",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Keine materielle Korrektur erforderlich.",
+        "resolution": "Amtlicher Wegfall bestätigt; kein zusätzlicher aktueller Konzessionstatbestand behauptet. Historischer Bescheidverweis nur als gesondert zu prüfender Altfall bezeichnet.",
+        "action": "retained_after_review",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p30b",
+        "label": "§ 30b",
+        "official_doknr": "BJNR002450869BJNE006203377",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Keine materielle Korrektur erforderlich.",
+        "resolution": "Wegfallslot stimmt mit leerem/repeal-gekennzeichnetem XML-Datensatz überein; keine aktuelle Betriebspflicht daraus konstruiert.",
+        "action": "retained_after_review",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p30c",
+        "label": "(XXXX) § 30c",
+        "official_doknr": "BJNR002450869BJNE006303360",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Keine materielle Korrektur erforderlich.",
+        "resolution": "Eigenständiger Wegfallslot mit amtlichem (XXXX)-Präfix geprüft; heutige Erlaubnisgrundlage wird nicht durch alten Verweis ersetzt.",
+        "action": "retained_after_review",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p31",
+        "label": "§ 31",
+        "official_doknr": "BJNR002450869BJNE026205123",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Befugnisgrundlage im letzten Satz nicht hinreichend von Zulassung getrennt; Umfang der Durchführungsermächtigung verkürzt.",
+        "resolution": "§34a Abs.5 entsprechend als Befugnisgrenze erläutert; Raumgrenze, Beteiligungen, Organisationsanforderungen, Verordnungsdelegation und Gebührenmaßstab vertieft. Drei-Sitzungswochen-Fiktion betrifft Verordnung, §6a schließt Zulassungsfiktion aus.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p32",
+        "label": "§ 32",
+        "official_doknr": "BJNR002450869BJNE006307116",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Keine materielle Korrektur erforderlich.",
+        "resolution": "Satzungsbefugnis nur aufgrund und innerhalb nicht abschließender Rechtsverordnung; Prüfungsentscheidungen von Aufgabenauswahl getrennt. Behindertennachteilsausgleich und §13c-Bezug sachgerecht.",
+        "action": "retained_after_review",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p33",
+        "label": "§ 33",
+        "official_doknr": "BJNR002450869BJNE028500116",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Keine materielle Korrektur erforderlich.",
+        "resolution": "Wegfall als solcher behandelt, keine zusätzliche heutige Erlaubnisregel ergänzt. Erhaltene thematische Prüfliste auf Anzeige, Zulassung und Datenzweck geprüft.",
+        "action": "retained_after_review",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p33a",
+        "label": "§ 33a",
+        "official_doknr": "BJNR002450869BJNE006403301",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Eigene Geschäftsräume konnte irrtümlich Raumeigentum suggerieren.",
+        "resolution": "Betriebliche Zuordnung statt Eigentum verdeutlicht, ausdrücklich Mieträume; Veranstalter-/Bereitstellungstatbestand, überwiegender Darbietungscharakter und alle drei Versagungskomplexe getrennt.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p33b",
+        "label": "§ 33b",
+        "official_doknr": "BJNR002450869BJNE006503123",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Keine materielle Korrektur erforderlich.",
+        "resolution": "Amtlicher Wegfall geprüft; keine ungeschriebene Ausnahme aus Nummernlücke abgeleitet. Beispielhafte Abgrenzung bleibt bei §33a und Sonderrecht.",
+        "action": "retained_after_review",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p33c",
+        "label": "§ 33c",
+        "official_doknr": "BJNR002450869BJNE006607128",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Zuverlässigkeitsregel und Gewinnmöglichkeit nicht hinreichend konkretisiert; keine bisher verifizierte Fallautorität.",
+        "resolution": "Dreijahreszeitraum vor Antragstellung und nicht ausnahmslose Regelannahme erläutert; Personalunterrichtung und Ebenentrennung vertieft. Amtlicher Beschluss 6 B 14.07 vollständig gelesen, begrenzt auf damalige Punktespeichergeräte und Verlustschutz.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p33d",
+        "label": "§ 33d",
+        "official_doknr": "BJNR002450869BJNE006707360",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Rücknahmevoraussetzung damaliger Unkenntnis und Unterscheidung Spielbedingung/Auflage verkürzt.",
+        "resolution": "Unbekannte ursprüngliche Tatsachen, spätere Tatsachen und zwingenden gegenüber ermessensgebundenem Widerruf genau erklärt; Urteil 8 C 21.12 nur für vorgelagerte Glücksspielabgrenzung unter ausdrücklicher historischer Begrenzung ergänzt.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p33e",
+        "label": "§ 33e",
+        "official_doknr": "BJNR002450869BJNE006806360",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Zwingende gegenüber zusätzlicher ermessensgebundener Versagung sowie Aufhebungsumfang zu knapp.",
+        "resolution": "Satz1 gegenüber Satz2, gesetzliche insbesondere-Fälle, teilweise Bauartaufhebung gegenüber voller Bescheinigungsaufhebung und antragstellerbezogene Veränderung präzisiert. Beschluss 6 B 14.07 Rn.10 nur für Schutzfunktion, keine heutigen Zahlen übernommen.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "2fba98ed88c886ef9c6816809d5797706945cf2d46fd19233034d27b295041e8",
+      "finding": {
+        "id": "p33f",
+        "label": "§ 33f",
+        "official_doknr": "BJNR002450869BJNE027603123",
+        "source": "sources/review-p13a-p33f/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "authority_checked": true,
+        "finding": "Verlängerung der Aufstelldauer und eigene Stellung des aufnehmenden Betriebs nicht einzeln erklärt.",
+        "resolution": "Enger Warenspielgeräte-/Festveranstaltungsbereich des Abs.2, Konstruktionsvoraussetzung fehlender statistischer Prüfmethoden, verschiedene Ressortzuständigkeiten und Verordnungsabhängigkeit möglicher Ausnahmen erläutert; keine ungesicherten Gerätehöchstzahlen ergänzt.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p33g",
+        "label": "§ 33g",
+        "official_doknr": "BJNR002450869BJNE007012123",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Verordnungsvoraussetzungen und Beschränkung der ersten Öffnung auf andere Spiele waren verkürzt.",
+        "resolution": "Ressorteinvernehmen, Bundesratszustimmung und Grenze zu § 33c ergänzt; keine unmittelbare Befreiung oder Erstreckung allein durch das Gesetz unterstellt.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p33h",
+        "label": "§ 33h",
+        "official_doknr": "BJNR002450869BJNE007102301",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Keine materielle Korrektur erforderlich.",
+        "resolution": "Alle drei Ausschlüsse und Rückausnahme für Fest-Ausspielungen mit geringwertigen Sachgewinnen geprüft; keine allgemeine Erlaubnisfreiheit behauptet.",
+        "action": "retained_after_review",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p33i",
+        "label": "§ 33i",
+        "official_doknr": "BJNR002450869BJNE007205360",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Persönliche Verweisung und Schutzanforderungen nicht hinreichend differenziert.",
+        "resolution": "Gezielte Verweisungen des Abs. 2 Nr. 1 statt pauschaler Übernahme aller Aufstellerpflichten; Raum- und prognostische Gefährdungsgründe sowie Erforderlichkeit bei Befristung/Auflagen ergänzt. Landesrecht bleibt ausdrücklich gesondert.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p34",
+        "label": "§ 34",
+        "official_doknr": "BJNR002450869BJNE007312123",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Rückkaufsrecht gegenüber späterer Erwerbschance sowie Rechtsprechungsbeleggrenze nicht erläutert.",
+        "resolution": "Tatsächliche Abreden, Unbeachtlichkeit einer vorhandenen Pfandleiherlaubnis für das Verbot und Verwertungsjahresbeispiel ergänzt. BGH VIII ZR436/21 vollständig gelesen: § 34 Abs. 4 dort offengelassen, Sittenwidrigkeit tragend. Späterer Berichtigungsbeschluss mitgeprüft.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p34a",
+        "label": "§ 34a",
+        "official_doknr": "BJNR002450869BJNE028103119",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Zuverlässigkeitszeitfenster, Sachkundeaufgaben und Löschungsregime waren zu pauschal.",
+        "resolution": "Zehn-/Fünfjahresregeln, strafrechtliche Schwellen, Tätigkeitsgruppen und unterschiedlicher Leitungsbezug ergänzt. Fünfjahres-/Sechsmonatslöschung mit § 11b abgegrenzt. Alle Absätze1,1a,1b,2–6 geprüft; keine generellen Polizeibefugnisse unterstellt.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p34b",
+        "label": "§ 34b",
+        "official_doknr": "BJNR002450869BJNE007516123",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Öffentliche Bestellung klang fakultativ; Strafschwelle und Geschäftsbieterausnahme zu unbestimmt.",
+        "resolution": "Gesetzliche Antragsbestellung, besondere Sachkunde und Bedarf für bestimmte Versteigerungsarten erklärt. Freiheitsstrafe/Fünfjahresbezug sowie Zugang jedes Bieters nach Abs. 10 Nr. 3 präzisiert. Eigen-/Fremdgebote, Warenverbote und Abs. 7–8 geprüft.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p34c",
+        "label": "§ 34c",
+        "official_doknr": "BJNR002450869BJNE007635123",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Keine materielle Korrektur erforderlich.",
+        "resolution": "Sämtliche Tatbestände, Versagung, Weiterbildung, Verordnung und Ausnahmen geprüft. Aktuelle Maklerstreichung aus Weiterbildung nach BGBl.215 Art. 1 Nr. 3/Art. 11 ab 24.07.2026 bestätigt; allgemeine Darlehensvermittlung bleibt bis zur künftigen Änderung unter aktuellem Tatbestand.",
+        "action": "retained_after_review",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p34d",
+        "label": "§ 34d",
+        "official_doknr": "BJNR002450869BJNE026907128",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Maklerberatung, Beraterpräferenz, Ausnahmekatalog, Mitarbeiterfolgen und Veröffentlichung verkürzt.",
+        "resolution": "Nichtverbraucher-/Unternehmensbeschäftigtenregel und Vorrang zuwendungsfreier gleich geeigneter Versicherung ergänzt. Alle Ausnahmen6–8 getrennt,600/200/500-Euro-Maßstäbe konkretisiert; Personalprüfung,15-Stunden-Liste, Delegationsausschluss und Beschäftigungsuntersagung erläutert. Kürzere personenbezogene Löschung; ESAP-Ergänzung erst 2030 ausdrücklich ausgeschlossen. Abs. 11a–13 vollständig geprüft.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p34e",
+        "label": "§ 34e",
+        "official_doknr": "BJNR002450869BJNE024506128",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Keine materielle Korrektur erforderlich.",
+        "resolution": "Alle sieben Regelungsgegenstände, Bundestagsverfahren, Drei-Sitzungswochen-Regel sowie getrennte Geldsicherungs-/Resilienz-/Unabhängigkeitsprüfungen geprüft. Keine konkreten ungeprüften Verordnungsintervalle ergänzt.",
+        "action": "retained_after_review",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p34f",
+        "label": "§ 34f",
+        "official_doknr": "BJNR002450869BJNE025707128",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Keine materielle Korrektur erforderlich.",
+        "resolution": "Alle drei Produktkategorien, Bereichsausnahme, vier Erlaubnisvoraussetzungen, fünf Aufsichtsausnahmen, Personalsachkunde und getrennte Registerwege geprüft. Beispiel überschreitet nachvollziehbar die erlaubte offene-Fonds-Kategorie.",
+        "action": "retained_after_review",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p34g",
+        "label": "§ 34g",
+        "official_doknr": "BJNR002450869BJNE028203128",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Aufzeichnungsbeschreibung sprachlich unklar; tägliche Aufbewahrungsfrist sachfremde Formulierung.",
+        "resolution": "Kenntnis der Kunden ausdrücklich; keine einheitliche Speicherfrist erfunden. Gebotener Verordnungskern gegenüber fakultativen Ergänzungen präzisiert; sämtliche Pflichtgegenstände und Prüfungsverweis kontrolliert.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p34h",
+        "label": "§ 34h",
+        "official_doknr": "BJNR002450869BJNE026403128",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Keine materielle Korrektur erforderlich.",
+        "resolution": "Alle drei Absätze geprüft: Erlaubniswechsel unter Urkundenvorlage mit begrenztem Prüfverzicht und Erlöschen, Trennungsgebot, Marktstreuung, Ausnahme für unvermeidbare Zuwendungen, unverzügliche ungeminderte Auskehr und Abgabenvorbehalt stimmen.",
+        "action": "retained_after_review",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p34i",
+        "label": "§ 34i",
+        "official_doknr": "BJNR002450869BJNE027102128",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Personalregel des Absatzes6 durch unmittelbar unzulässig verengt.",
+        "resolution": "Mitwirkung in Abs. 6 gegenüber unmittelbarer Mitwirkung in Registerregel8 getrennt. Leitungsbezug, Zweigniederlassungen, Beschäftigungsuntersagung präzisiert. Alle neun Absätze einschließlich Absatz7-Vergütung und Absatz9-Veröffentlichung gegen Wortlaut geprüft.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p34j",
+        "label": "§ 34j",
+        "official_doknr": "BJNR002450869BJNE027302123",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Keine materielle Korrektur erforderlich.",
+        "resolution": "Fünf Ermächtigungskomplexe geprüft; Qualifikationsanerkennung außerhalb § 34i Abs. 4, Versicherungsmechanismus, grenzüberschreitende Begleitprüfung und anlassbezogene statt automatisch jährlicher Prüfung sachgerecht.",
+        "action": "retained_after_review",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p34l",
+        "label": "§ 34l",
+        "official_doknr": "BJNR002450869BJNE029900128",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Beispiel formulierte unbestimmte Vorwirkung künftiger Qualifikation.",
+        "resolution": "Planung der verkündeten künftigen Voraussetzungen von heutiger Ermächtigung und Weiterbildung getrennt. Art. 7 Nr. 6/Art. 16 BGBl.139 bestätigt § 34l ab 19.05.2026, § 34k erst 20.11.2026; keine fehlende heutige Norm erfunden.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p35",
+        "label": "§ 35",
+        "official_doknr": "BJNR002450869BJNE007709123",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Gebundene Grunduntersagung, Erweiterungsermessen und Rückausnahmen zu knapp.",
+        "resolution": "Satz1/Satz2 ausdrücklich getrennt; strafgerichtliche Bindung, Antragsform, Wiedergestattungsanspruch und Jahresfrist, örtliche Zuständigkeit, Abs. 7a ohne Abs. 2, Abs. 8-Rückausnahmen und Abs. 9-Bereiche vertieft. Amtliches BVerwG 8C6.14 vollständig für diese Einheit nachgeprüft; heutige § 12-Erweiterungen nicht als damals entschieden ausgegeben.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p35a-und-35b",
+        "label": "(XXXX) §§ 35a und 35b",
+        "official_doknr": "BJNR002450869BJNE007803301",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Keine materielle Korrektur erforderlich.",
+        "resolution": "Amtlichen gruppierten Wegfall und exaktes(XXXX)-Label kontrolliert. Keine historischen Einzeltexte oder zusätzlichen Rechtsbehelfe ergänzt.",
+        "action": "retained_after_review",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p36",
+        "label": "§ 36",
+        "official_doknr": "BJNR002450869BJNE008010123",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Bedarfsprüfung und Reichweite des Absatzes4a konnten zu weit verstanden werden.",
+        "resolution": "Sachgebietsbedarf von individueller Konkurrenz-/Stellenbedarfsprüfung getrennt; Absatz4a nur für die in4Satz3 erfassten neuen/geänderten Berufsregeln. Amtliches Urteil8C24.11 vollständig gelesen und begrenzt eingeordnet; heutige neue Verhältnismäßigkeitsordnung nicht rückprojiziert. Alle Absätze samt Anlageverweis und Sonderrechtsvorrang geprüft.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p36a",
+        "label": "§ 36a",
+        "official_doknr": "BJNR002450869BJNE025500377",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Fristen und Hemmung zu stark zusammengefasst.",
+        "resolution": "Einmonatige Empfangsbestätigung, Dreimonatsfrist ab Vollständigkeit, begründete Verlängerung um einen Monat und zweckgebundene Herkunftsnachfrage als Hemmungsgrund präzisiert. Zweijahres-/Zehnjahresregel im amtlichen Text erhalten, kein anderer Richtlinienstand hineinkorrigiert; Wahlrecht bei Ausgleichsmaßnahmen geprüft.",
+        "action": "corrected_or_deepened",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d45b2ef672fb3cf850bf64444948a027ae61cd74a369b32368b9c7bfd7106224",
+      "finding": {
+        "id": "p37",
+        "label": "§ 37",
+        "official_doknr": "BJNR002450869BJNE008102301",
+        "source": "sources/review-p33g-p37/BJNR002450869.xml",
+        "source_text_checked": true,
+        "complete_commentary_read": true,
+        "meaning_and_temporal_selection_checked": true,
+        "cross_references_and_example_checked": true,
+        "finding": "Keine materielle Korrektur erforderlich.",
+        "resolution": "Amtlichen Wegfall geprüft; historische Bezugnahme von heutiger materieller Regel unterschieden, keine neue aktuelle Pflicht aus der Nummernlücke konstruiert.",
+        "action": "retained_after_review",
+        "unresolved": false
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p38",
+        "disposition": "corrected",
+        "review": "Abs. 1 Nr. 1 requires listed goods plus used-goods specialization; distinguished two register applications and ex officio follow-up. Abs. 2 danger threshold and Abs. 4 precisely limited institutional exception made explicit. Checked § 4 nonapplication and § 29 monitoring.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-06.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p39",
+        "disposition": "retained",
+        "review": "Official repeal marker checked. Existing explanation creates no power from the slot; internal references to §§ 11, 29, 38 are legitimate alternative statutory contexts, not automatic authority for any inquiry.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-06.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p39a",
+        "disposition": "retained",
+        "review": "Official repeal marker and lack of operative duties checked; historical forms are appropriately flagged without reconstruction of an earlier version.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-06.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p40",
+        "disposition": "retained",
+        "review": "Repealed single slot verified in XML and HTML; references to §§ 45 ff. are expressly current adjacent context and do not purport to describe former § 40.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-06.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p41",
+        "disposition": "retained",
+        "review": "Repeal checked; existing distinction between no present rule here and continued sectoral restrictions is sound. No unsupported historical date or replacement norm asserted.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-06.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p41a-und-41b",
+        "disposition": "retained",
+        "review": "One official record (XXXX) §§ 41a und 41b, text (weggefallen), checked. Grouping and exact label preserved; no invented individual current provisions.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-06.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p42",
+        "disposition": "retained",
+        "review": "Official title (weggefallen) plus literal hyphen body independently verified. Commentary correctly explains source typography without creating substantive meaning or normalizing away the empty slot.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-06.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p42a-bis-44a",
+        "disposition": "retained",
+        "review": "Grouped official repeal record checked, including exact (XXXX) label and range. No missing current child articles or operative transitional text found.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-06.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p45",
+        "disposition": "corrected",
+        "review": "Separated representative operation from transfer to a new independent licensee. Removed potential implication that § 45 requires authorization in every trade; §§ 47 and 35(2) apply on their own conditions. Functional qualifications and example refined.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-06.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p46",
+        "disposition": "corrected",
+        "review": "Separated minority duration from ten years measured from succession for Nachlassverwalter, Nachlasspfleger and Testamentsvollstrecker. One-year relaxation runs from death, not later application. Special-law priority and BAFA competence from § 31(7) verified.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-06.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p47",
+        "disposition": "corrected",
+        "review": "Checked full current list and competent body; public appointment is not employment. § 36 personal performance limits representation. Published addition of § 34k checked against Art. 7 Nr. 7/Art. 16 BGBl. 139: effective only 2026-11-20, excluded on decisive date.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-06.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p48",
+        "disposition": "retained",
+        "review": "Repeal record verified. Explanation neither creates a representation power nor silently revives former conditions. Historical approvals remain individually assessable.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-06.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p49",
+        "disposition": "corrected",
+        "review": "Distinguished initial noncommencement from continuous later nonuse, automatic expiry from revocation, and application from extension decision. Added fully read BVerwG 8 B 12.15 with express distinction between lower-court view, party question and court holding; no claim that preparatory acts were categorically held insufficient.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-06.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p50",
+        "disposition": "retained",
+        "review": "Official repeal checked. The reference to § 49 is limited to its current standstill regime; no generalization to all permits introduced.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-06.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p51",
+        "disposition": "corrected",
+        "review": "Clarified discretionary plant-related intervention, statutory compensation to Besitzer, and scope of BImSchG exclusion beyond the bare existence of a permit. No invented damage tariff, categorical lost-profit exclusion or unverified procedural jurisdiction.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-06.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p52",
+        "disposition": "retained",
+        "review": "Official repeal checked; current interference basis must be identified independently. Existing mention of special regime is consistent with § 51 sentence 3.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-06.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p53-bis-54",
+        "disposition": "retained",
+        "review": "Grouped repeal record verified at end of standing-trade title. Existing practical checklist checked against §§ 12, 35, 45–51; it does not convert the empty slot into an operative checklist mandate.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-06.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p55",
+        "disposition": "corrected",
+        "review": "Reviewed both business variants, lack of prior order and establishment reference. Distinguished later fulfilment from initially customer-ordered visit with BVerfG 1 BvR 2176/98 fully read. Separated content restriction, time limit and subsequent conditions under Abs. 3; EU exception under § 4 included.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-07.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p55a",
+        "disposition": "corrected",
+        "review": "Reviewed every numbered category including empty Nr. 4 and Nr. 8a. Expanded event authorization, own produce, home/establishment municipality, milk authorization, specific insurance groups, actual other permit, distinct financial references, regular supply, alcohol exception, printworks and Abs. 2 discretion. Nr. 8 is not mislabeled a foreign-authorization exemption; Nr. 8a has separate EU/EWR conditions. § 55c and § 60c references checked.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-07.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "d63add2eea05cb20c8bf8c7cde1ae6df488e2be10b110e5ca4de25cc4b938ec9",
+      "finding": {
+        "id": "p55b",
+        "disposition": "corrected",
+        "review": "Limited business visit exemption to actual commercial role; added § 56(3) and § 59 consequences. Distinguished domestic exemption from foreign-use identification card, statutory issuance wording, corresponding §§ 55(3)/57, and treaty/supranational priority. No specific foreign treaty asserted.",
+        "checked_against": [
+          "sources/review-p38-p55b/BJNR002450869.xml",
+          "units.jsonl",
+          "sources/review-p38-p55b/baseline-commentary/part-07.md"
+        ],
+        "material_issues_resolved": true
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p55c",
+        "disposition": "corrected",
+        "review": "Beginnanzeige nur für § 55a Abs. 1 Nr. 3, 9, 10 und subsidiär zur Anmeldung nach § 14 geprüft. Entsprechende Änderungs-/Abmelderegeln, Verlegungsübermittlung und Dreitages-Empfangsbescheinigung erläutert; keine Erlaubniswirkung. Künftige Datenempfänger nicht vorgezogen. Beispiel und § 4-Nichtanwendung geprüft."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p55d",
+        "disposition": "retained_after_review",
+        "review": "Amtlicher Strich als leerer Nummernplatz, weder Pflicht noch Ausnahme. Wortlaut und knappe Erläuterung unverändert erhalten; keine historische Ersatzregel eingefügt."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p55e",
+        "disposition": "retained_after_review",
+        "review": "Abs. 1 erfasst § 55 Abs. 1 Nr. 1 mit Warenfeilbieten- und Gastgewerbeausnahme, auch unselbständige Ausübung; § 55b-Ausnahme gerade nur für Selbständige. Abs. 2 Behördenausnahme und fortbestehende externe Feiertagsfragen richtig getrennt. Vorhandene Erläuterung und Beispiel erhalten."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p55f",
+        "disposition": "retained_after_review",
+        "review": "Verordnungsermächtigung mit Bundesratszustimmung für besonders gefährliche Schaustellertätigkeiten nach § 55 Abs. 1 Nr. 2 geprüft. Keine unmittelbare Versicherungssumme oder bereits aus dem Ermächtigungstext allein folgende Abschlussmodalität behauptet. Konkrete Fachverordnung nicht Gegenstand dieses Reviews; vorhandener Text erhalten."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p56",
+        "disposition": "corrected",
+        "review": "Verbotskatalog nach Vertrieb, Feilbieten, Ankauf und Vermittlung aufgeschlüsselt. Pflanzenschutz-/Schädlings-/Holzschutz-Bestellgrenze, medizinische Waren, Lotterien, Prämienvertrieb, getrennte Silberausnahmen, Alkohol und Nr. 6 erläutert. Abs. 4 nur für drei bestimmte Katalogpositionen; B2B-Ausnahme des Abs. 3 davon getrennt. Wegfallpositionen vollständig."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p56a",
+        "disposition": "corrected",
+        "review": "Alle sieben Absätze und Listen geprüft. Öffentliche Werbung und organisierte Beförderung für Anzeige kumulativ; Abs. 4 gerade nicht auf Busfahrten beschränkt. Leitung, Produktverbote und ihre B2B-Ausnahme nach eigenem Verweis getrennt. § 4 nur partiell. Ältere Fundstelle mit anderem Wanderlagerbegriff nicht als Stichtagsautorität übernommen."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p57",
+        "disposition": "corrected",
+        "review": "Gebundene Kartenversagung von Ermessensuntersagung nach § 59 getrennt. Tatsachenprognose und branchenspezifische Versagungsgründe erläutert; Versteigerung und § 4 separat. Bisheriges Finanzvermittlerbeispiel wegen vorher zu prüfender Kartenfreiheit durch gewöhnlichen Warenvertrieb ersetzt. Art. 7 Nr. 8/Art. 16 BGBl. 139 erst ab 20.11.2026."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p57a-und-58",
+        "disposition": "retained_after_review",
+        "review": "Gemeinsamer Wegfallvermerk einschließlich amtlichem (XXXX)-Präfix gegen XML geprüft. Keine historische Aufhebungs- oder Versagungsregel als aktuell rekonstruiert. Erläuterung erhalten."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p59",
+        "disposition": "corrected",
+        "review": "Ermessen, begrenzte Übernahme des § 35 Abs. 1 Satz 2 und 3, Abs. 3, 4, 6, 7a, 8 konkret erläutert. Erweiterte Prognose, Behördenbeteiligung und Vorrang besonderer Regeln unterschieden. Wiedergestattung nur auf Antrag; vor einem Jahr besondere Gründe, kein automatischer Neustart. Beispiel geprüft."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p60",
+        "disposition": "retained_after_review",
+        "review": "Beschäftigungsverbot richtet sich an Gewerbetreibenden und erfordert tätigkeitsbezogene Unzuverlässigkeit der einzelnen beschäftigten Person. Keine automatische Gesamtbetriebsschließung; Ermessen und fiktiver Betrugsfall tragfähig. Vorhandene Erläuterung erhalten."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p60a",
+        "disposition": "corrected",
+        "review": "Abs. 2 Satz 1 verweist nur auf Bauartregel, nicht unterschiedslos gesamten § 33c. LKA-Bescheinigung oder Abdruck und jeweilige örtliche Spielerlaubnis getrennt. Übernommene Aufhebungsregeln, Abs. 3 Spielhalle und Abs. 4 Verfahrensverordnung geprüft. Keine allgemeine Geldspielgeräte-Erlaubnis aus Warengeräteregel abgeleitet."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p60b",
+        "disposition": "corrected",
+        "review": "Definitionsmerkmale, selektive Verweisung auf § 68a und § 69 Abs. 1/2 sowie §§ 69a–71a, Fortgeltung der Reisegewerbe-/Branchenvorgaben geprüft. BVerwG 8 B 31.11 vollständig amtlich gelesen. Auswahlgrenzen aus Rn. 5–6, 9 verwendet; gesetzliche Übertragung auf Volksfest ausdrücklich von gerichtlichem Marktfall unterschieden."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p60c",
+        "disposition": "corrected",
+        "review": "Mitführ-, Vorlage- und Einstellungsanordnung nach Abs. 1 unterschieden. Kundenkontakt als Aushändigungsmerkmal des Abs. 2; für Nachweisinhaber nur Satz 1 ausdrücklich verwiesen. Sonstige glaubhaft machende Unterlage nach Abs. 3 nicht mit beglaubigter Kartenkopie gleichgesetzt. Beispiel zweier Teams konkretisiert."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p60d",
+        "disposition": "retained_after_review",
+        "review": "Eingriffskatalog, Ermessen und Abgrenzung zu § 59 geprüft. Amtlicher Verweis auf nicht mehr vorhandenen § 56 Abs. 3 Satz 2 weiterhin offen ausgewiesen; kein Eingriff durch erfundene Ersatznorm. Beispiel beruht auf tatsächlich bestehendem § 56 Abs. 1. Erläuterung erhalten."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p61",
+        "disposition": "retained_after_review",
+        "review": "Gewöhnlicher Aufenthalt für aufgezählte Karten-/Personenverfahren und Weiterführung nach Umzug nur mit Zustimmung geprüft. Keine Gesamtzuständigkeit am Verkaufsort oder für Spielortgenehmigungen behauptet. Beispiel und bestehende Erläuterung erhalten."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p61a",
+        "disposition": "corrected",
+        "review": "§ 29 entsprechend mit Grenzen, branchenspezifischer Absatz-/Satzkatalog und örtlich begrenzte Ausnahme für verderbliche Versteigerungsware geprüft. Verwalterweiterbildung seit Juli 2026 von entfallener Maklerweiterbildung getrennt. Art. 7 Nr. 9/Art. 16 BGBl. 139 erst ab 20.11.2026. Keine vorgezogene neue Darlehensvermittlerpflicht."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p62-und-63",
+        "disposition": "retained_after_review",
+        "review": "Gemeinsame Wegfallstelle und Übergang zur Veranstaltungstypologie geprüft. Reisegewerbe-Prüfliste behandelt Bestellung, Ausnahme, Anzeige, Verbote, Wanderlager, Beschäftigtennachweise und Branchenpflichten konkret. Text erhalten."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p64",
+        "disposition": "corrected",
+        "review": "Abs. 1 zeitlich begrenzt, grundsätzlich wiederkehrend, Vielzahl, wesentlicher Branchenumfang und überwiegender Mustervertrieb an genannten Abnehmerkreis; Abs. 2 eingeschränkter Letztverbraucherkauf. Ungenaue Formulierung „mehrere“ an gesetzliche „Vielzahl“ angepasst; übriger Text samt Beispiel erhalten."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p65",
+        "disposition": "corrected",
+        "review": "Zeitliche Begrenzung zuvor nicht eigens erläutert und nun ausdrücklich ergänzt. Vielzahl, repräsentativer Branchen-/Gebietsbezug und Informationsalternative ohne sofortigen Verkauf geprüft. Keine Wiederkehr- oder Fachpublikumspflicht hineingelesen. Beispiel erhalten."
+      }
+    },
+    {
+      "batch": "e2903190d958b6051382ea58abec3abbdae6e12a29e234b486306ec117f62c92",
+      "finding": {
+        "id": "p66",
+        "disposition": "corrected",
+        "review": "Vielzahl und im Wesentlichen geschäftlicher Abnehmerkreis, offener Warenumfang und Unterschied zu zeitlich begrenzten Veranstaltungstypen geprüft. „Mehrere“ zu „Vielzahl“ präzisiert; keine feste Mindestzahl erfunden. Beispiel und sachbezogene Anforderungen erhalten."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p67",
+        "disposition": "corrected",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Regelmäßigkeit, zeitliche Begrenzung, Vielzahl und alternative Warenarten am gesamten Abs. 1 geprüft. Alkoholherkunft und spezieller Zukauf durch Urproduzenten präzisiert; Warenverkauf von Ausschank nach § 68a getrennt. Abs. 2 verlangt Landesverordnung, nicht freie Sortimentsöffnung durch Veranstalter. Beispiel konkret an Herkunft und Zusatzsortiment geprüft."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p68",
+        "disposition": "corrected",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Abgrenzung bestimmter Waren von Waren aller Art, Zeitmerkmale und Vielzahl geprüft. Im Allgemeinen verhindert starre Wiederholungspflicht; kein zwingender Jahresabstand allein aus dem Begriff Jahrmarkt. Abs. 3 eröffnet Volksfesttätigkeiten ohne pauschale Reisegewerbebefreiung; Keramikbeispiel und §§ 69/69b geprüft."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p68a",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Vorhandene Erläuterung zutreffend: alkoholfreie Getränke und zubereitete Speisen auf Märkten, Kostproben auf anderen Veranstaltungen. Allgemeine Bewirtungs- und Lebensmittelregeln bleiben gesondert; Standvergabe nach § 70 nicht durch Norm entschieden. Ausstellungsrestaurant-Beispiel ist spezifisch und folgerichtig. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p69",
+        "disposition": "corrected",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Gebundene Einzelfestsetzung nach Satz 1 von Kann-Entscheidung für längere Dauer nach Satz 2 getrennt; zweijährige Messe-/Ausstellungsgrenze erhalten. Veranstaltungsrahmen von individueller Zulassung getrennt. Durchführungspflicht, Anzeige und Aufhebung nicht gleichgesetzt. Genehmigungsfiktion über § 6a Abs. 2 ausdrücklich samt Fristvoraussetzungen erläutert."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p69a",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Alle vier zwingenden Ablehnungsgruppen und Auflagenbefugnis samt späterer Änderung geprüft. Veranstalter-/Leiterzuverlässigkeit, Sicherheitskonzept und Ladengeschäftsverbot nicht vermischt. Rettungswegebeispiel behandelt behebbares Defizit gegenüber nicht durch tragfähige Auflagen lösbarem Ablehnungsgrund. Unverändert erhalten; keine freie Wirtschaftlichkeitsablehnung behauptet."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p69b",
+        "disposition": "corrected",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Abs. 1 nur vorübergehend Zeit/Öffnungszeiten/Platz, nicht Gegenstand. Entstehung einer Tatsache von späterer Kenntnis unterschieden; Rücknahme/Widerruf und Muss-/Kann-Befugnis genau zugeordnet. Spezialmarkt-Unterschied ausdrücklich herausgearbeitet: Durchführungspflicht nach § 69 Abs. 2, Aufhebung auf Antrag dennoch ohne gesetzliche Unzumutbarkeitsgrenze des § 69b Abs. 3 Satz 2. Unwetterbeispiel geprüft."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p70",
+        "disposition": "corrected",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Teilnehmerkreis, allgemeine Bestimmungen, erforderliche Gruppenbeschränkung und individueller Ausschluss geprüft. Platzmangel rechtfertigt Auswahlbedarf, aber nicht beliebige Auswahl. BVerwG 8 B 31.11 vollständig gelesen; echte Zulassungschance neuer Bewerber, Grenzen von Attraktivität/Bewährtheit und Nichtzulassungscharakter berücksichtigt. Keine automatische Wunschstandzusage oder einziges Auswahlmodell behauptet."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p70a",
+        "disposition": "corrected",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Behördliches Ermessen gegenüber Ausstellern/Anbietern und tätigkeitsbezogene Reichweite erläutert; Besucher nicht dem Abs. 1 unterstellt. Abs. 2 entsprechende Versagungsgründe von ausdrücklicher Versteigerererlaubnis nach Abs. 3 getrennt. Keine pauschale Übernahme aller Erlaubnisverfahren. Erweiterung um § 34k aus Art. 7 Nr. 10/Art. 16 BGBl. 139 erst 20.11.2026, nicht vorgezogen."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p70b",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Amtlicher Titel (weggefallen) und operativer Strich geprüft. Kein zusätzlicher Tatbestand, keine aus dem Nummernplatz erfundene Ausnahme. Knappe Erläuterung und Verweis auf aktuelle §§ 70/70a unverändert erhalten."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p71",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Drei Veranstaltungstypen des Satzes 1 und zwei Typen des Werbekostensatzes abgeglichen. Keine allgemeine Werbeumlage für Wochenmarkt, kein bundesweiter Preis aus Norm abgeleitet. Landesrechtlicher Gebührenvorbehalt von privatrechtlicher Vergütung getrennt; Servicepauschalenbeispiel zutreffend. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p71a",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Landesvorbehalt für Sicherheits-/Ordnungsregeln von unmittelbar vollziehbarer Einzelbefugnis und Veranstalterwillkür getrennt. Lokale konkrete Grundlage weiterhin erforderlich; Beispiel zu Besucherströmen respektiert bundesrechtliche Teilnahmevorgaben. Keine unüberprüfte Landesvorschrift oder Vollständigkeit behauptet. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p71b",
+        "disposition": "corrected",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "§ 29 samt Nachschaugrenzen und Auskunftsverweigerung erklärt; gezielter Absatz-/Satzkatalog statt Gesamtübernahme der Branchenerlaubnisse. Verhältnis zu § 70a, Vergütungs-/Rollen-/Registerpflichten und lokale Ausnahme verderblicher Auktionsware geprüft. Verwalterweiterbildung seit Juli 2026 von Maklerweiterbildung getrennt. Künftige Erweiterung Art. 7 Nr. 11 BGBl. 139 erst 20.11.2026 ausgeschlossen."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p72-bis-80",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Amtlich zusammengefasster Wegfallbereich mit (XXXX)-Kennung, ohne ausgelassene operative Einzelnormen. Historische §§ nicht als geltend rekonstruiert. Aussage über fehlende heutige zusätzliche Marktordnung zutreffend; unverändert erhalten."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p81-bis-104n",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Gesamter amtlicher Wegfallbereich gegen XML und Reihenfolge geprüft. Keine gegenwärtigen Organisations-/Berufspflichten aus Nummernfortführung behauptet. Historische Verweise erfordern andere zeitliche Quelle; diese nicht erfunden. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p104o-bis-104u",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Getrennter amtlicher Wegfallbereich vollständig, keine aktive Buchstabennorm innerhalb des XML-Datensatzes. Folgender aktiver Vertragsbestand beginnt bei § 105. Erhaltene Veranstaltungsprüfliste ist thematisch brauchbar und ersetzt keine Einzelnorm. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p105",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Vertragsabschluss/Inhalt/Form und zwingende gesetzliche/kollektive Grenzen sowie § 6 Abs. 2 geprüft. Vertragswirksamkeit von Nachweis wesentlicher Bedingungen ausdrücklich getrennt; keine unrichtige aktuelle Detailform des Nachweisgesetzes behauptet. Mündlicher Beginn als fiktiver Fall mit Spezialformvorbehalt richtig. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p106",
+        "disposition": "corrected",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Alle drei Sätze und BAG 10 AZR 330/16 vollständig gelesen. Vertraglicher Rahmen, ergebnisbezogene Billigkeitskontrolle, Entscheidungszeitpunkt und Darlegungs-/Beweislast präzisiert. Kein vorläufiges Befolgungsgebot, aber Risiko fehlerhafter Einschätzung. Abgetrennte Vergütungsfragen nicht als unbedingter Zahlungsanspruch gelesen. Behinderungsbeispiel als eigene Anwendung, nicht gerichtlicher Sachverhalt bezeichnet."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p107",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Alle drei Absätze gegen frische XML geprüft: Euro, vereinbarte Teil-Sachbezüge mit Interessen-/Eigenartsvoraussetzung, Kreditverbot, Selbstkosten, mittlere Art/Güte und Pfändbarkeitsgrenze. Regelmäßige Arbeitgebervergütung von freiwilligem Dritttrinkgeld getrennt. Unterkunfts-/Trinkgeldbeispiel passt zu beiden Schutzgrenzen; unverändert erhalten, keine aktuellen Pfändungsbeträge erfunden."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p108",
+        "disposition": "corrected",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Abrechnungspflicht, unveränderte Angaben gegenüber letzter ordnungsgemäßer Abrechnung und Bescheinigungen nach Abs. 3 geprüft. Beamten-/Richter-/Soldatenmitteilungen nun ausdrücklich berücksichtigt. BAG 9 AZR 48/24 Rn. 1–36 vollständig gelesen, alle 36 nummerierten Absätze im Korpus bestätigt. Digitaler Erfüllungsweg mit Zugriff/Speicherbarkeit, fehlendem privaten IT-Zwang und offenem Mitbestimmungspunkt bei Zurückverweisung aufgenommen. Gleiches Netto allein befreit bei geänderter Zusammensetzung nicht."
+      }
+    },
+    {
+      "batch": "9dfba602e2970e3c407d09c94dfdcd1f9cc831b3f0697ea98c7a33ad3a3117ef",
+      "finding": {
+        "id": "p109",
+        "disposition": "corrected",
+        "source": "sources/review-p67-p109/BJNR002450869.xml",
+        "finding": "Einfaches/qualifiziertes Zeugnis, Klarheit und gezielte verdeckte Aussage unterschieden. Neue elektronische Form seit 01.01.2025 mit amtlichem Änderungsgesetz Art. 36 Nr. 3/Art. 74 Abs. 1 bestätigt. Zustimmung und qualifizierte elektronische Signatur nach amtlichem § 126a BGB ausdrücklich erklärt; Abgrenzung zu § 108/§ 126b BGB. Unsigniertes Portal-PDF erfüllt Zeugnisform nicht; keine Noten-/Schlussformelpflicht allein aus Gesetzestext behauptet."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p110",
+        "disposition": "corrected",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Beide Sätze gegen XML gelesen. Vereinbarung vom Weisungsrecht und Schutzregime der §§ 74–75f HGB getrennt. Schriftform, Urkundenaushändigung, Mindestentschädigung und Zweijahresgrenze anhand aktueller §§ 74/74a/75d HGB ergänzt. BAG 10 AZR 448/15 vollständig Rn. 1–37 samt unnummerierten Fortsetzungen gelesen und mit amtlichem XML/lokalem Korpus verglichen: Nichtigkeit ohne Entschädigungszusage von Unverbindlichkeit/Wahlrecht unterschieden; salvatorische Klausel heilt nicht. Offene zusätzliche Formfrage nicht als entschieden dargestellt; fiktives Beispiel präzisiert."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p111",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Beide Absätze vollständig geprüft. Anbietepflicht des Arbeitgebers aus Gesetz/gesetzlicher Grundlage, Tarifvertrag oder Betriebs-/Dienstvereinbarung und Erforderlichkeit kumulativ erfasst; keine allgemeine Pflicht zur Finanzierung jeder nützlichen Weiterbildung behauptet. Kostenverbot, Solltermin in regelmäßiger Arbeitszeit und zwingende Arbeitszeiteigenschaft bei notwendigem Termin außerhalb unterschieden. Samstagsbeispiel ist fiktiv; besondere Vergütungs-/Arbeitszeitregeln nicht erfunden. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p112-bis-132a",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Amtlicher gemeinsamer Wegfallbereich, leeres XML-Textfeld mit Wegfalltitel und exaktes (XXXX)-Label geprüft. Keine operative Untereinheit oder historisch gleichzeitig geltende Fassung innerhalb des Datensatzes. Verweis auf heutiges Weisungsrecht nur als Orientierung, keine Rekonstruktion alter Vorschriften. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p133",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Vollständigen unnummerierten Satz und separat wiedergegebene amtliche Fußnote geprüft. Meistertitel mit Baugewerbebezug einschließlich Baumeister/Baugewerksmeister, Verordnung der Bundesregierung und Bundesratszustimmung korrekt erfasst. Keine unmittelbar aus dem Gesetz erfundene Ausbildungsqualifikation oder Titelführungsfreigabe. Internetbeispiel und Abgrenzung von Sachverständigenbestellung sachgerecht. Keine konkrete Landes-/Ausführungsregel als verifiziert behauptet. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p133a-bis-133d",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Exakten gemeinsamen Wegfallbereich samt leerem Textfeld/Wegfalltitel geprüft. Keine aktive Buchstabenvorschrift ausgelassen. Erläuterung erzeugt aus historischen Vertragsverweisen keine heutigen Pflichten; keine unüberprüfte Aufhebungsdatierung. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p133e-bis-139aa",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Eigenständigen amtlichen Sammeldatensatz und vollständigen Wegfall geprüft. Historische Arbeitsschutzvorschriften nicht als heutiger Wortlaut eingefügt. Folgender § 139b als selbstständige begrenzte Norm zutreffend bezeichnet. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p139b",
+        "disposition": "corrected",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Alle Absätze 1–8 einschließlich weggefallenem Abs. 5a und beiden vollständigen Listen geprüft. Historischen Verordnungsbezug vom eigenständigen Unterkunftsbezug nach Abs. 6 ausdrücklich getrennt; keine Wiederbelebung alter Ermächtigung. Geheimhaltung/Umweltinformation, Länderzuständigkeit, Berichtsempfänger, Nachtprüfung während des Betriebs, vorgeschriebene Statistik und dringende Gefahr gegen Unterkunftsinhaberwillen präzisiert. Alle zehn Hinweisgruppen sachlich berücksichtigt, gezielte Unterrichtung von freier Datenverteilung getrennt. Beispiel trägt die unterschiedlichen Eingriffsvoraussetzungen."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p139c-bis-139h",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Amtlichen Wegfallbereich samt (XXXX)-Label und XML-Reihenfolge geprüft. Erhaltener Altverweis aus § 139b stellt § 139h nicht wieder her. Kommentierung fordert tragfähige heutige Grundlage und behauptet weder allgemeine Kontrolllosigkeit noch fortbestehende alte Ermächtigung. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p139i",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Einzelnen amtlichen Wegfallplatz und leeres Textfeld mit Wegfalltitel geprüft. Keine aktive heutige Pflicht; historische Fundstellen nicht als aktuelle Eingriffsbasis übernommen. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p139k-und-139m",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Exakte amtliche Gruppenbezeichnung mit und statt bis geprüft. Kein zusätzlicher § 139l im offiziellen Inventar; keine künstliche Einzelaufteilung oder erfundene Pflicht. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p140",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Eigenständigen amtlichen Wegfallplatz geprüft. Keine fortgeltende Sonderpflicht abgeleitet; Orientierung auf §§ 105–111 erhebt diese nicht zum vollständigen Arbeitsrecht. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p141-bis-141f",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Gemeinsamen Wegfallbereich samt amtlichem Label und Anschlussstruktur geprüft. Historisches Tatzeitrecht von heutigem Vollzug getrennt, kein Auffangtatbestand geschaffen. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p142",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Eigenständigen Wegfallplatz und anschließende Kapitelgrenze geprüft. Aussage zur fehlenden heutigen Vollzugspflicht korrekt. Thematische Arbeitsverhältnis-Prüfliste bleibt brauchbar; sie wird nicht als Gesetzestext oder Beleg einer erneuten Prüfung der früheren §§ 105–109 behandelt. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p143",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Eigenständige Wegfallstelle am Anfang des Sanktionskapitels geprüft. Kein allgemeiner Sanktionsgrund aus der Leerstelle; Sachpflicht und Tatzeitfassung bleiben erforderlich. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p144",
+        "disposition": "corrected",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Vollständige fünf Absätze, Buchstaben a–o einschließlich Wegfall a, eingefügte Nummern 1a/1b/4a/5a/7a–7d und alle Verweise geprüft. Weiterbildung seit Juli 2026 auf tatsächlichen Verwalterbestand bezogen. Reguläre Vorsatzhöchstbeträge von Fahrlässigkeitshalbierung und Vorteilsabschöpfung nach § 17 OWiG getrennt; Standortbeispiel zutreffend 3.000/1.500 Euro. Unpassenden Sondervergütungsverweis exakt beschrieben, keine Analogie oder abschließend behauptete Gesamtsanktionslosigkeit. Zukunftsänderungen Art. 7 Nr. 12 BGBl.139/Art.16 erst 20.11.2026 ausgeschlossen. BAFA nur für bezeichnete Fälle."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p145",
+        "disposition": "corrected",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Alle vier Absätze und vollständige Nummern-/Buchstabenhierarchie gelesen. Erlaubnisfreiheit von sonstigen Pflichten getrennt; Darlehensvermittlung auf Entgeltlichkeit für Darlehensnehmer präzisiert. Wegfallnummern 3–5 und nicht mehr tragfähiger §56-Abs.2-Bezug nicht durch neue Pflichten ersetzt. Differenzierte Vorsatzrahmen und Fahrlässigkeitshalbierung erklärt. Wanderlagerbeispiel mit §56a und Abs.3 abgeglichen; keine heilende Anzeige angenommen. Zukünftige §34l-Erweiterung Art.7 Nr.13 BGBl.139 nicht vorgezogen."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p146",
+        "disposition": "corrected",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Alle drei Absätze, Listen und Fußnote vollständig geprüft. Vollziehbarkeit, persönliche/sachliche Bescheidreichweite und tatsächliche Handlung unterschieden. §29-Grenzen, unterschiedliche Teilnahmeuntersagung, besondere Versteigerererlaubnis und Wegfall Nr.10 berücksichtigt. Amtliche Unstimmigkeit §133 Abs.2 Satz1 offengelegt, nicht umgeschrieben; Verordnungsgrundlage/Bestimmtheit bleibt konkrete Prüfung. Vorsatzrahmen und Fahrlässigkeitshalbierung ergänzt. Zukünftiger §34l-Bezug Art.7 Nr.14 BGBl.139 erst 20.11.2026. Umbenennungsbeispiel korrekt begrenzt."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p147",
+        "disposition": "corrected",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Beide Absätze und sämtliche ausdrücklich genannten Kontroll-/Statistikbezüge gelesen. Überschrift schafft keinen umfassenden Arbeitsschutz-Auffangtatbestand; Rechtmäßigkeit und Unterkunftsschwelle erforderlich. Fehlenden Spezialrahmen durch tatsächlich verifizierten §17 Abs.1 OWiG erklärt: regulär 5–1.000 Euro, bei Fahrlässigkeit höchstens 500 Euro, Ausnahme Abs.4. Keine freie Statistikpflicht. Nachtbetriebsbeispiel nur bei passendem Aufsichtsgegenstand."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p147a",
+        "disposition": "corrected",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Beide Absätze mit vollständigen Gegenstandsgruppen geprüft. Gewerbsmäßigen Erwerb von tatsächlichen Minderjährigen von privatem Gelegenheitserwerb, Reisegewerberegeln und Herkunft aus Vermögenstat getrennt; §56-Silberschmuckausnahme nicht übertragen. Reguläre 5.000/2.500 Euro nach Schuldform und §17Abs.4-Vorbehalt ergänzt. Verdachtsalter nicht als Beweis tatsächlicher Minderjährigkeit verwendet; §148b nur mit zusätzlichen Merkmalen. Fiktives stationäres Beispiel zutreffend."
+      }
+    },
+    {
+      "batch": "250549ee65901d7152f1e81d564451c1d14d18c06c81fe9530628cb910d0541f",
+      "finding": {
+        "id": "p147b",
+        "disposition": "corrected",
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "finding": "Beide Absätze und sämtliche BGB-Verweise gelesen; §§651t–651w amtlich in HTML/XML vollständig geprüft. Materiellen Fehler behoben: Nr.1 meint Absicherung, Nr.2 Information/Kontaktdaten; beide können Rückbeförderung oder Zahlung erfassen. Zahlung vor Reisebeendigung und unterschiedliche Erweiterungen für Gastschule, verbundene Leistungen und Reisevermittler erklärt. §10 OWiG verifiziert: kein Fahrlässigkeitstatbestand. 30.000/5.000-Euro-Grenzen der richtigen Pflichtverletzung zugeordnet; Anzahlung ohne Absicherung nicht mehr irrtümlich der niedrigeren Gruppe zugeordnet. Kein Insolvenzeintritt als ungeschriebenes Tatmerkmal."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p147c",
+        "disposition": "corrected",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Beide Absätze und beide Nummern vollständig geprüft; über §59 Abs.1 Satz2/§7c Abs.1 Sätze1–2 VVG genaue Informationsgruppen und Eignungsprüfung gelesen. Vorsatzpflicht nach §10 OWiG, 500.000-Euro-Rahmen und nur unter §30 Abs.1 OWiG mögliche Verzehnfachung für Verbandsgeldbußen auf 5 Mio. ergänzt. Keine Übertragung auf alle Berichts-/Angemessenheitspflichten. Erst 2027 wirksame VVG-Erweiterung ausdrücklich ausgeschlossen; fiktives Beispiel unterscheidet Datenfehler von ungeeigneter Empfehlung."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p147d",
+        "disposition": "corrected",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Absatz1 Nr.1–5 und Absatz2 vollständig gelesen: vollziehbare Kataloganordnungen von unmittelbaren Melde-/Berichts-/Unterrichtungs-/Mitteilungspflichten getrennt. Größenbezug und besondere BaFin-Zuständigkeit anhand §34d Abs.13 kontrolliert. Bei Fahrlässigkeit halbes Höchstmaß 250.000 Euro nach §17 Abs.2 OWiG ergänzt; keine Übernahme der §147c-Verzehnfachung. Keine pauschale Sanktion jedes IT-Fehlers und keine ungeprüfte europäische Frist behauptet. EU-Originalendpunkte waren nicht als Volltext abrufbar; nationale Verweisungskataloge geprüft, technische EU-Auslegung bleibt als Grenze offengelegt."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p148",
+        "disposition": "corrected",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Unterschiedliche Verweisungslisten beider Nummern vollständig abgeglichen; Beharrlichkeit von konkreter Gefährdung und Vorsatzmodell getrennt. BGH 3StR372/12 vollständig Tenor/Rn.1–11 samt Fortsetzungen gelesen, amtliche XML und Korpus stimmen überein. Umfang des Verbots, Vertreterrolle, Dauerordnungswidrigkeit und Zahl selbständiger Betriebe im Kommentar ergänzt. Keine automatische Gleichsetzung zehn Geschäfte/zehn Straftaten; besondere Vorverurteilung im Fall nicht zur allgemeinen Tatbestandsvoraussetzung gemacht."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p148a",
+        "disposition": "corrected",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Beide Absätze und aktueller §16 MaBV vollständig gelesen. Regelprüfung nach Abs.1/außerordentliche Anlassprüfung nach Abs.2 sowie Prüfungsrolle präzisiert. Vorsatz nach §15 StGB und Beziehung des Entgelts zur Pflichtverletzung erläutert; normales Prüfungshonorar nicht automatisch qualifizierend. Strafrahmen und besondere Bereicherungs-/Schädigungsabsicht stimmen. Spätere MaBV-Verweisänderung in Abs.3 ist bereits wirksam, verändert die beiden geprüften Prüfungsanlässe nicht."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p148b",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Vollständigen unnummerierten Tatbestand gegen Kommentar geprüft: gewerbsmäßiger Handel bzw. ausdrücklich bezeichnete Verarbeitungs-/Rückgewinnungstätigkeiten, Gegenstandskatalog, Betriebsbezug, Ankauf/Verschaffen/Absatz/Absatzhilfe und Bereicherungszweck vorhanden. Fahrlässigkeit bezieht sich auf das Nichterkennen fremder deliktischer Herkunft. Abgrenzung zum Minderjährigenankauf und fiktives Schmuckbeispiel zutreffend. Unverändert erhalten; keine ungeprüfte Rechtsprechung behauptet."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p148c",
+        "disposition": "corrected",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Gesamten Sanktionskatalog, beide Gegenstandsarten und Kann-Rechtsfolge geprüft. Konkrete Nummern, allgemeine Voraussetzungen und Verhältnismäßigkeit anhand §§22–24 OWiG ergänzt. Drittgegenstandseinziehung nach §23 konkretisiert, ohne allgemeine Sicherungseinziehung nach §22 Abs.2 Nr.2 auszuschließen. Vermietereigentum allein weder Freigabe noch absoluter Schutz. Thematische Checkliste erhalten."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p149",
+        "disposition": "corrected",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Alle vier Absätze und Untergliederungen vollständig gelesen. Nr.1a–e sowie Verzichtsbezug, Rechtskraft/Vollziehbarkeit, strikte >200-Euro-Grenze und begrenzten Strafkatalog mit >3 Monaten/>90 Tagessätzen präzisiert. Fahreignungsregisterausnahme erhalten. Berichtigung, zeitlich begrenzte Unterrichtung und Sperrverarbeitung/Auskunft voneinander getrennt; Fünfjahresfrist beendet nicht Richtigkeitsgebot. Beispiel liefert keine automatische Zuverlässigkeitsprognose."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p150",
+        "disposition": "corrected",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Alle fünf Absätze gelesen: Datenschutzauszug/gewöhnliche Auskunft, Inlands-/Auslandsantrag, beglaubigte Unterschrift und Registervollmacht getrennt. 3/8-Gebührenanteil und gesetzliche Vertretung ausdrücklich erläutert, keine aktuelle Gebührenhöhe erfunden. Behördenvorlage und neuer BaFin-Zweck anhand Nr.33 Art.34 Nr.2/Art.64 Abs.1 mit Wirkung 10.02.2026 ergänzt. Nicht mit 2030 verschobener ESAP-Nummer verwechselt."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p150a",
+        "disposition": "corrected",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Alle sechs Absätze mit vollständigen Listen und Wegfall Nr.4 gelesen. Aufgabenbezogene Auskunft und Eintragungskategorien je Empfänger präzisiert; Steuerordnungswidrigkeiten-Sondergrenze nicht durch Empfängereigenschaft aufgehoben. Auffällige Verweisung auf §148 Nr.1 als Ordnungswidrigkeit nicht in ein neues Tatbestandsmodell umgeschrieben. Interne Kenntnisnahme und Verbot der Umgehung durch Selbstauskunft getrennt. Überschrift seit 25.06.2026 anhand Art.5/7 Nr.183 verifiziert."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p150b",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Absätze1–9 vollständig gegen Kommentar geprüft. Institutioneller Adressatenkreis, konkrete Forschung/Erforderlichkeit, erhebliches Interessenüberwiegen, Anonymisierungsvorrang, Verpflichtung, Drittweitergabe mit Zustimmung, Zugangsschutz und räumlich-organisatorische Trennung erfasst. Getrennte Merkmale bis Anonymisierung, enge zeitgeschichtliche Veröffentlichungsgrenze und nichtautomatisierte Verarbeitung privater Empfänger zutreffend. Hochschulbeispiel ist fiktiv. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p150c",
+        "disposition": "corrected",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Alle vier Absätze gelesen. Vertrag/parlamentarische Mitwirkung/Ministeriumszustimmung von eigenständiger EU-Bewilligung getrennt. Vergleich mit deutschen Stellen, Zweckhinweis und Grundrechtevorbehalt konkretisiert. Abs.3 nur bei gebotener Unionsrechtsauskunft zu nichtstrafrechtlichen Zwecken und besonderem fachlichem Bewertungsbedarf; Verantwortung bleibt bei übermittelnder Stelle. Keine eigenständige Auslegung eines nicht bezeichneten Vertrags oder EU-Rechtsakts behauptet."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p150d",
+        "disposition": "corrected",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Alle drei Absätze und sechs Protokolldatenkategorien gelesen. Ausnahme der Selbstauskunft betrifft nur Nr.6, nicht Protokollierung insgesamt. Schutz gegen Missbrauch und beschränkte Weiteraufbewahrung nach Jahresfrist ergänzt. Einvernehmen mit Empfänger ersetzt keine BDSG-Beschränkungsgrundlage; §150 Abs.2–4-Verfahren erläutert. Keine konkreten ungeprüften BDSG-Ausnahmetatbestände behauptet."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p150e",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Alle vier Absätze samt Datennummern und amtlicher Fußnote gelesen. Internet-/Nutzerkonto, Ausschluss Bevollmächtigter bei zulässiger gesetzlicher Vertretung, hohes notifiziertes Identitätsniveau, Geburtsnamensersatz, technische Sicherheit, gleichzeitige Nachweise, Eidesversicherung und Originalverlangen korrekt. Fußnote zur nicht ausführbaren historischen Änderung nicht als zusätzliche heutige Pflicht eingelesen. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p150f",
+        "disposition": "corrected",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Beide Sätze und vollständige verwiesene §§493/488 StPO gelesen. Mengen-/Eilalternative, Interessenabwägung und Sicherheit erläutert. Schriftliche Einrichtungsfestlegungen/BfDI-Übersendung, Empfängerverantwortung und anlassbezogene Prüfung ergänzt. Nur ausdrücklich übernommene Sätze1–2 des §493 Abs.3, keine pauschale Übernahme dortiger Sechsmonatsprotokollfrist; §150d bleibt maßgeblich. Kein neuer materieller Auskunftszweck."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p151",
+        "disposition": "corrected",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Alle fünf Absätze gelesen. Zusatzeintragung nur bei persönlich unzuverlässigen/ungeeigneten Vertretern/Leitern in bezeichneten Fällen; Vermeidung doppelter personenbezogener Erfassung bei eigener Untersagung erläutert. Einzelbußen statt Gesamtsumme und Nachtrag Unanfechtbarkeit präzisiert. Entfernung nach Abs.5 Satz2 betrifft ausdrücklich Wiederaufnahmebeschlussvermerk nach Abs.4, nicht pauschal alle alten Inhalte. Neues 150-/250-Euro-Beispiel prüft Schwellen getrennt."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p152",
+        "disposition": "corrected",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Absätze1–7 vollständig gelesen. Aufhebung/Gegenstandslosigkeit, Befristung und behördlicher/gerichtlicher Vollziehbarkeitswegfall getrennt. Über80-Regel und Aufhebung Bußgeldbescheid im Strafverfahren erhalten. Todesfrist ab Eingang amtlicher Mitteilung, Auskunftsverbot schon während Jahreslauf und auf Nr.1/2-Einträge juristischer Personen begrenzte Zwanzigjahresregel präzisiert. Keine Verwechslung mit §153-Sanktionstilgung."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p153",
+        "disposition": "corrected",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Alle sieben Absätze gelesen. Bußgeld 3/5 Jahre und Strafurteil 5 Jahre samt Zentralregistertilgung ausdrücklich ergänzt; Verwaltungsuntersagung erhält dadurch keinen pauschalen Fristablauf. Rechtskraft/erstes Urteil, Wiederaufnahme, mehrere Einträge und Überliegejahr getrennt. Verwertungsverbot ab Tilgungsreife, unterschiedlich gefasste Zulassungs-/Wiedergestattungsausnahmen und nur entsprechender BZRG-Verweis präzisiert. <=200-Euro-Fälle nach drei Jahren gesondert. Kein ungeprüfter Fristendtag behauptet."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p153a",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Beide Absätze vollständig gelesen. Mitteilungspflicht von Behörden/Gerichten und begrenzte Öffnung des Steuergeheimnisses nur für bezeichnete Entscheidungen korrekt. Geänderte Geburts-/Familien-/Vornamen und Geburtsdatum als Vermerk statt neuer Sanktionsvorgang behandelt; Identitätsklärung und Berichtigung zutreffend verknüpft. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p153b",
+        "disposition": "corrected",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Gesamten unnummerierten Text mit drei Auskunftsgruppen gelesen. Zweifel, Aufgabenbezug, Erforderlichkeit und nichtabschließende Liste präzisiert. Datenübermittlung zur Anfrage von eigener Registerdatenhaltung der ersuchten Stelle unterschieden: besondere unverzügliche Löschpflicht betrifft die vom BfJ übermittelten Anfragedaten, nicht sämtliche eigenen Ausgangsregisterdaten. Beispiel hält Ermittlungsumfang beim Identifizierungszweck."
+      }
+    },
+    {
+      "batch": "1f918c12d125afd9d648b9bcacf059b3c3625552d0f55255399c2db320ed1cc9",
+      "finding": {
+        "id": "p153c",
+        "disposition": "reviewed_and_retained",
+        "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+        "finding": "Beide Sätze gegen amtliche XML und Art.5 Nr.4/Art.7 Abs.2 Nr.183 geprüft. Aufbau durch BMJV im Einvernehmen mit BMWE, Erfassung/Aufbereitung/Auskunft dagegen Bundesregierung mit Bundesratszustimmung korrekt. Ministeriumsbezeichnung verkündet und seit25.06.2026 wirksam, nicht allein von Website abgeleitet. Beispiel trennt Regelungsgegenstände, Checkliste erhalten. Unverändert erhalten."
+      }
+    },
+    {
+      "batch": "3a1fef542d781e78c8b212be9441df6f61c9898b3f10f5acd1a5831d1fb4207a",
+      "finding": {
+        "id": "p154",
+        "action": "retained",
+        "review": "Officially repealed slot, not an operative general jurisdiction rule. Existing short explanation correctly directs to §155; no historical replacement or unsupported authority."
+      }
+    },
+    {
+      "batch": "3a1fef542d781e78c8b212be9441df6f61c9898b3f10f5acd1a5831d1fb4207a",
+      "finding": {
+        "id": "p154a",
+        "action": "retained",
+        "review": "Officially repealed slot. Current permit/information claims cannot rest on it; historical references require historical law. No invented former wording."
+      }
+    },
+    {
+      "batch": "3a1fef542d781e78c8b212be9441df6f61c9898b3f10f5acd1a5831d1fb4207a",
+      "finding": {
+        "id": "p155",
+        "action": "corrected",
+        "review": "Clarifies that delegable regulation-making powers of Land governments need not originate in Land legislation; distinguishes delegation, subdelegation and individual administrative jurisdiction, named city-state senates and limited data purpose. Abs4 repeal retained."
+      }
+    },
+    {
+      "batch": "3a1fef542d781e78c8b212be9441df6f61c9898b3f10f5acd1a5831d1fb4207a",
+      "finding": {
+        "id": "p155a",
+        "action": "corrected",
+        "review": "Replaces unexplained referral with all five §44a BZRG paragraphs: blocking versus deletion, balancing and binding necessity assessment, special no-entry dataset, temporary identity changes and reserved criminal-procedure powers. Correct effective25.06.2026, not digital-certificate01.10.2026."
+      }
+    },
+    {
+      "batch": "3a1fef542d781e78c8b212be9441df6f61c9898b3f10f5acd1a5831d1fb4207a",
+      "finding": {
+        "id": "p156",
+        "action": "corrected",
+        "review": "Identifies old intermediary-to-adviser transition and exact waived checks; liability coverage not waived, old permission ends on new grant not application; payment timing separated from underlying pre-grant mediation. No broad new-provision exemption."
+      }
+    },
+    {
+      "batch": "3a1fef542d781e78c8b212be9441df6f61c9898b3f10f5acd1a5831d1fb4207a",
+      "finding": {
+        "id": "p157",
+        "action": "corrected",
+        "review": "All eight paragraphs checked. Adds exact application/registration/proof deadlines, mandatory statutory lapse rather than discretionary possibility, finality versus grant, limits of old-practitioner exception, category-specific expansion and no imported exception into Abs6. Expired carve-outs not reopened."
+      }
+    },
+    {
+      "batch": "3a1fef542d781e78c8b212be9441df6f61c9898b3f10f5acd1a5831d1fb4207a",
+      "finding": {
+        "id": "p158",
+        "action": "corrected",
+        "review": "Corrects conflation: protective storage does not require actual loss, retransmission does. Distinguishes one month after transfer from month after statutory date, test deletion from live transfer, and separate protocol/storage-image retention via verified §14(3)BewachRV."
+      }
+    },
+    {
+      "batch": "3a1fef542d781e78c8b212be9441df6f61c9898b3f10f5acd1a5831d1fb4207a",
+      "finding": {
+        "id": "p159",
+        "action": "corrected",
+        "review": "Differentiates exact data categories, industry reporting versus official enquiry, future intended sensitive assignments and three distinct2019 dates. No assumed proof of actual compliance."
+      }
+    },
+    {
+      "batch": "3a1fef542d781e78c8b212be9441df6f61c9898b3f10f5acd1a5831d1fb4207a",
+      "finding": {
+        "id": "p160",
+        "action": "corrected",
+        "review": "Separates acquisition/registration from application, restricted waiver and proof. Adds actual VG reasons on application deadline and independent failure of continuity evidence, plaintiff argument not adopted as holding, first-instance/finality limits; no current reactivation of historical exemption or future §162."
+      }
+    },
+    {
+      "batch": "3a1fef542d781e78c8b212be9441df6f61c9898b3f10f5acd1a5831d1fb4207a",
+      "finding": {
+        "id": "p161",
+        "action": "corrected",
+        "review": "Scopes temporal holdback to actual identifier fragments or specified sentence; no general §14(1) exemption. Separate notice events and renewed negative search stated conditionally, no false proof of occurrence/nonoccurrence."
+      }
+    },
+    {
+      "batch": "3a1fef542d781e78c8b212be9441df6f61c9898b3f10f5acd1a5831d1fb4207a",
+      "finding": {
+        "id": "anlage",
+        "action": "corrected",
+        "review": "Entire two-section operative annex and nested lists checked. Clarifies §36-specific scope, shared reservations and experience qualification, quantitative/staff restrictions, cumulative same-goal burden, EU/EWR/Swiss scope and two-week consultation; supervised activity example does not displace statutory personal expertise."
+      }
     }
   ],
   "limitations": [
+    "Finalization assembles existing reports and verifies preservation; it is not a new independent whole-book legal review.",
+    "§ 161 notices remain independently unestablished; conditional commentary preserved.",
+    "Selective case-law coverage; state law, implementing regulations and external statutes are not comprehensively reviewed.",
+    "Technical validation, minimum length and similarity metrics do not establish legal correctness.",
+    "No external professional approval, publication or upload."
+  ],
+  "prior_batch_limitations": [
+    "Nur die genau bezeichneten 20 Einheiten wurden inhaltlich zweitgeprüft; die übrigen 151 Einheiten sind nicht Gegenstand dieses Durchgangs.",
+    "Selektive Rechtsprechungsprüfung: das bei § 12 zitierte Urteil, keine vollständige Judikaturrecherche und keine neue Einzelfallautorität für technische Normen.",
+    "Keine Prüfung sämtlicher Landesgesetze, Landesverordnungen oder unionsrechtlicher Durchführungsvorschriften; insbesondere keine konkrete landesrechtliche Fiktionsanwendung zugesichert.",
+    "Amtliche Aktualitätskontrolle und gezielte Änderungssuche, keine lückenlose Sichtung sämtlicher Bundesgesetzblatt-Ausgaben.",
+    "Gerichtswebsite antwortete beim neuen Abruf mit HTTP 403; frischer amtlicher XML-Volltext aus Rechtsprechung im Internet war mit HTTP 200 verfügbar und stimmt mit dem vorhandenen Korpus überein.",
+    "Technische Vollständigkeit und Längen-/Wiederholungsdiagnostik ersetzen keine externe fachliche Freigabe.",
+    "Dieser Durchgang betrifft genau die 20 reviewed_ids, nicht die übrigen 151 Kommentartexte. Der zuvor dokumentierte Review von 20 anderen Einheiten bleibt erhalten und wurde hier nicht wiederholt.",
+    "Die Rechtsprechungsrecherche ist selektiv: zwei neue amtliche Volltexte; keine Vollständigkeitsbehauptung für einzelne Normen oder das gesamte Spielrecht.",
+    "Keine umfassende Prüfung sämtlicher Landesgesetze, Glücksspielstaatsverträge oder gewerberechtlicher Ausführungsverordnungen. Historische Urteile begründen keine pauschale heutige Erlaubnisfreiheit.",
+    "Amtlicher neuer Quellenabruf und gezielte Aktualitäts-/Änderungskontrolle, keine lückenlose Sichtung sämtlicher Bundesgesetzblatt-Ausgaben.",
+    "Im nationalen Korpus fehlt die Kosten-Rn.29 des Urteils 8 C 21.12; sie wurde aus amtlicher HTML/PDF gelesen. Für 6 B 14.07 wurde kein eigenständiger Korpusdatensatz gefunden; amtliche Gerichtsvolltexte liegen vollständig vor.",
+    "Technische Text-, Abdeckungs-, Längen- und Wiederholungsdiagnostik ersetzt keine externe anwaltliche Freigabe.",
+    "Dieser Durchgang prüft genau die 20 zugewiesenen reviewed_ids, keine vollständige inhaltliche Zweitprüfung des Bands. Alle 151 anderen Kommentartexte blieben erhalten.",
+    "Selektive Rechtsprechungsprüfung: zwei neue Hauptentscheidungen und ein ergänzender Berichtigungsbeschluss; bereits zitierte Entscheidung zu § 35 erneut vollständig gelesen. Keine erschöpfende Rechtsprechungsrecherche für jede Norm.",
+    "Landesrechtliche Spielhallenregeln, Ausführungsverordnungen und externe Aufsichtsgesetze werden nicht vollständig erschlossen. Die Erläuterungen erfinden daraus keine Grenzwerte, Deckungssummen oder Fristen.",
+    "Gezielte amtliche Aktualitätskontrolle und Prüfung der einschlägigen verkündeten Inkrafttretensbestimmungen; keine lückenlose Sichtung sämtlicher Bundesgesetzblatt-Ausgaben.",
+    "Direkte Gerichtsanfragen ergaben 403 beziehungsweise statt PDF eine HTML-Suchseite. Diese Antworten wurden als ungeeignet verworfen; die vollständigen amtlichen XML-Pakete aus Rechtsprechung im Internet waren mit 200 verfügbar.",
+    "Automatische Text-, Abdeckungs-, Längen-, Wiederholungs- und Linkkontrollen sind keine externe anwaltliche Freigabe.",
+    "Independent substantive review restricted to exactly the 20 assigned reviewed_ids. No whole-book substantive completion or external professional approval.",
+    "Selective case law: two fully read primary decisions, one matching local corpus; no standalone local BVerfG corpus text found. No sufficiently relevant additional fully verified case selected for the other assigned units; absence of jurisprudence is not asserted.",
+    "No comprehensive review of Land law, implementing regulations, foreign treaties or external banking/milk/handicraft legislation. Internal statutory references and expressly limited court holdings support the explanations.",
+    "Targeted current-source and commencement checks, not an exhaustive audit of every gazette issue. Original authoring decisive date remains 2026-10-19.",
+    "Technical hashes, text agreement, counts and prose diagnostics do not by themselves establish legal quality.",
+    "Independent substantive review covers exactly these 20 assigned units. Earlier batches are preserved, not rereviewed. No whole-book completion or external professional approval.",
+    "Case-law research is selective: one additional decision read in full on official court HTML and matched to official XML/local corpus. No sufficiently relevant additional full-text-verified case selected for the other assigned units; no absence claim.",
+    "No comprehensive audit of Land law, implementing regulations, EU medical-device definitions or all external banking and civil-law rules. No unverified external detail values are supplied.",
+    "Targeted actuality/commencement checks, not an audit of every gazette issue. Original decisive date remains 2026-10-19; source recheck occurred 2026-10-20.",
+    "The official dangling reference in § 60d is disclosed and cannot itself supply a missing substantive rule. Technical validation and prose diagnostics do not establish legal quality.",
+    "This review covers exactly the 20 reviewed_ids. Earlier ledger-reviewed units were not substantively reviewed again; 151 other commentaries are preserved.",
+    "Selective case-law research: one new BAG decision and two existing authorities fully read. No exhaustive case-law coverage; no additional case selected for the other 17 units.",
+    "The BAG 9 AZR 48/24 remand is not described as a final dismissal; subsequent lower-court proceedings are not separately assessed.",
+    "Land rules, EU food-law definitions, all external implementing regulations, collective agreements and concrete garnishment amounts are not comprehensively reviewed; no unsupported numerical or local-law claims added.",
+    "Targeted current-amendment search supplements current official consolidation and enacted commencement clauses, not every gazette issue. Existing whole-book § 161 trigger uncertainty remains outside this batch.",
+    "Technical coverage, hashes, minimum length and prose similarity checks do not establish legal quality or external professional approval.",
+    "Exactly the 20 reviewed_ids received substantive review in this process; all 151 other commentary blocks were preserved. Prior 120-unit reviews remain recorded without being repeated. No whole-book completion or external professional approval.",
+    "Selective case-law research: one new BAG judgment read in full (37 numbered paragraphs, tenor and unnumbered continuations), compared with official XML and local corpus. No additional full-text-verified case selected for the other 19 assigned units; no claim that none exists.",
+    "HGB, BGB and OWiG provisions were checked only as needed for the assigned units. Not a complete review of external codes, implementing ordinances, Land title rules, accommodation rules or concrete administrative cases.",
+    "Official dangling references in §§ 139b, 144–146 are disclosed and not silently repaired. Their application in concrete sanction proceedings requires the actual regulation, reference chain and legality/definiteness review; no free analogy or categorical finding of general impunity.",
+    "Currentness review combines real current official captures, source/intake identity and targeted enacted amendment/commencement checks; not an audit of every gazette issue. Decisive date remains 2026-10-19, verification occurred 2026-10-20. Existing out-of-batch §161 trigger uncertainty remains.",
+    "Coverage, hashes, minimum lengths, prose diagnostics and technical validation do not establish legal quality or replace the unresolved substantive review of the other 31 units.",
+    "This process reviewed exactly the assigned 20 units; 151 other commentary blocks are unchanged. Prior seven batches are preserved, not rereviewed. No whole-book completion or external professional approval.",
+    "Case-law research is selective: BGH 3 StR 372/12 newly read in full, not an exhaustive survey. No sufficiently relevant additional verified decision selected for the other 19 units; this is not evidence of absence.",
+    "Cross-code review limited to 12 selected VVG/OWiG/StPO/MaBV/StGB units and relevant amendment/commencement clauses. External EU original-text requests returned rejected HTTP202 challenges. Commentary on §147d stays with the verified national reference catalogue; no independently verified EU hourly deadlines, delegated technical standards or expanded product definitions claimed.",
+    "Currentness verification uses actual fresh official consolidation, complete intake identity and targeted enacted amendment checks, not every gazette issue. Original decisive date is 2026-10-19; recheck 2026-10-20.",
+    "Existing out-of-batch §161 trigger-event uncertainty remains preserved. Technical text agreement, count and prose diagnostics do not establish legal correctness. Eleven further book units remain outside the documented cumulative substantive second pass.",
     "This process substantively reviewed exactly the eleven reviewed_ids. All160 other commentaries and their earlier review evidence were preserved. No whole-book completion, final cross-batch synthesis or external professional approval is claimed.",
     "Selective case-law research: one official state-court judgment newly read in full. Local national RII corpus searched with targeted provision/docket patterns; no matching copy of the selected judgment found. No relevant additional full-text-verified case selected for the other ten units; no claim that none exists.",
     "§161 triggering notices remain independently unestablished after renewed targeted search. Commentary gives conditional analysis and neither asserts occurrence nor proves nonoccurrence. Concrete unconditional application of the affected §14(4) fragments requires separate notice evidence.",
     "VG München judgment is first instance; no independently verified finality or appellate outcome. No comprehensive current commentary of EU directive, ImmVermV, BZRG, StPO, state delegation law or every gazette issue.",
     "Source currentness rests on fresh official consolidation, complete intake comparison and targeted enacted amendment/commencement checks. Fetch timestamps or the label consolidated are not treated as proof of commencement. Technical validation and prose diagnostics do not establish legal correctness."
   ],
-  "prior_batch_record": "sources/review-p154-anlage/before-review-result.json",
-  "unassigned_commentaries_preserved": 160,
   "whole_book_completion_claimed": false,
-  "evidence": {
-    "preflight": "sources/review-p154-anlage/preflight.json",
-    "coverage": "sources/review-p154-anlage/coverage.json",
-    "source_captures": "sources/review-p154-anlage/captures.json",
-    "external_norms": "sources/review-p154-anlage/external-provisions.json",
-    "case": "sources/review-p154-anlage/case-evidence.json",
-    "search": "sources/review-p154-anlage/search-log.json",
-    "preservation": "sources/review-p154-anlage/batch-checks.json",
-    "diff": "sources/review-p154-anlage/commentary-changes.diff"
-  },
-  "validation": {
-    "validated_at": "2026-10-20T16:02:56.280233+00:00",
-    "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
-    "result": {
-      "repo": "Komentar-DE-GEWO-1869",
-      "units": 171,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 276356,
-      "errors": [],
-      "warnings": [],
-      "ok": true
-    },
-    "content_checkpoint": "c313c4109789b53f59557be82380b2517fe1c222",
-    "work_content_checkpoint": "9a035199ccb02b8966b3c9e50d5b3048ba21b58b",
-    "scope": "Strict technical validation of rebuilt book; substantive review by this process limited to exact11 reviewed_ids. All160 unassigned comments preserved. No whole-book finalization or external professional approval."
-  }
+  "independent_whole_book_review_performed_by_finalizer": false,
+  "technical_evidence": "sources/finalization-20261020/ledger-audit.json",
+  "previous_review_preserved": "sources/finalization-20261020/before-review-result.json"
 }
