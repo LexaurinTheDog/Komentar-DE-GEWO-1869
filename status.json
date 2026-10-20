@@ -4,7 +4,7 @@
   "identifier": "GewO",
   "repo": "Komentar-DE-GEWO-1869",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T15:47:25.220056+00:00",
+  "updated_at": "2026-10-20T15:50:55.149303+00:00",
   "total_units": 171,
   "completed_units": 171,
   "chapters": 13,
@@ -1166,7 +1166,23 @@
       "scope": "Source and parser preflight; substantive commentary review limited to assigned 20 IDs. No whole-book completion.",
       "limitations": [
         "Targeted enacted-amendment check; not every gazette issue audited. EU original-text endpoints returned rejected HTTP202 challenges; no EU hourly deadlines, delegated technical requirements or independently expanded EU product definition asserted. Existing §161 trigger-event issue is outside batch and preserved."
-      ]
+      ],
+      "validation": {
+        "validated_at": "2026-10-20T15:50:55.149303+00:00",
+        "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+        "result": {
+          "repo": "Komentar-DE-GEWO-1869",
+          "units": 171,
+          "verbatim_ratio": 1.0,
+          "commentary_chars": 265281,
+          "errors": [],
+          "warnings": [],
+          "ok": true
+        },
+        "content_checkpoint": "661f970e7166113499913da3e9bd291c0a79dae6",
+        "work_content_checkpoint": "22bbd60dfc45606c3c74fa78c62225361ac5c2e8",
+        "scope": "Strict technical validation of the rebuilt book. This process independently reviewed exactly20 assigned IDs, not all171. All151 other comments preserved. No whole-book substantive completion."
+      }
     }
   },
   "case_law_sources": [
@@ -1422,17 +1438,13 @@
     }
   ],
   "validation_result": {
-    "state": "pending_for_current_bounded_review",
-    "prior_validation": {
-      "repo": "Komentar-DE-GEWO-1869",
-      "units": 171,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 249191,
-      "errors": [],
-      "warnings": [],
-      "ok": true
-    },
-    "evidence_will_be": "sources/review-p147c-p153c/strict-validation.json"
+    "repo": "Komentar-DE-GEWO-1869",
+    "units": 171,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 265281,
+    "errors": [],
+    "warnings": [],
+    "ok": true
   },
   "completeness_result": "171/171 exact XML labels and doknr; all 194 records disposed, no missing or duplicate identifiers; complete operative annex and nested list order; no Eingangsformel in official XML.",
   "independent_review": {
@@ -1658,16 +1670,47 @@
     "pushed": false
   },
   "link_validation": {
-    "ok": true,
-    "checked_local_links": 351,
-    "broken_local_links": 0
+    "checked_local_links": 382,
+    "broken_local_links": [],
+    "external_urls": [
+      "https://github.com/LexaurinTheDog",
+      "https://www.bundesarbeitsgericht.de/entscheidung/10-azr-330-16/",
+      "https://www.bundesarbeitsgericht.de/entscheidung/10-azr-448-15/",
+      "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-48-24/",
+      "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2000/09/rk20000927_1bvr217698.html",
+      "https://www.bverwg.de/150415U8C6.14.0",
+      "https://www.bverwg.de/161013U8C21.12.0",
+      "https://www.bverwg.de/240611B8B31.11.0",
+      "https://www.bverwg.de/300307B6B14.07.0",
+      "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "https://www.gesetze-im-internet.de/bgb/__126.html",
+      "https://www.gesetze-im-internet.de/bgb/__126a.html",
+      "https://www.gesetze-im-internet.de/bgb/__126b.html",
+      "https://www.gesetze-im-internet.de/gewo/",
+      "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html",
+      "https://www.gesetze-im-internet.de/gewo/xml.zip",
+      "https://www.gesetze-im-internet.de/vwvfg/__42a.html",
+      "https://www.recht.bund.de/bgbl/1/2026/139/regelungstext.pdf?__blob=publicationFile",
+      "https://www.recht.bund.de/bgbl/1/2026/183/regelungstext.pdf?__blob=publicationFile",
+      "https://www.recht.bund.de/bgbl/1/2026/215/regelungstext.pdf?__blob=publicationFile",
+      "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile",
+      "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE317652022",
+      "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE627742023",
+      "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE410018529",
+      "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE130006318.zip",
+      "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE201600111.zip"
+    ],
+    "external_method": "Official statute, gazette and cited court URLs checked through real HTTP captures in sources/verification.json. Project-context GitHub profile is a context link, not a source or publication. Raw downloaded webpage navigation is outside authored-book link checking.",
+    "ok": true
   },
   "audit_result": {
     "ok": true,
-    "commentary_count": 171,
+    "units": 171,
     "text_disagreements": [],
-    "duplicate_paragraphs": 0,
-    "similar_commentary_pairs": []
+    "commentary_count": 171,
+    "commentary_chars": 265281,
+    "duplicate_paragraphs": [],
+    "similar_pairs": []
   },
   "previous_authoring_stage": "drafted_technical_validation",
   "active_task": {
@@ -1698,7 +1741,22 @@
     ],
     "evidence": "review-result.json",
     "whole_book_completion_claimed": false,
-    "validation_state": "pending"
+    "validation": {
+      "validated_at": "2026-10-20T15:50:55.149303+00:00",
+      "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+      "result": {
+        "repo": "Komentar-DE-GEWO-1869",
+        "units": 171,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 265281,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "content_checkpoint": "661f970e7166113499913da3e9bd291c0a79dae6",
+      "work_content_checkpoint": "22bbd60dfc45606c3c74fa78c62225361ac5c2e8",
+      "scope": "Strict technical validation of the rebuilt book. This process independently reviewed exactly20 assigned IDs, not all171. All151 other comments preserved. No whole-book substantive completion."
+    }
   },
   "completed_units_provenance": "171 pre-existing authored units; current bounded process reviewed20, corrected15, retained5. All151 other comments unchanged. Cumulative documented review160/171; previous140 not rereviewed."
 }

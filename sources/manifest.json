@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-20T15:50:12.946069+00:00",
+  "created_at": "2026-10-20T15:51:21.393639+00:00",
   "verification": "sources/verification.json",
   "files": [
     {
@@ -1439,8 +1439,8 @@
     },
     {
       "path": "sources/review-p147c-p153c/preflight.json",
-      "bytes": 7633,
-      "sha256": "18ddf7e30ca41413e4ded63ffd7592d06bdc448e856484d13b865ad3c5dc36a0"
+      "bytes": 8406,
+      "sha256": "287d3566cfcb41c40c5ee212cfff444f98f6529052719c12f86afe3ccba5d4fc"
     },
     {
       "path": "sources/review-p147c-p153c/record.py",
@@ -1456,6 +1456,11 @@
       "path": "sources/review-p147c-p153c/revise.py",
       "bytes": 35285,
       "sha256": "f9131bc5580dc193568babaafb1b783655a208f97426803873ff4757687b9f76"
+    },
+    {
+      "path": "sources/review-p147c-p153c/seal.py",
+      "bytes": 3223,
+      "sha256": "708033c8ef4131466442698b4f605744a0390d023bb6f0983a39133f86ffb0b2"
     },
     {
       "path": "sources/review-p147c-p153c/search-log.json",
@@ -1486,6 +1491,11 @@
       "path": "sources/review-p147c-p153c/stpo.zip",
       "bytes": 203481,
       "sha256": "fb59fced4b71b550a0320054e2e4f51cbf6db67df9adab7e6d3eb5f138dd0dd9"
+    },
+    {
+      "path": "sources/review-p147c-p153c/strict-validation.json",
+      "bytes": 726,
+      "sha256": "797f84acde05a98d6a8066df4e15cead0e7edebb4d90dd54267b2b9750a515e4"
     },
     {
       "path": "sources/review-p147c-p153c/vvg-59.html",
@@ -2629,9 +2639,9 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 197405,
-      "sha256": "9183e02e68c688a94305feb4b02027f4b7488e355ac3df7def557806533a02ec"
+      "bytes": 198210,
+      "sha256": "4efeee3a354ee12c054ebca166b0392477b087d46b1cd2d0b72a195dfd5b7fda"
     }
   ],
-  "scope": "All preserved source evidence including bounded reviews; rejected responses marked in per-batch captures, not used as authority."
+  "scope": "All preserved source evidence including bounded reviews; rejected responses explicitly marked in captures and not used as authority."
 }
