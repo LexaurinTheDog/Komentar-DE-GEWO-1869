@@ -1,0 +1,27 @@
+{
+  "verified_at": "2026-10-20T14:20:40.552454+00:00",
+  "scope": "Targeted current-source and cited-case check for assigned p1–p13 batch; selective, not exhaustive.",
+  "firecrawl": "Unavailable credits; direct official captures used.",
+  "web_searches": [
+    {
+      "query": "site.recht.bund.de 2026 215 Gewerbeordnung 20. Juli 2026 Genehmigungsfiktion",
+      "method": "web search; primary results verified against stored/fresh gazette PDF",
+      "primary_result": "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html"
+    },
+    {
+      "query": "site.gesetze-im-internet.de/gewo \"Zuletzt geändert\"",
+      "method": "web search; full official HTTP capture retained",
+      "primary_result": "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html"
+    }
+  ],
+  "primary_fulltext_checks": [
+    "GewO current index/XML/HTML and official Aktualitätendienst",
+    "BGBl. 215 Art. 1/11: § 6a effective 24.07.2026",
+    "BGBl. 139 Art. 7 Nr. 2/Art. 16: future § 11a expansion excluded",
+    "BGBl. 183 Art. 5/7 and BGBl. 33 Art. 34/64 temporal structure rechecked from saved official PDFs",
+    "VwVfG § 42a and BGBl. 199 Art. 1 Nr. 8/Art. 16 plus BGBl. 224 Art. 11",
+    "BVerwG 8 C 6.14 complete fresh official XML, 34 leitsatz/fact/reason text blocks match saved national corpus"
+  ],
+  "new_cases_added": 0,
+  "no_case_claim_for_other_assigned_units": "No new judicial holding asserted; statutory interpretation only."
+}

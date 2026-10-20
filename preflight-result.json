@@ -5,7 +5,7 @@
   "authoring_started_at": "2026-10-19",
   "preflight_date": "2026-10-20",
   "official_url": "https://www.gesetze-im-internet.de/gewo/",
-  "verified_at": "2026-10-20T14:10:04.546311+00:00",
+  "verified_at": "2026-10-20T14:20:40.552454+00:00",
   "version_evidence": [
     {
       "source": "sources/amendment-215.pdf",
@@ -31,6 +31,11 @@
       "source": "sources/preflight-20261020/amendment-33.pdf",
       "location": "Art. 34 Nr. 1 and 2; Art. 64 Abs. 1 and 8; PDF pp. 43, 64–65",
       "effect": "§ 150 Abs. 5 sentence on BaFin reliability checks effective 2026-02-10 and present; additional ESAP sentences in § 34d Abs. 11 effective only 2030-01-10 and excluded."
+    },
+    {
+      "source": "sources/amendment-139.pdf",
+      "location": "Art. 7 Nr. 2; Art. 16 Abs. 1, Abs. 2 Nr. 2",
+      "effect": "§ 11a extension to § 34k, new Abs. 3c and associated changes effective only 2026-11-20; excluded from 2026-10-19 text and comment."
     }
   ],
   "official_captures": "sources/preflight-20261020/captures.json",
@@ -235,5 +240,41 @@
     "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py WORK",
     "validated_output_checkpoint": "42f0881",
     "scope": "Technical checks of preserved manuscript after parser repair; no independent substantive review claim."
+  },
+  "bounded_review_source_recheck": {
+    "checked_at": "2026-10-20T14:20:40.552454+00:00",
+    "scope_ids": [
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5",
+      "p6",
+      "p6a",
+      "p6b",
+      "p6c",
+      "p7",
+      "p8",
+      "p9",
+      "p10",
+      "p11",
+      "p11a",
+      "p11b",
+      "p11c",
+      "p11d",
+      "p12",
+      "p13"
+    ],
+    "captures": "sources/review-p1-p13/captures.json",
+    "official_html_and_xml_http_status": 200,
+    "fresh_xml_identical": true,
+    "coverage_report": "coverage-report.json",
+    "all_194_xml_records_disposed": true,
+    "no_duplicate_or_historical_alternative_units": true,
+    "operative_annex": "Anlage, complete, sections and nested lists rechecked",
+    "eingangsformel": "Verified absent again; no raw substantive text skipped.",
+    "intake_change_map": "sources/change-map.json",
+    "targeted_actuality_search": "sources/review-p1-p13/search-log.json",
+    "new_blockers": []
   }
 }

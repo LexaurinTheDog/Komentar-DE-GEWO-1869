@@ -1,0 +1,352 @@
+{
+  "decisive_date": "2026-10-19",
+  "authoring_started_at": "2026-10-19",
+  "verified_at": "2026-10-20T14:10:04.546311+00:00",
+  "official_source": "https://www.gesetze-im-internet.de/gewo/",
+  "raw_xml": {
+    "path": "sources/BJNR002450869.xml",
+    "sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
+    "jurabk": "GewO",
+    "builddate": "20260821215501",
+    "stand": [
+      "Neugefasst durch Bek. v. 22.2.1999 I 202",
+      "Zuletzt geändert durch Art. 1 G v. 20.7.2026 I Nr. 215"
+    ]
+  },
+  "captures": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html",
+      "final_url": "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html",
+      "accessed_at": "2026-10-19T17:23:35.005967+00:00",
+      "http_status": 200,
+      "response_headers": {
+        "Date": "Mon, 19 Oct 2026 17:23:35 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Mon, 19 Oct 2026 00:14:18 GMT",
+        "ETag": "\"8339d-65e2665192b37\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "537501",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "text/html",
+        "Connection": "close"
+      },
+      "path": "sources/gewo-full.html",
+      "sha256": "b8db41db679b301143c45c54a2832ff614f298c976b307ee4a337f48703085e2",
+      "validated_format": "html",
+      "bytes": 537501
+    },
+    {
+      "url": "https://www.bverwg.de/150415U8C6.14.0",
+      "final_url": "https://www.bverwg.de/150415U8C6.14.0",
+      "accessed_at": "2026-10-19T17:23:35.413592+00:00",
+      "http_status": 200,
+      "response_headers": {
+        "Date": "Mon, 19 Oct 2026 17:23:35 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Server": "cloudflare",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=j4Xv8t5YtvfbHajQEnfMao6dBfTCu3LJNNSGMXAnSOcircDJUt%2BvJ4tWvg9Hy4GeAroY2lO9kIT34UbebgEIXXiLjUk4Gui0d%2BIQ68VZiiwhQbNfaSkUkXaleQZ7uPU%3D\"}]}",
+        "Vary": "Accept-Encoding",
+        "Cache-Control": "max-age=3600",
+        "Strict-Transport-Security": "max-age=63072000; includeSubdomains;",
+        "last-modified": "Mon, 19 Oct 2026 17:23:35 GMT",
+        "cf-cache-status": "EXPIRED",
+        "CF-RAY": "a4d178b31ee5194d-FRA"
+      },
+      "path": "sources/case-bverwg-8c6-14.html",
+      "sha256": "0e9d71bdfe50da11c9defdfcd1f0b4c7d248061f206451fd0b8574614dbdaa0a",
+      "validated_format": "html",
+      "bytes": 67405
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/10-azr-330-16/",
+      "final_url": "https://www.bundesarbeitsgericht.de/entscheidung/10-azr-330-16/",
+      "accessed_at": "2026-10-19T17:23:35.671222+00:00",
+      "http_status": 200,
+      "response_headers": {
+        "Server": "nginx",
+        "Date": "Mon, 19 Oct 2026 17:23:35 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Content-Length": "196705",
+        "Connection": "close",
+        "Vary": "Accept-Encoding",
+        "Age": "1042",
+        "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+        "X-Varnish-Cache": "HIT",
+        "X-Cacheable": "YES",
+        "X-Content-Type-Options": "nosniff",
+        "X-XSS-Protection": "1; mode=block",
+        "Accept-Ranges": "bytes"
+      },
+      "path": "sources/case-bag-10azr330-16.html",
+      "sha256": "c4cbbc3b5b5690c03d20705b1c4784e9d5201e6af358932ed99555926eb4c6eb",
+      "validated_format": "html",
+      "bytes": 196705
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/xml.zip",
+      "accessed_at": "2026-10-19T17:04:55+00:00",
+      "timestamp_method": "download completion filesystem mtime; request response headers retained",
+      "http_status": 200,
+      "headers_path": "sources/gewo-zip.headers",
+      "path": "sources/gewo.zip",
+      "sha256": "300e2939e5dcd9a83b047303c70dc473e59eb923995aeb50d41e35adaa947b52",
+      "bytes": 87856,
+      "validated_format": "zip"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/215/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-19T17:05:18+00:00",
+      "timestamp_method": "download completion filesystem mtime; request response headers retained",
+      "http_status": 200,
+      "headers_path": "sources/amendment-215.headers",
+      "path": "sources/amendment-215.pdf",
+      "sha256": "2e01df7450d95485dab09281aa4e834031932db790c89b502130f4b7d1fc441b",
+      "bytes": 289435,
+      "validated_format": "pdf"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/183/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-19T17:09:18+00:00",
+      "timestamp_method": "download completion filesystem mtime; request response headers retained",
+      "http_status": 200,
+      "headers_path": "sources/amendment-183.headers",
+      "path": "sources/amendment-183.pdf",
+      "sha256": "9409bcf42628489544edadc4a6366a91806e48c33a64dfecd7943ddd0bacf721",
+      "bytes": 297268,
+      "validated_format": "pdf"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/139/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-19T17:12:22+00:00",
+      "timestamp_method": "download completion filesystem mtime; request response headers retained",
+      "http_status": 200,
+      "headers_path": "sources/amendment-139.headers",
+      "path": "sources/amendment-139.pdf",
+      "sha256": "498ddd09c3dbaf9d91824601b61ab5e8a91167a5d5e58322a94f5858c4eab36b",
+      "bytes": 921242,
+      "validated_format": "pdf"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/",
+      "accessed_at": "2026-10-19T17:12:32.520318+00:00",
+      "http_status": 200,
+      "headers": {
+        "Date": "Mon, 19 Oct 2026 17:12:32 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Mon, 19 Oct 2026 00:14:19 GMT",
+        "ETag": "\"9342-65e26652d4f20\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "37698",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "text/html",
+        "Connection": "close"
+      },
+      "sha256": "692b5fe3e44ea3f7afa3014d7d0492e502f4aa9db38944f13a5c76b59b56cb7e",
+      "path": "sources/gewo-index.html"
+    },
+    {
+      "type": "local_official_judicial_corpus",
+      "original_read_only_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kare600053741.md",
+      "snapshot_path": "sources/rii-kare600053741.md",
+      "sha256": "d4fea4423c2267e4ae11a4befc8ad07741502ddafbda2858fd0998763d0fc4c9"
+    },
+    {
+      "type": "local_official_judicial_corpus",
+      "original_read_only_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-wbre201500245.md",
+      "snapshot_path": "sources/rii-wbre201500245.md",
+      "sha256": "ceb6412dce9c4c886b85ef8dd7c020a1c97d4e4a60018f1c232335ceeff83ba4"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/",
+      "final_url": "https://www.gesetze-im-internet.de/gewo/",
+      "accessed_at": "2026-10-20T14:05:45.040176+00:00",
+      "http_status": 200,
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 14:05:45 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Tue, 20 Oct 2026 00:14:21 GMT",
+        "ETag": "\"9342-65e3a83217275\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "37698",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "text/html",
+        "Connection": "close"
+      },
+      "path": "sources/preflight-20261020/index.html",
+      "sha256": "692b5fe3e44ea3f7afa3014d7d0492e502f4aa9db38944f13a5c76b59b56cb7e",
+      "bytes": 37698,
+      "validated_format": "html"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html",
+      "final_url": "https://www.gesetze-im-internet.de/gewo/BJNR002450869.html",
+      "accessed_at": "2026-10-20T14:05:45.264793+00:00",
+      "http_status": 200,
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 14:05:45 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Tue, 20 Oct 2026 00:14:20 GMT",
+        "ETag": "\"8339d-65e3a830c6037\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "537501",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "text/html",
+        "Connection": "close"
+      },
+      "path": "sources/preflight-20261020/full.html",
+      "sha256": "b8db41db679b301143c45c54a2832ff614f298c976b307ee4a337f48703085e2",
+      "bytes": 537501,
+      "validated_format": "html"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/gewo/xml.zip",
+      "accessed_at": "2026-10-20T14:05:46.321538+00:00",
+      "http_status": 200,
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 14:05:46 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Fri, 21 Aug 2026 19:55:03 GMT",
+        "ETag": "\"15730-65994032ac2f1\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "87856",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "application/zip",
+        "Connection": "close"
+      },
+      "path": "sources/preflight-20261020/gewo.zip",
+      "sha256": "300e2939e5dcd9a83b047303c70dc473e59eb923995aeb50d41e35adaa947b52",
+      "bytes": 87856,
+      "extracted_xml_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
+      "unchanged_from_authoring_xml": true,
+      "xml_stand": [
+        "Neugefasst durch Bek. v. 22.2.1999 I 202",
+        "Zuletzt geändert durch Art. 1 G v. 20.7.2026 I Nr. 215"
+      ],
+      "validated_format": "zip"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T14:06:38.383049+00:00",
+      "http_status": 200,
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 14:06:38 GMT",
+        "Server": "Apache",
+        "Set-Cookie": "AL_LB-S=$xc/Bg1RNypt9kOHuO1NGw2twG9ShRsN_slrkxgNZE4Z8WZ414I3; Path=/; Secure; HttpOnly; SameSite=None",
+        "Referrer-Policy": "same-origin",
+        "X-Frame-Options": "sameorigin",
+        "X-UA-Compatible": "IE=edge",
+        "X-Server-Generated": "Tue, 20 Oct 2026 13:14:51 GMT",
+        "X-Content-Type-Options": "nosniff",
+        "Content-Security-Policy": "default-src 'self'; connect-src 'self'; font-src 'self' data:; worker-src blob: 'self'; base-uri 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' *.itzbund.de; object-src 'self' multimedia.gsb.bund.de; media-src blob: 'self' multimedia.gsb.bund.de; frame-src 'self' blob:; img-src 'self' blob: data:; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests;",
+        "X-Permitted-Cross-Domain-Policies": "none",
+        "X-XSS-Protection": "1;mode=block",
+        "Cache-Control": "max-age=604800",
+        "Content-Language": "de-DE",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Connection": "close",
+        "Transfer-Encoding": "chunked",
+        "Content-Type": "application/pdf;charset=UTF-8"
+      },
+      "path": "sources/preflight-20261020/amendment-33.pdf",
+      "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+      "bytes": 1222431,
+      "validated_format": "pdf"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "final_url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-20T14:06:39.013129+00:00",
+      "http_status": 200,
+      "response_headers": {
+        "Date": "Tue, 20 Oct 2026 14:06:39 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Tue, 20 Oct 2026 05:30:01 GMT",
+        "ETag": "\"125ca-65e3eec07e7f6\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "75210",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "text/html",
+        "Connection": "close"
+      },
+      "path": "sources/preflight-20261020/aktudienst.html",
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "bytes": 75210,
+      "validated_format": "html"
+    }
+  ],
+  "effective_version_evidence": [
+    {
+      "source": "sources/amendment-215.pdf",
+      "location": "Art. 1 Nr. 1, 3; Art. 11 Abs. 1",
+      "effect": "§ 6a broad fiction and § 34c removal of estate agents from further training effective 2026-07-24"
+    },
+    {
+      "source": "sources/amendment-215.pdf",
+      "location": "Art. 1 Nr. 2; Art. 11 Abs. 2",
+      "effect": "§ 14 Abs. 8 new recipients Nos. 15–17 effective 2027-05-01; excluded at decisive date"
+    },
+    {
+      "source": "sources/amendment-139.pdf",
+      "location": "Art. 7 Nr. 6; Art. 16 Abs. 1, 2 Nr. 2",
+      "effect": "§ 34l effective 2026-05-19; other changes incl. § 34k and § 162 effective 2026-11-20, excluded at decisive date"
+    },
+    {
+      "source": "sources/amendment-183.pdf",
+      "location": "Art. 5; Art. 7 Abs. 2",
+      "effect": "GewO changes effective 2026-06-25; 2026-10-01 commencement in Art. 7 Abs. 4 relates to another act, not GewO"
+    },
+    {
+      "source": "sources/preflight-20261020/amendment-33.pdf",
+      "location": "Art. 34 Nr. 1 and 2; Art. 64 Abs. 1 and 8; PDF pp. 43, 64–65",
+      "effect": "§ 150 Abs. 5 sentence on BaFin reliability checks effective 2026-02-10 and present; additional ESAP sentences in § 34d Abs. 11 effective only 2030-01-10 and excluded."
+    }
+  ],
+  "since_intake": {
+    "original_path": "/Volumes/LaCie/law-intake/eu/de/gesetze/gii-gewo.md",
+    "preserved_copy": "sources/intake-20261001.md",
+    "original_sha256": "635d97b6c4cb30b7cae7145c45b6a67e22532ab45c6d3b40bbba434292f6101c",
+    "change_map": "sources/change-map.json",
+    "method": "fresh official XML, current official index/full HTML, published amendment commencement provisions, targeted official-gazette search",
+    "limit": "Targeted search is not an exhaustive audit of all Bundesgesetzblatt issues; §161 triggering notices not independently established."
+  },
+  "case_law_scope": "Selective, two full-text decisions, court websites and local official corpus; no exhaustive coverage.",
+  "canonical_source_sha256": "733ff4f9741f241314070edea57b7d7eebfedb7b820354a45f914e58f8648c1c",
+  "formats_validated": {
+    "zip": "ZIP signature and sole expected XML member; content byte-for-byte equals extracted raw XML",
+    "xml": "Parsed XML, jurabk GewO, all 194 norm records inventoried",
+    "pdf": "All three responses begin %PDF-, successfully extracted as text, amendment and commencement provisions read",
+    "html": "Law title and provision identifiers checked; both court HTML contain identified decision texts"
+  },
+  "authoring_verification_preserved_at": "sources/preflight-20261020/verification-before.json",
+  "preflight_decisive_date_policy": "Original authoring began 2026-10-19. Preflight refetch on 2026-10-20 does not move that legal-text date.",
+  "preflight": {
+    "date": "2026-10-20",
+    "captures": "sources/preflight-20261020/captures.json",
+    "coverage": "coverage-report.json",
+    "fresh_xml_unchanged": true,
+    "firecrawl": "Installed/authenticated but zero credits; official bodies captured directly via HTTPS. No settings or credentials read or changed."
+  }
+}

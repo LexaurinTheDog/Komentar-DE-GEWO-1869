@@ -1,0 +1,176 @@
+{
+  "fresh_official_xml": "sources/review-p1-p13/WBRE201500245.xml",
+  "paragraphs": [
+    {
+      "section": "leitsatz",
+      "paragraph": null,
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "leitsatz",
+      "paragraph": null,
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "leitsatz",
+      "paragraph": null,
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "paragraph": "1",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "paragraph": "2",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "paragraph": "3",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "paragraph": "4",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "paragraph": "5",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "paragraph": "6",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "paragraph": "7",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "paragraph": null,
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "paragraph": "8",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "paragraph": null,
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "paragraph": "9",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "paragraph": "10",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "11",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "12",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "13",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "14",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "15",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "16",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "17",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "18",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "19",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "20",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "21",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "22",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "23",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "24",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "25",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "26",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "27",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "28",
+      "matches_existing_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "paragraph": "29",
+      "matches_existing_corpus": true
+    }
+  ],
+  "all_match": true
+}

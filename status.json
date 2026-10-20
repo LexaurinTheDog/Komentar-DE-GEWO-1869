@@ -1,14 +1,14 @@
 {
-  "stage": "preflight_complete",
+  "stage": "bounded_review_complete",
   "country": "de",
   "identifier": "GewO",
   "repo": "Komentar-DE-GEWO-1869",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T14:11:36.081711+00:00",
+  "updated_at": "2026-10-20T14:23:27.370179+00:00",
   "total_units": 171,
   "completed_units": 171,
   "chapters": 13,
-  "commentary_chars": 182524,
+  "commentary_chars": 190447,
   "source_checks": {
     "official_xml": {
       "http_status": 200,
@@ -49,6 +49,19 @@
       "coverage_report": "coverage-report.json",
       "exact_official_labels_agree": true,
       "strict_validation_ok": true
+    },
+    "bounded_review_p1_p13": {
+      "verified_at": "2026-10-20T14:20:40.552454+00:00",
+      "decisive_date": "2026-10-19",
+      "captures": "sources/review-p1-p13/captures.json",
+      "fresh_xml_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
+      "identical_to_existing": true,
+      "supplementary_vwvfg": "sources/review-p1-p13/VwVfG.xml",
+      "vwvfg_effective_selection": "§ 42a current text; Art. 1 Nr. 8 BGBl. 2026 I Nr. 199 effective only 2027-02-01 (Art. 16 Abs. 2), excluded; BGBl. 224 Art. 11 does not amend § 42a.",
+      "case_archive_xml": "sources/review-p1-p13/WBRE201500245.xml",
+      "case_archive_xml_sha256": "e72a79c7ff4598d88b191eb086db318969403749741bc6e670144073588ee01c",
+      "case_text_all_paragraphs_match": true,
+      "firecrawl_status": "Installed/authenticated but zero credits; direct primary HTTP used, no settings changes."
     }
   },
   "case_law_sources": [
@@ -85,15 +98,41 @@
   },
   "completeness_result": "171/171 exact XML labels and doknr; all 194 records disposed, no missing or duplicate identifiers; complete operative annex and nested list order; no Eingangsformel in official XML.",
   "independent_review": {
-    "performed": false,
-    "state": "pending separate process"
+    "performed_for_assigned_batch": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5",
+      "p6",
+      "p6a",
+      "p6b",
+      "p6c",
+      "p7",
+      "p8",
+      "p9",
+      "p10",
+      "p11",
+      "p11a",
+      "p11b",
+      "p11c",
+      "p11d",
+      "p12",
+      "p13"
+    ],
+    "whole_book_complete": false,
+    "remaining_units": 151,
+    "state": "bounded batch completed; remainder pending"
   },
   "remaining_limitations": [
-    "Selective case-law research: two full-text decisions; no exhaustive coverage claimed.",
-    "State law, implementing regulations and externally referenced statutes are not fully separately verified or commented.",
-    "No primary evidence independently established the two §161 triggering notices. Commentary explicitly conditional; neither entry into operation nor absence of notices asserted.",
-    "Amendment search targeted, not an exhaustive review of every Bundesgesetzblatt issue.",
-    "Independent second substantive pass pending."
+    "Nur die genau bezeichneten 20 Einheiten wurden inhaltlich zweitgeprüft; die übrigen 151 Einheiten sind nicht Gegenstand dieses Durchgangs.",
+    "Selektive Rechtsprechungsprüfung: das bei § 12 zitierte Urteil, keine vollständige Judikaturrecherche und keine neue Einzelfallautorität für technische Normen.",
+    "Keine Prüfung sämtlicher Landesgesetze, Landesverordnungen oder unionsrechtlicher Durchführungsvorschriften; insbesondere keine konkrete landesrechtliche Fiktionsanwendung zugesichert.",
+    "Amtliche Aktualitätskontrolle und gezielte Änderungssuche, keine lückenlose Sichtung sämtlicher Bundesgesetzblatt-Ausgaben.",
+    "Gerichtswebsite antwortete beim neuen Abruf mit HTTP 403; frischer amtlicher XML-Volltext aus Rechtsprechung im Internet war mit HTTP 200 verfügbar und stimmt mit dem vorhandenen Korpus überein.",
+    "Technische Vollständigkeit und Längen-/Wiederholungsdiagnostik ersetzen keine externe fachliche Freigabe."
   ],
   "unresolved_statutory_text_blockers": [],
   "publication": {
@@ -116,10 +155,33 @@
   },
   "previous_authoring_stage": "drafted_technical_validation",
   "active_task": {
-    "kind": "preflight",
+    "kind": "review",
     "complete": true,
-    "evidence": "preflight-result.json",
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5",
+      "p6",
+      "p6a",
+      "p6b",
+      "p6c",
+      "p7",
+      "p8",
+      "p9",
+      "p10",
+      "p11",
+      "p11a",
+      "p11b",
+      "p11c",
+      "p11d",
+      "p12",
+      "p13"
+    ],
+    "evidence": "review-result.json",
     "whole_book_completion_claimed": false
   },
-  "completed_units_provenance": "171 existing commentaries preserved; this bounded task performed source/parser checks only."
+  "completed_units_provenance": "171 existing authored commentaries; only assigned 20 independently reviewed, 10 corrected, other 151 preserved."
 }

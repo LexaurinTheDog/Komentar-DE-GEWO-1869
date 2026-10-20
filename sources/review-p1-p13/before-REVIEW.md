@@ -1,0 +1,29 @@
+# Bearbeitungs- und Prüfstand
+
+## Begrenzte Quellen- und Parsernachkontrolle vom 20. Oktober 2026
+
+Dieser zusätzliche Durchgang betrifft ausschließlich die Quellenlage und die Extraktionsabdeckung. Er enthält keine erneute Einzelprüfung der 171 Kommentartexte und ist keine unabhängige inhaltliche Zweitprüfung. Die nachfolgenden Angaben zum Autorendurchgang bleiben als dessen ursprüngliche Dokumentation erhalten.
+
+Der amtliche Index, die Gesamtausgabe und das XML-Paket wurden tatsächlich neu geladen; alle drei Inhalts-Hashes stimmen mit dem Autorensnapshot überein. Die Versionsentscheidung bleibt beim Beginn der Bearbeitung am 19. Oktober 2026. Die einschlägigen Änderungs- und Inkrafttretensbestimmungen in BGBl. 2026 I Nr. 139, 183 und 215 wurden erneut gelesen; Art. 34 und 64 in Nr. 33 wurden zusätzlich gesichert und geprüft. § 34d Abs. 11 erhält die dort angekündigte Ergänzung erst 2030, während die Ergänzung des § 150 Abs. 5 bereits wirksam ist.
+
+Behoben wurde der Verlust des amtlichen „(XXXX)“-Präfixes bei 17 Wegfallkennungen. Die internen IDs und sämtliche 182.524 Zeichen bestehender Kommentierung bleiben erhalten. Ein neuer unabhängiger Inventardurchgang über die rohe XML prüft exakte amtliche Kennungen, alle 194 Datensätze, Textinhalt, Reihenfolge und Listenpunkte der Anlage. Ergebnis: 171 erwartete und 171 extrahierte Einheiten, keine fehlenden oder zusätzlichen Kennungen, keine Duplikate, kein Textverlust. Eine Eingangsformel ist in der amtlichen XML tatsächlich nicht vorhanden; der Rahmen enthält ausschließlich Metadaten und redaktionelle Hinweise. Der Parser bricht künftig bei nicht zugeordnetem unnummeriertem operativem Text ab.
+
+Die aktuellen Ergebnisse stehen in [preflight-result.json](preflight-result.json), [coverage-report.json](coverage-report.json), [validation.json](validation.json) und [link-report.json](link-report.json). Eine gezielte Änderungsrecherche und der amtliche Aktualitätendienst wurden ergänzend herangezogen; daraus wird keine lückenlose Prüfung aller Bundesgesetzblatt-Ausgaben abgeleitet. Die bisherige Einschränkung zu den tatsächlichen Bekanntmachungsbedingungen des § 161 bleibt bestehen und wird durch diese Quellenkontrolle nicht als erledigt ausgegeben.
+
+## Überlieferte Dokumentation des Autorendurchgangs
+
+19. Oktober 2026. Dies ist die Dokumentation des Autorendurchgangs und seiner technischen Kontrollen. Sie ist **keine unabhängige Zweitprüfung** und keine externe fachliche Freigabe.
+
+Alle 171 amtlichen Einheiten sind mit eigenständiger Kommentierung versehen. Die Erläuterungen umfassen 182.524 Zeichen in 13 Kapiteln. Für jede gewöhnliche Einheit mit mehr als 160 Zeichen Gesetzestext liegt der Kommentar über 700 Zeichen; aufgehobene und leere Stellen werden kürzer nach ihrer tatsächlichen Funktion behandelt. Diese Längenangabe ist lediglich ein Kontrollmerkmal.
+
+Der [Vollständigkeitsbericht](completeness-report.json) enthält das vollständige XML-Inventar. Das [separate Audit](audit-report.json) bestätigt 171 amtliche HTML-Einzelnormen gegenüber 171 extrahierten XML-Einheiten, keine fehlende oder zusätzliche Kennung, keinen Textverlust nach Ausblendung reiner Layoutleerzeichen und keine fehlende Kommentierung. Die operative Anlage mit ihren beiden Abschnitten und verschachtelten Punkten ist enthalten. Die ursprüngliche Intake-Fassung und die neu abgerufenen Quellen bleiben nebeneinander erhalten; der [Änderungsabgleich](sources/change-map.json) enthält keine operative Wortlautabweichung bei den 171 Einheiten.
+
+Die Prüfung der zeitlichen Auswahl stützt sich auf die tatsächlich gelesenen Änderungsgesetze Nr. 139, 183 und 215 des Jahres 2026. Besonders kontrolliert wurden § 34l gegenüber dem erst künftig wirksamen § 34k, die noch nicht wirksamen neuen Datenempfänger des § 14 und die aktuelle Weiterbildungspflicht des § 34c. Die gesetzlich erhaltenen historischen Übergänge sind als solche erläutert. Erkennbare unpassende Verweise in §§ 60d, 144–146 und die historischen Anknüpfungen des § 139b sind nicht stillschweigend in neue Rechtsgrundlagen umgeschrieben worden.
+
+Zwei [Fallkarten](cases/README.md) beruhen auf gelesenen amtlichen Volltexten und den passenden lokalen Korpusdatensätzen. Der BAG-Anfragebeschluss wurde vom späteren Urteil unterschieden. Der Kommentar verwechselt das Parteivorbringen nicht mit dem Ergebnis und benennt die Grenzen älterer Aussagen bei der heutigen Fassung des § 12. Für andere Einheiten wird keine ungeprüfte Rechtsprechung als Beleg ausgegeben.
+
+Die Wiederholungsdiagnostik fand keine identischen Kommentarabsätze über 160 Zeichen und keine Volltextpaare oberhalb der dokumentierten Ähnlichkeitsschwelle. Zusätzlich wurden die Texte beim Verfassen nach konkreten Tatbeständen, Absatzunterschieden und fiktiven Sachverhalten gegliedert. Das Ergebnis dieser Diagnostik ersetzt keine inhaltliche Bewertung der einzelnen Auslegung. [Linkprüfung](link-report.json) und [strikte technische Validierung](validation.json) enthalten die maschinellen Ergebnisse des gebauten Bands.
+
+Offen bleibt die unabhängige vollständige inhaltliche Zweitprüfung in einem gesonderten Prozess. Weitere Grenzen sind die selektive Rechtsprechungsauswahl und die nicht vollständige Erschließung aller Landesregeln und externen Durchführungsnormen. Der tatsächliche Eintritt der beiden Bekanntmachungsbedingungen des § 161 konnte durch die gezielte Recherche nicht unabhängig belegt werden. Der Text setzt dazu keinen bestimmten Vollzugsstand voraus und behauptet auch nicht, es gebe keine Bekanntmachung. Vor konkreter Anwendung dieses Übergangs ist der jeweilige amtliche Auslöser zu beschaffen.
+
+Der technische Prüfstatus ist im [Arbeitsstatus](status.json) dokumentiert. Der Band ist ein vollständig verfasster, überprüfbarer Entwurf für die nächste Reviewstufe. Es wird keine unabhängige Selbstfreigabe behauptet.
