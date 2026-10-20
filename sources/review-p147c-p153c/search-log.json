@@ -1,0 +1,81 @@
+{
+  "verified_at": "2026-10-20T15:47:25.220056+00:00",
+  "tool_policy": "Firecrawl skill read; installed/authenticated CLI shows zero credits. Direct official HTTPS and web search used. No credential files read or settings changed.",
+  "web_queries": [
+    {
+      "query": "site.bverwg.de \"153\" \"Gewerbezentralregister\" Tilgung",
+      "result": "No additional BVerwG full-text authority selected. Official statutes/administrative FAQ found, no snippet cited as holding."
+    },
+    {
+      "query": "site.rechtsprechung-im-internet.de \"148\" \"beharrlich\" \"GewO\"",
+      "result": "BGH3StR372/12 identified; actual official ZIP fetched and read in full."
+    },
+    {
+      "query": "site.rechtsprechung-im-internet.de \"150a\" \"Gewerbezentralregister\"",
+      "result": "No additional sufficiently relevant full-text-verified decision selected."
+    },
+    {
+      "query": "site.bundesgerichtshof.de \"3 StR 372/12\"",
+      "result": "Court PDF link returned generic HTML despite HTTP200, rejected; official RII ZIP is actual evidence."
+    },
+    {
+      "query": "site.rechtsprechung-im-internet.de \"153\" \"GewO\" Tilgung",
+      "result": "Official current text found; no new case relied on for §153."
+    },
+    {
+      "query": "site.gesetze-im-internet.de GewO 2026 150a 150f 183",
+      "result": "Official full text/index and actual amendment183 captured and read."
+    },
+    {
+      "query": "site.recht.bund.de 2026 \"156\" \"Versicherungsvertragsgesetz\"",
+      "result": "Actual gazette156 captured/read: Art12 only effective2027, not inferred from consolidation timestamp."
+    },
+    {
+      "query": "site.recht.bund.de 2026 \"229\" \"Makler\" \"Artikel 2\"",
+      "result": "Actual gazette229 captured/read: MaBV amendment already effective01.08.2026."
+    },
+    {
+      "query": "site.nrwe.justiz.nrw.de \"1 VAs 62/14\"",
+      "result": "Potential additional case surfaced only through nonprimary discovery pages; no official full text read, not cited or claimed verified."
+    },
+    {
+      "query": "site.gesetze-im-internet.de \"Gewerbeordnung\" \"2026\" \"147c\" Änderung",
+      "result": "Current official GewO and amendment timeline checked; no further enacted operative change established. Search alone not treated as proof of absence."
+    }
+  ],
+  "local_corpus_searches": [
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii",
+      "command": "rg -l 3 StR 372/12 (recursive); manifest lookup JURE130006318",
+      "result": "JURE130006318 found; exact intake snapshot preserved, 14 complete long court blocks and all11 numbered paragraphs match."
+    }
+  ],
+  "no_additional_verified_case_ids": [
+    "p147c",
+    "p147d",
+    "p148a",
+    "p148b",
+    "p148c",
+    "p149",
+    "p150",
+    "p150a",
+    "p150b",
+    "p150c",
+    "p150d",
+    "p150e",
+    "p150f",
+    "p151",
+    "p152",
+    "p153",
+    "p153a",
+    "p153b",
+    "p153c"
+  ],
+  "limits": [
+    "This process reviewed exactly the assigned 20 units; 151 other commentary blocks are unchanged. Prior seven batches are preserved, not rereviewed. No whole-book completion or external professional approval.",
+    "Case-law research is selective: BGH 3 StR 372/12 newly read in full, not an exhaustive survey. No sufficiently relevant additional verified decision selected for the other 19 units; this is not evidence of absence.",
+    "Cross-code review limited to 12 selected VVG/OWiG/StPO/MaBV/StGB units and relevant amendment/commencement clauses. External EU original-text requests returned rejected HTTP202 challenges. Commentary on §147d stays with the verified national reference catalogue; no independently verified EU hourly deadlines, delegated technical standards or expanded product definitions claimed.",
+    "Currentness verification uses actual fresh official consolidation, complete intake identity and targeted enacted amendment checks, not every gazette issue. Original decisive date is 2026-10-19; recheck 2026-10-20.",
+    "Existing out-of-batch §161 trigger-event uncertainty remains preserved. Technical text agreement, count and prose diagnostics do not establish legal correctness. Eleven further book units remain outside the documented cumulative substantive second pass."
+  ]
+}

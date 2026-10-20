@@ -1,0 +1,96 @@
+{
+  "case": "BGH 3 StR 372/12",
+  "official_xml": "sources/review-p147c-p153c/case-JURE130006318.xml",
+  "xml_sha256": "e904cf4c1e87d28559ac8ec707e6f2f23a6a50cbb33db91d5a91dcc0d50a4a14",
+  "corpus_source": "/Volumes/LaCie/law-intake/eu/de/rii/rii-jure130006318.md",
+  "corpus_snapshot": "sources/review-p147c-p153c/corpus-bgh-3str372-12.md",
+  "corpus_sha256": "4c561974d3c5f210153fcf0a1fee74269fe04b5a58e5cf78badfe5284343c73b",
+  "numbered_paragraphs": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11"
+  ],
+  "all_paragraphs_read": "Tenor, Rn. 1–11 and all unnumbered continuations including GBA submission adopted only in Rn. 11",
+  "text_blocks": [
+    {
+      "section": "tenor",
+      "sha256": "aea6fbfb55e7f172eb4bb37b8d2a0e10e4067a36be88ea48e79a91bd39b9df92",
+      "matches_corpus": true
+    },
+    {
+      "section": "tenor",
+      "sha256": "0f7f6764cf26c49872bbfd4c5f55c7b99c6cdba4dc46b06a574e8d087547764e",
+      "matches_corpus": true
+    },
+    {
+      "section": "gruende",
+      "sha256": "e26ce8982b3b789072bb1158e206b79483b45a35acb2ab7915aa4120df62e17d",
+      "matches_corpus": true
+    },
+    {
+      "section": "gruende",
+      "sha256": "e8180d7734f5882e5e8bf2203accb0470693258e6f61510b45be3287a8a6edb3",
+      "matches_corpus": true
+    },
+    {
+      "section": "gruende",
+      "sha256": "341ff28703335a2745b03073b6de8ee463af7f753315601fbdb4b5118667dc8c",
+      "matches_corpus": true
+    },
+    {
+      "section": "gruende",
+      "sha256": "74f96e381c11ee86d1e447991d4fedd84873dbf54bbd5df69979dfcae43bb298",
+      "matches_corpus": true
+    },
+    {
+      "section": "gruende",
+      "sha256": "f433f7e2ea25651ee93d76390748ec1a37b28b1319dfcdfd29c3d305bf4c2d7f",
+      "matches_corpus": true
+    },
+    {
+      "section": "gruende",
+      "sha256": "441c4326126996ac360e476e4bcb215415b38341e880810360c4b6e580b2e466",
+      "matches_corpus": true
+    },
+    {
+      "section": "gruende",
+      "sha256": "10d017b69219afb1cd61d2cb4efd3e2cc1a803b05813e263620166c9eca287ed",
+      "matches_corpus": true
+    },
+    {
+      "section": "gruende",
+      "sha256": "51dc8c22f825bffb5d9f20d76b8c2c5cad56c737ad8c21224a5b3f55728f805a",
+      "matches_corpus": true
+    },
+    {
+      "section": "gruende",
+      "sha256": "9c9df6b1571ad75242dbe6c0415eaad340515368fceffe20308d33710e325212",
+      "matches_corpus": true
+    },
+    {
+      "section": "gruende",
+      "sha256": "edd08004d121c21f753c93db981537838c16fe846c06b56b894ad26d17a21391",
+      "matches_corpus": true
+    },
+    {
+      "section": "gruende",
+      "sha256": "5de77ed7d8c99637933bbe08a6428f54a06979a90610689c16c1090b22cdcace",
+      "matches_corpus": true
+    },
+    {
+      "section": "gruende",
+      "sha256": "45c5c99be5ae6996f23da40275e8b64b5448c592f5af0387a1235d57a66b1e06",
+      "matches_corpus": true
+    }
+  ],
+  "comparison": "Compare entire court tenor and every long dd text with local national judicial corpus after whitespace/entity normalization. No third-party annotations copied.",
+  "ok": true
+}

@@ -4,11 +4,11 @@
   "identifier": "GewO",
   "repo": "Komentar-DE-GEWO-1869",
   "decisive_date": "2026-10-19",
-  "updated_at": "2026-10-20T15:36:03.667189+00:00",
+  "updated_at": "2026-10-20T15:47:25.220056+00:00",
   "total_units": 171,
   "completed_units": 171,
   "chapters": 13,
-  "commentary_chars": 249191,
+  "commentary_chars": 265281,
   "source_checks": {
     "official_xml": {
       "http_status": 200,
@@ -948,6 +948,225 @@
         "work_content_checkpoint": "ef1036fe2229a00c04d699299cd09821107c1064",
         "scope": "Strict technical validation of rebuilt book after this bounded review. Independent substantive review in this process covers exactly the 20 reviewed_ids; all 151 other commentary blocks unchanged. No whole-book substantive completion."
       }
+    },
+    "bounded_review_p147c_p153c": {
+      "complete": true,
+      "decisive_date": "2026-10-19",
+      "official_url": "https://www.gesetze-im-internet.de/gewo/",
+      "verified_at": "2026-10-20T15:38:02.804979+00:00",
+      "captures": "sources/review-p147c-p153c/captures.json",
+      "format_checks": "sources/review-p147c-p153c/format-validation.json",
+      "raw_xml": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "raw_xml_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
+      "fresh_xml_identical_to_canonical": true,
+      "version_evidence": [
+        {
+          "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+          "location": "framework metadata and complete HTML/XML comparison",
+          "effect": "Latest incorporated GewO amendment Art. 1 G v. 20.7.2026 I Nr. 215. New official XML byte-identical to authoring source; 171 units and complete operative annex match. Date of authoring, not fetch date, remains 2026-10-19."
+        },
+        {
+          "source": "sources/review-p147c-p153c/amendment-33.pdf",
+          "location": "Art. 34 Nr. 2, Art. 64 Abs. 1 and 8; publication 09.02.2026, PDF pp. 43, 64–65",
+          "effect": "BaFin reliability access in §150 Abs.5 effective 10.02.2026. Deferred commencement on 10.01.2030 applies to Art.34 Nr.1 (§34d ESAP), not Nr.2."
+        },
+        {
+          "source": "sources/review-p147c-p153c/amendment-183.pdf",
+          "location": "Art.5 Nr.1–4, Art.7 Abs.2; publication 24.06.2026, PDF pp.6–7",
+          "effect": "§150a heading and ministry wording in §§150c and 153c effective 25.06.2026. 01.10.2026 commencement in Art.7 Abs.4 concerns BZRG amendment, not GewO."
+        },
+        {
+          "source": "sources/review-p147c-p153c/amendment-139.pdf",
+          "location": "Art.7 Nr.12–14, Art.13, Art.16; publication 18.05.2026",
+          "effect": "Future sanctions linked by §148 remain excluded until 20.11.2026; earlier §34l commencement does not advance these sanctions. VVG Art.13 concerns §§157/213a, not §§7c/59."
+        },
+        {
+          "source": "sources/review-p147c-p153c/amendment-215.pdf",
+          "location": "Art.1–2 and Art.11; publication 23.07.2026",
+          "effect": "§6a and §34c amendments effective 24.07.2026; §14 recipients only 01.05.2027. MaBV changes concern training/penalty provisions, not §16 examination type."
+        },
+        {
+          "source": "sources/review-p147c-p153c/amendment-156.pdf",
+          "location": "Art.12 Nr.3–4, Art.14 Abs.2; publication 29.05.2026, PDF pp.22–24",
+          "effect": "VVG §7c heading/new Abs.6 and §59 reference extension to retirement contracts only effective 01.01.2027; excluded. Full current selected §§7c/59 unique records agree with HTML."
+        },
+        {
+          "source": "sources/review-p147c-p153c/amendment-229.pdf",
+          "location": "Art.2 Nr.4 and Art.4; publication 31.07.2026, PDF pp.12–13",
+          "effect": "MaBV §16 Abs.3 sentence2 changes effective 01.08.2026; regular examination in Abs.1 and extraordinary examination in Abs.2 unchanged. Their actual current wording captured/read."
+        },
+        {
+          "source": "sources/review-p147c-p153c/amendment-95.pdf",
+          "location": "Art.1, Art.2 Abs.7, Art.4; publication 01.04.2026",
+          "effect": "Current StGB and StPO changes effective 02.04.2026 do not alter §15 StGB or §§488/493 StPO; selected records read and XML/HTML matched."
+        },
+        {
+          "source": "sources/review-p147c-p153c/amendment-199.pdf",
+          "location": "Art.15 Abs.16, Art.16 Abs.3; PDF pp.15–16",
+          "effect": "Future StPO §492 change only 01.01.2027; no amendment of §§488/493. No future text imported into commentary."
+        },
+        {
+          "source": "sources/review-p147c-p153c/amendment-2025-349.pdf",
+          "location": "Art.21 and Art.26 Abs.1; publication 22.12.2025",
+          "effect": "OWiG latest amendment affects §110c only, effective 23.12.2025. §§10,17,22–24,30 used here read in full and agree in fresh XML and single-unit HTML."
+        }
+      ],
+      "historical_versions_checked": {
+        "duplicate_official_labels": [],
+        "duplicate_doknr": [],
+        "intake_change_map": "sources/change-map.json",
+        "intake_operatively_changed_units": 0,
+        "future_changes_excluded": [
+          "2026-11-20: §34k and related sanctions, VVG Art.13 Nr.139",
+          "2027-01-01: VVG Art.12 Nr.156 and StPO Art.15 Abs.16 Nr.199",
+          "2027-05-01: §14 recipients",
+          "2030-01-10: §34d ESAP"
+        ],
+        "selection": "All raw records enumerated, no historical alternative concatenated. Cross-code future flags distinguished from effective selected unit text."
+      },
+      "annexes_checked": [
+        {
+          "parent_label": "Anlage",
+          "doknr": "BJNR002450869BJNE029500123",
+          "unit_id": "anlage",
+          "official_list_labels": [
+            "1.",
+            "2.",
+            "3.",
+            "4.",
+            "1.",
+            "2.",
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)",
+            "i)",
+            "j)",
+            "k)",
+            "l)",
+            "3.",
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)",
+            "aa)",
+            "bb)",
+            "cc)",
+            "dd)",
+            "ee)",
+            "ff)",
+            "gg)",
+            "hh)",
+            "ii)",
+            "jj)",
+            "kk)",
+            "ll)",
+            "mm)",
+            "i)",
+            "aa)",
+            "bb)",
+            "cc)",
+            "dd)",
+            "ee)",
+            "ff)",
+            "4.",
+            "a)",
+            "b)",
+            "c)",
+            "5."
+          ],
+          "parsed_list_labels": [
+            "1.",
+            "2.",
+            "3.",
+            "4.",
+            "1.",
+            "2.",
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)",
+            "i)",
+            "j)",
+            "k)",
+            "l)",
+            "3.",
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)",
+            "aa)",
+            "bb)",
+            "cc)",
+            "dd)",
+            "ee)",
+            "ff)",
+            "gg)",
+            "hh)",
+            "ii)",
+            "jj)",
+            "kk)",
+            "ll)",
+            "mm)",
+            "i)",
+            "aa)",
+            "bb)",
+            "cc)",
+            "dd)",
+            "ee)",
+            "ff)",
+            "4.",
+            "a)",
+            "b)",
+            "c)",
+            "5."
+          ],
+          "full_text_agrees": true,
+          "evidence_path": "sources/review-p147c-p153c/BJNR002450869.xml",
+          "evidence_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561"
+        },
+        {
+          "parent_label": "Anhang EV",
+          "disposition": "No operative record; framework notes declare nonapplication since 2010/2013. Not reconstructed as effective law."
+        }
+      ],
+      "eingangsformel_checked": {
+        "present_in_official_xml": false,
+        "disposition": "Fresh framework and all 194 records checked: no substantive opening formula or unclassified operative text."
+      },
+      "coverage": {
+        "expected": 171,
+        "parsed": 171,
+        "all_xml_records": 194,
+        "missing": [],
+        "duplicates": [],
+        "extra": [],
+        "unclassified_operative_records": [],
+        "report": "sources/review-p147c-p153c/coverage.json"
+      },
+      "external_provisions": "sources/review-p147c-p153c/external-provisions.json",
+      "unresolved_blockers": [],
+      "repairs_needed": false,
+      "scope": "Source and parser preflight; substantive commentary review limited to assigned 20 IDs. No whole-book completion.",
+      "limitations": [
+        "Targeted enacted-amendment check; not every gazette issue audited. EU original-text endpoints returned rejected HTTP202 challenges; no EU hourly deadlines, delegated technical requirements or independently expanded EU product definition asserted. Existing §161 trigger-event issue is outside batch and preserved."
+      ]
     }
   },
   "case_law_sources": [
@@ -1180,21 +1399,45 @@
         36
       ],
       "card": "cases/bag-10azr448-15.md"
+    },
+    {
+      "court": "BGH",
+      "date": "2012-11-14",
+      "docket": "3 StR372/12",
+      "ecli": null,
+      "units": [
+        "p148"
+      ],
+      "all_paragraphs_read": "tenor/Rn1–11 and all unnumbered continuations",
+      "paragraphs_used": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "card": "cases/bgh-3str372-12.md"
     }
   ],
   "validation_result": {
-    "repo": "Komentar-DE-GEWO-1869",
-    "units": 171,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 249191,
-    "errors": [],
-    "warnings": [],
-    "ok": true
+    "state": "pending_for_current_bounded_review",
+    "prior_validation": {
+      "repo": "Komentar-DE-GEWO-1869",
+      "units": 171,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 249191,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "evidence_will_be": "sources/review-p147c-p153c/strict-validation.json"
   },
   "completeness_result": "171/171 exact XML labels and doknr; all 194 records disposed, no missing or duplicate identifiers; complete operative annex and nested list order; no Eingangsformel in official XML.",
   "independent_review": {
     "performed_for_assigned_batch": true,
-    "units_reviewed": 140,
+    "units_reviewed": 160,
     "reviewed_ids": [
       "p1",
       "p2",
@@ -1335,35 +1578,55 @@
       "p146",
       "p147",
       "p147a",
-      "p147b"
+      "p147b",
+      "p147c",
+      "p147d",
+      "p148",
+      "p148a",
+      "p148b",
+      "p148c",
+      "p149",
+      "p150",
+      "p150a",
+      "p150b",
+      "p150c",
+      "p150d",
+      "p150e",
+      "p150f",
+      "p151",
+      "p152",
+      "p153",
+      "p153a",
+      "p153b",
+      "p153c"
     ],
     "latest_batch_units_reviewed": 20,
     "latest_batch_reviewed_ids": [
-      "p110",
-      "p111",
-      "p112-bis-132a",
-      "p133",
-      "p133a-bis-133d",
-      "p133e-bis-139aa",
-      "p139b",
-      "p139c-bis-139h",
-      "p139i",
-      "p139k-und-139m",
-      "p140",
-      "p141-bis-141f",
-      "p142",
-      "p143",
-      "p144",
-      "p145",
-      "p146",
-      "p147",
-      "p147a",
-      "p147b"
+      "p147c",
+      "p147d",
+      "p148",
+      "p148a",
+      "p148b",
+      "p148c",
+      "p149",
+      "p150",
+      "p150a",
+      "p150b",
+      "p150c",
+      "p150d",
+      "p150e",
+      "p150f",
+      "p151",
+      "p152",
+      "p153",
+      "p153a",
+      "p153b",
+      "p153c"
     ],
     "whole_book_complete": false,
-    "remaining_units": 31,
-    "state": "Seven documented bounded batches; this process reviewed exactly the latest assigned 20.",
-    "prior_batch_record": "sources/review-p110-p147b/before-review-result.json"
+    "remaining_units": 11,
+    "state": "Eight documented bounded batches; this process reviewed exactly latest assigned20.",
+    "prior_batch_record": "sources/review-p147c-p153c/before-review-result.json"
   },
   "remaining_limitations": [
     "Independent substantive review covers exactly these 20 assigned units. Earlier batches are preserved, not rereviewed. No whole-book completion or external professional approval.",
@@ -1382,7 +1645,12 @@
     "HGB, BGB and OWiG provisions were checked only as needed for the assigned units. Not a complete review of external codes, implementing ordinances, Land title rules, accommodation rules or concrete administrative cases.",
     "Official dangling references in §§ 139b, 144–146 are disclosed and not silently repaired. Their application in concrete sanction proceedings requires the actual regulation, reference chain and legality/definiteness review; no free analogy or categorical finding of general impunity.",
     "Currentness review combines real current official captures, source/intake identity and targeted enacted amendment/commencement checks; not an audit of every gazette issue. Decisive date remains 2026-10-19, verification occurred 2026-10-20. Existing out-of-batch §161 trigger uncertainty remains.",
-    "Coverage, hashes, minimum lengths, prose diagnostics and technical validation do not establish legal quality or replace the unresolved substantive review of the other 31 units."
+    "Coverage, hashes, minimum lengths, prose diagnostics and technical validation do not establish legal quality or replace the unresolved substantive review of the other 31 units.",
+    "This process reviewed exactly the assigned 20 units; 151 other commentary blocks are unchanged. Prior seven batches are preserved, not rereviewed. No whole-book completion or external professional approval.",
+    "Case-law research is selective: BGH 3 StR 372/12 newly read in full, not an exhaustive survey. No sufficiently relevant additional verified decision selected for the other 19 units; this is not evidence of absence.",
+    "Cross-code review limited to 12 selected VVG/OWiG/StPO/MaBV/StGB units and relevant amendment/commencement clauses. External EU original-text requests returned rejected HTTP202 challenges. Commentary on §147d stays with the verified national reference catalogue; no independently verified EU hourly deadlines, delegated technical standards or expanded product definitions claimed.",
+    "Currentness verification uses actual fresh official consolidation, complete intake identity and targeted enacted amendment checks, not every gazette issue. Original decisive date is 2026-10-19; recheck 2026-10-20.",
+    "Existing out-of-batch §161 trigger-event uncertainty remains preserved. Technical text agreement, count and prose diagnostics do not establish legal correctness. Eleven further book units remain outside the documented cumulative substantive second pass."
   ],
   "unresolved_statutory_text_blockers": [],
   "publication": {
@@ -1407,45 +1675,30 @@
     "complete": true,
     "units_reviewed": 20,
     "reviewed_ids": [
-      "p110",
-      "p111",
-      "p112-bis-132a",
-      "p133",
-      "p133a-bis-133d",
-      "p133e-bis-139aa",
-      "p139b",
-      "p139c-bis-139h",
-      "p139i",
-      "p139k-und-139m",
-      "p140",
-      "p141-bis-141f",
-      "p142",
-      "p143",
-      "p144",
-      "p145",
-      "p146",
-      "p147",
-      "p147a",
-      "p147b"
+      "p147c",
+      "p147d",
+      "p148",
+      "p148a",
+      "p148b",
+      "p148c",
+      "p149",
+      "p150",
+      "p150a",
+      "p150b",
+      "p150c",
+      "p150d",
+      "p150e",
+      "p150f",
+      "p151",
+      "p152",
+      "p153",
+      "p153a",
+      "p153b",
+      "p153c"
     ],
     "evidence": "review-result.json",
     "whole_book_completion_claimed": false,
-    "validation": {
-      "validated_at": "2026-10-20T15:36:03.667189+00:00",
-      "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
-      "result": {
-        "repo": "Komentar-DE-GEWO-1869",
-        "units": 171,
-        "verbatim_ratio": 1.0,
-        "commentary_chars": 249191,
-        "errors": [],
-        "warnings": [],
-        "ok": true
-      },
-      "content_checkpoint": "a7943ecb18cbfd4e13b70cee989b9e6ecbd62098",
-      "work_content_checkpoint": "ef1036fe2229a00c04d699299cd09821107c1064",
-      "scope": "Strict technical validation of rebuilt book after this bounded review. Independent substantive review in this process covers exactly the 20 reviewed_ids; all 151 other commentary blocks unchanged. No whole-book substantive completion."
-    }
+    "validation_state": "pending"
   },
-  "completed_units_provenance": "171 pre-existing authored comments; this process reviewed exactly 20, corrected 8 and retained 12; all 151 other comments preserved. Prior 120 units not rereviewed; cumulative ledger 140/171."
+  "completed_units_provenance": "171 pre-existing authored units; current bounded process reviewed20, corrected15, retained5. All151 other comments unchanged. Cumulative documented review160/171; previous140 not rereviewed."
 }

@@ -23,3 +23,7 @@ Im begrenzten Review §§ 67–109 wurden außerdem BAG 10 AZR 330/16 und BVerwG
 - [BAG, 22. März 2017 – 10 AZR 448/15](bag-10azr448-15.md): § 110; Nichtigkeit ohne Karenzentschädigungszusage, getrennte Unverbindlichkeit und Grenzen salvatorischer Klauseln.
 
 Im begrenzten Review §§ 110–147b vollständig gelesen: Tenor, Rn. 1–37 und unnummerierte Fortsetzungen. Gerichtstext, amtliches XML und lokaler Korpus wurden verglichen. Die zusätzliche Schriftformfrage der salvatorischen Konstruktion blieb im Urteil offen. Aktuelle HGB-Voraussetzungen wurden gesondert geprüft; keine umfassende Rechtsprechungsübersicht oder erneute Prüfung der früheren Fallkarten behauptet.
+
+- [BGH, 14. November 2012 – 3 StR 372/12](bgh-3str372-12.md): § 148; Verbotsumfang, Dauerordnungswidrigkeit, neue Betriebe und Zahl selbständiger Taten.
+
+Im begrenzten Review §§ 147c–153c vollständig gelesen: Tenor, Rn. 1–11 und sämtliche unnummerierten Fortsetzungen. Der passende amtliche ZIP-Inhalt und der nationale Korpus stimmen überein. Nicht passende BGH-/XML-Antworten wurden verworfen; [Abrufnachweise](../sources/review-p147c-p153c/captures.json). Die Auswahl ist keine vollständige Rechtsprechungsübersicht für Sanktionen und Gewerbezentralregister. Die übrigen 19 Einheiten erhalten keine erfundenen Entscheidungsbelege.

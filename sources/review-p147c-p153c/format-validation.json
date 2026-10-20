@@ -1,0 +1,322 @@
+[
+  {
+    "path": "sources/review-p147c-p153c/index.html",
+    "http_status": 200,
+    "sha256": "692b5fe3e44ea3f7afa3014d7d0492e502f4aa9db38944f13a5c76b59b56cb7e",
+    "accepted": true,
+    "validated_format": "html",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/full.html",
+    "http_status": 200,
+    "sha256": "b8db41db679b301143c45c54a2832ff614f298c976b307ee4a337f48703085e2",
+    "accepted": true,
+    "validated_format": "html",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/gewo.zip",
+    "http_status": 200,
+    "sha256": "300e2939e5dcd9a83b047303c70dc473e59eb923995aeb50d41e35adaa947b52",
+    "accepted": true,
+    "validated_format": "zip",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/aktudienst.html",
+    "http_status": 200,
+    "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+    "accepted": true,
+    "validated_format": "html",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/vvg.zip",
+    "http_status": 200,
+    "sha256": "5bd8bb3a800de10263400d76cb2d40f8fff57e321a2d9a04b69d04503b74aac6",
+    "accepted": true,
+    "validated_format": "zip",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/owig.zip",
+    "http_status": 200,
+    "sha256": "45dcbbb7f8b562e36a94e8fbdf8a850fbd262631a04d22f9d6301d3214f1fb3d",
+    "accepted": true,
+    "validated_format": "zip",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/stpo.zip",
+    "http_status": 200,
+    "sha256": "fb59fced4b71b550a0320054e2e4f51cbf6db67df9adab7e6d3eb5f138dd0dd9",
+    "accepted": true,
+    "validated_format": "zip",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/mabv.zip",
+    "http_status": 200,
+    "sha256": "4d0df4902c2d6c145e1b8186b7f73fa86aa16dddc7b1c38de614db8561cbc912",
+    "accepted": true,
+    "validated_format": "zip",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/stgb.zip",
+    "http_status": 200,
+    "sha256": "43e12baef8aed20424b3358a88921a68fb5589079344226ea54a798395d0ec11",
+    "accepted": true,
+    "validated_format": "zip",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/amendment-33.pdf",
+    "http_status": 200,
+    "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+    "accepted": true,
+    "validated_format": "pdf",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/amendment-139.pdf",
+    "http_status": 200,
+    "sha256": "498ddd09c3dbaf9d91824601b61ab5e8a91167a5d5e58322a94f5858c4eab36b",
+    "accepted": true,
+    "validated_format": "pdf",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/amendment-183.pdf",
+    "http_status": 200,
+    "sha256": "9409bcf42628489544edadc4a6366a91806e48c33a64dfecd7943ddd0bacf721",
+    "accepted": true,
+    "validated_format": "pdf",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/amendment-215.pdf",
+    "http_status": 200,
+    "sha256": "2e01df7450d95485dab09281aa4e834031932db790c89b502130f4b7d1fc441b",
+    "accepted": true,
+    "validated_format": "pdf",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/bgh-3str372-12-rejected.html",
+    "http_status": 200,
+    "sha256": "d25e40d6ef17db8a0100dc1ac46fd439ad7fc75ebb8041291edea602cb28f596",
+    "accepted": false,
+    "validated_format": null,
+    "rejection_reason": "Expected PDF magic absent; response is an HTML/challenge or generic decision-index page."
+  },
+  {
+    "path": "sources/review-p147c-p153c/rejected-case-index.xml",
+    "http_status": 200,
+    "sha256": "5e995be511ec409ccefcf3a86d67a9819f26a4686e2daff424466883bb78ee19",
+    "accepted": false,
+    "validated_format": null,
+    "rejection_reason": "Returned general case index, not the requested judicial decision."
+  },
+  {
+    "path": "sources/review-p147c-p153c/amendment-156.pdf",
+    "http_status": 200,
+    "sha256": "88e8bedbc87566c0943433e767a1f2b42d3089adade3235e38f2acf153dc04ce",
+    "accepted": true,
+    "validated_format": "pdf",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/amendment-229.pdf",
+    "http_status": 200,
+    "sha256": "c679fb9f5de8b6e3cbfded72ba22040398d8b1557debb24cd257e6cf9e5fc816",
+    "accepted": true,
+    "validated_format": "pdf",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/amendment-95.pdf",
+    "http_status": 200,
+    "sha256": "832e1e85243651a1e84be477fa20281eb619a63b15c181054055366d9657f44f",
+    "accepted": true,
+    "validated_format": "pdf",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/amendment-199.pdf",
+    "http_status": 200,
+    "sha256": "3cc2f1b1fa0fe692aeba6444cec694f41148ef22a9b8cd81ed11ba24077e49b1",
+    "accepted": true,
+    "validated_format": "pdf",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/amendment-2025-349.pdf",
+    "http_status": 200,
+    "sha256": "15fc7aef651937a652a9649ca7fdbd69b4cfb55f36848ec31ccad836008e5bdb",
+    "accepted": true,
+    "validated_format": "pdf",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/dora.html",
+    "http_status": 202,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "accepted": false,
+    "validated_format": null,
+    "rejection_reason": "AssertionError()"
+  },
+  {
+    "path": "sources/review-p147c-p153c/idd.html",
+    "http_status": 202,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "accepted": false,
+    "validated_format": null,
+    "rejection_reason": "AssertionError()"
+  },
+  {
+    "path": "sources/review-p147c-p153c/rejected-case-index.xml",
+    "http_status": 200,
+    "sha256": "5e995be511ec409ccefcf3a86d67a9819f26a4686e2daff424466883bb78ee19",
+    "accepted": false,
+    "validated_format": null,
+    "rejection_reason": "Returned general case index, not the requested judicial decision."
+  },
+  {
+    "path": "sources/review-p147c-p153c/JURE130006318.zip",
+    "http_status": 200,
+    "sha256": "1ce7244cac3af5aad9cab568a972840553bc2f67e2c7f84ce989ad446374a654",
+    "accepted": true,
+    "validated_format": "zip with expected case XML",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/dora-pdf-rejected.html",
+    "http_status": 202,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "accepted": false,
+    "validated_format": null,
+    "rejection_reason": "Expected PDF magic absent; response is an HTML/challenge or generic decision-index page."
+  },
+  {
+    "path": "sources/review-p147c-p153c/idd-pdf-rejected.html",
+    "http_status": 202,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "accepted": false,
+    "validated_format": null,
+    "rejection_reason": "Expected PDF magic absent; response is an HTML/challenge or generic decision-index page."
+  },
+  {
+    "path": "sources/review-p147c-p153c/dora-eli.html",
+    "http_status": 202,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "accepted": false,
+    "validated_format": null,
+    "rejection_reason": "AssertionError()"
+  },
+  {
+    "path": "sources/review-p147c-p153c/idd-eli.html",
+    "http_status": 202,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "accepted": false,
+    "validated_format": null,
+    "rejection_reason": "AssertionError()"
+  },
+  {
+    "path": "sources/review-p147c-p153c/vvg-7c.html",
+    "http_status": 200,
+    "sha256": "ad6ed9dad7191c30b94a6fa29f0307646d717bfc0c31e81b4b753201564a2653",
+    "accepted": true,
+    "validated_format": "html containing the complete selected XML unit",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/vvg-59.html",
+    "http_status": 200,
+    "sha256": "e54c47925bdafd0a700df3c1341a08ecfd41e3fcdec69373a285f6e599cf714a",
+    "accepted": true,
+    "validated_format": "html containing the complete selected XML unit",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/owig-10.html",
+    "http_status": 200,
+    "sha256": "ce013250c990cbffabee86a043b180228bd1a458419ef6a2a076d7d49a64fb8a",
+    "accepted": true,
+    "validated_format": "html containing the complete selected XML unit",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/owig-17.html",
+    "http_status": 200,
+    "sha256": "e083e3dd5ef0aa80be7ce7352fc918033bafef1b80f69738045cb40020c00a4b",
+    "accepted": true,
+    "validated_format": "html containing the complete selected XML unit",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/owig-22.html",
+    "http_status": 200,
+    "sha256": "ba50c746d8ad249d02d4ded98afcc790f95dd29db513046549592d02dc236121",
+    "accepted": true,
+    "validated_format": "html containing the complete selected XML unit",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/owig-23.html",
+    "http_status": 200,
+    "sha256": "a13e33f4ce845754ca271058164b6736cfc5583b6fcb607ac09d91baf3330b8c",
+    "accepted": true,
+    "validated_format": "html containing the complete selected XML unit",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/owig-24.html",
+    "http_status": 200,
+    "sha256": "e6b36894af14edd017786a7d9efcf03f5f9c3cf91db57718355e926cf462ef35",
+    "accepted": true,
+    "validated_format": "html containing the complete selected XML unit",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/owig-30.html",
+    "http_status": 200,
+    "sha256": "b0aa74c41d0c5bcfbdf67300422199d4d9c066ce0f74f3673d315be93484b962",
+    "accepted": true,
+    "validated_format": "html containing the complete selected XML unit",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/stpo-488.html",
+    "http_status": 200,
+    "sha256": "7f5b16cb549fb050a1be63aeccd5be3290e1ca06f047db833d5bf453a627d2e1",
+    "accepted": true,
+    "validated_format": "html containing the complete selected XML unit",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/stpo-493.html",
+    "http_status": 200,
+    "sha256": "de9e2c2c846d0fd44d05687e92f0cfe179bee63381c53a65e73f03affc3f2c00",
+    "accepted": true,
+    "validated_format": "html containing the complete selected XML unit",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/mabv-16.html",
+    "http_status": 200,
+    "sha256": "32931b128305218a8c082501ed14f7514c64fc258d6f98458ec31086aa30d75d",
+    "accepted": true,
+    "validated_format": "html containing the complete selected XML unit",
+    "rejection_reason": null
+  },
+  {
+    "path": "sources/review-p147c-p153c/stgb-15.html",
+    "http_status": 200,
+    "sha256": "9ec87c2bf0f83260a9ec0bfe7e7ea08b2dff14e71780617fe9ce17067185d10a",
+    "accepted": true,
+    "validated_format": "html containing the complete selected XML unit",
+    "rejection_reason": null
+  }
+]

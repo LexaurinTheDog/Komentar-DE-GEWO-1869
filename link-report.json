@@ -1,5 +1,5 @@
 {
-  "checked_local_links": 351,
+  "checked_local_links": 381,
   "broken_local_links": [],
   "external_urls": [
     "https://github.com/LexaurinTheDog",
@@ -26,6 +26,7 @@
     "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE317652022",
     "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE627742023",
     "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=WBRE410018529",
+    "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE130006318.zip",
     "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE201600111.zip"
   ],
   "external_method": "Official statute, gazette and cited court URLs checked through real HTTP captures in sources/verification.json. Project-context GitHub profile is a context link, not a source or publication. Raw downloaded webpage navigation is outside authored-book link checking.",
