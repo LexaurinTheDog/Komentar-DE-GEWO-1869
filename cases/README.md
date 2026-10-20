@@ -19,3 +19,7 @@ Im begrenzten Review §§ 55c–66 vom 20. Oktober 2026 zusätzlich vollständig
 - [BAG, 28. Januar 2025 – 9 AZR 48/24](bag-9azr48-24.md): digitale Entgeltabrechnung, Textform und verbleibende Mitbestimmungsfrage (§ 108).
 
 Im begrenzten Review §§ 67–109 wurden außerdem BAG 10 AZR 330/16 und BVerwG 8 B 31.11 vollständig am erneut gesicherten amtlichen Text nachgeprüft. Die Auswahl bleibt selektiv; die gesetzlichen Wegfallstellen erhalten keine erfundenen Rechtsprechungsbelege.
+
+- [BAG, 22. März 2017 – 10 AZR 448/15](bag-10azr448-15.md): § 110; Nichtigkeit ohne Karenzentschädigungszusage, getrennte Unverbindlichkeit und Grenzen salvatorischer Klauseln.
+
+Im begrenzten Review §§ 110–147b vollständig gelesen: Tenor, Rn. 1–37 und unnummerierte Fortsetzungen. Gerichtstext, amtliches XML und lokaler Korpus wurden verglichen. Die zusätzliche Schriftformfrage der salvatorischen Konstruktion blieb im Urteil offen. Aktuelle HGB-Voraussetzungen wurden gesondert geprüft; keine umfassende Rechtsprechungsübersicht oder erneute Prüfung der früheren Fallkarten behauptet.

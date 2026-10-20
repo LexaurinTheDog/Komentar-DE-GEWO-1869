@@ -1,0 +1,155 @@
+[
+  {
+    "path": "sources/review-p110-p147b/index.html",
+    "http_status": 200,
+    "sha256": "692b5fe3e44ea3f7afa3014d7d0492e502f4aa9db38944f13a5c76b59b56cb7e",
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p110-p147b/gewo-full.html",
+    "http_status": 200,
+    "sha256": "b8db41db679b301143c45c54a2832ff614f298c976b307ee4a337f48703085e2",
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p110-p147b/gewo.zip",
+    "http_status": 200,
+    "sha256": "300e2939e5dcd9a83b047303c70dc473e59eb923995aeb50d41e35adaa947b52",
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p110-p147b/aktudienst.html",
+    "http_status": 200,
+    "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p110-p147b/amendment-139.pdf",
+    "http_status": 200,
+    "sha256": "498ddd09c3dbaf9d91824601b61ab5e8a91167a5d5e58322a94f5858c4eab36b",
+    "format_valid": true,
+    "pdf_magic": true,
+    "gazette_text_recognized": true,
+    "extracted_chars": 216121
+  },
+  {
+    "path": "sources/review-p110-p147b/amendment-215.pdf",
+    "http_status": 200,
+    "sha256": "2e01df7450d95485dab09281aa4e834031932db790c89b502130f4b7d1fc441b",
+    "format_valid": true,
+    "pdf_magic": true,
+    "gazette_text_recognized": true,
+    "extracted_chars": 21379
+  },
+  {
+    "path": "sources/review-p110-p147b/amendment-226.pdf",
+    "http_status": 200,
+    "sha256": "e24d08e69485cfaf53c114b62e2a6000f7236dd0fbde9e5fe2408676cfffb6df",
+    "format_valid": true,
+    "pdf_magic": true,
+    "gazette_text_recognized": true,
+    "extracted_chars": 261076
+  },
+  {
+    "path": "sources/review-p110-p147b/amendment-2025-349.pdf",
+    "http_status": 200,
+    "sha256": "15fc7aef651937a652a9649ca7fdbd69b4cfb55f36848ec31ccad836008e5bdb",
+    "format_valid": true,
+    "pdf_magic": true,
+    "gazette_text_recognized": true,
+    "extracted_chars": 56111
+  },
+  {
+    "path": "sources/review-p110-p147b/amendment-33.pdf",
+    "http_status": 200,
+    "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+    "format_valid": true,
+    "pdf_magic": true,
+    "gazette_text_recognized": true,
+    "extracted_chars": 300907
+  },
+  {
+    "path": "sources/review-p110-p147b/bag-10azr448-15.html",
+    "http_status": 200,
+    "sha256": "0da0edbf9d641605be85a237967f6e135afb9566c8a5581b66f046a5a34cb8ae",
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p110-p147b/KARE600052708.zip",
+    "http_status": 200,
+    "sha256": "46bec16e64a8bfc85c3ffc8c87dbf0616c4e0e61b9db520101f48140a6677da0",
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p110-p147b/hgb.zip",
+    "http_status": 200,
+    "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p110-p147b/bgb.zip",
+    "http_status": 200,
+    "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p110-p147b/owig_1968.zip",
+    "http_status": 200,
+    "sha256": "45dcbbb7f8b562e36a94e8fbdf8a850fbd262631a04d22f9d6301d3214f1fb3d",
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p110-p147b/hgb-74.html",
+    "http_status": 200,
+    "sha256": "9ae86866208e86167cabe67d3f36d6aca0e888c442f17017cff1e86d80fcdc90",
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p110-p147b/hgb-74a.html",
+    "http_status": 200,
+    "sha256": "710755d4458b2c20d460ea794a76b7751a1f26033beeaa6650577968a82f64ed",
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p110-p147b/hgb-75d.html",
+    "http_status": 200,
+    "sha256": "68e2c2669910c780349d42fbb1e61fbdb511f34df6de605c92eff58984260f85",
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p110-p147b/owig-17.html",
+    "http_status": 200,
+    "sha256": "e083e3dd5ef0aa80be7ce7352fc918033bafef1b80f69738045cb40020c00a4b",
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p110-p147b/owig-10.html",
+    "http_status": 200,
+    "sha256": "ce013250c990cbffabee86a043b180228bd1a458419ef6a2a076d7d49a64fb8a",
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p110-p147b/bgb-651t.html",
+    "http_status": 200,
+    "sha256": "d7e4bbdcad19680eb1c2afda595ccdae40fc33c99afba45b197f585645ccbdd4",
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p110-p147b/bgb-651u.html",
+    "http_status": 200,
+    "sha256": "9e925bfb3161ee6c852b62f77cfc13c86e2d5b6e1ef2b3ca3027600632a82a31",
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p110-p147b/bgb-651v.html",
+    "http_status": 200,
+    "sha256": "0a4271fcfcf93e9366420c61b72aa4da041ad5498d343ed893f34fbcd0f5f055",
+    "format_valid": true
+  },
+  {
+    "path": "sources/review-p110-p147b/bgb-651w.html",
+    "http_status": 200,
+    "sha256": "896e3d4edac53ebfb5453d212b414061d4ddccbea945f2cda3b19863b7b16e9f",
+    "format_valid": true
+  }
+]

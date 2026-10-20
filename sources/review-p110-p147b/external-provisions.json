@@ -1,0 +1,112 @@
+[
+  {
+    "law": "HGB",
+    "raw_xml": "sources/review-p110-p147b/BJNR002190897.xml",
+    "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "stand": [
+      "Zuletzt geändert durch Art. 4 G v. 4.2.2026 I Nr. 33",
+      "Mittelbare Änderung durch Art. 59 Nr. 1 G v. 4.2.2026 I Nr. 33 ist berücksichtigt"
+    ],
+    "selected_units": [
+      {
+        "label": "§ 74",
+        "doknr": "BJNR002190897BJNE007900300",
+        "content": "(1) Eine Vereinbarung zwischen dem Prinzipal und dem Handlungsgehilfen, die den Gehilfen für die Zeit nach Beendigung des Dienstverhältnisses in seiner gewerblichen Tätigkeit beschränkt (Wettbewerbverbot), bedarf der Schriftform und der Aushändigung einer vom Prinzipal unterzeichneten, die vereinbarten Bestimmungen enthaltenden Urkunde an den Gehilfen.(2) Das Wettbewerbverbot ist nur verbindlich, wenn sich der Prinzipal verpflichtet, für die Dauer des Verbots eine Entschädigung zu zahlen, die für jedes Jahr des Verbots mindestens die Hälfte der von dem Handlungsgehilfen zuletzt bezogenen vertragsmäßigen Leistungen erreicht.",
+        "content_sha256": "a1a8a9749a2c247afbc5214e435f81e8094d79f5317fce2e0366582f3cc1784b",
+        "same_html_and_xml": true,
+        "unit_notes": []
+      },
+      {
+        "label": "§ 74a",
+        "doknr": "BJNR002190897BJNE008001311",
+        "content": "(1) Das Wettbewerbverbot ist insoweit unverbindlich, als es nicht zum Schutze eines berechtigten geschäftlichen Interesses des Prinzipals dient. Es ist ferner unverbindlich, soweit es unter Berücksichtigung der gewährten Entschädigung nach Ort, Zeit oder Gegenstand eine unbillige Erschwerung des Fortkommens des Gehilfen enthält. Das Verbot kann nicht auf einen Zeitraum von mehr als zwei Jahren von der Beendigung des Dienstverhältnisses an erstreckt werden.(2) Das Verbot ist nichtig, wenn der Gehilfe zur Zeit des Abschlusses minderjährig ist oder wenn sich der Prinzipal die Erfüllung auf Ehrenwort oder unter ähnlichen Versicherungen versprechen läßt. Nichtig ist auch die Vereinbarung, durch die ein Dritter an Stelle des Gehilfen die Verpflichtung übernimmt, daß sich der Gehilfe nach der Beendigung des Dienstverhältnisses in seiner gewerblichen Tätigkeit beschränken werde.(3) Unberührt bleiben die Vorschriften des § 138 des Bürgerlichen Gesetzbuchs über die Nichtigkeit von Rechtsgeschäften, die gegen die guten Sitten verstoßen.",
+        "content_sha256": "b28afa4638fdf9a601bb9753431dc9f6549b51880a468c7fa68f91a14d919514",
+        "same_html_and_xml": true,
+        "unit_notes": []
+      },
+      {
+        "label": "§ 75d",
+        "doknr": "BJNR002190897BJNE008700300",
+        "content": "Auf eine Vereinbarung, durch die von den Vorschriften der §§ 74 bis 75c zum Nachteil des Handlungsgehilfen abgewichen wird, kann sich der Prinzipal nicht berufen. Das gilt auch von Vereinbarungen, die bezwecken, die gesetzlichen Vorschriften über das Mindestmaß der Entschädigung durch Verrechnungen oder auf sonstige Weise zu umgehen.",
+        "content_sha256": "e454279c821b56b85a5d5fcb2ed9851eec5a829bdbf27f06e922942cd2bfb8a4",
+        "same_html_and_xml": true,
+        "unit_notes": []
+      }
+    ],
+    "selection": "Single current official record per referenced unit, HTML/XML agreement; no historical duplicate appended."
+  },
+  {
+    "law": "OWiG",
+    "raw_xml": "sources/review-p110-p147b/BJNR004810968.xml",
+    "sha256": "565be49468363a54cdc41a5adca6ba84c7c93e1d9d41725e7629843d7ab64f3f",
+    "stand": [
+      "Neugefasst durch Bek. v. 19.2.1987 I 602;",
+      "Zuletzt geändert durch Art. 21 G v. 22.12.2025 I Nr. 349"
+    ],
+    "selected_units": [
+      {
+        "label": "§ 10",
+        "doknr": "BJNR004810968BJNE000111309",
+        "content": "Als Ordnungswidrigkeit kann nur vorsätzliches Handeln geahndet werden, außer wenn das Gesetz fahrlässiges Handeln ausdrücklich mit Geldbuße bedroht.",
+        "content_sha256": "0ab1fc5088cd57fa7fac5f5e8f42c62a346a083381e57731fdd2fc23175ef041",
+        "same_html_and_xml": true,
+        "unit_notes": []
+      },
+      {
+        "label": "§ 17",
+        "doknr": "BJNR004810968BJNE000174377",
+        "content": "(1) Die Geldbuße beträgt mindestens fünf Euro und, wenn das Gesetz nichts anderes bestimmt, höchstens eintausend Euro.(2) Droht das Gesetz für vorsätzliches und fahrlässiges Handeln Geldbuße an, ohne im Höchstmaß zu unterscheiden, so kann fahrlässiges Handeln im Höchstmaß nur mit der Hälfte des angedrohten Höchstbetrages der Geldbuße geahndet werden.(3) Grundlage für die Zumessung der Geldbuße sind die Bedeutung der Ordnungswidrigkeit und der Vorwurf, der den Täter trifft. Auch die wirtschaftlichen Verhältnisse des Täters kommen in Betracht; bei geringfügigen Ordnungswidrigkeiten bleiben sie jedoch in der Regel unberücksichtigt.(4) Die Geldbuße soll den wirtschaftlichen Vorteil, den der Täter aus der Ordnungswidrigkeit gezogen hat, übersteigen. Reicht das gesetzliche Höchstmaß hierzu nicht aus, so kann es überschritten werden.",
+        "content_sha256": "c782de655a41948051845d481a738698d69343b155ae76386c72b3685c55c872",
+        "same_html_and_xml": true,
+        "unit_notes": [
+          "(+++ § 17 Abs. 2: Zur Nichtanwendung vgl. § 332 Abs. 9 Satz 1 +++)"
+        ]
+      }
+    ],
+    "selection": "Single current official record per referenced unit, HTML/XML agreement; no historical duplicate appended."
+  },
+  {
+    "law": "BGB",
+    "raw_xml": "sources/review-p110-p147b/BJNR001950896.xml",
+    "sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+    "stand": [
+      "Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;",
+      "zuletzt geändert durch Art. 6 G v. 23.7.2026 I Nr. 226"
+    ],
+    "selected_units": [
+      {
+        "label": "§ 651t",
+        "doknr": "BJNR001950896BJNE279601360",
+        "content": "Der Reiseveranstalter darf eine Rückbeförderung des Reisenden nur vereinbaren und Zahlungen des Reisenden auf den Reisepreis vor Beendigung der Pauschalreise nur fordern oder annehmen, wenn 1.ein wirksamer Absicherungsvertrag besteht oder, in den Fällen des § 651s, der Reiseveranstalter nach § 651s Sicherheit leistet und2.dem Reisenden klar, verständlich und in hervorgehobener Weise Name und Kontaktdaten des Absicherers oder, in den Fällen des § 651s, Name und Kontaktdaten der Einrichtung, die den Insolvenzschutz bietet, sowie gegebenenfalls der Name und die Kontaktdaten der von dem betreffenden Staat benannten zuständigen Behörde zur Verfügung gestellt wurden.",
+        "content_sha256": "617a686d558b0c110a3fb550b58f9d5da1f0bc3d1e1b0568291ef6569e16d884",
+        "same_html_and_xml": true,
+        "unit_notes": []
+      },
+      {
+        "label": "§ 651u",
+        "doknr": "BJNR001950896BJNE279700123",
+        "content": "(1) Für einen Vertrag, der einen mindestens drei Monate andauernden und mit dem geregelten Besuch einer Schule verbundenen Aufenthalt des Gastschülers bei einer Gastfamilie in einem anderen Staat (Aufnahmeland) zum Gegenstand hat, gelten § 651a Absatz 1, 2 und 5, die §§ 651b, 651d Absatz 1 bis 4 und die §§ 651e bis 651t entsprechend sowie die nachfolgenden Absätze. Für einen Vertrag, der einen kürzeren Gastschulaufenthalt (Satz 1) oder einen mit der geregelten Durchführung eines Praktikums verbundenen Aufenthalt bei einer Gastfamilie im Aufnahmeland zum Gegenstand hat, gelten diese Vorschriften nur, wenn dies vereinbart ist.(2) Der Anbieter des Gastschulaufenthalts ist als Reiseveranstalter bei Mitwirkung des Gastschülers verpflichtet, 1.für eine nach den Verhältnissen des Aufnahmelands angemessene Unterkunft, Beaufsichtigung und Betreuung des Gastschülers in einer Gastfamilie zu sorgen und2.die Voraussetzungen für einen geregelten Schulbesuch des Gastschülers im Aufnahmeland zu schaffen.(3) Tritt der Reisende vor Reisebeginn vom Vertrag zurück, findet § 651h Absatz 1 Satz 3, Absatz 2 nur Anwendung, wenn der Reiseveranstalter den Reisenden auf den Aufenthalt angemessen vorbereitet und spätestens zwei Wochen vor Antritt der Reise jedenfalls über Folgendes informiert hat: 1.Name und Anschrift der für den Gastschüler nach Ankunft bestimmten Gastfamilie und2.Name und Erreichbarkeit eines Ansprechpartners im Aufnahmeland, bei dem auch Abhilfe verlangt werden kann.(4) Der Reisende kann den Vertrag bis zur Beendigung der Reise jederzeit kündigen. Kündigt der Reisende, ist der Reiseveranstalter berechtigt, den vereinbarten Reisepreis abzüglich der ersparten Aufwendungen zu verlangen. Der Reiseveranstalter ist verpflichtet, die infolge der Kündigung notwendigen Maßnahmen zu treffen, insbesondere, falls der Vertrag die Beförderung des Gastschülers umfasste, für dessen Rückbeförderung zu sorgen. Die Mehrkosten fallen dem Reisenden zur Last. Die vorstehenden Sätze gelten nicht, wenn der Reisende nach § 651l kündigen kann.",
+        "content_sha256": "09c731a205653c8f3c71cb7371e8c73ac7f3c5557146e27a05f33a7402510aee",
+        "same_html_and_xml": true,
+        "unit_notes": []
+      },
+      {
+        "label": "§ 651v",
+        "doknr": "BJNR001950896BJNE279800123",
+        "content": "(1) Ein Unternehmer, der einem Reisenden einen Pauschalreisevertrag vermittelt (Reisevermittler), ist verpflichtet, den Reisenden nach Maßgabe des Artikels 250 §§ 1 bis 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu informieren. Er erfüllt damit zugleich die Verpflichtungen des Reiseveranstalters aus § 651d Absatz 1 Satz 1. Der Reisevermittler trägt gegenüber dem Reisenden die Beweislast für die Erfüllung seiner Informationspflichten.(2) Für die Annahme von Zahlungen auf den Reisepreis durch den Reisevermittler gilt § 651t Nummer 2 entsprechend. Ein Reisevermittler gilt als vom Reiseveranstalter zur Annahme von Zahlungen auf den Reisepreis ermächtigt, wenn er dem Reisenden eine den Anforderungen des Artikels 250 § 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche entsprechende Abschrift oder Bestätigung des Vertrags zur Verfügung stellt oder sonstige dem Reiseveranstalter zuzurechnende Umstände ergeben, dass er von diesem damit betraut ist, Pauschalreiseverträge für ihn zu vermitteln. Dies gilt nicht, wenn die Annahme von Zahlungen durch den Reisevermittler in hervorgehobener Form gegenüber dem Reisenden ausgeschlossen ist.(3) Hat der Reiseveranstalter im Zeitpunkt des Vertragsschlusses seinen Sitz nicht in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, treffen den Reisevermittler die sich aus den §§ 651i bis 651t ergebenden Pflichten des Reiseveranstalters, es sei denn, der Reisevermittler weist nach, dass der Reiseveranstalter seine Pflichten nach diesen Vorschriften erfüllt.(4) Der Reisevermittler gilt als vom Reiseveranstalter bevollmächtigt, Mängelanzeigen sowie andere Erklärungen des Reisenden bezüglich der Erbringung der Reiseleistungen entgegenzunehmen. Der Reisevermittler hat den Reiseveranstalter unverzüglich von solchen Erklärungen des Reisenden in Kenntnis zu setzen.",
+        "content_sha256": "ac1c07153f9070bae7d5fc63a366b95f911e4f9b5a25cc92a381a644189a84cf",
+        "same_html_and_xml": true,
+        "unit_notes": []
+      },
+      {
+        "label": "§ 651w",
+        "doknr": "BJNR001950896BJNE279901129",
+        "content": "(1) Ein Unternehmer ist Vermittler verbundener Reiseleistungen, wenn er für den Zweck derselben Reise, die keine Pauschalreise ist, 1.dem Reisenden anlässlich eines einzigen Besuchs in seiner Vertriebsstelle oder eines einzigen Kontakts mit seiner Vertriebsstelle Verträge mit anderen Unternehmern über mindestens zwei verschiedene Arten von Reiseleistungen vermittelt und der Reisende diese Leistungen getrennt auswählt und a)getrennt bezahlt oderb)sich bezüglich jeder Leistung getrennt zur Zahlung verpflichtet oder2.dem Reisenden, mit dem er einen Vertrag über eine Reiseleistung geschlossen hat oder dem er einen solchen Vertrag vermittelt hat, in gezielter Weise mindestens einen Vertrag mit einem anderen Unternehmer über eine andere Art von Reiseleistung vermittelt und der weitere Vertrag spätestens 24 Stunden nach der Bestätigung des Vertragsschlusses über die erste Reiseleistung geschlossen wird.Eine Vermittlung in gezielter Weise im Sinne des Satzes 1 Nummer 2 liegt insbesondere dann nicht vor, wenn der Unternehmer den Reisenden lediglich mit einem anderen Unternehmer in Kontakt bringt. Im Übrigen findet auf Satz 1 § 651a Absatz 4 Satz 1 Nummer 1, Satz 2 und Absatz 5 Nummer 1 und 3 entsprechende Anwendung. § 651a Absatz 5 Nummer 2 ist unabhängig von der Höhe des Reisepreises entsprechend anzuwenden.(2) Der Vermittler verbundener Reiseleistungen ist verpflichtet, den Reisenden nach Maßgabe des Artikels 251 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu informieren.(3) Nimmt der Vermittler verbundener Reiseleistungen Zahlungen des Reisenden auf Vergütungen für Reiseleistungen entgegen, hat er sicherzustellen, dass diese dem Reisenden erstattet werden, soweit Reiseleistungen von dem Vermittler verbundener Reiseleistungen selbst zu erbringen sind oder Entgeltforderungen anderer Unternehmer im Sinne des Absatzes 1 Satz 1 noch zu erfüllen sind und im Fall der Zahlungsunfähigkeit des Vermittlers verbundener Reiseleistungen 1.Reiseleistungen ausfallen oder2.der Reisende im Hinblick auf erbrachte Reiseleistungen Zahlungsaufforderungen nicht befriedigter anderer Unternehmer im Sinne des Absatzes 1 Satz 1 nachkommt.Hat sich der Vermittler verbundener Reiseleistungen selbst zur Beförderung des Reisenden verpflichtet, hat er zudem die vereinbarte Rückbeförderung und die Beherbergung bis zum Zeitpunkt der Rückbeförderung sicherzustellen. Der Zahlungsunfähigkeit stehen die Eröffnung des Insolvenzverfahrens über das Vermögen des Vermittlers verbundener Reiseleistungen und die Abweisung eines Eröffnungsantrags mangels Masse gleich. § 651r Absatz 2 bis 4 sowie die §§ 651s und 651t sind entsprechend anzuwenden.(4) Erfüllt der Vermittler verbundener Reiseleistungen seine Pflichten aus den Absätzen 2 und 3 nicht, finden auf das Rechtsverhältnis zwischen ihm und dem Reisenden § 312 Absatz 6 Satz 2 sowie die §§ 651e, 651h bis 651q und 651v Absatz 4 entsprechende Anwendung.(5) Kommen infolge der Vermittlung nach Absatz 1 ein oder mehrere Verträge über Reiseleistungen mit dem Reisenden zustande, hat der jeweilige andere Unternehmer den Vermittler verbundener Reiseleistungen über den Umstand des Vertragsschlusses zu unterrichten. Die Pflicht nach Satz 1 besteht nicht, wenn der Vermittler verbundener Reiseleistungen den Vertrag als Vertreter des anderen Unternehmers geschlossen hat.",
+        "content_sha256": "fffe27f5d179a28733bc6c3ca01709f4e74083b3a58e88da7f7a5daed2de2f9f",
+        "same_html_and_xml": true,
+        "unit_notes": []
+      }
+    ],
+    "selection": "Single current official record per referenced unit, HTML/XML agreement; no historical duplicate appended."
+  }
+]

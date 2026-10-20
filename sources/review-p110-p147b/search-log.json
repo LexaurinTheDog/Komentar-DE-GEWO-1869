@@ -1,0 +1,75 @@
+{
+  "verified_at": "2026-10-20T15:34:32.420901+00:00",
+  "tool_policy": "Firecrawl skill consulted, CLI installed/authenticated but zero credits; direct primary HTTPS plus web search. No credentials read or service settings changed.",
+  "queries": [
+    {
+      "query": "site.bundesarbeitsgericht.de \"10 AZR 448/15\"",
+      "result": "Official final judgment identified and captured; complete 37-paragraph text read, not only search snippet."
+    },
+    {
+      "query": "site.recht.bund.de \"Gewerbeordnung\" \"Oktober 2026\"",
+      "result": "No further decisive enacted amendment established by targeted search. Does not prove absence; latest current official consolidation and enacted commencement clauses directly checked."
+    },
+    {
+      "query": "site.gesetze-im-internet.de \"§ 111\" \"Pflichtfortbildungen\"",
+      "result": "Current statutory text found and compared with captured complete GewO XML."
+    },
+    {
+      "query": "site.bundesarbeitsgericht.de \"§ 111 GewO\" Fortbildung",
+      "result": "No additional sufficiently relevant full-text authority selected for §111; no claim of absent case law."
+    },
+    {
+      "query": "site.bundesarbeitsgericht.de \"10 AZR 448/15\" \"2026\"",
+      "result": "No separately verified reversal established; commentary uses actual 2017 holding and current matching statutory requirements."
+    },
+    {
+      "query": "site.recht.bund.de \"Gewerbeordnung\" \"2026\" \"144\"",
+      "result": "Current complete GewO found; prospective amendment checked in actual BGBl.139 Art.7 Nr.12–14 and Art.16."
+    },
+    {
+      "query": "site.gesetze-im-internet.de/gewo/__147b.html",
+      "result": "Current complete GewO and BGB travel provisions captured directly. No commercial commentary used as authority."
+    },
+    {
+      "query": "site.bundesarbeitsgericht.de \"Pflichtfortbildungen\" \"111\"",
+      "result": "No additional full-text decision selected. Nonprimary results not used as legal authorities."
+    }
+  ],
+  "local_corpus_searches": [
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+      "term": "10 AZR 448/15",
+      "result": "KARE600052708 located, snapshot copied without modifying intake; 37 numbered court HTML paragraphs and 45 XML text blocks match."
+    }
+  ],
+  "no_case_selected_ids": [
+    "p111",
+    "p112-bis-132a",
+    "p133",
+    "p133a-bis-133d",
+    "p133e-bis-139aa",
+    "p139b",
+    "p139c-bis-139h",
+    "p139i",
+    "p139k-und-139m",
+    "p140",
+    "p141-bis-141f",
+    "p142",
+    "p143",
+    "p144",
+    "p145",
+    "p146",
+    "p147",
+    "p147a",
+    "p147b"
+  ],
+  "no_case_disposition": "No additional sufficiently relevant full-text-verified authority selected in this bounded review, not proof of absence of relevant decisions.",
+  "limitations": [
+    "Exactly the 20 reviewed_ids received substantive review in this process; all 151 other commentary blocks were preserved. Prior 120-unit reviews remain recorded without being repeated. No whole-book completion or external professional approval.",
+    "Selective case-law research: one new BAG judgment read in full (37 numbered paragraphs, tenor and unnumbered continuations), compared with official XML and local corpus. No additional full-text-verified case selected for the other 19 assigned units; no claim that none exists.",
+    "HGB, BGB and OWiG provisions were checked only as needed for the assigned units. Not a complete review of external codes, implementing ordinances, Land title rules, accommodation rules or concrete administrative cases.",
+    "Official dangling references in §§ 139b, 144–146 are disclosed and not silently repaired. Their application in concrete sanction proceedings requires the actual regulation, reference chain and legality/definiteness review; no free analogy or categorical finding of general impunity.",
+    "Currentness review combines real current official captures, source/intake identity and targeted enacted amendment/commencement checks; not an audit of every gazette issue. Decisive date remains 2026-10-19, verification occurred 2026-10-20. Existing out-of-batch §161 trigger uncertainty remains.",
+    "Coverage, hashes, minimum lengths, prose diagnostics and technical validation do not establish legal quality or replace the unresolved substantive review of the other 31 units."
+  ]
+}

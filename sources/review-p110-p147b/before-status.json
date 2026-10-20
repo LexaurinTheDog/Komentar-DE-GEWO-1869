@@ -1,0 +1,1157 @@
+{
+  "stage": "bounded_review_complete",
+  "country": "de",
+  "identifier": "GewO",
+  "repo": "Komentar-DE-GEWO-1869",
+  "decisive_date": "2026-10-19",
+  "updated_at": "2026-10-20T15:23:19.439872+00:00",
+  "total_units": 171,
+  "completed_units": 171,
+  "chapters": 13,
+  "commentary_chars": 239739,
+  "source_checks": {
+    "official_xml": {
+      "http_status": 200,
+      "format_verified": true,
+      "raw": "sources/BJNR002450869.xml",
+      "identification": "jurabk GewO",
+      "evidence": "sources/verification.json"
+    },
+    "official_html": {
+      "http_status": 200,
+      "independently_enumerated_units": 171
+    },
+    "commencement": {
+      "read_primary_gazettes": [
+        "2026 I Nr. 139, Art. 7 and 16",
+        "2026 I Nr. 183, Art. 5 and 7",
+        "2026 I Nr. 215, Art. 1 and 11"
+      ],
+      "future_changes_excluded": [
+        "§ 34k and § 162 (2026-11-20)",
+        "§ 14 Abs. 8 new recipients (2027-05-01)"
+      ]
+    },
+    "intake_comparison": {
+      "compared": 171,
+      "operative_changes": 0,
+      "evidence": "sources/change-map.json"
+    },
+    "preflight_20261020": {
+      "official_http_statuses": [
+        200,
+        200,
+        200,
+        200,
+        200
+      ],
+      "raw_xml_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
+      "coverage_report": "coverage-report.json",
+      "exact_official_labels_agree": true,
+      "strict_validation_ok": true
+    },
+    "bounded_review_p1_p13": {
+      "verified_at": "2026-10-20T14:20:40.552454+00:00",
+      "decisive_date": "2026-10-19",
+      "captures": "sources/review-p1-p13/captures.json",
+      "fresh_xml_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
+      "identical_to_existing": true,
+      "supplementary_vwvfg": "sources/review-p1-p13/VwVfG.xml",
+      "vwvfg_effective_selection": "§ 42a current text; Art. 1 Nr. 8 BGBl. 2026 I Nr. 199 effective only 2027-02-01 (Art. 16 Abs. 2), excluded; BGBl. 224 Art. 11 does not amend § 42a.",
+      "case_archive_xml": "sources/review-p1-p13/WBRE201500245.xml",
+      "case_archive_xml_sha256": "e72a79c7ff4598d88b191eb086db318969403749741bc6e670144073588ee01c",
+      "case_text_all_paragraphs_match": true,
+      "firecrawl_status": "Installed/authenticated but zero credits; direct primary HTTP used, no settings changes."
+    },
+    "bounded_review_p13a_p33f": {
+      "verified_at": "2026-10-20T14:34:51.277766+00:00",
+      "decisive_date": "2026-10-19",
+      "captures": "sources/review-p13a-p33f/captures.json",
+      "fresh_xml_identical": true,
+      "version_evidence": "BGBl.139 Art. 7 Nr. 3–4/Art. 16 excludes future § 13b and § 29; BGBl.215 Art. 1 Nr. 2/Art. 11 excludes future § 14 recipients.",
+      "source_preflight_complete": true
+    },
+    "bounded_review_p33g_p37": {
+      "verified_at": "2026-10-20T14:45:50.603925+00:00",
+      "decisive_date": "2026-10-19",
+      "captures": "sources/review-p33g-p37/captures.json",
+      "fresh_xml_identical": true,
+      "version_checks": [
+        {
+          "source": "sources/amendment-215.pdf",
+          "location": "Art. 1 Nr. 3; Art. 11 Abs. 1; Verkündung23.07.2026",
+          "effect": "§ 34c Abs. 2a: Maklerweiterbildung entfernt seit 24.07.2026; Verwalterpflicht erhalten."
+        },
+        {
+          "source": "sources/amendment-139.pdf",
+          "location": "Art. 7 Nr. 5–6; Art. 16 Abs. 1 und Abs. 2 Nr. 2; Verkündung18.05.2026",
+          "effect": "§ 34l seit 19.05.2026 wirksam; § 34k und Streichung allgemeiner Darlehensvermittlung aus§ 34c erst 20.11.2026, ausgeschlossen."
+        },
+        {
+          "source": "sources/preflight-20261020/amendment-33.pdf",
+          "location": "Art. 34 Nr. 1; Art. 64 Abs. 8",
+          "effect": "§ 34d Abs. 11 zusätzliche ESAP-Sätze erst 10.01.2030, ausgeschlossen."
+        }
+      ],
+      "corpus_comparison": "sources/review-p33g-p37/case-corpus-comparison.json",
+      "case_law": "Selective; two main new full texts, one later correction decision, one previously cited full text re-read.",
+      "firecrawl": "Installed/authenticated, zero credits; direct official HTTPS used."
+    },
+    "bounded_review_p38_p55b": {
+      "complete": true,
+      "decisive_date": "2026-10-19",
+      "official_url": "https://www.gesetze-im-internet.de/gewo/",
+      "verified_at": "2026-10-20T14:57:27.481658+00:00",
+      "captures": "sources/review-p38-p55b/captures.json",
+      "fresh_xml_identical_to_canonical": true,
+      "raw_xml_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
+      "version_evidence": [
+        {
+          "source": "sources/review-p38-p55b/amendment-139.pdf",
+          "location": "Art. 7 Nr. 7; Art. 16 Abs. 1 and Abs. 2 Nr. 2",
+          "effect": "§ 47 addition of § 34k effective only 2026-11-20; excluded. Only § 34l of Art. 7 effective from 2026-05-19."
+        },
+        {
+          "source": "sources/review-p38-p55b/amendment-215.pdf",
+          "location": "Art. 1 Nr. 1–3; Art. 11 Abs. 1–2",
+          "effect": "Latest GewO amendment: §§ 6a/34c effective 2026-07-24; § 14 recipient additions only 2027-05-01. No direct amendment to assigned §§ 38–55b."
+        },
+        {
+          "source": "sources/review-p38-p55b/amendment-183.pdf",
+          "location": "Art. 5; Art. 7 Abs. 2",
+          "effect": "Register changes effective 2026-06-25; no direct amendment of assigned units."
+        }
+      ],
+      "historical_versions_checked": {
+        "duplicate_official_labels": [],
+        "duplicate_doknr": [],
+        "selection": "One consolidated record per official identifier; TOC excluded as navigation. Historical transition clauses retained as enacted, not alternative versions.",
+        "intake_change_map": "sources/change-map.json",
+        "future_units_excluded": [
+          "§ 34k (2026-11-20)",
+          "§ 162 (2026-11-20)"
+        ]
+      },
+      "annexes_checked": [
+        {
+          "parent_label": "Anlage",
+          "doknr": "BJNR002450869BJNE029500123",
+          "unit_id": "anlage",
+          "included_as": "one complete operative annex, retaining nested numbering",
+          "official_sections": [
+            "I. Begriffsbestimmungen",
+            "II. Zu prüfende Kriterien"
+          ],
+          "official_list_labels": [
+            "1.",
+            "2.",
+            "3.",
+            "4.",
+            "1.",
+            "2.",
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)",
+            "i)",
+            "j)",
+            "k)",
+            "l)",
+            "3.",
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)",
+            "aa)",
+            "bb)",
+            "cc)",
+            "dd)",
+            "ee)",
+            "ff)",
+            "gg)",
+            "hh)",
+            "ii)",
+            "jj)",
+            "kk)",
+            "ll)",
+            "mm)",
+            "i)",
+            "aa)",
+            "bb)",
+            "cc)",
+            "dd)",
+            "ee)",
+            "ff)",
+            "4.",
+            "a)",
+            "b)",
+            "c)",
+            "5."
+          ],
+          "parsed_list_labels": [
+            "1.",
+            "2.",
+            "3.",
+            "4.",
+            "1.",
+            "2.",
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)",
+            "i)",
+            "j)",
+            "k)",
+            "l)",
+            "3.",
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)",
+            "aa)",
+            "bb)",
+            "cc)",
+            "dd)",
+            "ee)",
+            "ff)",
+            "gg)",
+            "hh)",
+            "ii)",
+            "jj)",
+            "kk)",
+            "ll)",
+            "mm)",
+            "i)",
+            "aa)",
+            "bb)",
+            "cc)",
+            "dd)",
+            "ee)",
+            "ff)",
+            "4.",
+            "a)",
+            "b)",
+            "c)",
+            "5."
+          ],
+          "list_order_agrees": true,
+          "full_text_agrees": true,
+          "evidence_path": "sources/BJNR002450869.xml",
+          "evidence_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561"
+        },
+        {
+          "parent_label": "Anhang EV",
+          "included_as": "not operative in the current XML",
+          "evidence_path": "sources/gewo-framework-notes.md",
+          "reason": "Framework note states measures no longer applicable from 2010/2013; no operative annex record exists. Historical wording not reconstructed."
+        }
+      ],
+      "eingangsformel_checked": {
+        "present_in_official_xml": false,
+        "disposition": "Verified absent: framework record contains editorial footnotes only; no statutory text node. No invented opening formula."
+      },
+      "coverage": {
+        "expected": 171,
+        "parsed": 171,
+        "all_xml_records": 194,
+        "missing": [],
+        "extra": [],
+        "unclassified_operative_records": [],
+        "report": "coverage-report.json"
+      },
+      "intake_change_map": "sources/change-map.json",
+      "unresolved_blockers": [],
+      "scope": "Source preflight plus exact assigned batch; no substantive rereview of the other units.",
+      "validation": {
+        "result": {
+          "repo": "Komentar-DE-GEWO-1869",
+          "units": 171,
+          "verbatim_ratio": 1.0,
+          "commentary_chars": 221631,
+          "errors": [],
+          "warnings": [],
+          "ok": true
+        },
+        "validated_at": "2026-10-20T14:59:53.437822+00:00",
+        "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+        "content_checkpoint": "137da6e2a3977e9e5091583f437541dfd756522b",
+        "work_content_checkpoint": "c83464ea43c866a4cbefb78debf6d77319f13774",
+        "scope": "Strict technical validation of rebuilt book; substantive second pass restricted to exactly 20 assigned reviewed_ids. No whole-book substantive completion."
+      }
+    },
+    "bounded_review_p55c_p66": {
+      "complete": true,
+      "decisive_date": "2026-10-19",
+      "official_url": "https://www.gesetze-im-internet.de/gewo/",
+      "verified_at": "2026-10-20T15:08:47.054597+00:00",
+      "captures": "sources/review-p55c-p66/captures.json",
+      "raw_xml": "sources/review-p55c-p66/BJNR002450869.xml",
+      "raw_xml_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
+      "fresh_xml_identical_to_canonical": true,
+      "version_evidence": [
+        {
+          "source": "sources/review-p55c-p66/BJNR002450869.xml",
+          "location": "framework standangabe, compared with current official HTML",
+          "effect": "Latest incorporated amendment Art. 1 G v. 20.7.2026 I Nr. 215; byte-identical to original canonical XML. Build/fetch date not used as commencement proof."
+        },
+        {
+          "source": "sources/review-p55c-p66/amendment-139.pdf",
+          "location": "Art. 7 Nr. 8 and 9; Art. 16 Abs. 1 and Abs. 2 Nr. 2; gazette 18.05.2026",
+          "effect": "New § 57 Abs. 2 and § 61a Abs. 2 sentence only from 2026-11-20; excluded. Earlier commencement of § 34l alone does not advance them."
+        },
+        {
+          "source": "sources/review-p55c-p66/amendment-215.pdf",
+          "location": "Art. 1 Nr. 3, Art. 11 Abs. 1; gazette 23.07.2026",
+          "effect": "§ 34c Abs. 2a administrator-only training from 2026-07-24, relevant through § 61a. Estate-agent training removed."
+        },
+        {
+          "source": "sources/review-p55c-p66/amendment-215.pdf",
+          "location": "Art. 1 Nr. 2; Art. 11 Abs. 2",
+          "effect": "Additional § 14 Abs. 8 recipients only 2027-05-01; excluded, also from § 55c corresponding application."
+        }
+      ],
+      "historical_versions_checked": {
+        "duplicate_official_labels": [],
+        "duplicate_doknr": [],
+        "selection": "One consolidated record per official identifier; TOC excluded as navigation. Historical transition clauses retained as enacted, not alternative versions.",
+        "intake_change_map": "sources/change-map.json",
+        "future_units_excluded": [
+          "§ 34k (2026-11-20)",
+          "§ 162 (2026-11-20)"
+        ]
+      },
+      "annexes_checked": [
+        {
+          "parent_label": "Anlage",
+          "doknr": "BJNR002450869BJNE029500123",
+          "unit_id": "anlage",
+          "included_as": "one complete operative annex, retaining nested numbering",
+          "official_sections": [
+            "I. Begriffsbestimmungen",
+            "II. Zu prüfende Kriterien"
+          ],
+          "official_list_labels": [
+            "1.",
+            "2.",
+            "3.",
+            "4.",
+            "1.",
+            "2.",
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)",
+            "i)",
+            "j)",
+            "k)",
+            "l)",
+            "3.",
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)",
+            "aa)",
+            "bb)",
+            "cc)",
+            "dd)",
+            "ee)",
+            "ff)",
+            "gg)",
+            "hh)",
+            "ii)",
+            "jj)",
+            "kk)",
+            "ll)",
+            "mm)",
+            "i)",
+            "aa)",
+            "bb)",
+            "cc)",
+            "dd)",
+            "ee)",
+            "ff)",
+            "4.",
+            "a)",
+            "b)",
+            "c)",
+            "5."
+          ],
+          "parsed_list_labels": [
+            "1.",
+            "2.",
+            "3.",
+            "4.",
+            "1.",
+            "2.",
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)",
+            "i)",
+            "j)",
+            "k)",
+            "l)",
+            "3.",
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)",
+            "aa)",
+            "bb)",
+            "cc)",
+            "dd)",
+            "ee)",
+            "ff)",
+            "gg)",
+            "hh)",
+            "ii)",
+            "jj)",
+            "kk)",
+            "ll)",
+            "mm)",
+            "i)",
+            "aa)",
+            "bb)",
+            "cc)",
+            "dd)",
+            "ee)",
+            "ff)",
+            "4.",
+            "a)",
+            "b)",
+            "c)",
+            "5."
+          ],
+          "list_order_agrees": true,
+          "full_text_agrees": true,
+          "evidence_path": "sources/BJNR002450869.xml",
+          "evidence_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561"
+        },
+        {
+          "parent_label": "Anhang EV",
+          "included_as": "not operative in the current XML",
+          "evidence_path": "sources/gewo-framework-notes.md",
+          "reason": "Framework note states measures no longer applicable from 2010/2013; no operative annex record exists. Historical wording not reconstructed."
+        }
+      ],
+      "eingangsformel_checked": {
+        "present_in_official_xml": false,
+        "disposition": "Verified absent: framework record contains editorial footnotes only; no statutory text node. No invented opening formula."
+      },
+      "coverage": {
+        "expected": 171,
+        "parsed": 171,
+        "all_xml_records": 194,
+        "missing": [],
+        "extra": [],
+        "duplicates": [],
+        "unclassified_operative_records": [],
+        "report": "coverage-report.json"
+      },
+      "intake_change_map": "sources/change-map.json",
+      "intake_operatively_changed_units": 0,
+      "unresolved_blockers": [],
+      "scope": "Source/parser preflight and exactly assigned commentary units; no substantive rereview of other units.",
+      "validation": {
+        "validated_at": "2026-10-20T15:10:58.956593+00:00",
+        "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+        "result": {
+          "repo": "Komentar-DE-GEWO-1869",
+          "units": 171,
+          "verbatim_ratio": 1.0,
+          "commentary_chars": 231158,
+          "errors": [],
+          "warnings": [],
+          "ok": true
+        },
+        "content_checkpoint": "3fe7d84ca5dc54a42d4ebf47b184d58a629ed726",
+        "work_content_checkpoint": "2afaafcdab0307f048c90d0e33251462fa2095ae",
+        "scope": "Strict technical validation of rebuilt book. Substantive review restricted to exactly 20 assigned IDs; 151 other commentaries preserved. No whole-book substantive completion."
+      }
+    },
+    "bounded_review_p67_p109": {
+      "complete": true,
+      "decisive_date": "2026-10-19",
+      "official_url": "https://www.gesetze-im-internet.de/gewo/",
+      "verified_at": "2026-10-20T15:12:49.285209+00:00",
+      "captures": "sources/review-p67-p109/captures.json",
+      "raw_xml": "sources/review-p67-p109/BJNR002450869.xml",
+      "raw_xml_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
+      "fresh_xml_identical_to_canonical": true,
+      "version_evidence": [
+        {
+          "source": "sources/review-p67-p109/BJNR002450869.xml",
+          "location": "framework standangabe and full official index/HTML",
+          "effect": "Latest incorporated amendment Art. 1 G v. 20.7.2026 I Nr. 215; fresh XML byte-identical to canonical authoring source. Fetch/build date is not used as commencement evidence."
+        },
+        {
+          "source": "sources/review-p67-p109/amendment-139.pdf",
+          "location": "Art. 7 Nr. 10–11; Art. 16 Abs. 1 and Abs. 2 Nr. 2; publication 18.05.2026",
+          "effect": "§ 70a Abs. 2 and § 71b Abs. 2 Satz 1 additional loan-intermediary provisions effective only 20.11.2026. Earlier commencement of § 34l does not advance them. Excluded at decisive date."
+        },
+        {
+          "source": "sources/review-p67-p109/amendment-215.pdf",
+          "location": "Art. 1 Nr. 3; Art. 11 Abs. 1; publication 23.07.2026",
+          "effect": "§ 34c Abs. 2a administrator-only training effective 24.07.2026, relevant through § 71b. Estate-agent training removed."
+        },
+        {
+          "source": "sources/review-p67-p109/amendment-2024-323.pdf",
+          "location": "Art. 36 Nr. 3; Art. 74 Abs. 1 and entire exception list Abs. 2–13; publication 29.10.2024, PDF pp. 20, 34–35",
+          "effect": "New § 109 Abs. 3 electronic certificate with consent from 01.01.2025 (first day of following quarter). Exception in Abs. 9 concerns Art. 36 Nr. 1–2, not Nr. 3. Electronic-form permission is operative on decisive date."
+        }
+      ],
+      "historical_versions_checked": {
+        "duplicate_official_labels": [],
+        "duplicate_doknr": [],
+        "selection": "One consolidated record per official identifier; TOC excluded as navigation. Historical transition clauses retained as enacted, not alternative versions.",
+        "intake_change_map": "sources/change-map.json",
+        "future_units_excluded": [
+          "§ 34k (2026-11-20)",
+          "§ 162 (2026-11-20)"
+        ]
+      },
+      "annexes_checked": [
+        {
+          "parent_label": "Anlage",
+          "doknr": "BJNR002450869BJNE029500123",
+          "unit_id": "anlage",
+          "included_as": "one complete operative annex, retaining nested numbering",
+          "official_sections": [
+            "I. Begriffsbestimmungen",
+            "II. Zu prüfende Kriterien"
+          ],
+          "official_list_labels": [
+            "1.",
+            "2.",
+            "3.",
+            "4.",
+            "1.",
+            "2.",
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)",
+            "i)",
+            "j)",
+            "k)",
+            "l)",
+            "3.",
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)",
+            "aa)",
+            "bb)",
+            "cc)",
+            "dd)",
+            "ee)",
+            "ff)",
+            "gg)",
+            "hh)",
+            "ii)",
+            "jj)",
+            "kk)",
+            "ll)",
+            "mm)",
+            "i)",
+            "aa)",
+            "bb)",
+            "cc)",
+            "dd)",
+            "ee)",
+            "ff)",
+            "4.",
+            "a)",
+            "b)",
+            "c)",
+            "5."
+          ],
+          "parsed_list_labels": [
+            "1.",
+            "2.",
+            "3.",
+            "4.",
+            "1.",
+            "2.",
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)",
+            "i)",
+            "j)",
+            "k)",
+            "l)",
+            "3.",
+            "a)",
+            "b)",
+            "c)",
+            "d)",
+            "e)",
+            "f)",
+            "g)",
+            "h)",
+            "aa)",
+            "bb)",
+            "cc)",
+            "dd)",
+            "ee)",
+            "ff)",
+            "gg)",
+            "hh)",
+            "ii)",
+            "jj)",
+            "kk)",
+            "ll)",
+            "mm)",
+            "i)",
+            "aa)",
+            "bb)",
+            "cc)",
+            "dd)",
+            "ee)",
+            "ff)",
+            "4.",
+            "a)",
+            "b)",
+            "c)",
+            "5."
+          ],
+          "list_order_agrees": true,
+          "full_text_agrees": true,
+          "evidence_path": "sources/BJNR002450869.xml",
+          "evidence_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561"
+        },
+        {
+          "parent_label": "Anhang EV",
+          "included_as": "not operative in the current XML",
+          "evidence_path": "sources/gewo-framework-notes.md",
+          "reason": "Framework note states measures no longer applicable from 2010/2013; no operative annex record exists. Historical wording not reconstructed."
+        }
+      ],
+      "eingangsformel_checked": {
+        "present_in_official_xml": false,
+        "disposition": "Verified absent: framework record contains editorial footnotes only; no statutory text node. No invented opening formula."
+      },
+      "coverage": {
+        "expected": 171,
+        "parsed": 171,
+        "all_xml_records": 194,
+        "missing": [],
+        "extra": [],
+        "duplicates": [],
+        "unclassified_operative_records": [],
+        "report": "coverage-report.json"
+      },
+      "intake_change_map": "sources/change-map.json",
+      "intake_operatively_changed_units": 0,
+      "unresolved_blockers": [],
+      "scope": "Source/parser preflight and exactly assigned commentary units. Operative annex/source inventory checked without rereviewing unassigned commentaries.",
+      "limitations": [
+        "Targeted amendment search is not an audit of every gazette issue. Existing § 161 trigger-event limitation is preserved; no whole-book legal completion."
+      ],
+      "external_provisions": [
+        {
+          "unit": "BGB § 126 Abs. 1",
+          "source": "sources/review-p67-p109/bgb-126.html",
+          "use": "signature for paper certificate"
+        },
+        {
+          "unit": "BGB § 126a Abs. 1",
+          "source": "sources/review-p67-p109/bgb-126a.html",
+          "use": "qualified electronic signature and added issuer name"
+        },
+        {
+          "unit": "BGB § 126b",
+          "source": "sources/review-p67-p109/bgb-126b.html",
+          "use": "text form, durable data carrier; separate from certificate electronic form"
+        }
+      ],
+      "validation": {
+        "validated_at": "2026-10-20T15:23:19.439872+00:00",
+        "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+        "result": {
+          "repo": "Komentar-DE-GEWO-1869",
+          "units": 171,
+          "verbatim_ratio": 1.0,
+          "commentary_chars": 239739,
+          "errors": [],
+          "warnings": [],
+          "ok": true
+        },
+        "content_checkpoint": "74e3ede2f91a5b1b3238f6e7b242675e07f0578a",
+        "work_content_checkpoint": "b3ec60cfe1ffda264476e36bb3b5d2de0cea79f8",
+        "scope": "Strict technical validation of rebuilt book. Substantive review limited to exactly the 20 reviewed_ids; all 151 other commentaries preserved. No whole-book substantive completion."
+      }
+    }
+  },
+  "case_law_sources": [
+    {
+      "court": "BVerwG",
+      "date": "2015-04-15",
+      "docket": "8 C 6.14",
+      "ecli": "ECLI:DE:BVerwG:2015:150415U8C6.14.0",
+      "units": [
+        "p12",
+        "p35"
+      ],
+      "card": "cases/bverwg-8c6-14.md"
+    },
+    {
+      "court": "BAG",
+      "date": "2017-10-18",
+      "docket": "10 AZR 330/16",
+      "ecli": "ECLI:DE:BAG:2017:181017.U.10AZR330.16.0",
+      "units": [
+        "p106"
+      ],
+      "card": "cases/bag-10azr330-16.md"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2007-03-30",
+      "docket": "6 B 14.07",
+      "ecli": "ECLI:DE:BVerwG:2007:300307B6B14.07.0",
+      "units": [
+        "p33c",
+        "p33e"
+      ],
+      "paragraphs_used": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "all_paragraphs_read": "1–12",
+      "card": "cases/bverwg-6b14-07.md"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2013-10-16",
+      "docket": "8 C 21.12",
+      "ecli": "ECLI:DE:BVerwG:2013:161013U8C21.12.0",
+      "units": [
+        "p33d"
+      ],
+      "paragraphs_used": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "all_paragraphs_read": "1–29 official; 1–28 matching local corpus",
+      "card": "cases/bverwg-8c21-12.md"
+    },
+    {
+      "court": "BGH",
+      "date": "2022-11-16",
+      "docket": "VIII ZR 436/21",
+      "ecli": "ECLI:DE:BGH:2022:161122UVIIIZR436.21.0",
+      "units": [
+        "p34"
+      ],
+      "all_paragraphs_read": "1–76",
+      "paragraphs_used": [
+        29,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "card": "cases/bgh-viiizr436-21.md",
+      "supplementary_decision": {
+        "date": "2023-07-11",
+        "docket": "VIII ZR 436/21",
+        "paragraphs_read": "1–4",
+        "effect": "Berichtigungsantrag verworfen, kein neues materielles Ergebnis"
+      }
+    },
+    {
+      "court": "BVerwG",
+      "date": "2012-02-01",
+      "docket": "8 C 24.11",
+      "ecli": "ECLI:DE:BVerwG:2012:010212U8C24.11.0",
+      "units": [
+        "p36"
+      ],
+      "all_paragraphs_read": "1–28",
+      "paragraphs_used": [
+        17,
+        21,
+        22,
+        26,
+        27,
+        28
+      ],
+      "card": "cases/bverwg-8c24-11.md"
+    },
+    {
+      "court": "BVerfG",
+      "date": "2000-09-27",
+      "docket": "1 BvR 2176/98",
+      "ecli": "ECLI:DE:BVerfG:2000:rk20000927.1bvr217698",
+      "units": [
+        "p55"
+      ],
+      "all_paragraphs_read": "1–33",
+      "paragraphs_used": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "card": "cases/bverfg-1bvr2176-98.md"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2016-01-25",
+      "docket": "8 B 12.15",
+      "ecli": "ECLI:DE:BVerwG:2016:250116B8B12.15.0",
+      "units": [
+        "p49"
+      ],
+      "all_paragraphs_read": "1–10",
+      "paragraphs_used": [
+        3,
+        6,
+        7
+      ],
+      "card": "cases/bverwg-8b12-15.md"
+    },
+    {
+      "court": "BVerwG",
+      "date": "2011-06-24",
+      "docket": "8 B 31.11",
+      "ecli": "ECLI:DE:BVerwG:2011:240611B8B31.11.0",
+      "units": [
+        "p60b",
+        "p70"
+      ],
+      "all_paragraphs_read": "1–10 and tenor",
+      "paragraphs_used": [
+        5,
+        6,
+        9
+      ],
+      "card": "cases/bverwg-8b31-11.md"
+    },
+    {
+      "court": "BAG",
+      "date": "2025-01-28",
+      "docket": "9 AZR 48/24",
+      "ecli": "ECLI:DE:BAG:2025:280125.U.9AZR48.24.0",
+      "units": [
+        "p108"
+      ],
+      "all_paragraphs_read": "1–36, tenor and unnumbered continuations",
+      "paragraphs_used": [
+        9,
+        12,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        24,
+        26,
+        27,
+        28,
+        29,
+        30,
+        36
+      ],
+      "card": "cases/bag-9azr48-24.md"
+    }
+  ],
+  "validation_result": {
+    "repo": "Komentar-DE-GEWO-1869",
+    "units": 171,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 239739,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "completeness_result": "171/171 exact XML labels and doknr; all 194 records disposed, no missing or duplicate identifiers; complete operative annex and nested list order; no Eingangsformel in official XML.",
+  "independent_review": {
+    "performed_for_assigned_batch": true,
+    "units_reviewed": 120,
+    "reviewed_ids": [
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5",
+      "p6",
+      "p6a",
+      "p6b",
+      "p6c",
+      "p7",
+      "p8",
+      "p9",
+      "p10",
+      "p11",
+      "p11a",
+      "p11b",
+      "p11c",
+      "p11d",
+      "p12",
+      "p13",
+      "p13a",
+      "p13b",
+      "p13c",
+      "p14",
+      "p15",
+      "p16-bis-28",
+      "p29",
+      "p30",
+      "p30a",
+      "p30b",
+      "p30c",
+      "p31",
+      "p32",
+      "p33",
+      "p33a",
+      "p33b",
+      "p33c",
+      "p33d",
+      "p33e",
+      "p33f",
+      "p33g",
+      "p33h",
+      "p33i",
+      "p34",
+      "p34a",
+      "p34b",
+      "p34c",
+      "p34d",
+      "p34e",
+      "p34f",
+      "p34g",
+      "p34h",
+      "p34i",
+      "p34j",
+      "p34l",
+      "p35",
+      "p35a-und-35b",
+      "p36",
+      "p36a",
+      "p37",
+      "p38",
+      "p39",
+      "p39a",
+      "p40",
+      "p41",
+      "p41a-und-41b",
+      "p42",
+      "p42a-bis-44a",
+      "p45",
+      "p46",
+      "p47",
+      "p48",
+      "p49",
+      "p50",
+      "p51",
+      "p52",
+      "p53-bis-54",
+      "p55",
+      "p55a",
+      "p55b",
+      "p55c",
+      "p55d",
+      "p55e",
+      "p55f",
+      "p56",
+      "p56a",
+      "p57",
+      "p57a-und-58",
+      "p59",
+      "p60",
+      "p60a",
+      "p60b",
+      "p60c",
+      "p60d",
+      "p61",
+      "p61a",
+      "p62-und-63",
+      "p64",
+      "p65",
+      "p66",
+      "p67",
+      "p68",
+      "p68a",
+      "p69",
+      "p69a",
+      "p69b",
+      "p70",
+      "p70a",
+      "p70b",
+      "p71",
+      "p71a",
+      "p71b",
+      "p72-bis-80",
+      "p81-bis-104n",
+      "p104o-bis-104u",
+      "p105",
+      "p106",
+      "p107",
+      "p108",
+      "p109"
+    ],
+    "latest_batch_units_reviewed": 20,
+    "latest_batch_reviewed_ids": [
+      "p67",
+      "p68",
+      "p68a",
+      "p69",
+      "p69a",
+      "p69b",
+      "p70",
+      "p70a",
+      "p70b",
+      "p71",
+      "p71a",
+      "p71b",
+      "p72-bis-80",
+      "p81-bis-104n",
+      "p104o-bis-104u",
+      "p105",
+      "p106",
+      "p107",
+      "p108",
+      "p109"
+    ],
+    "whole_book_complete": false,
+    "remaining_units": 51,
+    "state": "Six documented bounded batches; this process reviewed only the latest assigned 20.",
+    "prior_batch_record": "sources/review-p67-p109/before-review-result.json"
+  },
+  "remaining_limitations": [
+    "Independent substantive review covers exactly these 20 assigned units. Earlier batches are preserved, not rereviewed. No whole-book completion or external professional approval.",
+    "Case-law research is selective: one additional decision read in full on official court HTML and matched to official XML/local corpus. No sufficiently relevant additional full-text-verified case selected for the other assigned units; no absence claim.",
+    "No comprehensive audit of Land law, implementing regulations, EU medical-device definitions or all external banking and civil-law rules. No unverified external detail values are supplied.",
+    "Targeted actuality/commencement checks, not an audit of every gazette issue. Original decisive date remains 2026-10-19; source recheck occurred 2026-10-20.",
+    "The official dangling reference in § 60d is disclosed and cannot itself supply a missing substantive rule. Technical validation and prose diagnostics do not establish legal quality.",
+    "This review covers exactly the 20 reviewed_ids. Earlier ledger-reviewed units were not substantively reviewed again; 151 other commentaries are preserved.",
+    "Selective case-law research: one new BAG decision and two existing authorities fully read. No exhaustive case-law coverage; no additional case selected for the other 17 units.",
+    "The BAG 9 AZR 48/24 remand is not described as a final dismissal; subsequent lower-court proceedings are not separately assessed.",
+    "Land rules, EU food-law definitions, all external implementing regulations, collective agreements and concrete garnishment amounts are not comprehensively reviewed; no unsupported numerical or local-law claims added.",
+    "Targeted current-amendment search supplements current official consolidation and enacted commencement clauses, not every gazette issue. Existing whole-book § 161 trigger uncertainty remains outside this batch.",
+    "Technical coverage, hashes, minimum length and prose similarity checks do not establish legal quality or external professional approval."
+  ],
+  "unresolved_statutory_text_blockers": [],
+  "publication": {
+    "published": false,
+    "pushed": false
+  },
+  "link_validation": {
+    "ok": true,
+    "checked_local_links": 314,
+    "broken_local_links": 0
+  },
+  "audit_result": {
+    "ok": true,
+    "commentary_count": 171,
+    "text_disagreements": [],
+    "duplicate_paragraphs": 0,
+    "similar_commentary_pairs": []
+  },
+  "previous_authoring_stage": "drafted_technical_validation",
+  "active_task": {
+    "kind": "review",
+    "complete": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "p67",
+      "p68",
+      "p68a",
+      "p69",
+      "p69a",
+      "p69b",
+      "p70",
+      "p70a",
+      "p70b",
+      "p71",
+      "p71a",
+      "p71b",
+      "p72-bis-80",
+      "p81-bis-104n",
+      "p104o-bis-104u",
+      "p105",
+      "p106",
+      "p107",
+      "p108",
+      "p109"
+    ],
+    "evidence": "review-result.json",
+    "whole_book_completion_claimed": false
+  },
+  "completed_units_provenance": "171 pre-existing authored comments; this process reviewed exactly 20, changed 10, preserved 151 others. Earlier 100 reviewed units not rereviewed; cumulative 120/171."
+}

@@ -1,0 +1,240 @@
+{
+  "case": "bag-10azr448-15",
+  "all_paragraphs_read": "1–37, tenor and unnumbered contract/text continuations",
+  "official_html": "sources/review-p110-p147b/bag-10azr448-15.html",
+  "official_xml": "sources/review-p110-p147b/jb-KARE600052708.xml",
+  "official_xml_sha256": "84a1a025053e828638bf932c63960ca5fbf89ad151bc1ecef8eb886858252497",
+  "original_read_only_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kare600052708.md",
+  "snapshot_path": "sources/review-p110-p147b/rii-kare600052708.md",
+  "corpus_sha256": "839cd14df70c4d711463557450cbd408a61e25d200256580578caf8e02f50d4f",
+  "official_html_numbered_paragraphs": 37,
+  "html_paragraphs_missing_from_corpus": [],
+  "xml_text_blocks": [
+    {
+      "section": "leitsatz",
+      "text_sha256": "b50ba8a6aa47a5fbc123e536b8d7868bf2c9e08a2c549d1448c44b55ab7312a0",
+      "matches_corpus": true
+    },
+    {
+      "section": "tenor",
+      "text_sha256": "276a5989b80a253677019f7a0e6b7a710590daed124e84c5e13290a792ac3bc6",
+      "matches_corpus": true
+    },
+    {
+      "section": "tenor",
+      "text_sha256": "91625959257bf3535d64ebd9ed7f573daa4c9c3eb536d0b6b69c9850cacdd74e",
+      "matches_corpus": true
+    },
+    {
+      "section": "tenor",
+      "text_sha256": "07af8144833e241092a6be31eccb25b1b6e6c4587474a8f3c365984901165adb",
+      "matches_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "text_sha256": "8ca294e8bd7a961086eed8b8591b51cefa548928cff6bd30d1db72a6cad64e2f",
+      "matches_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "text_sha256": "87461d0241fd5c46fa405ebd203dcd91c9e06ec3d089f517adb7fe16c4b11835",
+      "matches_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "text_sha256": "74042b53a62ccfe9f830ae2cf43e54a577736e1c73a5317edb16547f23547b8e",
+      "matches_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "text_sha256": "56a1e6debf9c870bcff547bf9b87701ff379b2bf1ec674a4d0260743e63c0e02",
+      "matches_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "text_sha256": "3be9f63f27eba22a863f3f299e52735e4fce05eb6dab355040e6286adb3cf944",
+      "matches_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "text_sha256": "bbe9d290b47abe62cdfd84270d5113e7ba636e7d73a0a8aea250a6e147bea807",
+      "matches_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "text_sha256": "5a20d762d31338f100c0be541c8ef868f4de3d97bde50d928ea6a4deb5db5fbb",
+      "matches_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "text_sha256": "23e0d3232c4c1e72987640d50d8b8304a322a8143107de31818d30c9272cb886",
+      "matches_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "text_sha256": "ea85db1092c44f9acf8805b0bfd9027d8a6732329412f5c26a5fc46c59b5c5fa",
+      "matches_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "text_sha256": "065d5488b0fa506828a55436792e29e692b993d5798b74da43b54bd022a857a8",
+      "matches_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "text_sha256": "c51bbf093a4cb872ac76d3cd18df3656959e4a57144229988fcd82dbd5e41711",
+      "matches_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "text_sha256": "06e25d39cfe5aff2fc931621e6d58d05274c882d04e050fc74713454db6df1e5",
+      "matches_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "text_sha256": "7a88d46f24644aa50880f964983e144a422baa6503bc58e9dcbcef0d525630b3",
+      "matches_corpus": true
+    },
+    {
+      "section": "tatbestand",
+      "text_sha256": "fbc71b837861fe6790f7fe62952523acde5109a069b45bc5236ff6a5d491f0e3",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "9d2bec1e6552ee3ebde942201dc6db3243b1fc9795cd17dc10b06e912cf874ca",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "3169658b657b87f02ec22061f32e331813c5a8234538ca1262e1ebedbc645e2e",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "c62b288b73d9d650f4a9b3ac88f9721807a89c210d8da2fee241cfb88c439072",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "31598a18bf91d725b29fed6581847869eeba6cfb9eee61a4fbd29b20e2bd40a7",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "8e6636962caedec7316c409ff97eedf996ad6a6f2c94ddf2d2f9a77a9ef60f7f",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "03ba0cbaa9fd1f065bf07b849dd5e68d583abc31ebcdf05381655dc0505de9c7",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "fde9674e664d52673b4b6206a92ac963bd39e5cbceb347151f4b0540c27589ad",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "2eaac7d10fd15d09dddc15a9890c2e0e21dccc936009bc2b1b7bedd8bca6e2eb",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "11501efae2a7c3b60639b8cd6bc2e25e469c587ff2702442e52722919232ab4f",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "9ed4b53e9ceb17aa4a74c65c67d23562534671d7d09cf3ffd52b20133696690b",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "f5076dec963824d49304b8eefd98077c55208fcece4dd816de6cba17bd20f042",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "95a4bea42f15bf61eb6f245197e8046951f0e46e835036a1f45bcbb44e0d5bb6",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "5796ff4ed7389dc1b19b0f16dbb159eefe13e86c446f76a81b0de688833f9528",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "5668983dde205c990cb18bad8b723235f12ff5217f9ef335869422303d132b20",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "b8e9476bd75019c49ce15c4dcb25103757dae537522160795d5c41419202e6ed",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "df35f5ad5ec557bb72686ea2bfc2a0bcf295010f8d4b9c0a090a794af1759764",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "52fcf8801ee2ccb13cc9dd09af21e3e4d9982a433974bf9019a0f119301f74b7",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "a46dcf2bacd9144c2c84c7e4ff73cf5b38cd6f9959e49ffc446a1b50528da926",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "9e6184e5c340923c78497702825f87015edd9712d3fa98862a7c73fc6b4bdc55",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "1cf9a45337d044602d29f0205d5125b5b5d0fb73a00df33f36e96779227c4684",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "4907d52defd5598d8b201337d784afc73a2e3504b05c1886248877cedc42e3c5",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "540a769e73d6ac88ec174b2503c0cbf8b46f2737c6f764bdb37beb048b1f7cfe",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "1362221f6bba5e34fde33d514c6f1edebebd2ffc452f1e7f0d34aefce65b1706",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "f2fd8e4a619742eefd79791701b312f31035c73d4f02e26b29b0e8f160bb5b18",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "54d75f793a114e7adbeeb39649386f3f1e3074276e90de033a5900df684c5084",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "1b417aa138d6ccb40ea1a5f33edf06b8587d1e0e87bef3e571413fd15229d2f7",
+      "matches_corpus": true
+    },
+    {
+      "section": "entscheidungsgruende",
+      "text_sha256": "81b13f01822e40b53e3c739bc4208174c95fada6c33f38e20ae6384c1fdc00f0",
+      "matches_corpus": true
+    }
+  ],
+  "method": "All 37 numbered court HTML paragraphs and every long XML dd text including unnumbered continuations compared to preserved local corpus after typography/whitespace normalization. Court tenor/outcome and all text read manually."
+}

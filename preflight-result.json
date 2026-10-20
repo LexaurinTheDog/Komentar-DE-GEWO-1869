@@ -5,7 +5,7 @@
   "authoring_started_at": "2026-10-19",
   "preflight_date": "2026-10-20",
   "official_url": "https://www.gesetze-im-internet.de/gewo/",
-  "verified_at": "2026-10-20T15:12:49.285209+00:00",
+  "verified_at": "2026-10-20T15:29:15.492306+00:00",
   "version_evidence": [
     {
       "source": "sources/amendment-215.pdf",
@@ -41,6 +41,31 @@
       "source": "sources/amendment-139.pdf",
       "location": "Art. 7 Nr. 3 and 4; Art. 16 Abs. 1",
       "effect": "New § 13b Abs. 3 exclusions and § 29 Abs. 1 Nr. 1 addition of § 34k effective only 2026-11-20; excluded from decisive 2026-10-19 text."
+    },
+    {
+      "source": "sources/review-p110-p147b/amendment-139.pdf",
+      "location": "Art. 7 Nr. 12–14, Art. 16 Abs. 1 and Abs. 2 Nr. 2; publication 18.05.2026; PDF pp. 25–26, 37",
+      "effect": "Amendments of §§ 144, 145 Abs. 2 Nr. 9 and 146 Abs. 2 Nr. 11a take effect only 20.11.2026. Earlier commencement of § 34l does not advance these sanctions. No future § 34k offence, § 34i registration additions or § 34l reference included at decisive date."
+    },
+    {
+      "source": "sources/review-p110-p147b/amendment-215.pdf",
+      "location": "Art. 1 Nr. 1 and 3; Art. 11 Abs. 1–2; publication 23.07.2026",
+      "effect": "General § 6a permit fiction and removal of estate-agent training from § 34c effective 24.07.2026. Relevant to § 144 permission/training offences. § 14 recipient changes only 01.05.2027, excluded."
+    },
+    {
+      "source": "sources/review-p110-p147b/amendment-33.pdf",
+      "location": "Art. 3–4 and 59 Nr. 1; HGB current XML framework and selected unit comparison",
+      "effect": "Recent HGB changes concern register/accounting provisions; §§ 74, 74a, 75d unaffected. Current single records match official HTML and the requirements applied in BAG 10 AZR 448/15."
+    },
+    {
+      "source": "sources/review-p110-p147b/amendment-226.pdf",
+      "location": "Art. 6 in full, Art. 9 Abs. 1–4; publication 28.07.2026; PDF pp. 51, 58",
+      "effect": "Latest incorporated BGB change concerns §§ 555b, 559e and 559f, not §§ 651t–651w. Art. 6 effective 29.07.2026. Future BGB consumer-credit amendment in Nr. 139 also does not amend these travel units; current unique travel records compared between XML and HTML."
+    },
+    {
+      "source": "sources/review-p110-p147b/amendment-2025-349.pdf",
+      "location": "Art. 21 in full; Art. 26 Abs. 1–3; publication 22.12.2025; PDF pp. 13, 15",
+      "effect": "Latest OWiG amendment changes § 110c only and took effect 23.12.2025. §§ 10 and 17 unchanged; current XML/HTML agree. § 17 Abs. 1–4 supplies general limits, negligence reduction, assessment and benefit-disgorgement exception."
     }
   ],
   "official_captures": "sources/preflight-20261020/captures.json",
@@ -1275,5 +1300,211 @@
       "work_content_checkpoint": "b3ec60cfe1ffda264476e36bb3b5d2de0cea79f8",
       "scope": "Strict technical validation of rebuilt book. Substantive review limited to exactly the 20 reviewed_ids; all 151 other commentaries preserved. No whole-book substantive completion."
     }
+  },
+  "bounded_review_p110_p147b_source_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/gewo/",
+    "verified_at": "2026-10-20T15:29:15.492306+00:00",
+    "captures": "sources/review-p110-p147b/captures.json",
+    "format_checks": "sources/review-p110-p147b/format-validation.json",
+    "raw_xml": "sources/review-p110-p147b/BJNR002450869.xml",
+    "raw_xml_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561",
+    "fresh_xml_identical_to_canonical": true,
+    "version_evidence": [
+      {
+        "source": "sources/review-p110-p147b/BJNR002450869.xml",
+        "location": "framework standangabe; complete index/HTML/XML comparison",
+        "effect": "Latest incorporated amendment Art. 1 G v. 20.7.2026 I Nr. 215. New XML identical to the canonical authoring source. Original decisive date remains 2026-10-19; a fetch/build timestamp is not used as commencement proof."
+      },
+      {
+        "source": "sources/review-p110-p147b/amendment-139.pdf",
+        "location": "Art. 7 Nr. 12–14, Art. 16 Abs. 1 and Abs. 2 Nr. 2; publication 18.05.2026; PDF pp. 25–26, 37",
+        "effect": "Amendments of §§ 144, 145 Abs. 2 Nr. 9 and 146 Abs. 2 Nr. 11a take effect only 20.11.2026. Earlier commencement of § 34l does not advance these sanctions. No future § 34k offence, § 34i registration additions or § 34l reference included at decisive date."
+      },
+      {
+        "source": "sources/review-p110-p147b/amendment-215.pdf",
+        "location": "Art. 1 Nr. 1 and 3; Art. 11 Abs. 1–2; publication 23.07.2026",
+        "effect": "General § 6a permit fiction and removal of estate-agent training from § 34c effective 24.07.2026. Relevant to § 144 permission/training offences. § 14 recipient changes only 01.05.2027, excluded."
+      },
+      {
+        "source": "sources/review-p110-p147b/amendment-33.pdf",
+        "location": "Art. 3–4 and 59 Nr. 1; HGB current XML framework and selected unit comparison",
+        "effect": "Recent HGB changes concern register/accounting provisions; §§ 74, 74a, 75d unaffected. Current single records match official HTML and the requirements applied in BAG 10 AZR 448/15."
+      },
+      {
+        "source": "sources/review-p110-p147b/amendment-226.pdf",
+        "location": "Art. 6 in full, Art. 9 Abs. 1–4; publication 28.07.2026; PDF pp. 51, 58",
+        "effect": "Latest incorporated BGB change concerns §§ 555b, 559e and 559f, not §§ 651t–651w. Art. 6 effective 29.07.2026. Future BGB consumer-credit amendment in Nr. 139 also does not amend these travel units; current unique travel records compared between XML and HTML."
+      },
+      {
+        "source": "sources/review-p110-p147b/amendment-2025-349.pdf",
+        "location": "Art. 21 in full; Art. 26 Abs. 1–3; publication 22.12.2025; PDF pp. 13, 15",
+        "effect": "Latest OWiG amendment changes § 110c only and took effect 23.12.2025. §§ 10 and 17 unchanged; current XML/HTML agree. § 17 Abs. 1–4 supplies general limits, negligence reduction, assessment and benefit-disgorgement exception."
+      }
+    ],
+    "historical_versions_checked": {
+      "duplicate_official_labels": [],
+      "duplicate_doknr": [],
+      "selection": "One consolidated record per official identifier; TOC excluded as navigation. Historical transition clauses retained as enacted, not alternative versions.",
+      "intake_change_map": "sources/change-map.json",
+      "future_units_excluded": [
+        "§ 34k (2026-11-20)",
+        "§ 162 (2026-11-20)"
+      ]
+    },
+    "annexes_checked": [
+      {
+        "parent_label": "Anlage",
+        "doknr": "BJNR002450869BJNE029500123",
+        "unit_id": "anlage",
+        "included_as": "one complete operative annex, retaining nested numbering",
+        "official_sections": [
+          "I. Begriffsbestimmungen",
+          "II. Zu prüfende Kriterien"
+        ],
+        "official_list_labels": [
+          "1.",
+          "2.",
+          "3.",
+          "4.",
+          "1.",
+          "2.",
+          "a)",
+          "b)",
+          "c)",
+          "d)",
+          "e)",
+          "f)",
+          "g)",
+          "h)",
+          "i)",
+          "j)",
+          "k)",
+          "l)",
+          "3.",
+          "a)",
+          "b)",
+          "c)",
+          "d)",
+          "e)",
+          "f)",
+          "g)",
+          "h)",
+          "aa)",
+          "bb)",
+          "cc)",
+          "dd)",
+          "ee)",
+          "ff)",
+          "gg)",
+          "hh)",
+          "ii)",
+          "jj)",
+          "kk)",
+          "ll)",
+          "mm)",
+          "i)",
+          "aa)",
+          "bb)",
+          "cc)",
+          "dd)",
+          "ee)",
+          "ff)",
+          "4.",
+          "a)",
+          "b)",
+          "c)",
+          "5."
+        ],
+        "parsed_list_labels": [
+          "1.",
+          "2.",
+          "3.",
+          "4.",
+          "1.",
+          "2.",
+          "a)",
+          "b)",
+          "c)",
+          "d)",
+          "e)",
+          "f)",
+          "g)",
+          "h)",
+          "i)",
+          "j)",
+          "k)",
+          "l)",
+          "3.",
+          "a)",
+          "b)",
+          "c)",
+          "d)",
+          "e)",
+          "f)",
+          "g)",
+          "h)",
+          "aa)",
+          "bb)",
+          "cc)",
+          "dd)",
+          "ee)",
+          "ff)",
+          "gg)",
+          "hh)",
+          "ii)",
+          "jj)",
+          "kk)",
+          "ll)",
+          "mm)",
+          "i)",
+          "aa)",
+          "bb)",
+          "cc)",
+          "dd)",
+          "ee)",
+          "ff)",
+          "4.",
+          "a)",
+          "b)",
+          "c)",
+          "5."
+        ],
+        "list_order_agrees": true,
+        "full_text_agrees": true,
+        "evidence_path": "sources/BJNR002450869.xml",
+        "evidence_sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561"
+      },
+      {
+        "parent_label": "Anhang EV",
+        "included_as": "not operative in the current XML",
+        "evidence_path": "sources/gewo-framework-notes.md",
+        "reason": "Framework note states measures no longer applicable from 2010/2013; no operative annex record exists. Historical wording not reconstructed."
+      }
+    ],
+    "eingangsformel_checked": {
+      "present_in_official_xml": false,
+      "disposition": "Verified absent: framework record contains editorial footnotes only; no statutory text node. No invented opening formula."
+    },
+    "coverage": {
+      "expected": 171,
+      "parsed": 171,
+      "all_xml_records": 194,
+      "missing": [],
+      "extra": [],
+      "duplicates": [],
+      "unclassified_operative_records": [],
+      "report": "coverage-report.json"
+    },
+    "intake_change_map": "sources/change-map.json",
+    "intake_operatively_changed_units": 0,
+    "external_provisions": "sources/review-p110-p147b/external-provisions.json",
+    "unresolved_blockers": [],
+    "repairs_needed": false,
+    "scope": "Source/parser preflight and exactly 20 assigned commentary units. Full XML inventory/annex checked without substantive rereview of unassigned commentaries.",
+    "limitations": [
+      "Targeted amendment/actuality search, not an audit of every gazette issue. Existing § 161 trigger-event limitation is outside this batch and remains preserved. No whole-book completion."
+    ]
   }
 }
