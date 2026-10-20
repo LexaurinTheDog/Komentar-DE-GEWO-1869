@@ -1,0 +1,211 @@
+{
+  "kind": "review",
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "verified_at": "2026-10-20T15:47:25.220056+00:00",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p147c",
+    "p147d",
+    "p148",
+    "p148a",
+    "p148b",
+    "p148c",
+    "p149",
+    "p150",
+    "p150a",
+    "p150b",
+    "p150c",
+    "p150d",
+    "p150e",
+    "p150f",
+    "p151",
+    "p152",
+    "p153",
+    "p153a",
+    "p153b",
+    "p153c"
+  ],
+  "changed_ids": [
+    "p147c",
+    "p147d",
+    "p148",
+    "p148a",
+    "p148c",
+    "p149",
+    "p150",
+    "p150a",
+    "p150c",
+    "p150d",
+    "p150f",
+    "p151",
+    "p152",
+    "p153",
+    "p153b"
+  ],
+  "retained_ids": [
+    "p148b",
+    "p150b",
+    "p150e",
+    "p153a",
+    "p153c"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p147c",
+      "disposition": "corrected",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Beide Absätze und beide Nummern vollständig geprüft; über §59 Abs.1 Satz2/§7c Abs.1 Sätze1–2 VVG genaue Informationsgruppen und Eignungsprüfung gelesen. Vorsatzpflicht nach §10 OWiG, 500.000-Euro-Rahmen und nur unter §30 Abs.1 OWiG mögliche Verzehnfachung für Verbandsgeldbußen auf 5 Mio. ergänzt. Keine Übertragung auf alle Berichts-/Angemessenheitspflichten. Erst 2027 wirksame VVG-Erweiterung ausdrücklich ausgeschlossen; fiktives Beispiel unterscheidet Datenfehler von ungeeigneter Empfehlung."
+    },
+    {
+      "id": "p147d",
+      "disposition": "corrected",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Absatz1 Nr.1–5 und Absatz2 vollständig gelesen: vollziehbare Kataloganordnungen von unmittelbaren Melde-/Berichts-/Unterrichtungs-/Mitteilungspflichten getrennt. Größenbezug und besondere BaFin-Zuständigkeit anhand §34d Abs.13 kontrolliert. Bei Fahrlässigkeit halbes Höchstmaß 250.000 Euro nach §17 Abs.2 OWiG ergänzt; keine Übernahme der §147c-Verzehnfachung. Keine pauschale Sanktion jedes IT-Fehlers und keine ungeprüfte europäische Frist behauptet. EU-Originalendpunkte waren nicht als Volltext abrufbar; nationale Verweisungskataloge geprüft, technische EU-Auslegung bleibt als Grenze offengelegt."
+    },
+    {
+      "id": "p148",
+      "disposition": "corrected",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Unterschiedliche Verweisungslisten beider Nummern vollständig abgeglichen; Beharrlichkeit von konkreter Gefährdung und Vorsatzmodell getrennt. BGH 3StR372/12 vollständig Tenor/Rn.1–11 samt Fortsetzungen gelesen, amtliche XML und Korpus stimmen überein. Umfang des Verbots, Vertreterrolle, Dauerordnungswidrigkeit und Zahl selbständiger Betriebe im Kommentar ergänzt. Keine automatische Gleichsetzung zehn Geschäfte/zehn Straftaten; besondere Vorverurteilung im Fall nicht zur allgemeinen Tatbestandsvoraussetzung gemacht."
+    },
+    {
+      "id": "p148a",
+      "disposition": "corrected",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Beide Absätze und aktueller §16 MaBV vollständig gelesen. Regelprüfung nach Abs.1/außerordentliche Anlassprüfung nach Abs.2 sowie Prüfungsrolle präzisiert. Vorsatz nach §15 StGB und Beziehung des Entgelts zur Pflichtverletzung erläutert; normales Prüfungshonorar nicht automatisch qualifizierend. Strafrahmen und besondere Bereicherungs-/Schädigungsabsicht stimmen. Spätere MaBV-Verweisänderung in Abs.3 ist bereits wirksam, verändert die beiden geprüften Prüfungsanlässe nicht."
+    },
+    {
+      "id": "p148b",
+      "disposition": "reviewed_and_retained",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Vollständigen unnummerierten Tatbestand gegen Kommentar geprüft: gewerbsmäßiger Handel bzw. ausdrücklich bezeichnete Verarbeitungs-/Rückgewinnungstätigkeiten, Gegenstandskatalog, Betriebsbezug, Ankauf/Verschaffen/Absatz/Absatzhilfe und Bereicherungszweck vorhanden. Fahrlässigkeit bezieht sich auf das Nichterkennen fremder deliktischer Herkunft. Abgrenzung zum Minderjährigenankauf und fiktives Schmuckbeispiel zutreffend. Unverändert erhalten; keine ungeprüfte Rechtsprechung behauptet."
+    },
+    {
+      "id": "p148c",
+      "disposition": "corrected",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Gesamten Sanktionskatalog, beide Gegenstandsarten und Kann-Rechtsfolge geprüft. Konkrete Nummern, allgemeine Voraussetzungen und Verhältnismäßigkeit anhand §§22–24 OWiG ergänzt. Drittgegenstandseinziehung nach §23 konkretisiert, ohne allgemeine Sicherungseinziehung nach §22 Abs.2 Nr.2 auszuschließen. Vermietereigentum allein weder Freigabe noch absoluter Schutz. Thematische Checkliste erhalten."
+    },
+    {
+      "id": "p149",
+      "disposition": "corrected",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Alle vier Absätze und Untergliederungen vollständig gelesen. Nr.1a–e sowie Verzichtsbezug, Rechtskraft/Vollziehbarkeit, strikte >200-Euro-Grenze und begrenzten Strafkatalog mit >3 Monaten/>90 Tagessätzen präzisiert. Fahreignungsregisterausnahme erhalten. Berichtigung, zeitlich begrenzte Unterrichtung und Sperrverarbeitung/Auskunft voneinander getrennt; Fünfjahresfrist beendet nicht Richtigkeitsgebot. Beispiel liefert keine automatische Zuverlässigkeitsprognose."
+    },
+    {
+      "id": "p150",
+      "disposition": "corrected",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Alle fünf Absätze gelesen: Datenschutzauszug/gewöhnliche Auskunft, Inlands-/Auslandsantrag, beglaubigte Unterschrift und Registervollmacht getrennt. 3/8-Gebührenanteil und gesetzliche Vertretung ausdrücklich erläutert, keine aktuelle Gebührenhöhe erfunden. Behördenvorlage und neuer BaFin-Zweck anhand Nr.33 Art.34 Nr.2/Art.64 Abs.1 mit Wirkung 10.02.2026 ergänzt. Nicht mit 2030 verschobener ESAP-Nummer verwechselt."
+    },
+    {
+      "id": "p150a",
+      "disposition": "corrected",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Alle sechs Absätze mit vollständigen Listen und Wegfall Nr.4 gelesen. Aufgabenbezogene Auskunft und Eintragungskategorien je Empfänger präzisiert; Steuerordnungswidrigkeiten-Sondergrenze nicht durch Empfängereigenschaft aufgehoben. Auffällige Verweisung auf §148 Nr.1 als Ordnungswidrigkeit nicht in ein neues Tatbestandsmodell umgeschrieben. Interne Kenntnisnahme und Verbot der Umgehung durch Selbstauskunft getrennt. Überschrift seit 25.06.2026 anhand Art.5/7 Nr.183 verifiziert."
+    },
+    {
+      "id": "p150b",
+      "disposition": "reviewed_and_retained",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Absätze1–9 vollständig gegen Kommentar geprüft. Institutioneller Adressatenkreis, konkrete Forschung/Erforderlichkeit, erhebliches Interessenüberwiegen, Anonymisierungsvorrang, Verpflichtung, Drittweitergabe mit Zustimmung, Zugangsschutz und räumlich-organisatorische Trennung erfasst. Getrennte Merkmale bis Anonymisierung, enge zeitgeschichtliche Veröffentlichungsgrenze und nichtautomatisierte Verarbeitung privater Empfänger zutreffend. Hochschulbeispiel ist fiktiv. Unverändert erhalten."
+    },
+    {
+      "id": "p150c",
+      "disposition": "corrected",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Alle vier Absätze gelesen. Vertrag/parlamentarische Mitwirkung/Ministeriumszustimmung von eigenständiger EU-Bewilligung getrennt. Vergleich mit deutschen Stellen, Zweckhinweis und Grundrechtevorbehalt konkretisiert. Abs.3 nur bei gebotener Unionsrechtsauskunft zu nichtstrafrechtlichen Zwecken und besonderem fachlichem Bewertungsbedarf; Verantwortung bleibt bei übermittelnder Stelle. Keine eigenständige Auslegung eines nicht bezeichneten Vertrags oder EU-Rechtsakts behauptet."
+    },
+    {
+      "id": "p150d",
+      "disposition": "corrected",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Alle drei Absätze und sechs Protokolldatenkategorien gelesen. Ausnahme der Selbstauskunft betrifft nur Nr.6, nicht Protokollierung insgesamt. Schutz gegen Missbrauch und beschränkte Weiteraufbewahrung nach Jahresfrist ergänzt. Einvernehmen mit Empfänger ersetzt keine BDSG-Beschränkungsgrundlage; §150 Abs.2–4-Verfahren erläutert. Keine konkreten ungeprüften BDSG-Ausnahmetatbestände behauptet."
+    },
+    {
+      "id": "p150e",
+      "disposition": "reviewed_and_retained",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Alle vier Absätze samt Datennummern und amtlicher Fußnote gelesen. Internet-/Nutzerkonto, Ausschluss Bevollmächtigter bei zulässiger gesetzlicher Vertretung, hohes notifiziertes Identitätsniveau, Geburtsnamensersatz, technische Sicherheit, gleichzeitige Nachweise, Eidesversicherung und Originalverlangen korrekt. Fußnote zur nicht ausführbaren historischen Änderung nicht als zusätzliche heutige Pflicht eingelesen. Unverändert erhalten."
+    },
+    {
+      "id": "p150f",
+      "disposition": "corrected",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Beide Sätze und vollständige verwiesene §§493/488 StPO gelesen. Mengen-/Eilalternative, Interessenabwägung und Sicherheit erläutert. Schriftliche Einrichtungsfestlegungen/BfDI-Übersendung, Empfängerverantwortung und anlassbezogene Prüfung ergänzt. Nur ausdrücklich übernommene Sätze1–2 des §493 Abs.3, keine pauschale Übernahme dortiger Sechsmonatsprotokollfrist; §150d bleibt maßgeblich. Kein neuer materieller Auskunftszweck."
+    },
+    {
+      "id": "p151",
+      "disposition": "corrected",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Alle fünf Absätze gelesen. Zusatzeintragung nur bei persönlich unzuverlässigen/ungeeigneten Vertretern/Leitern in bezeichneten Fällen; Vermeidung doppelter personenbezogener Erfassung bei eigener Untersagung erläutert. Einzelbußen statt Gesamtsumme und Nachtrag Unanfechtbarkeit präzisiert. Entfernung nach Abs.5 Satz2 betrifft ausdrücklich Wiederaufnahmebeschlussvermerk nach Abs.4, nicht pauschal alle alten Inhalte. Neues 150-/250-Euro-Beispiel prüft Schwellen getrennt."
+    },
+    {
+      "id": "p152",
+      "disposition": "corrected",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Absätze1–7 vollständig gelesen. Aufhebung/Gegenstandslosigkeit, Befristung und behördlicher/gerichtlicher Vollziehbarkeitswegfall getrennt. Über80-Regel und Aufhebung Bußgeldbescheid im Strafverfahren erhalten. Todesfrist ab Eingang amtlicher Mitteilung, Auskunftsverbot schon während Jahreslauf und auf Nr.1/2-Einträge juristischer Personen begrenzte Zwanzigjahresregel präzisiert. Keine Verwechslung mit §153-Sanktionstilgung."
+    },
+    {
+      "id": "p153",
+      "disposition": "corrected",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Alle sieben Absätze gelesen. Bußgeld 3/5 Jahre und Strafurteil 5 Jahre samt Zentralregistertilgung ausdrücklich ergänzt; Verwaltungsuntersagung erhält dadurch keinen pauschalen Fristablauf. Rechtskraft/erstes Urteil, Wiederaufnahme, mehrere Einträge und Überliegejahr getrennt. Verwertungsverbot ab Tilgungsreife, unterschiedlich gefasste Zulassungs-/Wiedergestattungsausnahmen und nur entsprechender BZRG-Verweis präzisiert. <=200-Euro-Fälle nach drei Jahren gesondert. Kein ungeprüfter Fristendtag behauptet."
+    },
+    {
+      "id": "p153a",
+      "disposition": "reviewed_and_retained",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Beide Absätze vollständig gelesen. Mitteilungspflicht von Behörden/Gerichten und begrenzte Öffnung des Steuergeheimnisses nur für bezeichnete Entscheidungen korrekt. Geänderte Geburts-/Familien-/Vornamen und Geburtsdatum als Vermerk statt neuer Sanktionsvorgang behandelt; Identitätsklärung und Berichtigung zutreffend verknüpft. Unverändert erhalten."
+    },
+    {
+      "id": "p153b",
+      "disposition": "corrected",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Gesamten unnummerierten Text mit drei Auskunftsgruppen gelesen. Zweifel, Aufgabenbezug, Erforderlichkeit und nichtabschließende Liste präzisiert. Datenübermittlung zur Anfrage von eigener Registerdatenhaltung der ersuchten Stelle unterschieden: besondere unverzügliche Löschpflicht betrifft die vom BfJ übermittelten Anfragedaten, nicht sämtliche eigenen Ausgangsregisterdaten. Beispiel hält Ermittlungsumfang beim Identifizierungszweck."
+    },
+    {
+      "id": "p153c",
+      "disposition": "reviewed_and_retained",
+      "source": "sources/review-p147c-p153c/BJNR002450869.xml",
+      "finding": "Beide Sätze gegen amtliche XML und Art.5 Nr.4/Art.7 Abs.2 Nr.183 geprüft. Aufbau durch BMJV im Einvernehmen mit BMWE, Erfassung/Aufbereitung/Auskunft dagegen Bundesregierung mit Bundesratszustimmung korrekt. Ministeriumsbezeichnung verkündet und seit25.06.2026 wirksam, nicht allein von Website abgeleitet. Beispiel trennt Regelungsgegenstände, Checkliste erhalten. Unverändert erhalten."
+    }
+  ],
+  "limitations": [
+    "This process reviewed exactly the assigned 20 units; 151 other commentary blocks are unchanged. Prior seven batches are preserved, not rereviewed. No whole-book completion or external professional approval.",
+    "Case-law research is selective: BGH 3 StR 372/12 newly read in full, not an exhaustive survey. No sufficiently relevant additional verified decision selected for the other 19 units; this is not evidence of absence.",
+    "Cross-code review limited to 12 selected VVG/OWiG/StPO/MaBV/StGB units and relevant amendment/commencement clauses. External EU original-text requests returned rejected HTTP202 challenges. Commentary on §147d stays with the verified national reference catalogue; no independently verified EU hourly deadlines, delegated technical standards or expanded product definitions claimed.",
+    "Currentness verification uses actual fresh official consolidation, complete intake identity and targeted enacted amendment checks, not every gazette issue. Original decisive date is 2026-10-19; recheck 2026-10-20.",
+    "Existing out-of-batch §161 trigger-event uncertainty remains preserved. Technical text agreement, count and prose diagnostics do not establish legal correctness. Eleven further book units remain outside the documented cumulative substantive second pass."
+  ],
+  "prior_batch_record": "sources/review-p147c-p153c/before-review-result.json",
+  "unassigned_commentaries_preserved": 151,
+  "whole_book_completion_claimed": false,
+  "evidence": {
+    "preflight": "sources/review-p147c-p153c/preflight.json",
+    "captures": "sources/review-p147c-p153c/captures.json",
+    "external_provisions": "sources/review-p147c-p153c/external-provisions.json",
+    "batch_checks": "sources/review-p147c-p153c/batch-checks.json",
+    "changes": "sources/review-p147c-p153c/commentary-changes.diff",
+    "case_comparison": "sources/review-p147c-p153c/case-corpus-comparison.json",
+    "search_log": "sources/review-p147c-p153c/search-log.json"
+  },
+  "validation": {
+    "validated_at": "2026-10-20T15:50:55.149303+00:00",
+    "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GEWO-1869",
+    "result": {
+      "repo": "Komentar-DE-GEWO-1869",
+      "units": 171,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 265281,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "content_checkpoint": "661f970e7166113499913da3e9bd291c0a79dae6",
+    "work_content_checkpoint": "22bbd60dfc45606c3c74fa78c62225361ac5c2e8",
+    "scope": "Strict technical validation of the rebuilt book. This process independently reviewed exactly20 assigned IDs, not all171. All151 other comments preserved. No whole-book substantive completion."
+  }
+}

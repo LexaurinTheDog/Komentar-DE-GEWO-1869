@@ -1,0 +1,15 @@
+# VG München, 5. Mai 2022 – M 16 K 21.4969
+
+Urteil; Verwendung bei § 160 GewO. Geprüft am 20. Oktober 2026, Rechtsstichtag des Kommentars: 19. Oktober 2026. Ein ECLI ist auf der gelesenen amtlichen Seite nicht ausgewiesen und wird nicht ergänzt.
+
+[Amtlicher Volltext im bayerischen Bürgerservice](https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2022-N-39302), [Originalantwort](../sources/review-p154-anlage/vg-muenchen.html), [ausgeschiedener Gerichtstext ohne redaktionelle Leitsätze](../sources/review-p154-anlage/vg-muenchen.txt), [Absatz- und Hashnachweis](../sources/review-p154-anlage/case-evidence.json). Vollständig gelesen wurden Tenor I–III, Tatbestand Rn. 1–13 und Entscheidungsgründe Rn. 14–32. Die Suche im lokalen nationalen RII-Korpus ergab keinen passenden Datensatz; es wird kein Korpusabgleich behauptet.
+
+Ein Inhaber älterer Vermittlererlaubnisse beantragte erst im November 2019 eine Erlaubnis zur Immobiliardarlehensvermittlung. Er berief sich auf langjährige Tätigkeit und hielt die Prüfungsbefreiung des § 160 Abs. 3 für zeitlich unbeschränkt. Diese Sicht ist sein Vortrag, insbesondere Rn. 8, nicht der gerichtliche Rechtsstandpunkt. Die Verpflichtungsklage wurde abgewiesen.
+
+Das Gericht behandelt die Ausnahme in Rn. 18–22 als Teil der bis zum 21. März 2017 befristeten Umstellung. Ein späterer Antrag eröffnet nach seiner Auslegung weder das erleichterte Verfahren des Absatzes 2 noch die Sachkundeausnahme des Absatzes 3. Es stützt dies auf den Übergangszusammenhang und die bei Einführung der Regelung verfolgte Verbraucherschutzfunktion. Der Wortlaut des Absatzes 3 nennt selbst kein Enddatum; diese zeitliche Auslegung wird deshalb als gerichtliche Auslegung ausgewiesen.
+
+Davon getrennt trägt Rn. 23–25: Selbst bei Betrachtung der behaupteten Berufserfahrung war die ununterbrochene Tätigkeit bis zum Antragszeitpunkt nicht lückenlos nachgewiesen. Maßgeblich ist nach Rn. 24 das konkrete Erlaubnisverfahren; ein unabhängig davon erteilbarer Vorratsnachweis wird verneint. Die verschiedenen Gründe werden im Kommentar nicht zu einer bloßen Behauptung fehlender Berufserfahrung zusammengezogen.
+
+Die Reichweite bleibt begrenzt: Das ist eine erstinstanzliche Entscheidung; Rechtskraft oder ein späterer Rechtsmittelabschluss wurden nicht verifiziert. Es wird weder eine höchstrichterliche Klärung noch ein Beweis fehlender abweichender Rechtsprechung behauptet. Der aktuelle § 160 wurde mit dem amtlichen XML-Text abgeglichen und ist insoweit unverändert. Die für November 2026 vorgesehene weitere Darlehensvermittlerumstellung ist kein Grund, das historische §-160-Verfahren wiederzueröffnen. Detailaussagen des Urteils zu EU-Richtlinie oder ImmVermV werden nicht als selbständig aktualisierte Kommentierung dieser externen Vorschriften übernommen.
+
+Die auf der Plattform vorangestellten redaktionellen Leitsätze und Normenketten werden nicht übernommen. Auch die ersichtlich unpassende Nennung des § 34a in Rn. 28 ist keine Grundlage der Kommentierung. Eine wörtliche Übernahme kommerzieller Anmerkungen erfolgt nicht.

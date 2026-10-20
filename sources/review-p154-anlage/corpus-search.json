@@ -1,0 +1,37 @@
+[
+  {
+    "pattern": "§\\s*157\\s*(?:Abs[^\\n]{0,18})?[^\\n]{0,12}GewO",
+    "exit_code": 0,
+    "hits": [
+      "/Volumes/LaCie/law-intake/eu/de/rii/rii-kare600049514.md:12:norms: § 2 KSchG, § 4 KSchG, § 7 KSchG, § 8 KSchG, § 133 BGB, § 157 BGB, § 106 GewO,",
+      "/Volumes/LaCie/law-intake/eu/de/rii/rii-kare600049514.md:33:- **Normen:** § 2 KSchG, § 4 KSchG, § 7 KSchG, § 8 KSchG, § 133 BGB, § 157 BGB, § 106 GewO, § 308 Abs 1 S 1 ZPO, § 322 Abs 1 ZPO"
+    ]
+  },
+  {
+    "pattern": "§\\s*160\\s*(?:Abs[^\\n]{0,18})?[^\\n]{0,12}GewO",
+    "exit_code": 1,
+    "hits": []
+  },
+  {
+    "pattern": "§\\s*155a[^\\n]{0,12}GewO",
+    "exit_code": 1,
+    "hits": []
+  },
+  {
+    "pattern": "§\\s*161[^\\n]{0,12}GewO",
+    "exit_code": 1,
+    "hits": []
+  },
+  {
+    "pattern": "§\\s*15[689][^\\n]{0,18}GewO",
+    "exit_code": 0,
+    "hits": [
+      "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore305012019.md:148:40 Für Versicherungsberater trifft § 2 RDGEG Sonderregelung. Danach können Personen mit einer Erlaubnis zur Besorgung fremder Rechtsangelegenheiten auf dem Gebiet der Versicherungsberatung (Art. 1 § 1 Abs. 1 Satz 2 Nr. 2 RBerG) - also Versicherungsberater - nur eine Erlaubnis als Versicherungsberater nach § 34e Abs. 1 GewO aF (§ 34d Abs. 2 GewO) beantragen. Die Vorschrift des § 156 Abs. 3 GewO in der bis zum 22. Februar 2018 geltenden Fassung enthält die Übergangsregelung für Versicherungsberater, die Alterlaubnisinhaber sind. Danach müssen Personen mit einer Erlaubnis zur Besorgung fremder Rechtsangelegenheiten auf dem Gebiet der Versicherungsberatung (Art. 1 § 1 Abs. 1 Nr. 2 RBerG) die Erlaubnis nach § 34e Abs. 1 GewO aF zugleich mit der Registrierung nach § 34d Abs. 7 GewO aF beantragen (§ 156 Abs. 3 Satz 1 GewO aF). Die Erlaubnis nach dem Rechtsberatungsgesetz erlischt mit der bestandskräftigen Entscheidung über den Erlaubnisantrag (§ 156 Abs. 3 Satz 3 GewO aF). Damit trifft die Gewerbeordnung für Versicherungsberater eine von § 1 Abs. 1 Satz 1 RDGEG hinsichtlich des Zeitpunkts des Erlöschens der Alterlaubnis abweichende Regelung."
+    ]
+  },
+  {
+    "pattern": "M 16 K 21[.]4969|M 16 K 214969|M 16 K 21,4969",
+    "exit_code": 1,
+    "hits": []
+  }
+]

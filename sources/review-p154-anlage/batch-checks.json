@@ -1,0 +1,131 @@
+{
+  "assigned_ids": [
+    "p154",
+    "p154a",
+    "p155",
+    "p155a",
+    "p156",
+    "p157",
+    "p158",
+    "p159",
+    "p160",
+    "p161",
+    "anlage"
+  ],
+  "changed_ids": [
+    "p155",
+    "p155a",
+    "p156",
+    "p157",
+    "p158",
+    "p159",
+    "p160",
+    "p161",
+    "anlage"
+  ],
+  "retained_ids": [
+    "p154",
+    "p154a"
+  ],
+  "unassigned_commentaries_preserved": 160,
+  "commentary_ids_outside_assignment_changed": [],
+  "full_book_commentary_count": 171,
+  "full_book_commentary_chars": 276356,
+  "statutory_units_unchanged": true,
+  "unit_checks": [
+    {
+      "id": "p154",
+      "statutory_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
+      "before_sha256": "4e14f6248cd52911b95ceebd09b0202c817803984d43642b73e09b0d7d18344c",
+      "after_sha256": "4e14f6248cd52911b95ceebd09b0202c817803984d43642b73e09b0d7d18344c",
+      "commentary_chars": 264,
+      "changed": false
+    },
+    {
+      "id": "p154a",
+      "statutory_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
+      "before_sha256": "9609f149de9d1999d0eec2ac109058c247cf61d2a660c076ebaa94d5d8fcc969",
+      "after_sha256": "9609f149de9d1999d0eec2ac109058c247cf61d2a660c076ebaa94d5d8fcc969",
+      "commentary_chars": 251,
+      "changed": false
+    },
+    {
+      "id": "p155",
+      "statutory_text_sha256": "b15674fc9a8438bddfcd4bad68e4b4f484a67e62644fd45fd8f455c86f73c0c3",
+      "before_sha256": "6bf2f41cad7459220ba7ce35104838b3ddf50e019e8d1ab6cc7d37eb2b5388b0",
+      "after_sha256": "29b7935f7d6c75c0b1e651f61444650a847a6c13ac46c88e3e97fa3b415769dc",
+      "commentary_chars": 1614,
+      "changed": true
+    },
+    {
+      "id": "p155a",
+      "statutory_text_sha256": "7e6356476f0b92838fae31efdbd1acfacb36b35e06ae23d97ef1951d0e8dd36b",
+      "before_sha256": "a256f54d1b98a14df0e942dd095334fe250d3bba1d41af2502ea33303fced518",
+      "after_sha256": "91a57438a3e4bb9bd28a598e0bb5ae0a36b6e1b5e317199118ac44ea38383bb9",
+      "commentary_chars": 2733,
+      "changed": true
+    },
+    {
+      "id": "p156",
+      "statutory_text_sha256": "ed52c81a22688890d719ca4bd09451af47dc6cb2dc48a91804fb9bbbba347724",
+      "before_sha256": "ac3ff601a98a52a0c66d6dbbebba1e5d7439a7525145390cdf9beceea966e2f7",
+      "after_sha256": "aef986a9b23bfe445b8d12e01cc3492a665c448c6ececb16421eb77c4e558fec",
+      "commentary_chars": 1851,
+      "changed": true
+    },
+    {
+      "id": "p157",
+      "statutory_text_sha256": "77180ee127c56afe8751f01709c85ae8db1f9f89d20d54487ebecd16e3d35dab",
+      "before_sha256": "6e55181f974887bcbe5395a79f24ef8a47405a359ff942ca16a260f39105d841",
+      "after_sha256": "a66461f4d2879637c8adc67a112ce285fe627be28ec8dcb22b6ef965d056ecf5",
+      "commentary_chars": 4293,
+      "changed": true
+    },
+    {
+      "id": "p158",
+      "statutory_text_sha256": "958c3906287acd376dce2112291836625211f5f2d4a3f503b1e111cdeeb161f6",
+      "before_sha256": "c8c998e233e8adddbf9062a5a2393743b41e716bc9836b1a43a9669ec2609d11",
+      "after_sha256": "46c26258757aa7093c201a7b763f4bff1bc74284af1f941fab18824724275133",
+      "commentary_chars": 2826,
+      "changed": true
+    },
+    {
+      "id": "p159",
+      "statutory_text_sha256": "939672013ca14cb5e15dbe6048cd1e16b6ba6916ec8bef584f87f0054a2cf1eb",
+      "before_sha256": "2abf7d69260dfe2b4547d5608feb65562ebd8186a557acf86ab35ae0fbf516fa",
+      "after_sha256": "99c33a97e4eadae81b2d460ad90837ec1ec5c9a1f2efecf5b53df4c6bdd03924",
+      "commentary_chars": 1699,
+      "changed": true
+    },
+    {
+      "id": "p160",
+      "statutory_text_sha256": "88d38092b7ebabb0874f10dc77a4f81a6cb1ccfee19a85a3097504d6cf7d3461",
+      "before_sha256": "db8c6ab8c64bce68e88cd3584291e253cf219a9b611c180c66b62aff530b601a",
+      "after_sha256": "f73749628487b5edda86ad2db866b885905f068fe2bd940a442a33beefc3865e",
+      "commentary_chars": 2938,
+      "changed": true
+    },
+    {
+      "id": "p161",
+      "statutory_text_sha256": "9dcec521e794df4451afb89c5233610709aa61d986d11e77a7bf45227d4b34a7",
+      "before_sha256": "6850b9b543490aadee6297c54b0193ccfea493625ab1f160042a34a3cd82c630",
+      "after_sha256": "5c67ab5b52506ec94811d95198fa0ca10d0c1ca32d468f8e4412caf1ea918ec1",
+      "commentary_chars": 2348,
+      "changed": true
+    },
+    {
+      "id": "anlage",
+      "statutory_text_sha256": "ca833d662fdbdada7ee074312211b5b25bd07d05dd6b4a679a1a71cf96318bc2",
+      "before_sha256": "37fe0a4c7336e2951f142b850544d69c06252830031e7999f416ac0a905c9b21",
+      "after_sha256": "f48e11cc87acdc47d0d9ee2dd98b48f6f8ff728a13aa8d68a7a5a8c8cb672395",
+      "commentary_chars": 5067,
+      "changed": true
+    }
+  ],
+  "duplicate_paragraphs": [],
+  "similar_commentary_pairs": [],
+  "limitations": [
+    "Text, count, length and similarity diagnostics are not a legal-quality certificate."
+  ],
+  "ok": true
+}

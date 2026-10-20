@@ -1,0 +1,32 @@
+{
+  "court": "VG München",
+  "date": "2022-05-05",
+  "docket": "M 16 K 21.4969",
+  "ecli": null,
+  "ecli_note": "No ECLI identified on the official page; none invented.",
+  "official_url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2022-N-39302",
+  "raw_html": "sources/review-p154-anlage/vg-muenchen.html",
+  "raw_sha256": "f8044b8227602756ac021e4ce43db2c9592e7e6535ce2cc89615fac7f2f94aaf",
+  "court_only_text": "sources/review-p154-anlage/vg-muenchen.txt",
+  "court_only_sha256": "cfb6401f9f17f46bee8b8d042786bee894dd7e9d451c3bd3b18e6e147d2d9ded",
+  "read": "Tenor I–III, full Tatbestand Rn1–13, complete Entscheidungsgründe Rn14–32",
+  "relied_on_paragraphs": [
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "editorial_headnotes_used": false,
+  "local_corpus_match": false,
+  "local_search": "sources/review-p154-anlage/corpus-search.json",
+  "current_law_comparison": "§160 remains unchanged in fresh official XML; no conflicting historical alternative. §34i current source checked as context; no present rule derived from editorial §34a typo.",
+  "limits": [
+    "First-instance judgment; no independently established finality or appellate outcome.",
+    "Published editorial headnotes and the erroneous §34a reference in Rn28 do not supply commentary propositions.",
+    "EU directive and ImmVermV details reported by the court are context, not independently adopted as a comprehensive current account."
+  ]
+}

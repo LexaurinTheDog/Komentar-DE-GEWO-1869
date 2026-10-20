@@ -1,0 +1,96 @@
+{
+  "usable_sources_validated": true,
+  "checks": [
+    {
+      "file": "sources/review-p154-anlage/index.html",
+      "check": "HTML with expected statute/court identity; no CAPTCHA/challenge accepted",
+      "ok": true
+    },
+    {
+      "file": "sources/review-p154-anlage/full.html",
+      "check": "HTML with expected statute/court identity; no CAPTCHA/challenge accepted",
+      "ok": true
+    },
+    {
+      "file": "sources/review-p154-anlage/gewo.zip",
+      "check": "ZIP magic, one parseable statute XML, correct jurabk",
+      "expected": "GewO",
+      "actual": "GewO",
+      "ok": true
+    },
+    {
+      "file": "sources/review-p154-anlage/aktudienst.html",
+      "check": "HTML with expected statute/court identity; no CAPTCHA/challenge accepted",
+      "ok": true
+    },
+    {
+      "file": "sources/review-p154-anlage/bzrg.zip",
+      "check": "ZIP magic, one parseable statute XML, correct jurabk",
+      "expected": "BZRG",
+      "actual": "BZRG",
+      "ok": true
+    },
+    {
+      "file": "sources/review-p154-anlage/bzrg-44a.html",
+      "check": "HTML with expected statute/court identity; no CAPTCHA/challenge accepted",
+      "ok": true
+    },
+    {
+      "file": "sources/review-p154-anlage/bzrg-44b.html",
+      "check": "Request failure, not used as evidence",
+      "ok": false,
+      "http_status": null,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "file": "sources/review-p154-anlage/bewachrv.zip",
+      "check": "ZIP magic, one parseable statute XML, correct jurabk",
+      "expected": "BewachRV",
+      "actual": "BewachRV",
+      "ok": true
+    },
+    {
+      "file": "sources/review-p154-anlage/bewachrv-14.html",
+      "check": "HTML with expected statute/court identity; no CAPTCHA/challenge accepted",
+      "ok": true
+    },
+    {
+      "file": "sources/review-p154-anlage/amendment-139.pdf",
+      "check": "PDF magic and pdftotext contains Bundesgesetzblatt and substantial enactment text",
+      "ok": true
+    },
+    {
+      "file": "sources/review-p154-anlage/amendment-183.pdf",
+      "check": "PDF magic and pdftotext contains Bundesgesetzblatt and substantial enactment text",
+      "ok": true
+    },
+    {
+      "file": "sources/review-p154-anlage/amendment-215.pdf",
+      "check": "PDF magic and pdftotext contains Bundesgesetzblatt and substantial enactment text",
+      "ok": true
+    },
+    {
+      "file": "sources/review-p154-anlage/amendment-2024-12.pdf",
+      "check": "PDF magic and pdftotext contains Bundesgesetzblatt and substantial enactment text",
+      "ok": true
+    },
+    {
+      "file": "sources/review-p154-anlage/vg-muenchen.html",
+      "check": "HTML with expected statute/court identity; no CAPTCHA/challenge accepted",
+      "ok": true
+    },
+    {
+      "file": "sources/review-p154-anlage/amendment-199.pdf",
+      "check": "PDF magic and pdftotext contains Bundesgesetzblatt and substantial enactment text",
+      "ok": true
+    },
+    {
+      "file": "sources/review-p154-anlage/rejected-bzrg-44b.html",
+      "check": "Request failure, not used as evidence",
+      "ok": false,
+      "http_status": 404,
+      "error": "Nonexistent provision; rejected, no authority claimed."
+    }
+  ],
+  "failed_request_disposition": "Nonexistent BZRG44b page returned404 and is not relied on; actual referral is44a."
+}

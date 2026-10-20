@@ -1,0 +1,69 @@
+{
+  "verified_at": "2026-10-20T16:01:48.706360+00:00",
+  "decisive_date": "2026-10-19",
+  "method": "Direct official HTTP captures plus web search for discovery; actual state-court text read fully. Firecrawl authenticated but zero credits; no API keys read. National corpus read-only. No snippet treated as court holding.",
+  "web_queries": [
+    {
+      "query": "site.recht.bund.de \"Gewerbeordnung\" \"Identifikationsmerkmale\" Bekanntmachung",
+      "result": "No independently verified §161(1) triggering notice identified."
+    },
+    {
+      "query": "site.recht.bund.de \"Gewerbeordnung\" \"bundesweit\" \"Abmeldung\"",
+      "result": "No independently verified §161(2) triggering notice identified."
+    },
+    {
+      "query": "site.recht.bund.de \"161\" \"Gewerbeordnung\" Bekanntmachung",
+      "evidence": "web-search1.json",
+      "result": "Current GewO and legislative materials, not a proven triggering notice."
+    },
+    {
+      "query": "site.bundeswirtschaftsministerium.de \"161\" \"Bekanntmachung\"",
+      "evidence": "web-search1.json",
+      "result": "No actual triggering notice verified."
+    },
+    {
+      "query": "\"§ 161 Absatz 1\" Bekanntmachung Gewerbeordnung; \"§ 161 Absatz 2\" Bekanntmachung Gewerbeordnung; \"Wirtschafts-Identifikationsnummer\" \"Bekanntmachung\" \"Gewerbeordnung\"",
+      "evidence": "web-search2.json",
+      "result": "No independent proof of either statutory notice. Tax-number introduction not substituted for required GewO notice."
+    },
+    {
+      "query": "site.bverwg.de \"157\" \"Sachkunde\" Gewerbeordnung; site.rechtsprechung-im-internet.de \"157 Abs. 3\" \"GewO\"",
+      "result": "No sufficiently relevant national full-text authority selected. Potential VGH BW6S460/24 discovered in broader results, not independently read or relied on."
+    },
+    {
+      "query": "site.rechtsprechung-im-internet.de \"160\" \"GewO\" Sachkunde; site.bverwg.de \"160 Abs. 3\" \"GewO\"",
+      "result": "VG München M16K21.4969 selected from official state database and fully read; no BVerwG holding invented."
+    },
+    {
+      "query": "\"M 16 K 21.4969\" Berufung",
+      "evidence": "web-search2.json",
+      "result": "Official judgment found; finality or appellate disposition not independently established."
+    }
+  ],
+  "local_corpus_search": {
+    "path": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "evidence": "sources/review-p154-anlage/corpus-search.json",
+    "result": "Initial broad number search produced unrelated provisions and was not treated as a legal match. Tightened GewO-provision and docket patterns saved. No selected-case match.",
+    "selected_case_corpus_comparison_claimed": false
+  },
+  "selected_case": "cases/vg-muenchen-m16k214969.md",
+  "no_additional_verified_case_ids": [
+    "p154",
+    "p154a",
+    "p155",
+    "p155a",
+    "p156",
+    "p157",
+    "p158",
+    "p159",
+    "p161",
+    "anlage"
+  ],
+  "limits": [
+    "This process substantively reviewed exactly the eleven reviewed_ids. All160 other commentaries and their earlier review evidence were preserved. No whole-book completion, final cross-batch synthesis or external professional approval is claimed.",
+    "Selective case-law research: one official state-court judgment newly read in full. Local national RII corpus searched with targeted provision/docket patterns; no matching copy of the selected judgment found. No relevant additional full-text-verified case selected for the other ten units; no claim that none exists.",
+    "§161 triggering notices remain independently unestablished after renewed targeted search. Commentary gives conditional analysis and neither asserts occurrence nor proves nonoccurrence. Concrete unconditional application of the affected §14(4) fragments requires separate notice evidence.",
+    "VG München judgment is first instance; no independently verified finality or appellate outcome. No comprehensive current commentary of EU directive, ImmVermV, BZRG, StPO, state delegation law or every gazette issue.",
+    "Source currentness rests on fresh official consolidation, complete intake comparison and targeted enacted amendment/commencement checks. Fetch timestamps or the label consolidated are not treated as proof of commencement. Technical validation and prose diagnostics do not establish legal correctness."
+  ]
+}

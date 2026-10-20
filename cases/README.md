@@ -27,3 +27,8 @@ Im begrenzten Review §§ 110–147b vollständig gelesen: Tenor, Rn. 1–37 und
 - [BGH, 14. November 2012 – 3 StR 372/12](bgh-3str372-12.md): § 148; Verbotsumfang, Dauerordnungswidrigkeit, neue Betriebe und Zahl selbständiger Taten.
 
 Im begrenzten Review §§ 147c–153c vollständig gelesen: Tenor, Rn. 1–11 und sämtliche unnummerierten Fortsetzungen. Der passende amtliche ZIP-Inhalt und der nationale Korpus stimmen überein. Nicht passende BGH-/XML-Antworten wurden verworfen; [Abrufnachweise](../sources/review-p147c-p153c/captures.json). Die Auswahl ist keine vollständige Rechtsprechungsübersicht für Sanktionen und Gewerbezentralregister. Die übrigen 19 Einheiten erhalten keine erfundenen Entscheidungsbelege.
+
+
+- [VG München, 5. Mai 2022 – M 16 K 21.4969](vg-muenchen-m16k214969.md): § 160; begrenztes Antragsfenster der Sachkundeausnahme und davon getrennte lückenlose Tätigkeit.
+
+Im begrenzten Review §§ 154–161 und Anlage wurden Tenor und alle 32 Randnummern im amtlichen bayerischen Volltext gelesen. Redaktionelle Leitsätze werden nicht übernommen. Für diese erstinstanzliche Entscheidung sind Rechtskraft und Rechtsmittelabschluss nicht unabhängig verifiziert; kein passender lokaler RII-Korpusdatensatz wurde gefunden. [Quellennachweis](../sources/review-p154-anlage/case-evidence.json) und [Suchlog](../sources/review-p154-anlage/search-log.json) legen die Grenzen offen. Keine vollständige Rechtsprechungsübersicht für das Übergangsrecht.

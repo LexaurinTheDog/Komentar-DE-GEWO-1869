@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-20T15:51:21.393639+00:00",
+  "created_at": "2026-10-20T16:02:45.396274+00:00",
   "verification": "sources/verification.json",
   "files": [
     {
@@ -74,8 +74,8 @@
     },
     {
       "path": "sources/case-coverage.json",
-      "bytes": 50748,
-      "sha256": "300b5c2eed6578e6e01780641dbb0f638c55377b80dbf23ea061c500258f0c35"
+      "bytes": 57140,
+      "sha256": "87a13ad9896396e3294ac6bb00f4347166ecf73b20e746529fd95740cd0b48c6"
     },
     {
       "path": "sources/change-map.json",
@@ -1518,6 +1518,346 @@
       "sha256": "1d0babcbabac92cb4b773e641b3376c47fadc6597ab5a15490b3ac9cd94b953d"
     },
     {
+      "path": "sources/review-p154-anlage/BJNR002430971.xml",
+      "bytes": 153149,
+      "sha256": "3a3a9093b5eefaa40105bff8ce7988e321a56826be9448cb8029509017de109e"
+    },
+    {
+      "path": "sources/review-p154-anlage/BJNR002450869.xml",
+      "bytes": 442893,
+      "sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561"
+    },
+    {
+      "path": "sources/review-p154-anlage/BJNR088210019.xml",
+      "bytes": 20097,
+      "sha256": "167a87422edd883ac8ccd3be8f2b10c49c60cee2403994e61c37b636bc746a7a"
+    },
+    {
+      "path": "sources/review-p154-anlage/aktudienst.html",
+      "bytes": 75210,
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596"
+    },
+    {
+      "path": "sources/review-p154-anlage/amendment-139.pdf",
+      "bytes": 921242,
+      "sha256": "498ddd09c3dbaf9d91824601b61ab5e8a91167a5d5e58322a94f5858c4eab36b"
+    },
+    {
+      "path": "sources/review-p154-anlage/amendment-139.txt",
+      "bytes": 220402,
+      "sha256": "7e87c09f41a560c925c757d74bb9b8e34a3c2f574dde495ac5023a6f168981f4"
+    },
+    {
+      "path": "sources/review-p154-anlage/amendment-183.pdf",
+      "bytes": 297268,
+      "sha256": "9409bcf42628489544edadc4a6366a91806e48c33a64dfecd7943ddd0bacf721"
+    },
+    {
+      "path": "sources/review-p154-anlage/amendment-183.txt",
+      "bytes": 28156,
+      "sha256": "91223529bfefec11fba96196df3743beaa656c2c4383888a695caca003c1ecd3"
+    },
+    {
+      "path": "sources/review-p154-anlage/amendment-199.pdf",
+      "bytes": 351455,
+      "sha256": "3cc2f1b1fa0fe692aeba6444cec694f41148ef22a9b8cd81ed11ba24077e49b1"
+    },
+    {
+      "path": "sources/review-p154-anlage/amendment-199.txt",
+      "bytes": 57799,
+      "sha256": "784ff13222118a73609f005ceb9d12fab83557b75f09687fc843aec9a5866e2a"
+    },
+    {
+      "path": "sources/review-p154-anlage/amendment-2024-12.pdf",
+      "bytes": 482442,
+      "sha256": "0e14125177dd41929802bfa9c59bf4e59a0faeda0127a9f450a6c4e57ee5ddc5"
+    },
+    {
+      "path": "sources/review-p154-anlage/amendment-2024-12.txt",
+      "bytes": 72010,
+      "sha256": "f296fc473156b24d2ec1f83a7bb9361311f203c0b8067adba1b1020481ebcc23"
+    },
+    {
+      "path": "sources/review-p154-anlage/amendment-215.pdf",
+      "bytes": 289435,
+      "sha256": "2e01df7450d95485dab09281aa4e834031932db790c89b502130f4b7d1fc441b"
+    },
+    {
+      "path": "sources/review-p154-anlage/amendment-215.txt",
+      "bytes": 21993,
+      "sha256": "e330d6a97506e5c062484100712b1d5ec598645c85066c965eca5549d6078983"
+    },
+    {
+      "path": "sources/review-p154-anlage/baseline-commentary/part-01.md",
+      "bytes": 16098,
+      "sha256": "0e63ea51e5685e36f4840245eab44e4b70573fbb7fb7a842a9f51e041f51a912"
+    },
+    {
+      "path": "sources/review-p154-anlage/baseline-commentary/part-02.md",
+      "bytes": 36568,
+      "sha256": "62b07e5a1b62a06b6aabc696d1ff2d8249eb0bd2c8452ba9c4c164bd2aa94d1e"
+    },
+    {
+      "path": "sources/review-p154-anlage/baseline-commentary/part-03.md",
+      "bytes": 15035,
+      "sha256": "936b1bfb0d336486393900c53b588672b9d3b1fb001268fcdd150a4758316d5a"
+    },
+    {
+      "path": "sources/review-p154-anlage/baseline-commentary/part-04.md",
+      "bytes": 12580,
+      "sha256": "bce9884fb91f4da67d6eba09003b03494fb4562bac6c8d13b5f056337690f785"
+    },
+    {
+      "path": "sources/review-p154-anlage/baseline-commentary/part-05.md",
+      "bytes": 18812,
+      "sha256": "59a0ab6220b1d76ce40e92424e6952c7eedd4ac5c60deaa7a48ea22232b9f946"
+    },
+    {
+      "path": "sources/review-p154-anlage/baseline-commentary/part-06.md",
+      "bytes": 24808,
+      "sha256": "01c4caf757785d0a0330b4ae15eca1660f537d33894fda2dc07cdacaf7e1da7e"
+    },
+    {
+      "path": "sources/review-p154-anlage/baseline-commentary/part-07.md",
+      "bytes": 34167,
+      "sha256": "b93da456a936e4e594492999171ee1442a819fce1e01c32bfc56244693b145b8"
+    },
+    {
+      "path": "sources/review-p154-anlage/baseline-commentary/part-08.md",
+      "bytes": 22032,
+      "sha256": "18cc4dab9209f4c44d5e0e0c06bf81a50cf4eb3fbf9c9b7e780bc37bb4381762"
+    },
+    {
+      "path": "sources/review-p154-anlage/baseline-commentary/part-09.md",
+      "bytes": 20616,
+      "sha256": "b44302ed393b520e3caafd37b59851f42ca798377c046b79f4f52bc1089bcc9d"
+    },
+    {
+      "path": "sources/review-p154-anlage/baseline-commentary/part-10.md",
+      "bytes": 28728,
+      "sha256": "29433856134199062d7f809d9fef3a22ec47c150f7aeebee5892cb3901365bce"
+    },
+    {
+      "path": "sources/review-p154-anlage/baseline-commentary/part-11.md",
+      "bytes": 27890,
+      "sha256": "891f1a87813fba10f4abdc6bfc4e06906a0593d31e18d03742d70961a26673df"
+    },
+    {
+      "path": "sources/review-p154-anlage/baseline-commentary/part-12.md",
+      "bytes": 11362,
+      "sha256": "0f7c4fb6b1f27be5ba04d2b730ed09f590fb9677b4ff95f7188fa913d2a92114"
+    },
+    {
+      "path": "sources/review-p154-anlage/baseline-commentary/part-13.md",
+      "bytes": 3857,
+      "sha256": "84c946946135c1e043a13539054a89208eb89f75a72273b4f19d54bd3a76b600"
+    },
+    {
+      "path": "sources/review-p154-anlage/baseline.json",
+      "bytes": 253,
+      "sha256": "c3efdee3191cd17b9fdc394b1a7ce1c0603034d5584b324fcfb80a1f0629294a"
+    },
+    {
+      "path": "sources/review-p154-anlage/batch-checks.json",
+      "bytes": 4811,
+      "sha256": "06261af55461ae8f859811a70d58685963cc260e9688c7d828f3b9805a9309b9"
+    },
+    {
+      "path": "sources/review-p154-anlage/before-README.md",
+      "bytes": 7135,
+      "sha256": "cc68c5132f160e5bb2f2400f9105c0942bfe109b02d2d7a24b3321d4847a19e4"
+    },
+    {
+      "path": "sources/review-p154-anlage/before-REVIEW.md",
+      "bytes": 47291,
+      "sha256": "37242aa77c1d168942f9bcf254bd1bbd1257e4a0d1375ee2c8b5ca4f0644adeb"
+    },
+    {
+      "path": "sources/review-p154-anlage/before-SOURCES.md",
+      "bytes": 25243,
+      "sha256": "ba4147384aa1a266b4bb750d31053d883cc996f60057aef8347e9a1dadfc141f"
+    },
+    {
+      "path": "sources/review-p154-anlage/before-case-coverage.json",
+      "bytes": 50748,
+      "sha256": "300b5c2eed6578e6e01780641dbb0f638c55377b80dbf23ea061c500258f0c35"
+    },
+    {
+      "path": "sources/review-p154-anlage/before-manifest.json",
+      "bytes": 95054,
+      "sha256": "2d85c1127becdad69064ed2e9420e2062ba273dfe2600e09e11f781e32cd88eb"
+    },
+    {
+      "path": "sources/review-p154-anlage/before-preflight-result.json",
+      "bytes": 57758,
+      "sha256": "f7528c97162a7bca2db209abaaeb09b3cc8b2660d9cd65f7abe26cb882f810cc"
+    },
+    {
+      "path": "sources/review-p154-anlage/before-review-result.json",
+      "bytes": 16033,
+      "sha256": "10e94df61617e22eca60f3d64d3d8ba5e1021a6b3815d44b6d18e82e229d9fc5"
+    },
+    {
+      "path": "sources/review-p154-anlage/before-status.json",
+      "bytes": 60713,
+      "sha256": "ae001ba803ae74bd004e60046678030c170914e1ac9ca49d6660c7c6a3b3f6b8"
+    },
+    {
+      "path": "sources/review-p154-anlage/before-verification.json",
+      "bytes": 198210,
+      "sha256": "4efeee3a354ee12c054ebca166b0392477b087d46b1cd2d0b72a195dfd5b7fda"
+    },
+    {
+      "path": "sources/review-p154-anlage/bewachrv-14.html",
+      "bytes": 4757,
+      "sha256": "f8e1f1e36f9b6758e796f9fbf913dcf7f411ec36682c09495e36b6ac96f826b5"
+    },
+    {
+      "path": "sources/review-p154-anlage/bewachrv.zip",
+      "bytes": 5106,
+      "sha256": "acf9bfd7a417c0fc6c2e79e00c3c57f29d7b141f224ecb977bd04105b696552e"
+    },
+    {
+      "path": "sources/review-p154-anlage/bzrg-44a.html",
+      "bytes": 5840,
+      "sha256": "05e594bb242c20d115213ed775ba621bed78a9ede3d007843364a4922b50b2ba"
+    },
+    {
+      "path": "sources/review-p154-anlage/bzrg.zip",
+      "bytes": 31586,
+      "sha256": "ae69fd88f433f42874104102cfaf87b11c1eed7f71ab0baf282086d9170a5400"
+    },
+    {
+      "path": "sources/review-p154-anlage/captures.json",
+      "bytes": 18448,
+      "sha256": "7e4ab2530f26adfd1cceed619cd346d6fed0f10ea81384671ffc605ab42abf59"
+    },
+    {
+      "path": "sources/review-p154-anlage/case-evidence.json",
+      "bytes": 1474,
+      "sha256": "1a024219595296ebdbe24871abc40177cf54b32f775fc4ddae1ba3e50785bd0b"
+    },
+    {
+      "path": "sources/review-p154-anlage/check-evidence.py",
+      "bytes": 3416,
+      "sha256": "52e33c4b5dd6a4f7931d46dbfdfeb9f4ff508f94d36d4aa43bd59b3892706636"
+    },
+    {
+      "path": "sources/review-p154-anlage/commentary-changes.diff",
+      "bytes": 33754,
+      "sha256": "1653266933564e5383097b1dce2151d4e65f79cb0a2b16f719d12eca3988fde9"
+    },
+    {
+      "path": "sources/review-p154-anlage/corpus-search.json",
+      "bytes": 2224,
+      "sha256": "98d7e02b3d8f93d4eabc0b1d87b7e220a3c90a2f3e27d999f10b14f6b9be44f0"
+    },
+    {
+      "path": "sources/review-p154-anlage/coverage.json",
+      "bytes": 58032,
+      "sha256": "568a69183dcbecf262c932c1518137f34084347fd923ce8ebdf0a84e4ba862f2"
+    },
+    {
+      "path": "sources/review-p154-anlage/external-provisions.json",
+      "bytes": 4749,
+      "sha256": "ebf62460559ac6d22ef8348f96fa3dbec16284a988db06bfd2084f5c95a6fbad"
+    },
+    {
+      "path": "sources/review-p154-anlage/externals.py",
+      "bytes": 6060,
+      "sha256": "f12d1398a5f9879f0c10127819543632a11245a82493e279f71796074d429f09"
+    },
+    {
+      "path": "sources/review-p154-anlage/fetch-additional.py",
+      "bytes": 1493,
+      "sha256": "9e905b5729bbd9b703426ea0e24b38e3d6b7c9efdbd4dce97c50dbeea4e95407"
+    },
+    {
+      "path": "sources/review-p154-anlage/fetch.py",
+      "bytes": 2634,
+      "sha256": "0ee44fc89c8ecc8722befec08f89de23b1b5e8e7dc310b7c7a48d67ffaaadcbe"
+    },
+    {
+      "path": "sources/review-p154-anlage/format-validation.json",
+      "bytes": 3306,
+      "sha256": "b079bf25e874998015b1e546ac0342fd291fe261d7b1aad6b0a9edcb1b4f5a44"
+    },
+    {
+      "path": "sources/review-p154-anlage/full.html",
+      "bytes": 537501,
+      "sha256": "b8db41db679b301143c45c54a2832ff614f298c976b307ee4a337f48703085e2"
+    },
+    {
+      "path": "sources/review-p154-anlage/gewo.zip",
+      "bytes": 87856,
+      "sha256": "300e2939e5dcd9a83b047303c70dc473e59eb923995aeb50d41e35adaa947b52"
+    },
+    {
+      "path": "sources/review-p154-anlage/index.html",
+      "bytes": 37698,
+      "sha256": "692b5fe3e44ea3f7afa3014d7d0492e502f4aa9db38944f13a5c76b59b56cb7e"
+    },
+    {
+      "path": "sources/review-p154-anlage/manifest.py",
+      "bytes": 733,
+      "sha256": "ebc4ec22443e546706efb49f230865a3ca388d7aa1384e8f99a83460447bbe61"
+    },
+    {
+      "path": "sources/review-p154-anlage/preflight.json",
+      "bytes": 6922,
+      "sha256": "cc82010a6d2b249f96cf711b3792a8120c67f56c5edc54cf59fede2b7b792624"
+    },
+    {
+      "path": "sources/review-p154-anlage/record.py",
+      "bytes": 16885,
+      "sha256": "8d2e18ee1483d03ea3d796b848e61835c5b79378d81b101767757b6aa0e0e252"
+    },
+    {
+      "path": "sources/review-p154-anlage/rejected-bzrg-44b.html",
+      "bytes": 236,
+      "sha256": "9448f8a1159c9b14e3e1b9d8eab1a6ddf88d26e1f888a34cef430c756e4e6e1e"
+    },
+    {
+      "path": "sources/review-p154-anlage/seal.py",
+      "bytes": 2608,
+      "sha256": "d94bd14d4646d80f8b088c48f845862583dcc76f4c7cf0f4a030459a178f9bd3"
+    },
+    {
+      "path": "sources/review-p154-anlage/search-log.json",
+      "bytes": 4326,
+      "sha256": "526c0a4f02fa77621d336a8f08f29de7122890106edc0d7c4bd67eeaef15edce"
+    },
+    {
+      "path": "sources/review-p154-anlage/vg-muenchen-court-text.json",
+      "bytes": 29982,
+      "sha256": "efe72bc69f80a962bb471afb0826f9ef88e8737bf06bc63a522693741ecc1610"
+    },
+    {
+      "path": "sources/review-p154-anlage/vg-muenchen.html",
+      "bytes": 43858,
+      "sha256": "f8044b8227602756ac021e4ce43db2c9592e7e6535ce2cc89615fac7f2f94aaf"
+    },
+    {
+      "path": "sources/review-p154-anlage/vg-muenchen.txt",
+      "bytes": 27289,
+      "sha256": "cfb6401f9f17f46bee8b8d042786bee894dd7e9d451c3bd3b18e6e147d2d9ded"
+    },
+    {
+      "path": "sources/review-p154-anlage/web-search1.json",
+      "bytes": 29396,
+      "sha256": "107e49180e3529e30768e3f6ad87dd9b0de59c376d1c913377d30b32d238a405"
+    },
+    {
+      "path": "sources/review-p154-anlage/web-search2.json",
+      "bytes": 28519,
+      "sha256": "787b314b17fc84214c40316370751f62657cd4ac674367bf04c9f0e004ee90cc"
+    },
+    {
+      "path": "sources/review-p154-anlage/write-docs.py",
+      "bytes": 13189,
+      "sha256": "804838c21c3d046239db585d8dcc8ef7607194cf40aaee0a0c5a526b83e98d49"
+    },
+    {
       "path": "sources/review-p33g-p37/BJNR002450869.xml",
       "bytes": 442893,
       "sha256": "9d72811ec7c3d4fb0f030a7696b3ea936a352e1aeee58fc63d83cf7fac4ac561"
@@ -2639,9 +2979,9 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 198210,
-      "sha256": "4efeee3a354ee12c054ebca166b0392477b087d46b1cd2d0b72a195dfd5b7fda"
+      "bytes": 224830,
+      "sha256": "e9ec5c335327f9dcbed312422cf3deadd14f168d0db3a90b79d35f739a465bf6"
     }
   ],
-  "scope": "All preserved source evidence including bounded reviews; rejected responses explicitly marked in captures and not used as authority."
+  "scope": "Preserved statutory/case evidence and bounded review artifacts. Failed responses explicitly rejected; raw platform editorial material is not commentary authority."
 }
