@@ -24,4 +24,4 @@ Die Rechtsprechung ist **selektiv**, nicht vollständig recherchiert: Verifizier
 
 Kommentar und eigene redaktionelle Inhalte © 2026 Vojtěch Říha. Sie stehen unter der [Apache License 2.0](LICENSE). Die Lizenzzuordnung erfasst die eigenen Beiträge. Gesetzes- und Entscheidungstexte sind gesondert als amtliche Quellen ausgewiesen; ihre Wiedergabe wird nicht als eigenes Urheberrecht beansprucht. Technische Seitenbestandteile und darin sichtbare Drittkennzeichen bleiben ihren jeweiligen Rechteinhabern zugeordnet; Quellensnapshots dienen der Nachprüfbarkeit. Kommerzielle Entscheidungsanmerkungen wurden nicht übernommen.
 
-Projektkontext: [LexaurinTheDog](https://github.com/LexaurinTheDog). Dieses Verzeichnis ist ein lokaler Entwurf; es wurde nicht veröffentlicht oder hochgeladen.
+Projektkontext: [LexaurinTheDog](https://github.com/LexaurinTheDog).
